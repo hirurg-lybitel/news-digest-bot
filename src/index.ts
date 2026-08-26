@@ -18,8 +18,8 @@ async function main(): Promise<void> {
   const items = await fetchNews(window.since);
   console.log(`Fetched ${items.length} unique items since last digest`);
 
-  if (items.length < 3) {
-    throw new Error(`Too few news items (${items.length}); aborting digest`);
+  if (items.length < config.topN) {
+    throw new Error(`Too few news items (${items.length}); need at least ${config.topN}`);
   }
 
   const bilingual = await summarizeNews(items, window.hours);

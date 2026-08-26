@@ -5,24 +5,24 @@ import type { BilingualDigest, DigestResult, NewsItem } from "./types.js";
 import type { Locale } from "./locale.js";
 import { LOCALES } from "./locale.js";
 
-const BilingualDigestSchema = z.object({
-  intro_ru: z.string(),
-  intro_en: z.string(),
-  stories: z
-    .array(
-      z.object({
-        title_ru: z.string(),
-        title_en: z.string(),
-        summary_ru: z.string(),
-        summary_en: z.string(),
-        link: z.string(),
-        source: z.string(),
-        category_ru: z.string(),
-        category_en: z.string(),
-      }),
-    )
-    .min(1),
+const StorySchema = z.object({
+  title_ru: z.string(),
+  title_en: z.string(),
+  summary_ru: z.string(),
+  summary_en: z.string(),
+  link: z.string(),
+  source: z.string(),
+  category_ru: z.string(),
+  category_en: z.string(),
 });
+
+function digestSchema(topN: number) {
+  return z.object({
+    intro_ru: z.string(),
+    intro_en: z.string(),
+    stories: z.array(StorySchema).length(topN),
+  });
+}
 
 function buildPrompt(items: NewsItem[], topN: number, periodHours: number): string {
   const catalog = items.slice(0, 80).map((item, i) => ({
@@ -41,8 +41,9 @@ function buildPrompt(items: NewsItem[], topN: number, periodHours: number): stri
 
   return `You are the editor of a bilingual news digest for Telegram (Russian + English channels). Published twice daily (06:00 and 18:00 UTC).
 
-Step 1 — select exactly ${topN} stories:
-- Pick the most important and publicly significant world news from ${periodLabel}.
+Step 1 — select **exactly ${topN}** stories (the array must have length ${topN}, never fewer):
+- Pick the ${topN} most important and publicly significant world news from ${periodLabel}.
+- If fewer than ${topN} major breaking stories exist, fill remaining slots with the next-most-important items from the catalog — still exactly ${topN} entries.
 - Merge duplicates (same event from multiple outlets → one entry; prefer the most authoritative source link).
 - Prioritize: major geopolitics, conflicts, disasters, economy, science/health breakthroughs, landmark court/policy decisions.
 - Deprioritize: celebrity gossip, minor sports, repetitive incremental updates.
@@ -79,7 +80,7 @@ Catalog:
 ${JSON.stringify(catalog, null, 2)}`;
 }
 
-function toBilingualDigest(parsed: z.infer<typeof BilingualDigestSchema>): BilingualDigest {
+function toBilingualDigest(parsed: z.infer<ReturnType<typeof digestSchema>>): BilingualDigest {
   return {
     intro: {
       ru: parsed.intro_ru,
@@ -110,34 +111,45 @@ export function digestForLocale(digest: BilingualDigest, locale: Locale): Digest
 }
 
 export async function summarizeNews(items: NewsItem[], periodHours: number): Promise<BilingualDigest> {
-  if (items.length === 0) {
-    throw new Error("No news items to summarize");
+  const topN = config.topN;
+
+  if (items.length < topN) {
+    throw new Error(`Need at least ${topN} news items in the window, got ${items.length}`);
   }
 
-  const topN = Math.min(config.topN, items.length);
-
-  const raw = await chatCompletionJson({
-    model: config.openaiModel,
-    temperature: 0.3,
-    response_format: { type: "json_object" },
-    messages: [
-      {
-        role: "system",
-        content:
-          "You are a precise news editor. Reply with JSON only. Do not invent facts or links. title_ru must always be Russian.",
-      },
-      { role: "user", content: buildPrompt(items, topN, periodHours) },
-    ],
-  });
-
-  const parsed = BilingualDigestSchema.parse(JSON.parse(raw));
   const allowedLinks = new Set(items.map((i) => i.link));
+  let lastError: unknown;
 
-  const stories = parsed.stories.filter((s) => allowedLinks.has(s.link)).slice(0, topN);
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      const raw = await chatCompletionJson({
+        model: config.openaiModel,
+        temperature: attempt === 1 ? 0.3 : 0.2,
+        response_format: { type: "json_object" },
+        messages: [
+          {
+            role: "system",
+            content: `You are a precise news editor. Reply with JSON only. Do not invent facts or links. title_ru must always be Russian. The stories array must contain exactly ${topN} items.`,
+          },
+          { role: "user", content: buildPrompt(items, topN, periodHours) },
+        ],
+      });
 
-  if (stories.length === 0) {
-    throw new Error("OpenAI returned stories with unknown links");
+      const parsed = digestSchema(topN).parse(JSON.parse(raw));
+      const stories = parsed.stories.filter((s) => allowedLinks.has(s.link));
+
+      if (stories.length !== topN) {
+        throw new Error(`OpenAI returned ${stories.length}/${topN} stories with valid links`);
+      }
+
+      return toBilingualDigest({ ...parsed, stories });
+    } catch (error) {
+      lastError = error;
+      console.warn(`[summarize] attempt ${attempt}/${3} failed:`, error);
+    }
   }
 
-  return toBilingualDigest({ ...parsed, stories });
+  throw lastError instanceof Error
+    ? lastError
+    : new Error(`Failed to produce exactly ${topN} stories after 3 attempts`);
 }
