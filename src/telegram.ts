@@ -1,6 +1,11 @@
 import { config } from "./config.js";
+import { LOCALE_LABELS, type Locale } from "./locale.js";
 
 const TELEGRAM_API = "https://api.telegram.org";
+
+type InlineKeyboard = {
+  inline_keyboard: Array<Array<{ text: string; web_app: { url: string } }>>;
+};
 
 /** Telegram limit ~4096 chars; split on blank lines if needed. */
 export function splitMessage(text: string, maxLen = 4000): string[] {
@@ -25,12 +30,33 @@ export function splitMessage(text: string, maxLen = 4000): string[] {
   return parts;
 }
 
-export async function sendToTelegram(text: string): Promise<void> {
+function miniAppKeyboard(locale: Locale): InlineKeyboard | undefined {
+  const url = config.miniAppUrlForLocale(locale);
+  if (!url) return undefined;
+
+  return {
+    inline_keyboard: [
+      [
+        {
+          text: LOCALE_LABELS[locale].openInApp,
+          web_app: { url },
+        },
+      ],
+    ],
+  };
+}
+
+export async function sendToTelegram(
+  text: string,
+  chatId: string,
+  locale: Locale,
+): Promise<void> {
   const token = config.telegramBotToken();
-  const chatId = config.telegramChannelId();
   const chunks = splitMessage(text);
+  const keyboard = miniAppKeyboard(locale);
 
   for (const [i, chunk] of chunks.entries()) {
+    const isLast = i === chunks.length - 1;
     const response = await fetch(`${TELEGRAM_API}/bot${token}/sendMessage`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -39,13 +65,14 @@ export async function sendToTelegram(text: string): Promise<void> {
         text: chunk,
         parse_mode: "HTML",
         disable_web_page_preview: true,
+        ...(isLast && keyboard ? { reply_markup: keyboard } : {}),
       }),
     });
 
     const body = (await response.json()) as { ok: boolean; description?: string };
     if (!response.ok || !body.ok) {
       throw new Error(
-        `Telegram send failed (part ${i + 1}/${chunks.length}): ${body.description ?? response.statusText}`,
+        `Telegram send failed (${chatId}, part ${i + 1}/${chunks.length}): ${body.description ?? response.statusText}`,
       );
     }
   }

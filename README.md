@@ -1,80 +1,144 @@
 # news-digest-bot
 
-Ежедневный дайджест главных новостей в Telegram-канал: RSS → OpenAI → пост в 21:00 по Минску.
 
-Бренд канала/бота: **«Суть дня»** — готовые тексты и аватар в [brand/BRANDING.md](brand/BRANDING.md).
+
+Ежедневный дайджест главных новостей в Telegram: RSS → OpenAI → пост в 21:00 по Минску.
+
+
+
+Два канала из одного запуска: **RU** («Суть дня») и **EN** (Day Essence) — один набор событий, разный язык текста.
+
+
+
+Бренд: [brand/BRANDING.md](brand/BRANDING.md) · Отбор новостей: [docs/SELECTION.md](docs/SELECTION.md)
+
+
 
 [License](LICENSE) · [Security](SECURITY.md) · [Privacy](PRIVACY.md) · [Notice](NOTICE.md) · [Contributing](CONTRIBUTING.md)
 
+
+
 ## Как это работает
 
-1. GitHub Actions запускается по cron (`18:00 UTC` = `21:00` Europe/Minsk).
-2. Скрипт собирает новости из RSS (BBC, Reuters, CNN, NYT, Guardian, DW, Al Jazeera).
-3. OpenAI выбирает топ важных событий и пишет краткие саммари на русском.
-4. Бот публикует дайджест в ваш канал со ссылками на оригиналы.
+
+
+1. GitHub Actions по cron (`18:00 UTC` = `21:00` Europe/Minsk).
+
+2. RSS из BBC, AP, CNN, NYT, Guardian, DW, Euronews, Al Jazeera, NPR.
+
+3. Предобработка: свежесть 24ч, дедуп по URL, топ-80 кандидатов → OpenAI.
+
+4. AI выбирает **top N** важных событий и пишет **заголовок + саммари на RU и EN**.
+
+5. Бот постит в каналы + кнопка «Открыть в приложении» → [Mini App](docs/MINIAPP.md).
+
+Подробнее: [docs/SELECTION.md](docs/SELECTION.md) · [docs/MINIAPP.md](docs/MINIAPP.md).
+
+
 
 ## Быстрый старт
 
+
+
 ### 1. Telegram
 
-Пошаговые тексты для BotFather, описание канала и аватар: **[brand/BRANDING.md](brand/BRANDING.md)**.
 
-Кратко:
-1. Создайте бота «Суть дня» у [@BotFather](https://t.me/BotFather) → `TELEGRAM_BOT_TOKEN`.
-2. Создайте канал с тем же брендом, загрузите `brand/avatar.png`, добавьте бота **админом** с правом постов.
-3. `TELEGRAM_CHANNEL_ID`: `@sutdnya` или числовой id `-100...`.
+
+[brand/BRANDING.md](brand/BRANDING.md) — BotFather, аватар, тексты каналов.
+
+
+
+Каналы:
+
+| Язык | Username | Env |
+
+|------|----------|-----|
+
+| RU | `@dayessence_ru` | `TELEGRAM_CHANNEL_ID_RU` |
+
+| EN | `@dayessence_en` | `TELEGRAM_CHANNEL_ID_EN` |
+
+
+
+Один бот **Day Essence** — админ **обоих** каналов с правом постов.
+
+
 
 ### 2. Локально
 
+
+
 ```bash
+
 cd D:/git/news-digest-bot
+
 cp .env.example .env
-# заполните OPENAI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHANNEL_ID
+
 npm install
-npm run digest:dry   # только сгенерировать текст
-npm run digest       # отправить в канал
+
+npm run digest:dry
+
+npm run digest
+
 ```
+
+
 
 ### 3. GitHub Secrets
 
-В репозитории: **Settings → Secrets and variables → Actions** добавьте:
+
 
 | Secret | Значение |
+
 |--------|----------|
+
 | `OPENAI_API_KEY` | ключ OpenAI |
+
+| `OPENAI_SECURITY_KEY` | ключ GPT-прокси |
+
 | `TELEGRAM_BOT_TOKEN` | токен бота |
-| `TELEGRAM_CHANNEL_ID` | `@channel` или `-100...` |
 
-Затем: **Actions → Daily News Digest → Run workflow** для тестового запуска.
+| `TELEGRAM_CHANNEL_ID_RU` | `@dayessence_ru` |
 
-## Расписание
+| `TELEGRAM_CHANNEL_ID_EN` | `@dayessence_en` |
 
-| Место | Время |
-|-------|--------|
-| Минск | 21:00 |
-| UTC (cron) | `0 18 * * *` |
+**Variable** (Settings → Variables): `MINI_APP_URL` = `https://hirurg-lybitel.github.io/news-digest-bot`
 
-Ручной запуск: вкладка Actions → `workflow_dispatch`.
+
 
 ## Настройки
 
-Через env:
 
-- `OPENAI_MODEL` — по умолчанию `gpt-4o-mini`
-- `DIGEST_TOP_N` — сколько новостей в посте (по умолчанию `10`)
-- `LOOKBACK_HOURS` — окно свежести (по умолчанию `24`)
 
-Источники: `src/sources.ts`.
+- `DIGEST_TOP_N` — сколько новостей (default `10`)
+
+- `LOOKBACK_HOURS` — окно свежести (default `24`)
+
+- `OPENAI_MODEL` — default `gpt-4o-mini`
+
+
 
 ## Структура
 
+
+
 ```
+
 src/
-  index.ts        # пайплайн
-  fetchNews.ts    # RSS
-  summarize.ts    # OpenAI
-  format.ts       # HTML для Telegram
-  telegram.ts     # Bot API
-  sources.ts      # ленты
-.github/workflows/digest.yml
+
+  index.ts        # пайплайн + мульти-канал
+
+  fetchNews.ts    # RSS + дедуп
+
+  summarize.ts    # отбор + RU/EN тексты
+
+  format.ts       # HTML по локали
+
+  locale.ts       # подписи RU/EN
+miniapp/          # Telegram Mini App
+docs/SELECTION.md
+docs/MINIAPP.md
+
 ```
+
+

@@ -12,14 +12,19 @@ export const NEWS_SOURCES: NewsSource[] = [
     url: "https://feeds.bbci.co.uk/news/world/rss.xml",
   },
   {
-    id: "reuters",
-    name: "Reuters",
-    url: "https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best",
+    id: "ap",
+    name: "AP News",
+    url: "https://feeds.apnews.com/apnews/topnews",
   },
   {
     id: "cnn",
     name: "CNN",
     url: "http://rss.cnn.com/rss/edition.rss",
+  },
+  {
+    id: "npr",
+    name: "NPR",
+    url: "https://feeds.npr.org/1004/rss.xml",
   },
   {
     id: "nyt",
@@ -35,6 +40,11 @@ export const NEWS_SOURCES: NewsSource[] = [
     id: "dw",
     name: "Deutsche Welle",
     url: "https://rss.dw.com/rdf/rss-en-all",
+  },
+  {
+    id: "euronews",
+    name: "Euronews",
+    url: "https://www.euronews.com/rss?format=mrss&level=theme&name=news",
   },
   {
     id: "aljazeera",

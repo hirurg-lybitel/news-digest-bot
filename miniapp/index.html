@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Day Essence</title>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="app" class="app">
+      <header class="header">
+        <div class="header-top">
+          <h1 id="brand" class="brand">Day Essence</h1>
+          <div class="lang-switch" role="group" aria-label="Language">
+            <button type="button" class="lang-btn" data-lang="ru">RU</button>
+            <button type="button" class="lang-btn" data-lang="en">EN</button>
+          </div>
+        </div>
+        <p id="date" class="date"></p>
+        <p id="intro" class="intro"></p>
+      </header>
+
+      <section class="filters">
+        <h2 id="filter-category-label" class="filter-label">Category</h2>
+        <div id="category-filters" class="chip-row"></div>
+        <h2 id="filter-source-label" class="filter-label">Source</h2>
+        <div id="source-filters" class="chip-row"></div>
+      </section>
+
+      <main id="stories" class="stories"></main>
+      <p id="empty" class="empty hidden">No stories match the filters.</p>
+      <p id="error" class="error hidden"></p>
+    </div>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

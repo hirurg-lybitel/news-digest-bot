@@ -1,3 +1,4 @@
+import { LOCALE_LABELS } from "./locale.js";
 import type { DigestResult } from "./types.js";
 
 function escapeHtml(text: string): string {
@@ -8,9 +9,9 @@ function escapeHtml(text: string): string {
     .replaceAll('"', "&quot;");
 }
 
-/** Формат даты для шапки: 26 августа 2026 */
-export function formatMinskDate(date = new Date()): string {
-  return new Intl.DateTimeFormat("ru-RU", {
+export function formatMinskDate(locale: DigestResult["locale"], date = new Date()): string {
+  const intlLocale = locale === "ru" ? "ru-RU" : "en-GB";
+  return new Intl.DateTimeFormat(intlLocale, {
     timeZone: "Europe/Minsk",
     day: "numeric",
     month: "long",
@@ -19,9 +20,10 @@ export function formatMinskDate(date = new Date()): string {
 }
 
 export function formatDigestMessage(digest: DigestResult): string {
-  const dateLabel = formatMinskDate();
+  const labels = LOCALE_LABELS[digest.locale];
+  const dateLabel = formatMinskDate(digest.locale);
   const lines: string[] = [
-    `<b>Суть дня · ${escapeHtml(dateLabel)}</b>`,
+    `<b>${escapeHtml(labels.brand)} · ${escapeHtml(dateLabel)}</b>`,
     "",
     escapeHtml(digest.intro),
     "",
@@ -32,7 +34,7 @@ export function formatDigestMessage(digest: DigestResult): string {
       `<b>${index + 1}. ${escapeHtml(story.title)}</b>`,
       `<i>${escapeHtml(story.category)}</i> · ${escapeHtml(story.source)}`,
       escapeHtml(story.summary),
-      `<a href="${escapeHtml(story.link)}">Читать полностью</a>`,
+      `<a href="${escapeHtml(story.link)}">${escapeHtml(labels.readMore)}</a>`,
       "",
     );
   });
