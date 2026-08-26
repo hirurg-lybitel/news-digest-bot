@@ -2,7 +2,8 @@ name: Daily News Digest
 
 on:
   schedule:
-    # 21:00 Europe/Minsk = 18:00 UTC (Минск без DST)
+    # 06:00 UTC (09:00 Minsk) and 18:00 UTC (21:00 Minsk)
+    - cron: "0 6 * * *"
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -39,7 +40,8 @@ jobs:
           MINI_APP_SHORT_NAME: ${{ vars.MINI_APP_SHORT_NAME }}
           OPENAI_MODEL: gpt-4o-mini
           DIGEST_TOP_N: "10"
-          LOOKBACK_HOURS: "24"
+          DEFAULT_LOOKBACK_HOURS: "12"
+          MAX_LOOKBACK_HOURS: "24"
         run: npm run digest
 
       - name: Commit mini app data

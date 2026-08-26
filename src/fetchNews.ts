@@ -22,16 +22,15 @@ function makeId(link: string, title: string): string {
   return createHash("sha1").update(`${link}|${title}`).digest("hex").slice(0, 16);
 }
 
-function withinLookback(date: Date | null, lookbackHours: number): boolean {
+function isPublishedSince(date: Date | null, since: Date): boolean {
   if (!date || Number.isNaN(date.getTime())) {
     // Если даты нет — оставляем: лучше чуть больше шума, чем потерять новость.
     return true;
   }
-  const cutoff = Date.now() - lookbackHours * 60 * 60 * 1000;
-  return date.getTime() >= cutoff;
+  return date.getTime() >= since.getTime();
 }
 
-export async function fetchNews(lookbackHours: number): Promise<NewsItem[]> {
+export async function fetchNews(since: Date): Promise<NewsItem[]> {
   const results = await Promise.allSettled(
     NEWS_SOURCES.map(async (source) => {
       const feed = await parser.parseURL(source.url);
@@ -76,7 +75,7 @@ export async function fetchNews(lookbackHours: number): Promise<NewsItem[]> {
 
   for (const item of items) {
     if (!item.title || !item.link) continue;
-    if (!withinLookback(item.publishedAt, lookbackHours)) continue;
+    if (!isPublishedSince(item.publishedAt, since)) continue;
 
     const key = item.link.replace(/#.*$/, "").toLowerCase();
     if (seen.has(key)) continue;

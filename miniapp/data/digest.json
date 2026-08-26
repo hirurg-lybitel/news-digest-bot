@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-08-26T22:26:31.564Z",
+  "generatedAt": "2026-08-26T22:50:50.402Z",
   "date": "2026-08-27",
   "intro": {
     "ru": "Вот основные мировые новости за последние 24 часа.",
-    "en": "Here are the key global news stories from the last 24 hours."
+    "en": "Here are the key world news stories from the last 24 hours."
   },
   "stories": [
     {
       "link": "https://www.nytimes.com/live/2026/08/26/world/nepal-floods",
       "source": "New York Times",
       "title": {
-        "ru": "Сотни пропавших без вести после наводнения в Непале и Тибете",
-        "en": "Hundreds Missing as Floods Sweep Through Nepal and Tibet"
+        "ru": "Смертельные наводнения в Непале и Тибете",
+        "en": "Deadly Floods Tear Through Nepal and Tibet"
       },
       "summary": {
-        "ru": "По меньшей мере 160 человек погибли, когда наводнения обрушились на Гималайскую долину между Непалом и Тибетом. Сотни людей пропали без вести, в том числе иностранные туристы.",
-        "en": "At least 160 people were killed when floods tore through a Himalayan river valley between Nepal and Tibet. Hundreds are missing, including foreign tourists."
+        "ru": "В результате наводнений в Гималаях погибли как минимум 160 человек, сотни пропали без вести, включая иностранных туристов.",
+        "en": "At least 160 people have died in floods that swept through a Himalayan river valley between Nepal and Tibet, with hundreds missing, including foreign tourists."
       },
       "category": {
         "ru": "Конфликт",
@@ -23,79 +23,95 @@
       }
     },
     {
-      "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "США одобрили прорывное лечение рака поджелудочной железы",
-        "en": "US Drug Agency Approves Breakthrough Treatment for Pancreatic Cancer"
-      },
-      "summary": {
-        "ru": "Эксперты назвали препарат дароксоназиб революционным для одного из самых смертоносных видов рака.",
-        "en": "Experts have hailed the drug daraxonrasib as a game changer for one of the world's deadliest cancers."
-      },
-      "category": {
-        "ru": "Наука",
-        "en": "Science"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinians-demand-return-of-1700-bodies-held-by-israel?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Палестинцы требуют возвращения 1700 тел, удерживаемых Израилем",
-        "en": "Palestinians Demand Return of 1,700 Bodies Held by Israel"
+        "ru": "США утверждают, что хакеры, связанные с Китаем, атаковали NASA и правительственные агентства",
+        "en": "US Says Chinese-linked Hackers Attacked NASA and Government Agencies"
       },
       "summary": {
-        "ru": "Палестинцы провели поминальные акции по всему Западному берегу, требуя вернуть тела палестинцев, удерживаемые Израилем.",
-        "en": "Palestinians held vigils across the occupied West Bank demanding the return of Palestinian bodies held by Israel."
+        "ru": "Американские власти конфисковали два домена, которые, как утверждается, использовались для атаки на чувствительные правительственные сети с 2018 года.",
+        "en": "US authorities seized two domains allegedly used to target sensitive government networks since 2018."
       },
       "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
+        "ru": "Технологии",
+        "en": "Tech"
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/08/26/world/canada/carney-canada-trump-tariffs-retaliate.html",
-      "source": "New York Times",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/meta-agrees-to-17b-settlement-in-landmark-child-safety-case?traffic_source=rss",
+      "source": "Al Jazeera",
       "title": {
-        "ru": "Канадцы против новых тарифов Трампа и расширяющейся торговой войны с США",
-        "en": "Canadians Stand Their Ground Amid New Trump Tariffs and Expanding U.S.-Canada Trade War"
+        "ru": "Meta согласилась на $17 миллиардов в рамках исторического дела о безопасности детей",
+        "en": "Meta Agrees to $17B Settlement in Landmark Child-Safety Case"
       },
       "summary": {
-        "ru": "Предприниматели готовятся к финансовым потерям после того, как последние торговые переговоры между США и Канадой провалились.",
-        "en": "Business owners are preparing for financial pain after the latest U.S.-Canada trade talks collapsed."
+        "ru": "Meta согласилась выплатить до $17,1 миллиарда в рамках исторического соглашения с государствами США.",
+        "en": "Meta has agreed to pay up to $17.1 billion in a landmark settlement with US states."
       },
       "category": {
-        "ru": "Экономика",
-        "en": "Economy"
+        "ru": "Общество",
+        "en": "Society"
       }
     },
     {
       "link": "https://www.theguardian.com/us-news/2026/aug/26/ice-agent-shooting-texas-minnesota-extradition",
       "source": "The Guardian",
       "title": {
-        "ru": "Суд блокирует экстрадицию агента ICE из Техаса в Миннесоту",
-        "en": "Judge Blocks Minnesota Bid to Extradite Texas ICE Agent Accused of Shooting Man"
+        "ru": "Суд заблокировал попытку Миннесоты экстрадировать агента ICE из Техаса",
+        "en": "Judge Blocks Minnesota Bid to Extradite Texas ICE Agent"
       },
       "summary": {
         "ru": "Агент ICE, обвиняемый в стрельбе по венесуэльцу, может выйти на свободу после решения федерального судьи.",
-        "en": "A federal judge has blocked the extradition of an ICE agent accused of shooting a Venezuelan man, allowing him to remain in Texas."
+        "en": "An ICE agent accused of shooting a Venezuelan man may be released after a federal judge blocked his extradition."
       },
       "category": {
-        "ru": "Правосудие",
-        "en": "Justice"
+        "ru": "Политика",
+        "en": "Politics"
       }
     },
     {
-      "link": "https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss",
-      "source": "Al Jazeera",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb",
+      "source": "The Guardian",
       "title": {
-        "ru": "Курдские силы в Сирии распускаются, интегрируясь с армией страны",
-        "en": "Kurdish-Led Militia in Syria Disbands in Boost for U.S.-Backed Government"
+        "ru": "Флеш-наводнения на границе Непала и Тибета: десятки австралийцев пропали без вести",
+        "en": "Dozens of Australians Missing in Nepal Flash Floods"
       },
       "summary": {
-        "ru": "Сирийские демократические силы объявили о своем роспуске и интеграции с армией Сирии.",
-        "en": "The Syrian Democratic Forces have announced their dissolution and integration with the country's military."
+        "ru": "Мощные наводнения унесли дома и дороги, и австралийские власти работают над подтверждением благополучия своих граждан.",
+        "en": "Powerful floods have swept away homes and roads, with Australian officials working to confirm the welfare of their citizens in Nepal."
+      },
+      "category": {
+        "ru": "Общество",
+        "en": "Society"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "США вводят санкции против Palestine Action и других левых групп",
+        "en": "US Imposes Sanctions on Palestine Action and Other Left-Wing Groups"
+      },
+      "summary": {
+        "ru": "Санкции должны стать «сигналом» для Великобритании о необходимости отмены запрета на группу.",
+        "en": "Sanctions are seen as a 'wake-up call' for the UK to lift the ban on the group."
+      },
+      "category": {
+        "ru": "Политика",
+        "en": "Politics"
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/08/26/world/asia/over-100-indian-pilgrims-are-among-the-missing-in-deadly-nepal-floods.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "В Непале и Тибете пропали более 100 индийских паломников",
+        "en": "Over 100 Indian Pilgrims Are Among the Missing in Nepal Floods"
+      },
+      "summary": {
+        "ru": "Многие из них путешествовали к священной горе, почитаемой индуистами как дом бога Шивы.",
+        "en": "Many of the missing were traveling to or from a Himalayan peak revered by Hindus as the spiritual home of the god Shiva."
       },
       "category": {
         "ru": "Конфликт",
@@ -103,19 +119,35 @@
       }
     },
     {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/trump-says-iran-war-will-continue-for-as-long-as-necessary?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/8/26/german-airport-workers-die-from-malaria-caught-from-plane-riding-mosquito?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Трамп говорит, что война с Ираном будет продолжаться столько, сколько необходимо",
-        "en": "Trump Says Iran War Will Continue for As Long as Necessary"
+        "ru": "Германские работники аэропорта умирают от малярии, подхваченной от москита на самолете",
+        "en": "German Airport Workers Die from Malaria Caught from Plane-Riding Mosquito"
       },
       "summary": {
-        "ru": "Президент Трамп заявил, что конфликт с Ираном будет продолжаться до тех пор, пока это будет необходимо.",
-        "en": "President Trump stated that the war with Iran will continue for as long as necessary."
+        "ru": "Четыре инфицированных сотрудника находятся на лечении в больнице; ловушки для москитов установлены в аэропорту Франкфурта.",
+        "en": "Four infected employees are being treated in hospital; mosquito traps have been deployed at Frankfurt airport."
       },
       "category": {
-        "ru": "Политика",
-        "en": "Politics"
+        "ru": "Здоровье",
+        "en": "Health"
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/us-news/2026/aug/26/lindsay-clancy-trial-fbi-psychiatrist-final-witness",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Судебный процесс по делу Линдси Клэнси завершен, ожидаются заключительные аргументы",
+        "en": "Final Witness in Lindsay Clancy Trial Testifies"
+      },
+      "summary": {
+        "ru": "Заключительный свидетель заявил, что считает, что Линдси Клэнси знала, что делает, когда совершала преступление.",
+        "en": "The final witness testified that he believed Lindsay Clancy knew right from wrong when she committed her crimes."
+      },
+      "category": {
+        "ru": "Право",
+        "en": "Law"
       }
     }
   ]

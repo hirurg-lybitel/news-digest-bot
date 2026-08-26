@@ -43,7 +43,12 @@ export const config = {
   },
   openaiModel: process.env.OPENAI_MODEL?.trim() || "gpt-4o-mini",
   topN: Number(process.env.DIGEST_TOP_N || 10),
-  lookbackHours: Number(process.env.LOOKBACK_HOURS || 24),
+  /** First run when no state.json exists */
+  defaultLookbackHours: Number(process.env.DEFAULT_LOOKBACK_HOURS || 12),
+  /** Safety cap if a scheduled run was missed */
+  maxLookbackHours: Number(process.env.MAX_LOOKBACK_HOURS || 24),
+  /** Minimum window for manual re-runs right after a digest */
+  minLookbackHours: Number(process.env.MIN_LOOKBACK_HOURS || 1),
   dryRun: process.argv.includes("--dry-run"),
   miniAppUrl: () => optional("MINI_APP_URL"),
   /** @username without @ — for t.me deep links that open inside Telegram */

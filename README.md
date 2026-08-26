@@ -2,7 +2,7 @@
 
 
 
-Ежедневный дайджест главных новостей в Telegram: RSS → OpenAI → пост в 21:00 по Минску.
+Ежедневный дайджест главных новостей в Telegram: RSS → OpenAI → **2 раза в сутки** (06:00 и 18:00 UTC).
 
 
 
@@ -22,11 +22,11 @@
 
 
 
-1. GitHub Actions по cron (`18:00 UTC` = `21:00` Europe/Minsk).
+1. GitHub Actions по cron: **06:00 UTC** (09:00 Минск) и **18:00 UTC** (21:00 Минск).
 
 2. RSS из BBC, AP, CNN, NYT, Guardian, DW, Euronews, Al Jazeera, NPR.
 
-3. Предобработка: свежесть 24ч, дедуп по URL, топ-80 кандидатов → OpenAI.
+3. Новости **с момента прошлого дайджеста** (не фиксированные 24ч); state в `miniapp/data/state.json`.
 
 4. AI выбирает **top N** важных событий и пишет **заголовок + саммари на RU и EN**.
 
@@ -112,7 +112,8 @@ npm run digest
 
 - `DIGEST_TOP_N` — сколько новостей (default `10`)
 
-- `LOOKBACK_HOURS` — окно свежести (default `24`)
+- `DEFAULT_LOOKBACK_HOURS` — первый запуск без state (default `12`)
+- `MAX_LOOKBACK_HOURS` — потолок, если пропущен cron (default `24`)
 
 - `OPENAI_MODEL` — default `gpt-4o-mini`
 

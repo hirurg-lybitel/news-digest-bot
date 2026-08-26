@@ -24,7 +24,7 @@ const BilingualDigestSchema = z.object({
     .min(1),
 });
 
-function buildPrompt(items: NewsItem[], topN: number): string {
+function buildPrompt(items: NewsItem[], topN: number, periodHours: number): string {
   const catalog = items.slice(0, 80).map((item, i) => ({
     i: i + 1,
     title: item.title,
@@ -34,10 +34,15 @@ function buildPrompt(items: NewsItem[], topN: number): string {
     publishedAt: item.publishedAt?.toISOString() ?? null,
   }));
 
-  return `You are the editor of a bilingual evening news digest for Telegram (Russian + English channels).
+  const periodLabel =
+    periodHours <= 8
+      ? `the last ~${Math.round(periodHours)} hours since the previous briefing`
+      : `roughly the last ${Math.round(periodHours)} hours since the previous briefing`;
+
+  return `You are the editor of a bilingual news digest for Telegram (Russian + English channels). Published twice daily (06:00 and 18:00 UTC).
 
 Step 1 — select exactly ${topN} stories:
-- Pick the most important and publicly significant world news from the last 24 hours.
+- Pick the most important and publicly significant world news from ${periodLabel}.
 - Merge duplicates (same event from multiple outlets → one entry; prefer the most authoritative source link).
 - Prioritize: major geopolitics, conflicts, disasters, economy, science/health breakthroughs, landmark court/policy decisions.
 - Deprioritize: celebrity gossip, minor sports, repetitive incremental updates.
@@ -104,7 +109,7 @@ export function digestForLocale(digest: BilingualDigest, locale: Locale): Digest
   };
 }
 
-export async function summarizeNews(items: NewsItem[]): Promise<BilingualDigest> {
+export async function summarizeNews(items: NewsItem[], periodHours: number): Promise<BilingualDigest> {
   if (items.length === 0) {
     throw new Error("No news items to summarize");
   }
@@ -121,7 +126,7 @@ export async function summarizeNews(items: NewsItem[]): Promise<BilingualDigest>
         content:
           "You are a precise news editor. Reply with JSON only. Do not invent facts or links. title_ru must always be Russian.",
       },
-      { role: "user", content: buildPrompt(items, topN) },
+      { role: "user", content: buildPrompt(items, topN, periodHours) },
     ],
   });
 

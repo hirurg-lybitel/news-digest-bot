@@ -15,7 +15,7 @@ Digest posts: **Russian** in `@dayessence_ru`, **English** in `@dayessence_en` (
 | Brand (RU, channel/posts) | **Суть дня** |
 | Positioning | Evening briefing of the day’s top world news — short summaries with links to originals |
 | Tone | Calm, editorial; no clickbait, no emoji spam |
-| Publish time | Daily at **21:00** (Minsk / Europe/Minsk) |
+| Publish time | Twice daily: **06:00 & 18:00 UTC** (09:00 & 21:00 Minsk) |
 
 ### Usernames (check availability)
 
@@ -50,7 +50,7 @@ Save the token → `TELEGRAM_BOT_TOKEN`.
 ### `/setdescription` → select the bot
 
 ```
-Publishes daily world-news digests to Day Essence channels (RU + EN): concise summaries with links to original stories. Posted every day at 21:00 Minsk time.
+Publishes world-news digests twice daily (06:00 & 18:00 UTC) to Day Essence channels (RU + EN): concise summaries with links to original stories.
 ```
 
 ### `/setabouttext` → select the bot
@@ -91,7 +91,7 @@ Leave the default; not critical for a channel poster.
 ```
 Главные мировые новости за день — коротко и по делу.
 
-Каждый вечер в 21:00 (Минск): топ событий, краткое саммари на русском и ссылка на развёрнутый материал первоисточника.
+Два раза в сутки в 09:00 и 21:00 (Минск): топ событий с прошлого выпуска, краткое саммари на русском и ссылка на первоисточник.
 
 Источники: BBC, CNN, NYT, Guardian, DW, Euronews, Al Jazeera, NPR и др.
 Не официальный канал агентств · дайджест автоматизирован
@@ -114,7 +114,7 @@ Leave the default; not critical for a channel poster.
 ```
 Top world news of the day — concise and to the point.
 
-Every evening at 21:00 Minsk time: the most important stories, short summaries in English, and a link to the full original article.
+Twice daily at 09:00 and 21:00 Minsk time: top stories since the last briefing, short summaries in English, and a link to the full original article.
 
 Sources: BBC, AP, CNN, NYT, Guardian, DW, Euronews, Al Jazeera, NPR.
 Not affiliated with news agencies · automated digest

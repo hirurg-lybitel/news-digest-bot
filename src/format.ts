@@ -19,11 +19,19 @@ export function formatMinskDate(locale: DigestResult["locale"], date = new Date(
   }).format(date);
 }
 
-export function formatDigestMessage(digest: DigestResult): string {
+export function formatDigestMessage(digest: DigestResult, publishedAt = new Date()): string {
   const labels = LOCALE_LABELS[digest.locale];
-  const dateLabel = formatMinskDate(digest.locale);
+  const dateLabel = formatMinskDate(digest.locale, publishedAt);
+  const slot =
+    publishedAt.getUTCHours() < 12
+      ? digest.locale === "ru"
+        ? "утро"
+        : "Morning"
+      : digest.locale === "ru"
+        ? "вечер"
+        : "Evening";
   const lines: string[] = [
-    `<b>${escapeHtml(labels.brand)} · ${escapeHtml(dateLabel)}</b>`,
+    `<b>${escapeHtml(labels.brand)} · ${escapeHtml(slot)} · ${escapeHtml(dateLabel)}</b>`,
     "",
     escapeHtml(digest.intro),
     "",
