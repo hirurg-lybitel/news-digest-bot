@@ -4,7 +4,7 @@ import { LOCALE_LABELS, type Locale } from "./locale.js";
 const TELEGRAM_API = "https://api.telegram.org";
 
 type InlineKeyboard = {
-  inline_keyboard: Array<Array<{ text: string; web_app: { url: string } }>>;
+  inline_keyboard: Array<Array<{ text: string; url: string }>>;
 };
 
 /** Telegram limit ~4096 chars; split on blank lines if needed. */
@@ -39,7 +39,7 @@ function miniAppKeyboard(locale: Locale): InlineKeyboard | undefined {
       [
         {
           text: LOCALE_LABELS[locale].openInApp,
-          web_app: { url },
+          url,
         },
       ],
     ],
