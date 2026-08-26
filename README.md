@@ -2,6 +2,10 @@
 
 Ежедневный дайджест главных новостей в Telegram-канал: RSS → OpenAI → пост в 21:00 по Минску.
 
+Бренд канала/бота: **«Суть дня»** — готовые тексты и аватар в [brand/BRANDING.md](brand/BRANDING.md).
+
+[License](LICENSE) · [Security](SECURITY.md) · [Privacy](PRIVACY.md) · [Notice](NOTICE.md) · [Contributing](CONTRIBUTING.md)
+
 ## Как это работает
 
 1. GitHub Actions запускается по cron (`18:00 UTC` = `21:00` Europe/Minsk).
@@ -13,11 +17,12 @@
 
 ### 1. Telegram
 
-1. Создайте бота у [@BotFather](https://t.me/BotFather) → получите `TELEGRAM_BOT_TOKEN`.
-2. Создайте канал и добавьте бота **администратором** с правом публиковать сообщения.
-3. Узнайте `TELEGRAM_CHANNEL_ID`:
-   - для публичного канала: `@your_channel_username`
-   - для приватного: перешлите пост в [@userinfobot](https://t.me/userinfobot) или используйте числовой id вида `-100...`
+Пошаговые тексты для BotFather, описание канала и аватар: **[brand/BRANDING.md](brand/BRANDING.md)**.
+
+Кратко:
+1. Создайте бота «Суть дня» у [@BotFather](https://t.me/BotFather) → `TELEGRAM_BOT_TOKEN`.
+2. Создайте канал с тем же брендом, загрузите `brand/avatar.png`, добавьте бота **админом** с правом постов.
+3. `TELEGRAM_CHANNEL_ID`: `@sutdnya` или числовой id `-100...`.
 
 ### 2. Локально
 

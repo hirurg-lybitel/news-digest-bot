@@ -21,7 +21,7 @@ export function formatMinskDate(date = new Date()): string {
 export function formatDigestMessage(digest: DigestResult): string {
   const dateLabel = formatMinskDate();
   const lines: string[] = [
-    `<b>Дайджест · ${escapeHtml(dateLabel)}</b>`,
+    `<b>Суть дня · ${escapeHtml(dateLabel)}</b>`,
     "",
     escapeHtml(digest.intro),
     "",
