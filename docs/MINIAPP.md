@@ -1,39 +1,18 @@
 # Telegram Mini App
 
-Интерактивный дайджest с фильтрами по **разделам** и **источникам**. Дополняет посты в каналах кнопкой «Открыть в приложении».
+Интерактивный дайджest с фильтрами по **разделам** и **источникам**.
 
-## URL
+## Два URL — не путать
 
-После включения GitHub Pages:
+| Назначение | URL | Где используется |
+|------------|-----|------------------|
+| **Web App (HTTPS)** | `https://hirurg-lybitel.github.io/news-digest-bot/` | BotFather `/newapp`, Menu Button |
+| **Deep link (t.me)** | `https://t.me/dayessence_bot/digest?startapp=ru` | Кнопка в постах канала |
 
-```
-https://hirurg-lybitel.github.io/news-digest-bot/
-```
+Прямая HTTPS-ссылка в канале открывается **во внешнем браузере**.  
+Ссылка `t.me/bot/app` открывает Mini App **внутри Telegram**.
 
-Env: `MINI_APP_URL` — тот же URL **без** trailing slash.
-
-## Включить GitHub Pages
-
-1. Repo → **Settings → Pages**
-2. **Build and deployment → Source:** GitHub Actions
-3. Workflow **Deploy Mini App** задеплоит папку `miniapp/`
-
-После первого push в `main` (или ручного Run workflow) сайт станет доступен по HTTPS.
-
-## BotFather
-
-1. `/mybots` → **Day Essence** → **Bot Settings** → **Menu Button** → **Configure menu button**
-2. URL: `https://hirurg-lybitel.github.io/news-digest-bot/`
-
-Или через команды:
-
-```
-/setmenubutton
-@dayessence_bot
-https://hirurg-lybitel.github.io/news-digest-bot/
-```
-
-Опционально — отдельное приложение:
+## Обязательно: зарегистрировать приложение в BotFather
 
 ```
 /newapp
@@ -42,29 +21,51 @@ Day Essence Digest
 https://hirurg-lybitel.github.io/news-digest-bot/
 ```
 
-Short name: `digest`
+Short name: **`digest`** (должен совпадать с `MINI_APP_SHORT_NAME` в `.env`).
 
-## Как это связано с каналами
+Menu Button (тоже HTTPS):
 
-- Каждый пост в канале заканчивается inline-кнопкой-**ссылкой** (в каналах `web_app` недоступен — только `url`)
-- RU канал открывает `?lang=ru`, EN — `?lang=en`
-- Данные: `miniapp/data/digest.json` (обновляется при каждом `npm run digest`)
+```
+/setmenubutton
+@dayessence_bot
+https://hirurg-lybitel.github.io/news-digest-bot/
+```
+
+## Env
+
+```env
+MINI_APP_URL=https://hirurg-lybitel.github.io/news-digest-bot
+TELEGRAM_BOT_USERNAME=dayessence_bot
+MINI_APP_SHORT_NAME=digest
+```
+
+Кнопки в каналах автоматически ведут на:
+`https://t.me/dayessence_bot/digest?startapp=ru` или `...startapp=en`
+
+Язык в Mini App берётся из `startapp` → `Telegram.WebApp.start_param`.
+
+## GitHub Pages
+
+Settings → Pages → Source: **GitHub Actions** → workflow **Deploy Mini App**.
+
+## GitHub Actions Variable
+
+| Variable | Value |
+|----------|--------|
+| `MINI_APP_URL` | `https://hirurg-lybitel.github.io/news-digest-bot` |
+
+Опционально Variables: `TELEGRAM_BOT_USERNAME`, `MINI_APP_SHORT_NAME`.
+
+## Кнопки в каналах
+
+- В каналах inline `web_app` **недоступен** — используем `url` с **t.me** deep link
+- Это открывает зарегистрированное Mini App внутри клиента Telegram
 
 ## Локальная разработка
 
 ```bash
-npm run digest:dry   # обновит miniapp/data/digest.json
-npx serve miniapp    # http://localhost:3000
+npm run digest:dry
+npx serve miniapp
 ```
 
-Для теста Mini App в Telegram нужен HTTPS (GitHub Pages или ngrok).
-
-## GitHub Actions
-
-| Variable | Значение |
-|----------|----------|
-| `MINI_APP_URL` | `https://hirurg-lybitel.github.io/news-digest-bot` |
-
-Settings → Secrets and variables → Actions → **Variables**
-
-Workflow `digest.yml` коммитит обновлённый `miniapp/data/` после каждого дайджеста; `pages.yml` деплоит UI.
+Для теста в Telegram — только HTTPS (GitHub Pages или ngrok) + `/newapp` в BotFather.

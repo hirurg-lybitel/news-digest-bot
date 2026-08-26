@@ -46,9 +46,21 @@ export const config = {
   lookbackHours: Number(process.env.LOOKBACK_HOURS || 24),
   dryRun: process.argv.includes("--dry-run"),
   miniAppUrl: () => optional("MINI_APP_URL"),
-  miniAppUrlForLocale(locale: Locale): string | undefined {
+  /** @username without @ — for t.me deep links that open inside Telegram */
+  telegramBotUsername: () => optional("TELEGRAM_BOT_USERNAME") ?? "dayessence_bot",
+  /** Short name from BotFather /newapp */
+  miniAppShortName: () => optional("MINI_APP_SHORT_NAME") ?? "digest",
+  /** HTTPS URL of the hosted web app (BotFather /newapp + Menu Button) */
+  miniAppWebUrlForLocale(locale: Locale): string | undefined {
     const base = optional("MINI_APP_URL")?.replace(/\/$/, "");
     if (!base) return undefined;
     return `${base}/?lang=${locale}`;
+  },
+  /** t.me link — opens Mini App inside Telegram (use for channel inline buttons) */
+  miniAppOpenLinkForLocale(locale: Locale): string | undefined {
+    if (!optional("MINI_APP_URL")) return undefined;
+    const bot = optional("TELEGRAM_BOT_USERNAME") ?? "dayessence_bot";
+    const app = optional("MINI_APP_SHORT_NAME") ?? "digest";
+    return `https://t.me/${bot}/${app}?startapp=${locale}`;
   },
 };

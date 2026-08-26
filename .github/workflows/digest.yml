@@ -35,6 +35,8 @@ jobs:
           TELEGRAM_CHANNEL_ID_RU: ${{ secrets.TELEGRAM_CHANNEL_ID_RU }}
           TELEGRAM_CHANNEL_ID_EN: ${{ secrets.TELEGRAM_CHANNEL_ID_EN }}
           MINI_APP_URL: ${{ vars.MINI_APP_URL }}
+          TELEGRAM_BOT_USERNAME: ${{ vars.TELEGRAM_BOT_USERNAME }}
+          MINI_APP_SHORT_NAME: ${{ vars.MINI_APP_SHORT_NAME }}
           OPENAI_MODEL: gpt-4o-mini
           DIGEST_TOP_N: "10"
           LOOKBACK_HOURS: "24"

@@ -31,7 +31,7 @@ export function splitMessage(text: string, maxLen = 4000): string[] {
 }
 
 function miniAppKeyboard(locale: Locale): InlineKeyboard | undefined {
-  const url = config.miniAppUrlForLocale(locale);
+  const url = config.miniAppOpenLinkForLocale(locale);
   if (!url) return undefined;
 
   return {
