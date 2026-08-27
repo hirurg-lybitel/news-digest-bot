@@ -42,7 +42,10 @@ export const config = {
     return targets;
   },
   openaiModel: process.env.OPENAI_MODEL?.trim() || "gpt-4o-mini",
+  /** Stories in Telegram channel posts */
   topN: Number(process.env.DIGEST_TOP_N || 10),
+  /** Stories selected by AI and exported to the Mini App */
+  miniAppTopN: Number(process.env.MINI_APP_TOP_N || 30),
   /** First run when no state.json exists */
   defaultLookbackHours: Number(process.env.DEFAULT_LOOKBACK_HOURS || 12),
   /** Safety cap if a scheduled run was missed */

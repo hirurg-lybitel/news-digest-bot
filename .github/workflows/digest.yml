@@ -40,6 +40,7 @@ jobs:
           MINI_APP_SHORT_NAME: ${{ vars.MINI_APP_SHORT_NAME }}
           OPENAI_MODEL: gpt-4o-mini
           DIGEST_TOP_N: "10"
+          MINI_APP_TOP_N: "30"
           DEFAULT_LOOKBACK_HOURS: "12"
           MAX_LOOKBACK_HOURS: "24"
         run: npm run digest

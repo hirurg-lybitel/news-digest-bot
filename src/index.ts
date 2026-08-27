@@ -12,14 +12,14 @@ async function main(): Promise<void> {
   const sinceLabel = window.since.toISOString();
 
   console.log(
-    `Window: ${window.hours.toFixed(1)}h since ${sinceLabel}${window.isFirstRun ? " (first run)" : ""} | topN: ${config.topN} | dryRun: ${config.dryRun} | channels: ${channels.map((c) => `${c.locale}→${c.chatId}`).join(", ")}`,
+    `Window: ${window.hours.toFixed(1)}h since ${sinceLabel}${window.isFirstRun ? " (first run)" : ""} | telegram: ${config.topN} | miniApp: ${config.miniAppTopN} | dryRun: ${config.dryRun} | channels: ${channels.map((c) => `${c.locale}→${c.chatId}`).join(", ")}`,
   );
 
   const items = await fetchNews(window.since);
   console.log(`Fetched ${items.length} unique items since last digest`);
 
-  if (items.length < config.topN) {
-    throw new Error(`Too few news items (${items.length}); need at least ${config.topN}`);
+  if (items.length < 1) {
+    throw new Error("No news items in the lookback window");
   }
 
   const bilingual = await summarizeNews(items, window.hours);
@@ -30,7 +30,7 @@ async function main(): Promise<void> {
   console.log(`Published mini app data: ${dataPath}`);
 
   for (const channel of channels) {
-    const digest = digestForLocale(bilingual, channel.locale);
+    const digest = digestForLocale(bilingual, channel.locale, config.topN);
     const message = formatDigestMessage(digest, publishedAt);
 
     if (config.dryRun) {

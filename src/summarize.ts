@@ -16,15 +16,15 @@ const StorySchema = z.object({
   category_en: z.string(),
 });
 
-function digestSchema(topN: number) {
+function digestSchema(maxStories: number) {
   return z.object({
     intro_ru: z.string(),
     intro_en: z.string(),
-    stories: z.array(StorySchema).length(topN),
+    stories: z.array(StorySchema).min(1).max(maxStories),
   });
 }
 
-function buildPrompt(items: NewsItem[], topN: number, periodHours: number): string {
+function buildPrompt(items: NewsItem[], maxStories: number, periodHours: number): string {
   const catalog = items.slice(0, 80).map((item, i) => ({
     i: i + 1,
     title: item.title,
@@ -39,11 +39,15 @@ function buildPrompt(items: NewsItem[], topN: number, periodHours: number): stri
       ? `the last ~${Math.round(periodHours)} hours since the previous briefing`
       : `roughly the last ${Math.round(periodHours)} hours since the previous briefing`;
 
+  const telegramN = config.topN;
+
   return `You are the editor of a bilingual news digest for Telegram (Russian + English channels). Published twice daily (06:00 and 18:00 UTC).
 
-Step 1 — select **exactly ${topN}** stories (the array must have length ${topN}, never fewer):
-- Pick the ${topN} most important and publicly significant world news from ${periodLabel}.
-- If fewer than ${topN} major breaking stories exist, fill remaining slots with the next-most-important items from the catalog — still exactly ${topN} entries.
+Step 1 — select **up to ${maxStories}** stories, **ranked by importance** (most important first):
+- Return as many genuinely important stories as the catalog supports — **never more than ${maxStories}**, and do not pad with weak filler.
+- Positions 1–${telegramN}: the headline digest shown in Telegram channel posts (when available).
+- Positions ${telegramN + 1}–${maxStories}: additional important stories for the Mini App (filters by category/source).
+- Pick the most important and publicly significant world news from ${periodLabel}.
 - Merge duplicates (same event from multiple outlets → one entry; prefer the most authoritative source link).
 - Prioritize: major geopolitics, conflicts, disasters, economy, science/health breakthroughs, landmark court/policy decisions.
 - Deprioritize: celebrity gossip, minor sports, repetitive incremental updates.
@@ -96,11 +100,16 @@ function toBilingualDigest(parsed: z.infer<ReturnType<typeof digestSchema>>): Bi
   };
 }
 
-export function digestForLocale(digest: BilingualDigest, locale: Locale): DigestResult {
+export function digestForLocale(
+  digest: BilingualDigest,
+  locale: Locale,
+  storyLimit?: number,
+): DigestResult {
+  const stories = storyLimit ? digest.stories.slice(0, storyLimit) : digest.stories;
   return {
     locale,
     intro: digest.intro[locale],
-    stories: digest.stories.map((story) => ({
+    stories: stories.map((story) => ({
       link: story.link,
       source: story.source,
       title: story.title[locale],
@@ -111,10 +120,10 @@ export function digestForLocale(digest: BilingualDigest, locale: Locale): Digest
 }
 
 export async function summarizeNews(items: NewsItem[], periodHours: number): Promise<BilingualDigest> {
-  const topN = config.topN;
+  const maxStories = Math.min(items.length, config.miniAppTopN);
 
-  if (items.length < topN) {
-    throw new Error(`Need at least ${topN} news items in the window, got ${items.length}`);
+  if (maxStories < 1) {
+    throw new Error("Need at least 1 news item in the window");
   }
 
   const allowedLinks = new Set(items.map((i) => i.link));
@@ -129,17 +138,19 @@ export async function summarizeNews(items: NewsItem[], periodHours: number): Pro
         messages: [
           {
             role: "system",
-            content: `You are a precise news editor. Reply with JSON only. Do not invent facts or links. title_ru must always be Russian. The stories array must contain exactly ${topN} items.`,
+            content: `You are a precise news editor. Reply with JSON only. Do not invent facts or links. title_ru must always be Russian. The stories array must contain between 1 and ${maxStories} items.`,
           },
-          { role: "user", content: buildPrompt(items, topN, periodHours) },
+          { role: "user", content: buildPrompt(items, maxStories, periodHours) },
         ],
       });
 
-      const parsed = digestSchema(topN).parse(JSON.parse(raw));
+      const parsed = digestSchema(maxStories).parse(JSON.parse(raw));
       const stories = parsed.stories.filter((s) => allowedLinks.has(s.link));
 
-      if (stories.length !== topN) {
-        throw new Error(`OpenAI returned ${stories.length}/${topN} stories with valid links`);
+      if (stories.length < 1 || stories.length > maxStories) {
+        throw new Error(
+          `OpenAI returned ${stories.length} stories with valid links (expected 1–${maxStories})`,
+        );
       }
 
       return toBilingualDigest({ ...parsed, stories });
@@ -151,5 +162,5 @@ export async function summarizeNews(items: NewsItem[], periodHours: number): Pro
 
   throw lastError instanceof Error
     ? lastError
-    : new Error(`Failed to produce exactly ${topN} stories after 3 attempts`);
+    : new Error(`Failed to produce 1–${maxStories} stories after 3 attempts`);
 }
