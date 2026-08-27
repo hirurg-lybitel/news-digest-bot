@@ -3,7 +3,6 @@ import { config } from "./config.js";
 import { chatCompletionJson } from "./openai.js";
 import type { BilingualDigest, DigestResult, NewsItem } from "./types.js";
 import type { Locale } from "./locale.js";
-import { LOCALES } from "./locale.js";
 
 const StorySchema = z.object({
   title_ru: z.string(),
@@ -16,15 +15,15 @@ const StorySchema = z.object({
   category_en: z.string(),
 });
 
-function digestSchema(storyCount: number) {
+function digestSchema(maxStories: number) {
   return z.object({
     intro_ru: z.string(),
     intro_en: z.string(),
-    stories: z.array(StorySchema).length(storyCount),
+    stories: z.array(StorySchema).min(1).max(maxStories),
   });
 }
 
-function buildPrompt(items: NewsItem[], targetCount: number, periodHours: number): string {
+function buildPrompt(items: NewsItem[], maxStories: number, periodHours: number): string {
   const catalog = items.slice(0, 100).map((item, i) => ({
     i: i + 1,
     title: item.title,
@@ -39,17 +38,18 @@ function buildPrompt(items: NewsItem[], targetCount: number, periodHours: number
       ? `the last ~${Math.round(periodHours)} hours since the previous briefing`
       : `roughly the last ${Math.round(periodHours)} hours since the previous briefing`;
 
-  const telegramN = Math.min(config.topN, targetCount);
+  const telegramN = Math.min(config.topN, maxStories);
 
   return `You are the editor of a bilingual news digest for Telegram (Russian + English channels) and a Mini App. Published twice daily (06:00 and 18:00 UTC).
 
-Step 1 — select **exactly ${targetCount}** stories (array length must be ${targetCount}), **ranked by importance** (most important first):
+Step 1 — select **up to ${maxStories}** stories, **ranked by importance** (most important first):
+- Aim for ${maxStories} when the catalog has enough distinct events; fewer is OK after merging true duplicates — never invent stories or URLs.
 - Positions 1–${telegramN}: Telegram channel digest (headline set).
-- Positions ${telegramN + 1}–${targetCount}: **additional** stories for the Mini App only — same ranking list continues; Mini App shows all ${targetCount} (Telegram stories + extras).
-- You MUST fill all ${targetCount} slots. Prefer distinct events; merge true duplicates (same event, multiple outlets → one entry with the best source link), then keep filling with the next-most-important remaining catalog items until you reach exactly ${targetCount}.
-- Weaker-but-real world news is OK for slots after ${telegramN}; do **not** leave the array short and do **not** invent stories or URLs.
+- Positions ${telegramN + 1} onward: **additional** stories for the Mini App — same ranked list; Mini App shows Telegram stories + extras.
+- Prefer distinct events; merge true duplicates (same event, multiple outlets → one entry with the best source link), then fill remaining slots with the next-most-important catalog items until you reach ${maxStories} or run out of distinct events.
+- Weaker-but-real world news is OK for Mini App slots after ${telegramN}.
 - Prioritize for early slots: major geopolitics, conflicts, disasters, economy, science/health breakthroughs, landmark court/policy decisions.
-- Deprioritize (use only if needed to reach ${targetCount}): celebrity gossip, minor sports, repetitive incremental updates of an event already listed.
+- Deprioritize (use only if needed to fill toward ${maxStories}): celebrity gossip, minor sports, repetitive incremental updates of an event already listed.
 - Every story must use a unique catalog \`link\` (no repeated URLs).
 
 Catalog size: ${catalog.length} items from ${periodLabel}.
@@ -121,10 +121,26 @@ export function digestForLocale(
   };
 }
 
-export async function summarizeNews(items: NewsItem[], periodHours: number): Promise<BilingualDigest> {
-  const targetCount = Math.min(items.length, config.miniAppTopN);
+function uniqueValidStories(
+  stories: z.infer<typeof StorySchema>[],
+  allowedLinks: Set<string>,
+  maxStories: number,
+): z.infer<typeof StorySchema>[] {
+  const seen = new Set<string>();
+  const out: z.infer<typeof StorySchema>[] = [];
+  for (const story of stories) {
+    if (!allowedLinks.has(story.link) || seen.has(story.link)) continue;
+    seen.add(story.link);
+    out.push(story);
+    if (out.length >= maxStories) break;
+  }
+  return out;
+}
 
-  if (targetCount < 1) {
+export async function summarizeNews(items: NewsItem[], periodHours: number): Promise<BilingualDigest> {
+  const maxStories = Math.min(items.length, config.miniAppTopN);
+
+  if (maxStories < 1) {
     throw new Error("Need at least 1 news item in the window");
   }
 
@@ -140,19 +156,22 @@ export async function summarizeNews(items: NewsItem[], periodHours: number): Pro
         messages: [
           {
             role: "system",
-            content: `You are a precise news editor. Reply with JSON only. Do not invent facts or links. title_ru must always be Russian. The stories array must contain exactly ${targetCount} items with unique catalog links.`,
+            content: `You are a precise news editor. Reply with JSON only. Do not invent facts or links. title_ru must always be Russian. Aim for up to ${maxStories} stories with unique catalog links; fewer is acceptable after deduplicating real events.`,
           },
-          { role: "user", content: buildPrompt(items, targetCount, periodHours) },
+          { role: "user", content: buildPrompt(items, maxStories, periodHours) },
         ],
       });
 
-      const parsed = digestSchema(targetCount).parse(JSON.parse(raw));
-      const stories = parsed.stories.filter((s) => allowedLinks.has(s.link));
-      const uniqueLinks = new Set(stories.map((s) => s.link));
+      const parsed = digestSchema(maxStories).parse(JSON.parse(raw));
+      const stories = uniqueValidStories(parsed.stories, allowedLinks, maxStories);
 
-      if (stories.length !== targetCount || uniqueLinks.size !== targetCount) {
-        throw new Error(
-          `OpenAI returned ${stories.length} valid / ${uniqueLinks.size} unique links (expected exactly ${targetCount})`,
+      if (stories.length < 1) {
+        throw new Error("OpenAI returned no stories with valid catalog links");
+      }
+
+      if (stories.length < maxStories) {
+        console.warn(
+          `[summarize] got ${stories.length}/${maxStories} stories (publishing what we have)`,
         );
       }
 
@@ -165,5 +184,5 @@ export async function summarizeNews(items: NewsItem[], periodHours: number): Pro
 
   throw lastError instanceof Error
     ? lastError
-    : new Error(`Failed to produce exactly ${targetCount} stories after 3 attempts`);
+    : new Error(`Failed to produce digest stories after 3 attempts`);
 }
