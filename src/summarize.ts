@@ -16,16 +16,16 @@ const StorySchema = z.object({
   category_en: z.string(),
 });
 
-function digestSchema(maxStories: number) {
+function digestSchema(storyCount: number) {
   return z.object({
     intro_ru: z.string(),
     intro_en: z.string(),
-    stories: z.array(StorySchema).min(1).max(maxStories),
+    stories: z.array(StorySchema).length(storyCount),
   });
 }
 
-function buildPrompt(items: NewsItem[], maxStories: number, periodHours: number): string {
-  const catalog = items.slice(0, 80).map((item, i) => ({
+function buildPrompt(items: NewsItem[], targetCount: number, periodHours: number): string {
+  const catalog = items.slice(0, 100).map((item, i) => ({
     i: i + 1,
     title: item.title,
     source: item.source,
@@ -39,18 +39,20 @@ function buildPrompt(items: NewsItem[], maxStories: number, periodHours: number)
       ? `the last ~${Math.round(periodHours)} hours since the previous briefing`
       : `roughly the last ${Math.round(periodHours)} hours since the previous briefing`;
 
-  const telegramN = config.topN;
+  const telegramN = Math.min(config.topN, targetCount);
 
-  return `You are the editor of a bilingual news digest for Telegram (Russian + English channels). Published twice daily (06:00 and 18:00 UTC).
+  return `You are the editor of a bilingual news digest for Telegram (Russian + English channels) and a Mini App. Published twice daily (06:00 and 18:00 UTC).
 
-Step 1 — select **up to ${maxStories}** stories, **ranked by importance** (most important first):
-- Return as many genuinely important stories as the catalog supports — **never more than ${maxStories}**, and do not pad with weak filler.
-- Positions 1–${telegramN}: the headline digest shown in Telegram channel posts (when available).
-- Positions ${telegramN + 1}–${maxStories}: additional important stories for the Mini App (filters by category/source).
-- Pick the most important and publicly significant world news from ${periodLabel}.
-- Merge duplicates (same event from multiple outlets → one entry; prefer the most authoritative source link).
-- Prioritize: major geopolitics, conflicts, disasters, economy, science/health breakthroughs, landmark court/policy decisions.
-- Deprioritize: celebrity gossip, minor sports, repetitive incremental updates.
+Step 1 — select **exactly ${targetCount}** stories (array length must be ${targetCount}), **ranked by importance** (most important first):
+- Positions 1–${telegramN}: Telegram channel digest (headline set).
+- Positions ${telegramN + 1}–${targetCount}: **additional** stories for the Mini App only — same ranking list continues; Mini App shows all ${targetCount} (Telegram stories + extras).
+- You MUST fill all ${targetCount} slots. Prefer distinct events; merge true duplicates (same event, multiple outlets → one entry with the best source link), then keep filling with the next-most-important remaining catalog items until you reach exactly ${targetCount}.
+- Weaker-but-real world news is OK for slots after ${telegramN}; do **not** leave the array short and do **not** invent stories or URLs.
+- Prioritize for early slots: major geopolitics, conflicts, disasters, economy, science/health breakthroughs, landmark court/policy decisions.
+- Deprioritize (use only if needed to reach ${targetCount}): celebrity gossip, minor sports, repetitive incremental updates of an event already listed.
+- Every story must use a unique catalog \`link\` (no repeated URLs).
+
+Catalog size: ${catalog.length} items from ${periodLabel}.
 
 Step 2 — write BOTH language versions for each selected story:
 - title_ru: headline fully in Russian (translate from English if needed; never leave English in title_ru).
@@ -120,9 +122,9 @@ export function digestForLocale(
 }
 
 export async function summarizeNews(items: NewsItem[], periodHours: number): Promise<BilingualDigest> {
-  const maxStories = Math.min(items.length, config.miniAppTopN);
+  const targetCount = Math.min(items.length, config.miniAppTopN);
 
-  if (maxStories < 1) {
+  if (targetCount < 1) {
     throw new Error("Need at least 1 news item in the window");
   }
 
@@ -138,18 +140,19 @@ export async function summarizeNews(items: NewsItem[], periodHours: number): Pro
         messages: [
           {
             role: "system",
-            content: `You are a precise news editor. Reply with JSON only. Do not invent facts or links. title_ru must always be Russian. The stories array must contain between 1 and ${maxStories} items.`,
+            content: `You are a precise news editor. Reply with JSON only. Do not invent facts or links. title_ru must always be Russian. The stories array must contain exactly ${targetCount} items with unique catalog links.`,
           },
-          { role: "user", content: buildPrompt(items, maxStories, periodHours) },
+          { role: "user", content: buildPrompt(items, targetCount, periodHours) },
         ],
       });
 
-      const parsed = digestSchema(maxStories).parse(JSON.parse(raw));
+      const parsed = digestSchema(targetCount).parse(JSON.parse(raw));
       const stories = parsed.stories.filter((s) => allowedLinks.has(s.link));
+      const uniqueLinks = new Set(stories.map((s) => s.link));
 
-      if (stories.length < 1 || stories.length > maxStories) {
+      if (stories.length !== targetCount || uniqueLinks.size !== targetCount) {
         throw new Error(
-          `OpenAI returned ${stories.length} stories with valid links (expected 1–${maxStories})`,
+          `OpenAI returned ${stories.length} valid / ${uniqueLinks.size} unique links (expected exactly ${targetCount})`,
         );
       }
 
@@ -162,5 +165,5 @@ export async function summarizeNews(items: NewsItem[], periodHours: number): Pro
 
   throw lastError instanceof Error
     ? lastError
-    : new Error(`Failed to produce 1–${maxStories} stories after 3 attempts`);
+    : new Error(`Failed to produce exactly ${targetCount} stories after 3 attempts`);
 }

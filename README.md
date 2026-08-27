@@ -13,7 +13,7 @@ Brand: [brand/BRANDING.md](brand/BRANDING.md) · Story selection: [docs/SELECTIO
 1. **GitHub Actions** on cron: **06:00 UTC** (09:00 Minsk) and **18:00 UTC** (21:00 Minsk).
 2. Fetch RSS from BBC, AP, CNN, NPR, NYT, Guardian, DW, Euronews, and Al Jazeera.
 3. Keep items **since the last successful digest** (not a fixed 24h window); state in `miniapp/data/state.json`.
-4. OpenAI picks up to **30** important stories (Mini App cap); Telegram posts show the **top 10** when that many are available.
+4. OpenAI selects **exactly up to 30** ranked stories for the Mini App; Telegram posts show the **top 10** of that same list.
 5. The bot posts to both channels with an inline **Open in app** button (Telegram Mini App on GitHub Pages).
 
 See [docs/SELECTION.md](docs/SELECTION.md) for the full selection pipeline.
@@ -74,7 +74,7 @@ Requests go through [chatgpt-proxy.gdmn.app](https://chatgpt-proxy.gdmn.app/open
 | Variable | Default | Effect |
 |----------|---------|--------|
 | `DIGEST_TOP_N` | `10` | Stories in Telegram channel posts |
-| `MINI_APP_TOP_N` | `30` | Max stories in the Mini App (fewer if the window has less) |
+| `MINI_APP_TOP_N` | `30` | Exact Mini App story count when the RSS pool is large enough |
 | `DEFAULT_LOOKBACK_HOURS` | `12` | Window on first run (no state file) |
 | `MAX_LOOKBACK_HOURS` | `24` | Cap if a scheduled run was missed |
 | `OPENAI_MODEL` | `gpt-4o-mini` | Model for selection and copy |
