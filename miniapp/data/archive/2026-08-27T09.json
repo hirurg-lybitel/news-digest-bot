@@ -1,39 +1,23 @@
 {
-  "generatedAt": "2026-08-27T09:19:01.174Z",
+  "generatedAt": "2026-08-27T09:43:13.392Z",
   "date": "2026-08-27",
   "slot": "morning",
-  "periodHours": 1.2740316666666667,
+  "periodHours": 1,
   "intro": {
-    "ru": "Вот самые важные новости за последние часы.",
-    "en": "Here are the most important news stories from the last few hours."
+    "ru": "Вот последние важные новости за последние часы.",
+    "en": "Here are the latest important news stories from the past hours."
   },
   "stories": [
     {
-      "link": "http://www.euronews.com/business/2026/08/27/syrias-president-pays-for-coffee-with-visa-card-as-damascus-rejoins-global-financial-syste",
-      "source": "Euronews",
+      "link": "https://www.aljazeera.com/gallery/2026/8/27/photos-more-than-1400-missing-in-nepal-and-tibet-after-deadly-floods?traffic_source=rss",
+      "source": "Al Jazeera",
       "title": {
-        "ru": "Сирийский президент расплатился за кофе картой Visa, когда Дамаск вернулся в глобальную финансовую систему",
-        "en": "Syria's president pays for coffee with Visa card as Damascus rejoins global financial systems"
+        "ru": "Сотни пропавших без вести в Непале и Тибете после смертоносных наводнений",
+        "en": "Over 1,300 missing in Nepal and Tibet after deadly floods"
       },
       "summary": {
-        "ru": "Президент Сирии расплатился за кофе в Дамаске картой Visa, что символизирует возвращение страны в глобальную финансовую систему после исключения из списка спонсоров терроризма США.",
-        "en": "Syria's president paid for a coffee in Damascus with a Visa card, marking the country's removal from the US list of state sponsors of terrorism and its reconnection to the global financial system."
-      },
-      "category": {
-        "ru": "Экономика",
-        "en": "Economy"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods",
-      "source": "New York Times",
-      "title": {
-        "ru": "Спасатели ищут выживших в Гималаях после смертоносного наводнения",
-        "en": "Live Updates: Rescuers Scour Himalayan Valleys for Survivors After Deadly Flood"
-      },
-      "summary": {
-        "ru": "Более 1000 человек пропали без вести в Непале и Тибете после наводнения, унесшего жизни 273 человек.",
-        "en": "More than 1,000 people are missing in Nepal and the Tibet region after a torrent of mud, water, and ice swept away villages and bridges, with officials confirming 273 deaths."
+        "ru": "Более 1,300 человек пропали без вести после наводнений, вызванных обрушением ледника на границе Непала и Тибета, где погибли как минимум 270 человек.",
+        "en": "More than 1,300 people are missing after floods caused by a glacier collapse on the Nepal-Tibet border, with at least 270 confirmed dead."
       },
       "category": {
         "ru": "Конфликт",
@@ -41,15 +25,47 @@
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/08/27/world/asia/nepal-china-flash-flood-rescue-roads-bridges.html",
-      "source": "New York Times",
+      "link": "http://www.euronews.com/2026/08/27/trump-says-mojtaba-khamenei-alive-but-very-seriously-wounded-in-february-strikes",
+      "source": "Euronews",
       "title": {
-        "ru": "Спасатели в Непале сталкиваются с разрушенными дорогами и сложным рельефом после смертоносного наводнения",
-        "en": "Rescuers in Nepal Face Devastated Roads and Tough Terrain After Deadly Flood"
+        "ru": "Трамп утверждает, что Моджтаба Хаменеи жив, но 'очень серьезно ранен'",
+        "en": "Trump says Mojtaba Khamenei alive but 'very seriously wounded' in February strikes"
       },
       "summary": {
-        "ru": "Разрушения от наводнения затрудняют поиски выживших и доставку помощи.",
-        "en": "The devastation from the deadly flood is hindering the search for survivors and the delivery of aid due to damaged roads and bridges."
+        "ru": "Президент США заявил, что Хаменеи получил серьезные травмы в результате ударов в феврале и не появлялся на публике с марта.",
+        "en": "The US president stated that Khamenei sustained serious injuries from strikes in February and has not appeared publicly since March."
+      },
+      "category": {
+        "ru": "Политика",
+        "en": "Politics"
+      }
+    },
+    {
+      "link": "http://www.euronews.com/business/2026/08/27/syrias-president-pays-for-coffee-with-visa-card-as-damascus-rejoins-global-financial-syste",
+      "source": "Euronews",
+      "title": {
+        "ru": "Сирийский президент расплатился за кофе картой Visa, когда Дамаск вернулся в финансовые системы",
+        "en": "Syria's president pays for coffee with Visa card as Damascus rejoins financial systems"
+      },
+      "summary": {
+        "ru": "Президент Сирии расплатился за кофе в Дамаске картой Visa, что символизирует возвращение страны в мировую финансовую систему.",
+        "en": "Syria's president paid for coffee in Damascus with a Visa card, marking the country's reconnection to the global financial system."
+      },
+      "category": {
+        "ru": "Экономика",
+        "en": "Economy"
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/australia-news/2026/aug/27/children-among-australian-tourists-missing-feared-dead-nepal-tibet-floods",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Непальские наводнения: пропавшие австралийцы идентифицированы, среди них дети",
+        "en": "Nepal floods: missing Australians identified as children among those yet to be found"
+      },
+      "summary": {
+        "ru": "Среди пропавших без вести 15 австралийцев, включая детей, которые находились в Непале во время наводнений.",
+        "en": "Among the missing are 15 Australians, including children, who were in Nepal during the floods."
       },
       "category": {
         "ru": "Конфликт",
@@ -60,12 +76,12 @@
       "link": "https://www.nytimes.com/2026/08/27/world/middleeast/saudi-arabia-yemen-houthis-war.html",
       "source": "New York Times",
       "title": {
-        "ru": "Саудовская Аравия, похоже, готовится к новой войне с Хуситами",
+        "ru": "Саудовская Аравия, похоже, готовится к новой войне с хуситами",
         "en": "Saudi Arabia Appears to Be Preparing for a New War With the Houthis"
       },
       "summary": {
-        "ru": "Аналитики считают, что недавние атаки Хуситов на саудовские цели могут привести к полномасштабному конфликту.",
-        "en": "Analysts suggest that recent Houthi attacks on Saudi targets may bring the kingdom to the brink of a full-blown conflict."
+        "ru": "Аналитики сообщают, что недавние атаки хуситов на саудовские цели могут привести к новому конфликту.",
+        "en": "Analysts report that recent Houthi attacks on Saudi targets may bring about a new conflict."
       },
       "category": {
         "ru": "Конфликт",
@@ -80,92 +96,76 @@
         "en": "Russian Sanctions Are Fueling a Canadian Car Theft Epidemic"
       },
       "summary": {
-        "ru": "Россия стала крупнейшим направлением для украденных канадских автомобилей, что создает черный рынок.",
-        "en": "Russia has become the largest destination for stolen Canadian cars, with smugglers meeting the demand of a booming black market."
+        "ru": "Канада сталкивается с ростом краж автомобилей, так как Россия стала крупнейшим рынком для угнанных машин.",
+        "en": "Canada is facing a surge in car thefts as Russia becomes the largest market for stolen vehicles."
       },
       "category": {
-        "ru": "Общество",
-        "en": "Society"
+        "ru": "Экономика",
+        "en": "Economy"
       }
     },
     {
-      "link": "https://www.theguardian.com/australia-news/2026/aug/27/queensland-concedes-law-imposing-mandatory-jail-on-some-offenders-as-young-as-10-breaches-human-rights-ntwnfb",
+      "link": "https://www.theguardian.com/business/2026/aug/27/uk-small-power-plants-risk-cyber-attacks-iran-hack",
       "source": "The Guardian",
       "title": {
-        "ru": "Правительство Квинсленда признает, что закон о обязательном тюремном заключении для некоторых правонарушителей нарушает права человека",
-        "en": "Queensland concedes law imposing mandatory jail on some offenders as young as 10 breaches human rights"
+        "ru": "Киберугроза для малых электростанций Великобритании после взлома, связанного с Ираном",
+        "en": "UK’s small power plants face continued cyber risk after Iran-linked hack"
       },
       "summary": {
-        "ru": "Государственное правительство признало, что новые законы могут привести к переполнению тюрем и жестоким последствиям.",
-        "en": "The Queensland government has conceded that its new laws could breach human rights and risk overcrowding in jails."
+        "ru": "Малые электростанции Великобритании остаются под угрозой кибератак после недавнего взлома.",
+        "en": "Small power plants in the UK remain at risk of cyberattacks following a recent hack."
       },
       "category": {
-        "ru": "Общество",
-        "en": "Society"
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Норвегия: королевская семья собирается у постели короля Харальда, его состояние ухудшается",
-        "en": "Norway's royal family gathers at King Harald's bedside as his condition worsens"
-      },
-      "summary": {
-        "ru": "89-летний король находится в больнице более недели с редким заболеванием крови.",
-        "en": "King Harald of Norway, aged 89, has been hospitalized for over a week due to a rare blood condition."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/8/27/malaysias-former-pm-ismail-sabri-charged-with-concealing-assets?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Бывший премьер-министр Малайзии Исмаил Сабри обвинен в сокрытии активов",
-        "en": "Malaysia’s former PM Ismail Sabri charged with concealing assets"
-      },
-      "summary": {
-        "ru": "Сабри, 66 лет, не признал себя виновным в том, что не предоставил полную декларацию активов.",
-        "en": "Former Malaysian PM Ismail Sabri has pleaded not guilty to charges of failing to provide a complete asset declaration."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      }
-    },
-    {
-      "link": "https://www.dw.com/en/trial-date-set-for-alleged-9-11-mastermind/a-78520448?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "title": {
-        "ru": "Судебная дата назначена для предполагаемого организатора терактов 11 сентября",
-        "en": "Trial date set for alleged 9/11 mastermind"
-      },
-      "summary": {
-        "ru": "Халид Шейх Мохаммед, как считается, спланировал теракты и другие акты насилия как высокопоставленный член Аль-Каиды.",
-        "en": "Khalid Sheikh Mohammed is believed to have masterminded the 9/11 attacks and other acts of terrorism as a senior member of al-Qaeda."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
+        "ru": "Технологии",
+        "en": "Tech"
       }
     },
     {
       "link": "https://www.nytimes.com/2026/08/27/world/americas/latin-america-democratic-socialists.html",
       "source": "New York Times",
       "title": {
-        "ru": "Демократические социалисты на подъеме в Уругвае",
+        "ru": "Демократические социалисты становятся популярными в Уругвае",
         "en": "Democratic Socialists Are the Toast of the Party in Uruguay"
       },
       "summary": {
-        "ru": "Успех прогрессивных кандидатов в США вдохновляет левых в других странах, борющихся с давлением со стороны администрации Трампа.",
-        "en": "The success of progressive candidates in the U.S. is inspiring leftists abroad who are struggling under pressure from the Trump administration."
+        "ru": "Успех прогрессивных кандидатов в США вдохновляет левых в Уругвае.",
+        "en": "The success of progressive candidates in the US is inspiring leftists in Uruguay."
       },
       "category": {
         "ru": "Политика",
         "en": "Politics"
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/australia-news/2026/aug/27/queensland-concedes-law-imposing-mandatory-jail-on-some-offenders-as-young-as-10-breaches-human-rights-ntwnfb",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Квинсленд признает, что закон о обязательном заключении нарушает права человека",
+        "en": "Queensland concedes law imposing mandatory jail on some offenders as young as 10 breaches human rights"
+      },
+      "summary": {
+        "ru": "Государственное правительство Квинсленда признало, что закон о обязательном заключении несовершеннолетних нарушает права человека.",
+        "en": "The Queensland government has conceded that its mandatory sentencing law for minors breaches human rights."
+      },
+      "category": {
+        "ru": "Общество",
+        "en": "Society"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Как 95-процентное снижение трафика в Ормузе изменило глобальную торговлю",
+        "en": "How a 95 percent drop in Hormuz traffic changed global shipping"
+      },
+      "summary": {
+        "ru": "Кризис в Ормузе нарушил глобальную торговлю, затрагивающую 80% мировых грузоперевозок.",
+        "en": "A crisis in Hormuz has disrupted global shipping, affecting 80% of world trade."
+      },
+      "category": {
+        "ru": "Экономика",
+        "en": "Economy"
       }
     }
   ]
