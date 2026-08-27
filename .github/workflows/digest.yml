@@ -2,18 +2,23 @@ name: Daily News Digest
 
 on:
   schedule:
-    # 06:17 UTC (09:00 Minsk) and 18:17 UTC (21:00 Minsk)
+    # 06:17 UTC (09:17 Minsk) and 18:17 UTC (21:17 Minsk)
     - cron: "17 6 * * *"
     - cron: "17 18 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   digest:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -45,6 +50,8 @@ jobs:
           MAX_LOOKBACK_HOURS: "24"
         run: npm run digest
 
+      # Pushes with GITHUB_TOKEN do not trigger other workflows (pages.yml),
+      # so deploy Mini App from this job after committing data.
       - name: Commit mini app data
         run: |
           git config user.name "github-actions[bot]"
@@ -52,3 +59,15 @@ jobs:
           git add miniapp/data/
           git diff --staged --quiet || git commit -m "Update digest data for mini app"
           git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Mini App artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: miniapp
+
+      - name: Deploy Mini App to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

@@ -48,6 +48,11 @@ MINI_APP_SHORT_NAME=digest
 
 Settings → Pages → Source: **GitHub Actions** → workflow **Deploy Mini App**.
 
+После каждого дайджеста `digest.yml` сам деплоит `miniapp/` на Pages.  
+(Пуш данных с `GITHUB_TOKEN` **не** запускает другие workflows — отдельный deploy в том же job обязателен.)
+
+Если Mini App «застыл», вручную: Actions → **Deploy Mini App** → Run workflow.
+
 ## GitHub Actions Variable
 
 | Variable | Value |
