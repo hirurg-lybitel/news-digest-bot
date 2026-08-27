@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-27T06:02:08.440Z",
+  "generatedAt": "2026-08-27T15:34:30.399Z",
   "date": "2026-08-27",
   "slot": "evening",
-  "periodHours": 4.840186666666667,
+  "periodHours": 9.532061666666667,
   "intro": {
-    "ru": "Вот последние новости за последние несколько часов.",
-    "en": "Here are the latest news stories from the past few hours."
+    "ru": "Вот последние новости за последние 10 часов.",
+    "en": "Here are the latest news stories from the past 10 hours."
   },
   "stories": [
     {
-      "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
+      "link": "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news",
+      "source": "The Guardian",
       "title": {
-        "ru": "Умер осуждённый военный преступник Боснии Серб Ратко Младич в возрасте 84 лет",
-        "en": "Convicted Bosnian Serb war criminal Ratko Mladić dies aged 84"
+        "ru": "Наводнение в Непале: более 350 погибших, 1400 человек пропали без вести",
+        "en": "Nepal flash flood: more than 350 killed, 1,400 missing"
       },
       "summary": {
-        "ru": "Ратко Младич, осуждённый за геноцид и военные преступления, скончался в тюрьме в Гааге. Он был одним из главных архитекторов этнических чисток во время войны в Боснии.",
-        "en": "Ratko Mladić, convicted of genocide and war crimes, died in prison in The Hague. He was one of the main architects of ethnic cleansing during the Bosnian war."
+        "ru": "В результате катастрофического наводнения в Непале и Тибете погибли более 350 человек, 1400 пропали без вести, в основном туристы. Спасательные команды продолжают искать выживших.",
+        "en": "A catastrophic flash flood in Nepal and Tibet has killed over 350 people, with 1,400 missing, mostly tourists. Rescue teams are continuing their search for survivors."
       },
       "category": {
         "ru": "Конфликт",
@@ -25,15 +25,79 @@
       }
     },
     {
-      "link": "https://www.theguardian.com/business/2026/aug/27/uk-airports-operator-cyber-attack-customer-data-accessed",
-      "source": "The Guardian",
+      "link": "https://www.nytimes.com/2026/08/27/world/canada/trade-war-french-language.html",
+      "source": "New York Times",
       "title": {
-        "ru": "Кибератака на три аэропорта Великобритании: данные 8,7 миллиона клиентов были скомпрометированы",
-        "en": "Three UK airports hit by cyber-attack with data of 8.7m customers accessed"
+        "ru": "США и Канада могут возобновить торговые переговоры",
+        "en": "Backing Off French Issue Could Restart U.S. Trade Talks, Canadian Official Says"
       },
       "summary": {
-        "ru": "Аэропорты Манчестера, Станстеда и Восточного Мидленда подверглись кибератаке, в результате которой были украдены данные о клиентах.",
-        "en": "Manchester, Stansted, and East Midlands airports were hit by a cyber-attack that compromised customer data."
+        "ru": "Канадский министр заявил, что отказ от французского вопроса может помочь возобновить торговые переговоры с США.",
+        "en": "A Canadian minister stated that backing off the French issue could help restart trade talks with the U.S."
+      },
+      "category": {
+        "ru": "Экономика",
+        "en": "Economy"
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/world/2026/aug/27/malaria-outbreak-kills-two-staff-at-frankfurt-airport-germany",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Вирус малярии убил двух сотрудников аэропорта Франкфурта",
+        "en": "Officials urge calm after malaria outbreak kills two staff at Frankfurt airport"
+      },
+      "summary": {
+        "ru": "В Германии после вспышки малярии, унесшей жизни двух работников аэропорта, власти призывают к спокойствию.",
+        "en": "In Germany, authorities are urging calm after a malaria outbreak that killed two airport staff."
+      },
+      "category": {
+        "ru": "Здоровье",
+        "en": "Health"
+      }
+    },
+    {
+      "link": "https://www.dw.com/en/uefa-to-bring-criminal-complaint-against-infantino/a-78536435?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "title": {
+        "ru": "UEFA подает уголовный иск против Инфантино",
+        "en": "UEFA to bring criminal complaint against Infantino"
+      },
+      "summary": {
+        "ru": "Европейская футбольная ассоциация готовит уголовный иск против президента ФИФА за его неудачный план продать долю в Кубке мира.",
+        "en": "UEFA is preparing a criminal complaint against FIFA president Infantino over his failed plan to sell a stake in the World Cup."
+      },
+      "category": {
+        "ru": "Спорт",
+        "en": "Sports"
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Младич, осуждённый за геноцид, скончался в возрасте 84 лет",
+        "en": "Convicted Bosnian Serb war criminal Mladić dies aged 84"
+      },
+      "summary": {
+        "ru": "Ратко Младич, осуждённый за геноцид, умер в тюрьме в Гааге.",
+        "en": "Ratko Mladić, convicted of genocide, has died in prison in The Hague."
+      },
+      "category": {
+        "ru": "Конфликт",
+        "en": "Conflict"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/features/2026/8/27/metas-18bn-settlement-how-social-platforms-will-change-for-child-users?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Мета достигла соглашения на сумму 18 миллиардов долларов",
+        "en": "Meta’s $18bn settlement: How social platforms will change for child users"
+      },
+      "summary": {
+        "ru": "Meta достигла соглашения на сумму 18 миллиардов долларов, что приведет к изменениям в социальных платформах для детей в США.",
+        "en": "Meta has reached an $18 billion settlement, leading to changes in social platforms for children in the U.S."
       },
       "category": {
         "ru": "Технологии",
@@ -41,259 +105,35 @@
       }
     },
     {
-      "link": "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Смертельные наводнения в Непале: более 350 погибших и новые предупреждения о повышении уровня воды в озерах",
-        "en": "Nepal flash flood: more than 350 killed amid warning of fresh danger from rising lake water"
-      },
-      "summary": {
-        "ru": "После катастрофических наводнений в Непале и Тибете пропали без вести почти 1400 человек, в основном туристов.",
-        "en": "Following catastrophic floods in Nepal and Tibet, nearly 1,400 people are missing, mostly tourists."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/us-news/live/2026/aug/27/cia-moscow-nato-ratcliffe-rutte-colby-trump-paxton-voting-latest-news-updates",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Глава ЦРУ якобы предостерёг Россию от атак на страны НАТО во время визита в Москву",
-        "en": "CIA chief reportedly warns Russia against attacking Nato countries on visit to Moscow"
-      },
-      "summary": {
-        "ru": "Кремль отверг сообщения о встрече с Джоном Ратклиффом, назвав их 'страшилками'.",
-        "en": "The Kremlin dismissed reports of a meeting with John Ratcliffe as 'scare stories'."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods",
+      "link": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
       "source": "New York Times",
       "title": {
-        "ru": "Спасательные операции в Непале: более 1000 пропавших без вести после наводнений",
-        "en": "Live Updates: Helicopters Rescue Nepal Flood Survivors, With More Than 1,000 Still Missing"
+        "ru": "Смерть Яёи Кусамы, японской поп-художницы, в возрасте 97 лет",
+        "en": "Yayoi Kusama, Japanese Pop Artist Known for Polka-Dot Paintings, Dies at 97"
       },
       "summary": {
-        "ru": "Тысячи людей остаются пропавшими без вести после наводнений в Непале и Тибете.",
-        "en": "Thousands remain missing after floods in Nepal and Tibet."
+        "ru": "Японская художница Яёи Кусама, известная своими картинами в горошек, скончалась в возрасте 97 лет.",
+        "en": "Japanese artist Yayoi Kusama, known for her polka-dot paintings, has died at the age of 97."
       },
       "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
+        "ru": "Культура",
+        "en": "Culture"
       }
     },
     {
-      "link": "https://www.dw.com/en/tragedy-in-nepal-how-do-flash-floods-happen/a-78526421?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "title": {
-        "ru": "В Непале произошли катастрофические наводнения: как это произошло?",
-        "en": "Tragedy in Nepal: How do flash floods happen?"
-      },
-      "summary": {
-        "ru": "Ученые работают над улучшением систем раннего предупреждения о наводнениях.",
-        "en": "Scientists are working to improve flood early warning systems."
-      },
-      "category": {
-        "ru": "Наука",
-        "en": "Science"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/environment/2026/aug/27/homes-damaged-storms-floods-follow-heatwaves-england-wales",
+      "link": "https://www.theguardian.com/business/2026/aug/27/uk-airports-operator-cyber-attack-customer-data-accessed",
       "source": "The Guardian",
       "title": {
-        "ru": "Сильные дожди и шторма наносят ущерб домам в Англии и Уэльсе",
-        "en": "Homes damaged as storms follow heatwaves in England and Wales"
+        "ru": "Кибератака на три аэропорта Великобритании",
+        "en": "Three UK airports hit by cyber-attack with data of 8.7m customers accessed"
       },
       "summary": {
-        "ru": "В результате сильных дождей и шторма в Англии и Уэльсе были повреждены десятки домов.",
-        "en": "Heavy rains and storms have damaged dozens of homes in England and Wales."
+        "ru": "Три аэропорта Великобритании подверглись кибератаке, в результате которой были украдены данные 8,7 миллиона клиентов.",
+        "en": "Three UK airports were hit by a cyber-attack that compromised the data of 8.7 million customers."
       },
       "category": {
-        "ru": "Общество",
-        "en": "Society"
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/cgjq49g8wwqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "В Камеруне вспыхнуло возмущение после убийств женщин",
-        "en": "'Silence is complicity' - top footballer hits out over Cameroon femicides"
-      },
-      "summary": {
-        "ru": "Убийства как минимум восьми женщин за неделю вызвали общественное недовольство в Камеруне.",
-        "en": "The killing of at least eight women in a week has sparked outrage in Cameroon."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/08/27/world/middleeast/qatar-visit-iran.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Катарский премьер-министр отправился в Тегеран на фоне войны в Иране",
-        "en": "Qatari Prime Minister Travels to Tehran as Iran War Nears Six-Month Mark"
-      },
-      "summary": {
-        "ru": "Шейх Мохаммед бин Абдулрахман Аль Тани стал ключевым посредником в конфликте.",
-        "en": "Sheikh Mohammed bin Abdulrahman Al Thani has been a key mediator in the conflict."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/world/2026/aug/27/britons-missing-flash-floods-nepal-tibet",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Поиски 33 британцев, пропавших без вести после наводнений в Непале и Тибете",
-        "en": "Search on for at least 33 Britons missing after flash floods in Nepal and Tibet"
-      },
-      "summary": {
-        "ru": "Спасательные команды ищут 33 британских граждан, пропавших после наводнений.",
-        "en": "Rescue teams are searching for 33 British nationals missing after the floods."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/8/27/russia-warns-it-could-target-uk-in-response-to-kyiv-firing-british-missiles?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Россия предупреждает, что может атаковать Великобританию в ответ на поддержку Украины",
-        "en": "Russia warns it could target UK in response to Kyiv firing British missiles"
-      },
-      "summary": {
-        "ru": "Министерство иностранных дел России угрожает ответными мерами на поддержку Украины.",
-        "en": "Russia's foreign ministry threatens retaliation against the UK for its support of Ukraine."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      }
-    },
-    {
-      "link": "https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods",
-      "source": "NPR",
-      "title": {
-        "ru": "Смертельные наводнения в Непале: более 1500 пропавших без вести",
-        "en": "At least 1,500 missing after deadly Nepal-Tibet floods"
-      },
-      "summary": {
-        "ru": "После наводнений в Непале и Тибете пропали без вести более 1500 человек.",
-        "en": "After the floods in Nepal and Tibet, more than 1,500 people are missing."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/8/27/trial-for-9-11-accused-including-khalid-sheikh-mohammed-set-for-june?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Судебный процесс над обвиняемыми в теракте 11 сентября назначен на июнь 2028 года",
-        "en": "Trial for 9/11 accused, including Khalid Sheikh Mohammed, set for June 2028"
-      },
-      "summary": {
-        "ru": "Судебные процессы над четырьмя обвиняемыми в теракте 11 сентября назначены на 2028 год.",
-        "en": "Trials for four accused in the 9/11 attacks are set for 2028."
-      },
-      "category": {
-        "ru": "Правосудие",
-        "en": "Justice"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/us-news/2026/aug/27/ice-agent-released-texas-minnesota-shooting",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Судья освободил агента ICE, обвиняемого в стрельбе в Миннесоте",
-        "en": "ICE agent charged with Minnesota shooting released from jail in Texas"
-      },
-      "summary": {
-        "ru": "Агент ICE, обвиняемый в стрельбе, был освобождён из тюрьмы в Техасе.",
-        "en": "An ICE agent charged with shooting was released from jail in Texas."
-      },
-      "category": {
-        "ru": "Правосудие",
-        "en": "Justice"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/al-jazeera-reports-from-hospital-in-flood-hit-nepal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "В Непале продолжаются спасательные операции после наводнений",
-        "en": "Al Jazeera reports from hospital in flood-hit Nepal"
-      },
-      "summary": {
-        "ru": "Al Jazeera сообщает из больницы в Непале после наводнений.",
-        "en": "Al Jazeera reports from a hospital in Nepal after the floods."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Норвегия: королевская семья собирается у постели короля Харальда",
-        "en": "Norway's royal family gathers at King Harald's bedside as his condition worsens"
-      },
-      "summary": {
-        "ru": "Король Харальд находится в больнице с редким заболеванием крови.",
-        "en": "King Harald is in the hospital with a rare blood condition."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/08/27/world/asia/nepal-flood-survivors.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "В Непале: как наводнения затопили деревни",
-        "en": "Survivors of Deadly Nepal Flood Recall Its Devastating Force"
-      },
-      "summary": {
-        "ru": "Выжившие описывают разрушительную силу наводнений в Непале.",
-        "en": "Survivors describe the devastating force of the floods in Nepal."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "В Непале: как наводнения затопили деревни",
-        "en": "What caused the Nepal-Tibet flash floods?"
-      },
-      "summary": {
-        "ru": "Как произошло катастрофическое наводнение в Непале и Тибете.",
-        "en": "What caused the catastrophic flooding in Nepal and Tibet."
-      },
-      "category": {
-        "ru": "Наука",
-        "en": "Science"
+        "ru": "Технологии",
+        "en": "Tech"
       }
     }
   ]
