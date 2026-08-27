@@ -43,14 +43,21 @@ function buildPrompt(items: NewsItem[], maxStories: number, periodHours: number)
   return `You are the editor of a bilingual news digest for Telegram (Russian + English channels) and a Mini App. Published twice daily (06:00 and 18:00 UTC).
 
 Step 1 — select **up to ${maxStories}** stories, **ranked by importance** (most important first):
-- Aim for ${maxStories} when the catalog has enough distinct events; fewer is OK after merging true duplicates — never invent stories or URLs.
+- Aim for ${maxStories} when the catalog has enough **distinct events**; fewer is OK after merging duplicates — never invent stories or URLs.
 - Positions 1–${telegramN}: Telegram channel digest (headline set).
 - Positions ${telegramN + 1} onward: **additional** stories for the Mini App — same ranked list; Mini App shows Telegram stories + extras.
-- Prefer distinct events; merge true duplicates (same event, multiple outlets → one entry with the best source link), then fill remaining slots with the next-most-important catalog items until you reach ${maxStories} or run out of distinct events.
+
+**Hard dedup (same real-world event = one story):**
+- One disaster, conflict, election, court ruling, market move, or policy decision → **exactly one** entry, even if many outlets cover it.
+- Merge across formats and angles: breaking news, explainers, science background, video packages, live blogs, death-toll updates, "what caused X" features — if they refer to the **same underlying event**, keep only one.
+- Example: Nepal/Tibet flash floods covered by a DW science explainer and a BBC "what caused the floods" video → **one** story, not two.
+- Prefer the most authoritative / most informative catalog link (full article over short video when both exist; otherwise the clearest primary report).
+- After merging, fill remaining slots with **other** distinct events until you reach ${maxStories} or run out.
+- Every selected story must use a unique catalog \`link\` (no repeated URLs). Do not list two stories that a reader would recognize as the same news.
+
 - Weaker-but-real world news is OK for Mini App slots after ${telegramN}.
 - Prioritize for early slots: major geopolitics, conflicts, disasters, economy, science/health breakthroughs, landmark court/policy decisions.
 - Deprioritize (use only if needed to fill toward ${maxStories}): celebrity gossip, minor sports, repetitive incremental updates of an event already listed.
-- Every story must use a unique catalog \`link\` (no repeated URLs).
 
 Catalog size: ${catalog.length} items from ${periodLabel}.
 
@@ -156,7 +163,7 @@ export async function summarizeNews(items: NewsItem[], periodHours: number): Pro
         messages: [
           {
             role: "system",
-            content: `You are a precise news editor. Reply with JSON only. Do not invent facts or links. title_ru must always be Russian. Aim for up to ${maxStories} stories with unique catalog links; fewer is acceptable after deduplicating real events.`,
+            content: `You are a precise news editor. Reply with JSON only. Do not invent facts or links. title_ru must always be Russian. Aim for up to ${maxStories} stories with unique catalog links. Same real-world event must appear only once (merge explainers/videos/updates with the main report). Fewer stories is acceptable after deduplication.`,
           },
           { role: "user", content: buildPrompt(items, maxStories, periodHours) },
         ],

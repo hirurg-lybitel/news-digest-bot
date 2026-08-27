@@ -40,7 +40,7 @@ export function formatDigestMessage(digest: DigestResult, publishedAt = new Date
   digest.stories.forEach((story, index) => {
     lines.push(
       `<b>${index + 1}. ${escapeHtml(story.title)}</b>`,
-      `<i>${escapeHtml(story.category)}</i> · ${escapeHtml(story.source)}`,
+      "",
       escapeHtml(story.summary),
       `<a href="${escapeHtml(story.link)}">${escapeHtml(labels.readMore)}</a>`,
       "",
