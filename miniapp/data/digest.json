@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-28T18:05:06.353Z",
+  "generatedAt": "2026-08-28T18:48:33.467Z",
   "date": "2026-08-28",
   "slot": "evening",
-  "periodHours": 11.990833333333333,
+  "periodHours": 1,
   "intro": {
-    "ru": "Вот последние новости за последние 12 часов.",
-    "en": "Here are the latest news updates from the past 12 hours."
+    "ru": "Вот последние новости за последние несколько часов.",
+    "en": "Here are the latest news from the past few hours."
   },
   "stories": [
     {
       "link": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
       "source": "New York Times",
       "title": {
-        "ru": "Число пропавших без вести в Непале удвоилось до 1900 на фоне отчаянных поисков выживших",
+        "ru": "Число пропавших без вести в Непале увеличилось до 1900 человек на фоне отчаянных поисков выживших",
         "en": "Nepal Roughly Doubles Number of Missing to 1,900 Amid Desperate Search for Survivors"
       },
       "summary": {
-        "ru": "Число пропавших без вести в Непале возросло до 1900 человек после разрушительных наводнений. Спасательные операции осложняются опасениями новых наводнений.",
-        "en": "The number of missing people in Nepal has risen to 1,900 following devastating floods. Rescue efforts are complicated by fears of new flooding."
+        "ru": "По данным представителя агентства по чрезвычайным ситуациям, число пропавших увеличилось после того, как около 900 человек были зарегистрированы как пропавшие на гидроэлектростанциях. Спасательные работы осложняются опасениями новых возможных наводнений.",
+        "en": "A spokeswoman for the disaster relief agency reported that the missing tally grew after about 900 people were reported missing from hydropower projects. Rescue efforts are complicated by fears of new possible flooding."
       },
       "category": {
         "ru": "Конфликт",
@@ -25,15 +25,31 @@
       }
     },
     {
-      "link": "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake",
-      "source": "The Guardian",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/deadly-russian-strikes-hit-civilian-targets-in-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
       "title": {
-        "ru": "США готовятся занять крупную долю в нефтегазовом секторе Венесуэлы",
-        "en": "Venezuelan opposition up in arms over reports US wants big stake in oil and gas"
+        "ru": "Смертельные российские удары по гражданским объектам в Украине",
+        "en": "Deadly Russian Strikes Hit Civilian Targets in Ukraine"
       },
       "summary": {
-        "ru": "Критики называют действия США «хищническими» и «неконституционными» на фоне сообщений о планах по получению доступа к энергетическим ресурсам Венесуэлы.",
-        "en": "Critics describe the US's actions as 'predatory' and 'unconstitutional' amid reports of plans to gain access to Venezuela's energy resources."
+        "ru": "Россия усилила атаки по всей Украине, убивая гражданских лиц и нанося ущерб домам и складам вблизи Киева.",
+        "en": "Russia intensified attacks across Ukraine, killing civilians and damaging homes and warehouses near Kyiv."
+      },
+      "category": {
+        "ru": "Конфликт",
+        "en": "Conflict"
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/08/28/world/middleeast/iran-war-six-months-israel-us.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Почему многие иранцы теряют надежду после шести месяцев войны",
+        "en": "Why Many Iranians Are Losing Hope After Six Months of War"
+      },
+      "summary": {
+        "ru": "Иранцы становятся все более отчаявшимися, сталкиваясь с экономическим кризисом, усугубленным конфликтом, и все более скептически относятся к мотивам президента Трампа.",
+        "en": "Iranians have become increasingly desperate as they grapple with an economic crisis worsened by the conflict and grow increasingly skeptical about President Trump's motives."
       },
       "category": {
         "ru": "Политика",
@@ -41,47 +57,15 @@
       }
     },
     {
-      "link": "https://www.aljazeera.com/news/2026/8/28/us-judge-denies-injunction-against-trumps-new-birthright-citizenship-order?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Суд в США отклонил иск против нового указа Трампа о гражданстве по праву рождения",
-        "en": "US judge denies injunction against Trump’s new birthright citizenship order"
-      },
-      "summary": {
-        "ru": "Это временное поражение для защитников прав иммигрантов, которым было предложено пересмотреть свою петицию.",
-        "en": "This is a temporary setback for immigrant rights advocates, who have been instructed to revise their petition."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/8/28/dutch-court-hands-life-sentence-to-rwandan-man-for-genocide-role?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Суд в Нидерландах приговорил мужчину к пожизненному заключению за участие в геноциде в Руанде",
-        "en": "Dutch court hands life sentence to Rwandan man for genocide role"
-      },
-      "summary": {
-        "ru": "Мужчина был осужден за участие в массовом убийстве 3000 тутси во время геноцида в Руанде.",
-        "en": "The man was convicted for his role in the massacre of 3,000 Tutsis during the Rwandan genocide."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/08/28/world/europe/king-harald-norway-death.html",
+      "link": "https://www.nytimes.com/2026/08/28/world/europe/king-harald-v-dead.html",
       "source": "New York Times",
       "title": {
-        "ru": "Норвегия прощается с королем Харальдом V",
-        "en": "Mourners in Norway Remember King Harald V"
+        "ru": "Смерть короля Норвегии Харальда V на фоне столкновения традиций и современности",
+        "en": "Harald V, Norway’s King as Tradition and Modernity Collided, Dies at 89"
       },
       "summary": {
-        "ru": "Норвежцы скорбят по королю, который оставил значительное наследие, несмотря на скандалы в королевской семье.",
-        "en": "Norwegians mourn the king who left a significant legacy despite scandals involving the royal family."
+        "ru": "Его 35-летнее правление открыло древнюю монархию для браков с так называемыми простыми людьми и вызвало скандальную ассоциацию с Джеффри Эпштейном.",
+        "en": "His 35-year reign opened an ancient monarchy to marriages with so-called commoners and sparked an incendiary association with Jeffrey Epstein."
       },
       "category": {
         "ru": "Общество",
@@ -89,15 +73,15 @@
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/08/28/world/europe/norway-new-king-haakon.html",
-      "source": "New York Times",
+      "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
       "title": {
-        "ru": "Коронованный принц Хаакон становится новым королем Норвегии",
-        "en": "Who Is Haakon, Norway’s New King?"
+        "ru": "Норвегия скорбит по королю Харальду, пока Хаакон VIII восходит на трон",
+        "en": "Norway Mourns King Harald as Haakon VIII Ascends Throne"
       },
       "summary": {
-        "ru": "Принц Хаакон, единственный сын короля Харальда V, становится монархом, выполняя в основном церемониальные функции.",
-        "en": "Crown Prince Haakon, the only son of King Harald V, becomes monarch, taking on largely ceremonial duties."
+        "ru": "Собравшиеся у дворца скорбят о любимом короле, чей сын принял семейный девиз «всё для Норвегии».",
+        "en": "Mourners gather outside the palace as royals, politicians, and citizens remember a beloved king, whose son has adopted the family motto 'all for Norway'."
       },
       "category": {
         "ru": "Общество",
@@ -105,115 +89,35 @@
       }
     },
     {
-      "link": "https://www.aljazeera.com/economy/2026/8/28/us-fed-chair-warns-inflation-progress-insufficient-hints-at-rate-hikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Председатель ФРС США предупреждает о недостаточном прогрессе в борьбе с инфляцией",
-        "en": "US Fed chair warns inflation progress insufficient, hints at rate hikes"
-      },
-      "summary": {
-        "ru": "Кевин Уорш подчеркивает приверженность ФРС борьбе с инфляцией, намекая на возможные повышения ставок.",
-        "en": "Kevin Warsh emphasizes the Fed's commitment to tackling inflation, hinting at possible rate hikes."
-      },
-      "category": {
-        "ru": "Экономика",
-        "en": "Economy"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/economy/2026/8/28/canadian-economy-recovers-sharply-in-q2-but-shadow-of-us-tariffs-in-future?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Канадская экономика резко восстанавливается во втором квартале, но тень тарифов США остается",
-        "en": "Canadian economy recovers sharply in Q2 but shadow of US tariffs in future"
-      },
-      "summary": {
-        "ru": "Сильный внутренний спрос показывает, что Канада справляется с последствиями прошлых тарифов.",
-        "en": "Strong domestic demand indicates that Canada is coping with the effects of past tariffs."
-      },
-      "category": {
-        "ru": "Экономика",
-        "en": "Economy"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/food/2026/aug/28/salmonella-cases-in-uk-likely-to-rise-until-source-of-outbreak-is-found",
-      "source": "The Guardian",
-      "title": {
-        "ru": "В Непале растет число случаев сальмонеллеза, пока не будет найден источник вспышки",
-        "en": "Salmonella cases in UK likely to rise until source of outbreak is found"
-      },
-      "summary": {
-        "ru": "Эксперты предупреждают, что случаи сальмонеллеза в Великобритании могут возрасти, пока не будет выявлен общий источник.",
-        "en": "Experts warn that salmonella cases in the UK may rise until a common source is identified."
-      },
-      "category": {
-        "ru": "Здоровье",
-        "en": "Health"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/features/2026/8/28/nepali-families-pray-for-miracles-with-relatives-missing-after-flood?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "В Непале растет число пропавших без вести после наводнений",
-        "en": "Nepali families pray for miracles with relatives missing after flood"
-      },
-      "summary": {
-        "ru": "Семьи в Непале молятся о чудесах, ожидая новостей о своих близких, пропавших без вести после наводнений.",
-        "en": "Families in Nepal are praying for miracles as they await news of their loved ones missing after the floods."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
-      }
-    },
-    {
-      "link": "https://www.npr.org/2026/08/28/nx-s1-5946732/hundreds-killed-over-1-000-missing-after-flash-floods-in-nepal-and-tibet",
-      "source": "NPR",
-      "title": {
-        "ru": "В Непале и Тибете число жертв наводнений превышает 600, более 1900 пропавших без вести",
-        "en": "Hundreds killed, over 1,000 missing after flash floods in Nepal and Tibet"
-      },
-      "summary": {
-        "ru": "Сотни людей погибли в результате разрушительных наводнений, которые затопили дороги и целые деревни.",
-        "en": "Hundreds have died due to devastating floods that swept away roads and entire villages."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
-      }
-    },
-    {
-      "link": "https://www.dw.com/en/nepal-tibet-flood-death-toll-passes-500-as-rescue-resumes/a-78539559?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "title": {
-        "ru": "В Непале и Тибете число жертв наводнений превышает 600, более 1900 пропавших без вести",
-        "en": "Nepal-Tibet flood death toll passes 500 as rescue resumes"
-      },
-      "summary": {
-        "ru": "Красный Крест сообщает, что более 93 000 человек пострадали от наводнений и оползней на границе Китая и Непала.",
-        "en": "The Red Cross reports that over 93,000 people are affected by floods and landslides on the China-Nepal border."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/08/28/world/asia/afghanistan-girls-education.html",
+      "link": "https://www.nytimes.com/2026/08/28/world/asia/mount-kailash-nepal-floods.html",
       "source": "New York Times",
       "title": {
-        "ru": "Секретные школы для девочек в Афганистане продолжают функционировать",
-        "en": "Inside Afghanistan’s Secret Schools for Girls"
+        "ru": "Гора Кайлаш, священная для четырех верований, привлекла паломников, потерянных в наводнениях Непала и Тибета",
+        "en": "Mount Kailash, Sacred to 4 Faiths, Drew Pilgrims Lost in Nepal and Tibet Floods"
       },
       "summary": {
-        "ru": "Несмотря на запрет на образование для девочек, в Афганистане продолжают действовать тайные классы.",
-        "en": "Despite the ban on education for girls, secret classrooms continue to operate in Afghanistan."
+        "ru": "Вершина почитается индуистами, буддистами, джайнами и последователями предбуддийской религии Бон.",
+        "en": "The peak is revered by Hindus, Buddhists, Jains, and those belonging to the pre-Buddhist Bon religion."
       },
       "category": {
-        "ru": "Общество",
-        "en": "Society"
+        "ru": "Конфликт",
+        "en": "Conflict"
+      }
+    },
+    {
+      "link": "https://cnn.it/40OSomK",
+      "source": "CNN",
+      "title": {
+        "ru": "Множество миллионов под угрозой из-за вредоносного ПО в китайском шопинг-приложении",
+        "en": "Hundreds of Millions at Risk from Chinese Shopping App Malware"
+      },
+      "summary": {
+        "ru": "Пользователи китайского шопинг-приложения подвергаются риску из-за обнаруженного вредоносного ПО.",
+        "en": "Users of a Chinese shopping app are at risk due to detected malware."
+      },
+      "category": {
+        "ru": "Технологии",
+        "en": "Tech"
       }
     }
   ]
