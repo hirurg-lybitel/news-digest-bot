@@ -36,6 +36,39 @@ export type BilingualDigest = {
   intro: Record<Locale, string>;
 };
 
+export const CATEGORY_KEYS = [
+  "conflict",
+  "politics",
+  "economy",
+  "technology",
+  "science",
+  "health",
+  "climate",
+  "disaster",
+  "law",
+  "society",
+  "culture",
+  "sport",
+  "world",
+] as const;
+
+export type CategoryKey = (typeof CATEGORY_KEYS)[number];
+
+export type EventCluster = {
+  representativeIndex: number;
+  memberIndices: number[];
+  score: number;
+  category: CategoryKey;
+  rationale: string;
+  repaired?: boolean;
+};
+
+export type RankedEvent = EventCluster & {
+  rank: number;
+  representative: NewsItem;
+  members: NewsItem[];
+};
+
 export type ChannelTarget = {
   id: string;
   locale: Locale;

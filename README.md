@@ -10,11 +10,12 @@ Brand: [brand/BRANDING.md](brand/BRANDING.md) · Story selection: [docs/SELECTIO
 
 ## How it works
 
-1. **GitHub Actions** on cron: **06:00 UTC** (09:00 Minsk) and **18:00 UTC** (21:00 Minsk).
+1. **GitHub Actions** on cron: **06:17 UTC** (09:17 Minsk) and **18:17 UTC** (21:17 Minsk).
 2. Fetch RSS from BBC, AP, CNN, NPR, NYT, Guardian, DW, Euronews, and Al Jazeera.
 3. Keep items **since the last successful digest** (not a fixed 24h window); state in `miniapp/data/state.json`.
-4. OpenAI aims for **up to 30** ranked stories for the Mini App (fewer is OK); Telegram posts show the **top 10** of that same list.
-5. The bot posts to both channels with an inline **Open in app** button (Telegram Mini App on GitHub Pages).
+4. OpenAI clusters RSS entries into events and ranks them in one compact pass, then generates RU/EN copy for up to **30** representatives in batches.
+5. Telegram posts show the **top 10** of the exact same ordered list; the Mini App shows all available stories.
+6. The bot posts to both channels with an inline **Open in app** button (Telegram Mini App on GitHub Pages).
 
 See [docs/SELECTION.md](docs/SELECTION.md) for the full selection pipeline.
 
@@ -78,6 +79,8 @@ Requests go through [chatgpt-proxy.gdmn.app](https://chatgpt-proxy.gdmn.app/open
 | `DEFAULT_LOOKBACK_HOURS` | `12` | Window on first run (no state file) |
 | `MAX_LOOKBACK_HOURS` | `24` | Cap if a scheduled run was missed |
 | `OPENAI_MODEL` | `gpt-4o-mini` | Model for selection and copy |
+| `OPENAI_INPUT_USD_PER_MILLION` | `0.15` | Input-token rate used for telemetry estimates |
+| `OPENAI_OUTPUT_USD_PER_MILLION` | `0.60` | Output-token rate used for telemetry estimates |
 
 ## Project layout
 
@@ -85,7 +88,10 @@ Requests go through [chatgpt-proxy.gdmn.app](https://chatgpt-proxy.gdmn.app/open
 src/
   index.ts        # pipeline + multi-channel publish
   fetchNews.ts    # RSS fetch + dedup
-  summarize.ts    # AI selection + RU/EN texts
+  eventSelection.ts # compact event clustering + ranking
+  storyGeneration.ts # batched RU/EN text generation
+  summarize.ts    # pipeline orchestration
+  telemetry.ts    # calls, token cost, clusters, output snapshot
   format.ts       # HTML formatting per locale
   locale.ts       # RU/EN labels
   publishData.ts  # JSON export for Mini App

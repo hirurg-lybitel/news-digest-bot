@@ -4,8 +4,14 @@ import { resolveLookbackWindow, writeLastDigestAt } from "./digestState.js";
 import { formatDigestMessage } from "./format.js";
 import { publishDigestData } from "./publishData.js";
 import { digestForLocale, summarizeNews } from "./summarize.js";
-import { publishTelemetry } from "./telemetry.js";
+import {
+  contentHash,
+  publishTelemetry,
+  storyRefs,
+  summarizeCost,
+} from "./telemetry.js";
 import { sendToTelegram } from "./telegram.js";
+import type { Locale } from "./locale.js";
 
 async function main(): Promise<void> {
   const channels = config.channels();
@@ -30,18 +36,16 @@ async function main(): Promise<void> {
   const dataPath = await publishDigestData(bilingual, publishedAt, window.hours);
   console.log(`Published mini app data: ${dataPath}`);
 
-  const telemetryPath = await publishTelemetry(
-    { ...telemetry, generatedAt: publishedAt.toISOString() },
-    publishedAt,
-  );
-  console.log(`Published AI telemetry: ${telemetryPath}`);
-  if (telemetry.selectionNotes) {
-    console.log(`[telemetry] selection_notes: ${telemetry.selectionNotes}`);
-  }
-
-  for (const channel of channels) {
+  const preparedPosts = channels.map((channel) => {
     const digest = digestForLocale(bilingual, channel.locale, config.topN);
-    const message = formatDigestMessage(digest, publishedAt);
+    return {
+      channel,
+      digest,
+      message: formatDigestMessage(digest, publishedAt),
+    };
+  });
+
+  for (const { channel, message } of preparedPosts) {
 
     if (config.dryRun) {
       console.log(`\n--- DRY RUN [${channel.locale}] ${channel.chatId} ---\n`);
@@ -60,6 +64,36 @@ async function main(): Promise<void> {
   if (!config.dryRun) {
     await writeLastDigestAt(publishedAt);
     console.log(`Updated digest state: ${publishedAt.toISOString()}`);
+  }
+
+  const telegramContentHashes = Object.fromEntries(
+    preparedPosts.map(({ channel, message }) => [channel.locale, contentHash(message)]),
+  ) as Partial<Record<Locale, string>>;
+  const cost = summarizeCost(telemetry.calls);
+  const telemetryPath = await publishTelemetry(
+    {
+      ...telemetry,
+      generatedAt: publishedAt.toISOString(),
+      cost,
+      snapshot: {
+        miniApp: {
+          storyCount: bilingual.stories.length,
+          stories: storyRefs(bilingual.stories),
+        },
+        telegram: {
+          storyCount: Math.min(config.topN, bilingual.stories.length),
+          stories: storyRefs(bilingual.stories.slice(0, config.topN)),
+          contentHashes: telegramContentHashes,
+        },
+      },
+    },
+    publishedAt,
+  );
+  console.log(`Published AI telemetry: ${telemetryPath}`);
+  if (cost.estimatedTotalUsd != null) {
+    console.log(
+      `[telemetry] AI cost ≈ $${cost.estimatedTotalUsd.toFixed(6)} (${cost.inputTokens} input + ${cost.outputTokens} output tokens)`,
+    );
   }
 }
 

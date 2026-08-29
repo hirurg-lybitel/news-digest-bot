@@ -24,8 +24,8 @@ function makeId(link: string, title: string): string {
 
 function isPublishedSince(date: Date | null, since: Date): boolean {
   if (!date || Number.isNaN(date.getTime())) {
-    // Если даты нет — оставляем: лучше чуть больше шума, чем потерять новость.
-    return true;
+    // Undated feed entries can remain forever and pollute every digest.
+    return false;
   }
   return date.getTime() >= since.getTime();
 }

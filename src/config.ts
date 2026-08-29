@@ -42,6 +42,9 @@ export const config = {
     return targets;
   },
   openaiModel: process.env.OPENAI_MODEL?.trim() || "gpt-4o-mini",
+  /** Used only to estimate cost in telemetry; override when model pricing changes. */
+  openaiInputUsdPerMillion: Number(process.env.OPENAI_INPUT_USD_PER_MILLION || 0.15),
+  openaiOutputUsdPerMillion: Number(process.env.OPENAI_OUTPUT_USD_PER_MILLION || 0.6),
   /** Stories in Telegram channel posts */
   topN: Number(process.env.DIGEST_TOP_N || 10),
   /** Stories selected by AI and exported to the Mini App */
