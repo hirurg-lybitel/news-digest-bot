@@ -3,6 +3,13 @@ import { config } from "./config.js";
 import { chatCompletionJson } from "./openai.js";
 import type { BilingualDigest, DigestResult, NewsItem } from "./types.js";
 import type { Locale } from "./locale.js";
+import {
+  errorMessage,
+  rawPreview,
+  storyRefs,
+  type DigestTelemetry,
+  type TelemetryAttempt,
+} from "./telemetry.js";
 
 const StorySchema = z.object({
   title_ru: z.string(),
@@ -21,15 +28,21 @@ function digestSchema(maxStories: number) {
   return z.object({
     intro_ru: z.string(),
     intro_en: z.string(),
+    selection_notes: z.string().optional(),
     stories: z.array(StorySchema).min(1).max(maxStories),
   });
 }
 
 function fillSchema(need: number) {
   return z.object({
-    stories: z.array(StorySchema).min(1).max(need),
+    stories: z.array(StorySchema).max(need),
   });
 }
+
+export type SummarizeResult = {
+  digest: BilingualDigest;
+  telemetry: Omit<DigestTelemetry, "generatedAt">;
+};
 
 function catalogPayload(items: NewsItem[]) {
   return items.slice(0, 100).map((item, i) => ({
@@ -52,7 +65,6 @@ function periodLabel(periodHours: number): string {
 function minAcceptableCount(maxStories: number, poolSize: number): number {
   if (poolSize < config.topN) return 1;
   if (poolSize < 20) return Math.min(maxStories, Math.max(config.topN, poolSize));
-  // e.g. max 30 → require at least 20 before giving up on retries
   return Math.min(maxStories, Math.max(20, Math.ceil(maxStories * 0.67)));
 }
 
@@ -85,12 +97,15 @@ Step 2 — write BOTH language versions for each selected story:
 - category_ru / category_en: short topic label.
 - link and source: copy exactly from the catalog — do not invent URLs.
 
-Also write intro_ru and intro_en (1 sentence each).
+Also write:
+- intro_ru / intro_en (1 sentence each)
+- selection_notes: 2–4 sentences in English for telemetry — ranking rationale, major merges/dedups, and why the list is shorter than ${maxStories} if it is.
 
 Return ONLY valid JSON:
 {
   "intro_ru": "...",
   "intro_en": "...",
+  "selection_notes": "...",
   "stories": [ { "title_ru": "...", "title_en": "...", "summary_ru": "...", "summary_en": "...", "link": "...", "source": "...", "category_ru": "...", "category_en": "..." } ]
 }
 
@@ -114,6 +129,7 @@ Rules:
 - Weaker-but-real world news is OK — this is the Mini App overflow, not the Telegram top ${config.topN}.
 - Unique links; bilingual fields as usual (title_ru must be Russian).
 - link/source exact from catalog.
+- If nothing suitable remains, return { "stories": [] }.
 
 Already selected (do not duplicate):
 ${JSON.stringify(taken, null, 2)}
@@ -176,26 +192,54 @@ function uniqueValidStories(
   return out;
 }
 
+/** Best-effort extract of story objects when Zod rejects the whole fill payload. */
+function coerceStoryDrafts(raw: string): StoryDraft[] {
+  try {
+    const parsed = JSON.parse(raw) as { stories?: unknown };
+    if (!Array.isArray(parsed.stories)) return [];
+    const out: StoryDraft[] = [];
+    for (const item of parsed.stories) {
+      const result = StorySchema.safeParse(item);
+      if (result.success) out.push(result.data);
+    }
+    return out;
+  } catch {
+    return [];
+  }
+}
+
 async function selectInitial(
   items: NewsItem[],
   maxStories: number,
   periodHours: number,
   allowedLinks: Set<string>,
   minAcceptable: number,
-): Promise<{ intro_ru: string; intro_en: string; stories: StoryDraft[] }> {
+  attempts: TelemetryAttempt[],
+): Promise<{
+  intro_ru: string;
+  intro_en: string;
+  selection_notes: string | null;
+  stories: StoryDraft[];
+}> {
   let lastError: unknown;
-  let best: { intro_ru: string; intro_en: string; stories: StoryDraft[] } | null = null;
+  let best: {
+    intro_ru: string;
+    intro_en: string;
+    selection_notes: string | null;
+    stories: StoryDraft[];
+  } | null = null;
 
   for (let attempt = 1; attempt <= 3; attempt++) {
+    let raw = "";
     try {
-      const raw = await chatCompletionJson({
+      raw = await chatCompletionJson({
         model: config.openaiModel,
         temperature: attempt === 1 ? 0.35 : 0.25,
         response_format: { type: "json_object" },
         messages: [
           {
             role: "system",
-            content: `You are a precise news editor. JSON only. Do not invent facts or links. title_ru must be Russian. Return as close to ${maxStories} distinct-event stories as the catalog allows — never stop at ${config.topN} when more distinct events remain.`,
+            content: `You are a precise news editor. JSON only. Do not invent facts or links. title_ru must be Russian. Return as close to ${maxStories} distinct-event stories as the catalog allows — never stop at ${config.topN} when more distinct events remain. Include selection_notes for telemetry.`,
           },
           { role: "user", content: buildPrompt(items, maxStories, periodHours) },
         ],
@@ -211,8 +255,22 @@ async function selectInitial(
       const candidate = {
         intro_ru: parsed.intro_ru,
         intro_en: parsed.intro_en,
+        selection_notes: parsed.selection_notes?.trim() || null,
         stories,
       };
+
+      attempts.push({
+        phase: "select",
+        attempt,
+        ok: stories.length >= minAcceptable,
+        storyCount: stories.length,
+        stories: storyRefs(stories),
+        ...(stories.length < minAcceptable
+          ? {
+              error: `Too few stories: ${stories.length}/${maxStories} (need ≥${minAcceptable})`,
+            }
+          : {}),
+      });
 
       if (!best || stories.length > best.stories.length) {
         best = candidate;
@@ -227,6 +285,15 @@ async function selectInitial(
       );
     } catch (error) {
       lastError = error;
+      if (!attempts.some((a) => a.phase === "select" && a.attempt === attempt)) {
+        attempts.push({
+          phase: "select",
+          attempt,
+          ok: false,
+          error: errorMessage(error),
+          ...(raw ? { rawPreview: rawPreview(raw) } : {}),
+        });
+      }
       console.warn(`[summarize] select attempt ${attempt}/3 failed:`, error);
     }
   }
@@ -248,39 +315,82 @@ async function fillMoreStories(
   already: StoryDraft[],
   maxStories: number,
   allowedLinks: Set<string>,
+  attempts: TelemetryAttempt[],
 ): Promise<StoryDraft[]> {
   const need = maxStories - already.length;
   if (need <= 0) return [];
 
   const taken = new Set(already.map((s) => s.link));
   const remaining = items.filter((item) => !taken.has(item.link));
-  if (remaining.length < 1) return [];
+  if (remaining.length < 1) {
+    attempts.push({
+      phase: "fill",
+      attempt: 0,
+      ok: false,
+      error: "No remaining catalog links to fill",
+    });
+    return [];
+  }
 
   let lastError: unknown;
 
   for (let attempt = 1; attempt <= 2; attempt++) {
+    let raw = "";
     try {
-      const raw = await chatCompletionJson({
+      raw = await chatCompletionJson({
         model: config.openaiModel,
         temperature: 0.3,
         response_format: { type: "json_object" },
         messages: [
           {
             role: "system",
-            content: `JSON only. Add up to ${need} more distinct Mini App stories from the remaining catalog. title_ru must be Russian. Do not invent links.`,
+            content: `JSON only. Add up to ${need} more distinct Mini App stories from the remaining catalog. title_ru must be Russian. Do not invent links. Empty stories array is allowed if nothing suitable remains.`,
           },
           { role: "user", content: buildFillPrompt(remaining, need, already) },
         ],
       });
 
-      const parsed = fillSchema(need).parse(JSON.parse(raw));
-      const added = uniqueValidStories(parsed.stories, allowedLinks, need, taken);
+      let drafts: StoryDraft[] = [];
+      const parsed = fillSchema(need).safeParse(JSON.parse(raw));
+      if (parsed.success) {
+        drafts = parsed.data.stories;
+      } else {
+        drafts = coerceStoryDrafts(raw);
+        if (drafts.length < 1) {
+          throw parsed.error;
+        }
+        console.warn(
+          `[summarize] fill attempt ${attempt}: Zod soft-fail, kept ${drafts.length} coerced stories`,
+        );
+      }
+
+      const added = uniqueValidStories(drafts, allowedLinks, need, taken);
+      attempts.push({
+        phase: "fill",
+        attempt,
+        ok: added.length > 0,
+        storyCount: added.length,
+        stories: storyRefs(added),
+        ...(added.length < 1
+          ? { error: "Fill pass returned no new valid stories", rawPreview: rawPreview(raw) }
+          : {}),
+      });
+
       if (added.length < 1) {
         throw new Error("Fill pass returned no new valid stories");
       }
       return added;
     } catch (error) {
       lastError = error;
+      if (!attempts.some((a) => a.phase === "fill" && a.attempt === attempt)) {
+        attempts.push({
+          phase: "fill",
+          attempt,
+          ok: false,
+          error: errorMessage(error),
+          ...(raw ? { rawPreview: rawPreview(raw) } : {}),
+        });
+      }
       console.warn(`[summarize] fill attempt ${attempt}/2 failed:`, error);
     }
   }
@@ -289,7 +399,10 @@ async function fillMoreStories(
   return [];
 }
 
-export async function summarizeNews(items: NewsItem[], periodHours: number): Promise<BilingualDigest> {
+export async function summarizeNews(
+  items: NewsItem[],
+  periodHours: number,
+): Promise<SummarizeResult> {
   const maxStories = Math.min(items.length, config.miniAppTopN);
 
   if (maxStories < 1) {
@@ -298,6 +411,7 @@ export async function summarizeNews(items: NewsItem[], periodHours: number): Pro
 
   const allowedLinks = new Set(items.map((i) => i.link));
   const minAcceptable = minAcceptableCount(maxStories, items.length);
+  const attempts: TelemetryAttempt[] = [];
 
   const selected = await selectInitial(
     items,
@@ -305,6 +419,7 @@ export async function summarizeNews(items: NewsItem[], periodHours: number): Pro
     periodHours,
     allowedLinks,
     minAcceptable,
+    attempts,
   );
 
   let stories = selected.stories;
@@ -313,7 +428,7 @@ export async function summarizeNews(items: NewsItem[], periodHours: number): Pro
     console.warn(
       `[summarize] ${stories.length}/${maxStories} after select — running fill pass`,
     );
-    const extra = await fillMoreStories(items, stories, maxStories, allowedLinks);
+    const extra = await fillMoreStories(items, stories, maxStories, allowedLinks, attempts);
     stories = [...stories, ...extra].slice(0, maxStories);
   }
 
@@ -325,8 +440,32 @@ export async function summarizeNews(items: NewsItem[], periodHours: number): Pro
     console.log(`[summarize] filled ${stories.length}/${maxStories} stories`);
   }
 
-  return toBilingualDigest(
-    { ru: selected.intro_ru, en: selected.intro_en },
-    stories,
-  );
+  const selectedLinks = new Set(stories.map((s) => s.link));
+  const unusedCatalog = items
+    .filter((item) => !selectedLinks.has(item.link))
+    .map((item) => ({
+      title: item.title,
+      source: item.source,
+      link: item.link,
+    }));
+
+  return {
+    digest: toBilingualDigest(
+      { ru: selected.intro_ru, en: selected.intro_en },
+      stories,
+    ),
+    telemetry: {
+      model: config.openaiModel,
+      periodHours,
+      poolSize: items.length,
+      maxStories,
+      minAcceptable,
+      telegramTopN: config.topN,
+      selectionNotes: selected.selection_notes,
+      attempts,
+      finalStoryCount: stories.length,
+      finalStories: storyRefs(stories),
+      unusedCatalog,
+    },
+  };
 }

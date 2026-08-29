@@ -4,6 +4,7 @@ import { resolveLookbackWindow, writeLastDigestAt } from "./digestState.js";
 import { formatDigestMessage } from "./format.js";
 import { publishDigestData } from "./publishData.js";
 import { digestForLocale, summarizeNews } from "./summarize.js";
+import { publishTelemetry } from "./telemetry.js";
 import { sendToTelegram } from "./telegram.js";
 
 async function main(): Promise<void> {
@@ -22,12 +23,21 @@ async function main(): Promise<void> {
     throw new Error("No news items in the lookback window");
   }
 
-  const bilingual = await summarizeNews(items, window.hours);
+  const { digest: bilingual, telemetry } = await summarizeNews(items, window.hours);
   console.log(`Selected ${bilingual.stories.length} stories (bilingual)`);
 
   const publishedAt = new Date();
   const dataPath = await publishDigestData(bilingual, publishedAt, window.hours);
   console.log(`Published mini app data: ${dataPath}`);
+
+  const telemetryPath = await publishTelemetry(
+    { ...telemetry, generatedAt: publishedAt.toISOString() },
+    publishedAt,
+  );
+  console.log(`Published AI telemetry: ${telemetryPath}`);
+  if (telemetry.selectionNotes) {
+    console.log(`[telemetry] selection_notes: ${telemetry.selectionNotes}`);
+  }
 
   for (const channel of channels) {
     const digest = digestForLocale(bilingual, channel.locale, config.topN);
