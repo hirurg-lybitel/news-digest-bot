@@ -1,59 +1,75 @@
 {
-  "generatedAt": "2026-08-29T20:31:39.807Z",
+  "generatedAt": "2026-08-29T20:49:52.810Z",
   "date": "2026-08-29",
   "slot": "evening",
-  "periodHours": 2.4687941666666666,
+  "periodHours": 11.784051944444444,
   "intro": {
-    "ru": "Вот последние новости за последние два часа.",
-    "en": "Here are the latest news from the past two hours."
+    "ru": "Вот свежие новости за последние 12 часов.",
+    "en": "Here are the latest news stories from the past 12 hours."
   },
   "stories": [
     {
       "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "title": {
-        "ru": "По меньшей мере 37 человек погибли и сотни эвакуированы после удара по складскому комплексу в Киеве",
+        "ru": "В результате удара по складу оружия в Киеве погибли как минимум 37 человек",
         "en": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot"
       },
       "summary": {
-        "ru": "Начато расследование по факту хранения оружия для украинской армии рядом с жилыми районами.",
+        "ru": "Начато расследование по факту хранения оружия для украинской армии в жилом районе.",
         "en": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
       },
       "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
+        "ru": "Конфликты",
+        "en": "Conflicts"
       }
     },
     {
       "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
       "source": "New York Times",
       "title": {
-        "ru": "Спасатели Непала пробивают туннели, чтобы попытаться достичь 900 рабочих, пропавших без вести после наводнений",
+        "ru": "Спасатели Непала пробиваются через туннели, чтобы попытаться достать 900 рабочих, пропавших после наводнений",
         "en": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods"
       },
       "summary": {
-        "ru": "Армия Непала, ведущая спасательные работы, обратилась к trapped workers более чем через день после наводнения.",
+        "ru": "Армия Непала, ведущая спасательные работы, обратилась за помощью к trapped workers более чем через день после наводнения.",
         "en": "The Nepal Army, which is leading rescue efforts, turned to the trapped workers more than a day after the flood."
       },
       "category": {
-        "ru": "Катастрофа",
-        "en": "Disaster"
+        "ru": "Катастрофы",
+        "en": "Disasters"
       }
     },
     {
-      "link": "https://www.theguardian.com/business/2026/aug/30/australians-buying-less-pizza-more-weight-loss-drugs-consumer-report",
-      "source": "The Guardian",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
+      "source": "Al Jazeera",
       "title": {
-        "ru": "Австралийцы проявляют большой интерес к препаратам для похудения и ускорению перехода на электромобили",
-        "en": "August reveals Australians’ big appetite for weight-loss drugs, love for ‘dupe’ brands and an accelerating EV uptake"
+        "ru": "Газа исчерпала запасы лекарств от рака на фоне продолжающихся израильских атак",
+        "en": "Gaza runs out of cancer medicines, as Israeli strikes continue"
       },
       "summary": {
-        "ru": "Отчетный сезон показывает, как потребители реагируют на давление стоимости жизни и как ритейлеры отвечают на это.",
-        "en": "Reporting season shows how consumers are responding to cost of living pressures and how retailers are responding."
+        "ru": "Врачи сообщают, что лекарства от рака полностью закончились, поскольку продолжаются израильские удары.",
+        "en": "Officials at Gaza’s Al-Aqsa Martyrs Hospital say cancer medicines have completely run out, as Israeli strikes continue."
       },
       "category": {
-        "ru": "Экономика",
-        "en": "Economy"
+        "ru": "Здравоохранение",
+        "en": "Health"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Число жертв лесных пожаров в Алжире ожидается, что вырастет, так как выжившие сообщают, что ничего не осталось",
+        "en": "Algeria wildfire death toll expected to rise as survivors say nothing left"
+      },
+      "summary": {
+        "ru": "Алжир сообщает о как минимум 12 погибших в результате лесных пожаров, охвативших северо-восток.",
+        "en": "Algeria says at least 12 people have been killed in wildfires sweeping the northeast, with the toll expected to rise."
+      },
+      "category": {
+        "ru": "Катастрофы",
+        "en": "Disasters"
       }
     },
     {
@@ -64,124 +80,44 @@
         "en": "Israeli settlers attack Palestinian homes in West Bank"
       },
       "summary": {
-        "ru": "Маскированные израильские поселенцы начали свою первую крупную атаку с момента начала осады в деревне Кусра.",
-        "en": "Masked Israeli settlers launched their first major attack since initiating a siege in the village of Qusra."
+        "ru": "Нападения были встречены редкой критикой со стороны премьер-министра Бенджамина Нетаньяху.",
+        "en": "Masked Israeli settlers launched their first major attack since initiating a siege in the village of Qusra earlier this month."
       },
       "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
+        "ru": "Конфликты",
+        "en": "Conflicts"
       }
     },
     {
-      "link": "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death",
-      "source": "The Guardian",
+      "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+      "source": "New York Times",
       "title": {
-        "ru": "Полиция Лос-Анджелеса публикует видео о смерти человека, которого они заковали в наручники и избили",
-        "en": "LAPD releases footage of death of man whom police handcuffed and beat"
+        "ru": "В Непале число пропавших без вести увеличилось до почти 3000 – последние обновления",
+        "en": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation"
       },
       "summary": {
-        "ru": "Хосе Карлос Хойоз-Муньос был арестован после семейной ссоры и был задержан за 'агрессивное' поведение.",
-        "en": "Jose Carlos Hoyoz-Munoz was arrested after a family altercation and restrained for ‘combative’ behavior."
+        "ru": "По мере продолжения спасательных работ масштаб разрушений становится очевидным.",
+        "en": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation."
       },
       "category": {
-        "ru": "Правосудие",
-        "en": "Justice"
+        "ru": "Катастрофы",
+        "en": "Disasters"
       }
     },
     {
-      "link": "https://www.theguardian.com/music/2026/aug/29/tennessee-dolly-parton-airport-name-change",
-      "source": "The Guardian",
+      "link": "https://www.dw.com/en/death-toll-from-nepal-tibet-floods-rises-to-over-600/a-78555290?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
       "title": {
-        "ru": "Губернатор Теннесси поддерживает изменение названия аэропорта в честь Долли Партон",
-        "en": "Tennessee governor says he backs airport name change to honor Dolly Parton"
+        "ru": "Смертность от наводнений в Непале и Тибете возросла до более чем 600",
+        "en": "Death toll from Nepal-Tibet floods rises to over 600"
       },
       "summary": {
-        "ru": "Губернатор Билл Ли заявил, что поддерживает предложение переименовать международный аэропорт Нэшвилла в честь легендарной певицы.",
-        "en": "Bill Lee says he favors proposal to rename Nashville’s international airport after legendary country singer Dolly Parton."
+        "ru": "Сильные дожди усложняют и без того сложные спасательные работы.",
+        "en": "Heavy rain is complicating an already difficult rescue effort, as hundreds remain missing three days after deadly flash floods hit the Nepal-Tibet border region."
       },
       "category": {
-        "ru": "Культура",
-        "en": "Culture"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue",
-      "source": "The Guardian",
-      "title": {
-        "ru": "В Непале растет число пропавших без вести до почти 3000 человек после наводнений",
-        "en": "Nepal-Tibet floods: Nepal calls for technical support for rescue efforts as number of missing rises to nearly 3,000"
-      },
-      "summary": {
-        "ru": "Правительство Непала заявляет, что Индия и Китай отправляют экспертные команды для спасения.",
-        "en": "Nepali government says India and China are sending expert tunnel rescue teams as the number of missing rises."
-      },
-      "category": {
-        "ru": "Катастрофа",
-        "en": "Disaster"
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Бывший президент Эквадора осужден за коррупцию",
-        "en": "Former Ecuadorian president imprisoned for corruption"
-      },
-      "summary": {
-        "ru": "Ленин Морено отрицает получение взяток от китайской компании за контракт на строительство гидроэлектростанции.",
-        "en": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/8/29/us-says-far-right-provocateur-milo-yiannopoulos-has-been-deported-to-uk?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "США сообщают, что правый провокатор Майло Яннопулос был депортирован в Великобританию",
-        "en": "US says far-right provocateur Milo Yiannopoulos has been deported to UK"
-      },
-      "summary": {
-        "ru": "Социальный медиа-персонаж был задержан иммиграционными агентами в аэропорту Нового Орлеана.",
-        "en": "The social media personality had been detained by immigration agents at an airport in New Orleans earlier in the week."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/tunisians-desperate-for-water-as-taps-run-dry?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Тунисцы отчаянно ищут воду, так как краны пересохли",
-        "en": "Tunisians desperate for water as taps run dry"
-      },
-      "summary": {
-        "ru": "Тунисцы испытывают трудности с доступом к воде из-за экстремальной жары и стареющей инфраструктуры.",
-        "en": "Tunisians are struggling to access water as extreme heat, power cuts, and aging infrastructure disrupt tap supplies."
-      },
-      "category": {
-        "ru": "Социальные проблемы",
-        "en": "Social Issues"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/8/29/us-judge-rules-against-trumps-effort-to-deport-pro-palestinian-students?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Судья США отклоняет попытку Трампа депортировать про-палестинских студентов",
-        "en": "US judge rules against Trump’s effort to deport pro-Palestinian students"
-      },
-      "summary": {
-        "ru": "Федеральный судья раскритиковал правительство Трампа за попытку ограничить права иностранных студентов на свободу слова.",
-        "en": "A federal judge criticised the Trump government for attempting to infringe upon foreign students' rights to free speech."
-      },
-      "category": {
-        "ru": "Правосудие",
-        "en": "Justice"
+        "ru": "Катастрофы",
+        "en": "Disasters"
       }
     },
     {
@@ -192,92 +128,76 @@
         "en": "Norway's new king remembers 'my dear father' in first speech"
       },
       "summary": {
-        "ru": "Хаакон VIII эмоционально вспоминает своего покойного отца, прежде чем изложить, как он хочет править.",
+        "ru": "Хаакон VIII отдает эмоциональную дань уважения своему покойному отцу, Харольду V.",
         "en": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign."
       },
       "category": {
-        "ru": "Культура",
-        "en": "Culture"
+        "ru": "Королевские новости",
+        "en": "Royal News"
       }
     },
     {
-      "link": "https://www.aljazeera.com/news/2026/8/29/haitian-gangs-release-13-captives-after-mass-kidnapping-in-kenscoff?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/8/29/us-judge-rules-against-trumps-effort-to-deport-pro-palestinian-students?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Гангстеры Гаити освобождают 13 заложников после массового похищения в Кенскофе",
-        "en": "Haitian gangs release 13 captives after mass kidnapping in Kenscoff"
+        "ru": "Суд в США отклонил усилия Трампа по депортации про-палестинских студентов",
+        "en": "US judge rules against Trump’s effort to deport pro-Palestinian students"
       },
       "summary": {
-        "ru": "Атака в Кенскофе унесла как минимум 47 жизней и привела к похищению более 50 человек.",
-        "en": "The attack in Kenscoff killed at least 47 people and resulted in the kidnapping of more than 50, as gangs exert control."
+        "ru": "Федеральный судья раскритиковал правительство Трампа за попытку нарушить права иностранных студентов.",
+        "en": "A federal judge criticised the Trump government for attempting to infringe upon foreign students' rights to free speech."
       },
       "category": {
-        "ru": "Криминал",
-        "en": "Crime"
+        "ru": "Политика",
+        "en": "Politics"
       }
     },
     {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/dr-congo-begins-vaccinating-against-largest-and-deadliest-ebola-outbreak?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "В Непале началась вакцинация против крупнейшей и смертоносной вспышки лихорадки Эбола",
-        "en": "DR Congo begins vaccinating against largest and deadliest Ebola outbreak"
+        "ru": "В Нигере военные сообщают о восстановлении контроля после попытки мятежа",
+        "en": "Niger military says it is regaining control after attempted mutiny"
       },
       "summary": {
-        "ru": "70 000 доз вакцины Ervebo были отправлены в ДР Конго в надежде, что они окажутся эффективными против штамма Бундибуго.",
-        "en": "70,000 Ervebo vaccine doses have been sent to DR Congo in hope they prove effective against the Bundibugyo strain."
+        "ru": "Военные Нигера сообщают о восстановлении контроля после мятежа в Ньяме.",
+        "en": "Niger’s military says it is regaining control after a mutiny in Niamey after gun fire was heard in the capital."
       },
       "category": {
-        "ru": "Здоровье",
-        "en": "Health"
+        "ru": "Конфликты",
+        "en": "Conflicts"
       }
     },
     {
-      "link": "https://www.aljazeera.com/news/2026/8/29/pakistan-suspends-eight-officials-over-hospital-fire-that-killed-14-babies?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "В Пакистане при пожаре в больнице погибли 14 младенцев, отстранены восемь чиновников",
-        "en": "Pakistan suspends eight officials over hospital fire that killed 14 babies"
+        "ru": "Турция вызывает посла Украины из-за атак в Черном море",
+        "en": "Turkiye summons Ukraine ambassador over Black Sea attacks"
       },
       "summary": {
-        "ru": "Предварительное расследование выявило отсутствие протоколов пожарной безопасности в больнице Исламабада.",
-        "en": "Interim inquiry finds lack of fire safety protocols at Islamabad hospital, prompting suspensions and criminal probe."
+        "ru": "Два турецких судна были поражены на этой неделе в результате войны между Россией и Украиной.",
+        "en": "Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine."
       },
       "category": {
-        "ru": "Правосудие",
-        "en": "Justice"
+        "ru": "Геополитика",
+        "en": "Geopolitics"
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/08/29/world/europe/diamond-necklace-theft-vienna.html",
-      "source": "New York Times",
+      "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
       "title": {
-        "ru": "В Вене грабители разбивают музейный витрину ради алмазного ожерелья стоимостью миллионы",
-        "en": "Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna"
+        "ru": "Смертельный удар по складу в Киеве приводит к эвакуациям",
+        "en": "Deadly strike on Kyiv warehouse prompts evacuations"
       },
       "summary": {
-        "ru": "Кража драгоценного объекта, когда-то принадлежавшего египетской королеве, стала последней в череде громких потерь музеев.",
-        "en": "The theft of the precious object, once owned by an Egyptian queen, was the latest in a string of high-profile museum losses."
+        "ru": "Удар по складу привел к гибели более 30 человек.",
+        "en": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people."
       },
       "category": {
-        "ru": "Криминал",
-        "en": "Crime"
-      }
-    },
-    {
-      "link": "https://cnn.it/40OSomK",
-      "source": "CNN",
-      "title": {
-        "ru": "Китайские приложения для покупок подвергли риску сотни миллионов пользователей из-за вредоносного ПО",
-        "en": "Hundreds of millions at risk from Chinese shopping app malware"
-      },
-      "summary": {
-        "ru": "",
-        "en": ""
-      },
-      "category": {
-        "ru": "Технологии",
-        "en": "Technology"
+        "ru": "Конфликты",
+        "en": "Conflicts"
       }
     }
   ]

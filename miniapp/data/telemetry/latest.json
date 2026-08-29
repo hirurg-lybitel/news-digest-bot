@@ -1,0 +1,596 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.784051944444444,
+  "poolSize": 85,
+  "maxStories": 30,
+  "minAcceptable": 21,
+  "telegramTopN": 10,
+  "selectionNotes": "The selection prioritizes significant geopolitical events, conflicts, and disasters, leading to a list of 30 distinct stories. Major merges included the Russian strike on a weapons depot near Kyiv, which was reported multiple times under different headlines. The list reflects a focus on impactful global news, with a balance of political, humanitarian, and environmental issues.",
+  "attempts": [
+    {
+      "phase": "select",
+      "attempt": 1,
+      "ok": false,
+      "storyCount": 12,
+      "stories": [
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
+          "source": "New York Times",
+          "title_en": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Gaza runs out of cancer medicines, as Israeli strikes continue"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Algeria wildfire death toll expected to rise as survivors say nothing left"
+        },
+        {
+          "link": "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Israeli settlers attack Palestinian homes in West Bank"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+          "source": "New York Times",
+          "title_en": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation"
+        },
+        {
+          "link": "https://www.dw.com/en/death-toll-from-nepal-tibet-floods-rises-to-over-600/a-78555290?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Death toll from Nepal-Tibet floods rises to over 600"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Norway's new king remembers 'my dear father' in first speech"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/29/us-judge-rules-against-trumps-effort-to-deport-pro-palestinian-students?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "US judge rules against Trump’s effort to deport pro-Palestinian students"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Niger military says it is regaining control after attempted mutiny"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Turkiye summons Ukraine ambassador over Black Sea attacks"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Deadly strike on Kyiv warehouse prompts evacuations"
+        }
+      ],
+      "error": "Too few stories: 12/30 (need ≥21)"
+    },
+    {
+      "phase": "select",
+      "attempt": 2,
+      "ok": false,
+      "error": "[\n  {\n    \"origin\": \"array\",\n    \"code\": \"too_big\",\n    \"maximum\": 30,\n    \"inclusive\": true,\n    \"path\": [\n      \"stories\"\n    ],\n    \"message\": \"Too big: expected array to have <=30 items\"\n  }\n]",
+      "rawPreview": "{ \"intro_ru\": \"Сегодня в нашем дайджесте важные события из мира политики, экономики и науки.\", \"intro_en\": \"Today's digest features important events from the world of politics, economy, and science.\", \"selection_notes\": \"The selection prioritizes significant geopolitical events, conflicts, and disasters, with a focus on the ongoing situation in Ukraine and the humanitarian crisis in Nepal. Several stories were merged due to overlapping events, particularly regarding the strikes in Kyiv and the floods in Nepal. The final list includes 30 distinct stories, reflecting a comprehensive overview of recent developments.\", \"stories\": [ { \"title_ru\": \"По меньшей мере 37 человек погибли после удара по складу оружия в Киеве\", \"title_en\": \"At least 37 dead after strike on Kyiv weapons depot\", \"summary_ru\": \"В результате удара по складу оружия в Киеве погибли по меньшей мере 37 человек, и начато расследование хранения оружия в жилом районе.\", \"summary_en\": \"At least 37 people have died after a strike on a weapons depot in Kyiv, with an investigation launched into the storage of weapons in a residential area.\", \"link\": \"https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss\", \"source\": \"BBC\", \"category_ru\": \"Конфликт\", \"category_en\": \"Conflict\" }, { \"title_ru\": \"Спасатели Непала продолжают искать 900 пропавших рабочих после наводнения\", \"title_en\": \"Nepal rescuers search for 900 missing workers after floods\", \"summary_ru\": \"Спасатели Непала продолжают искать 900 рабочих, пропавших после наводнения, и обращаются за международной помощью.\", \"summary_en\": \"Rescuers in Nepal are continuing to search for 900 workers missing after floods, seeking international assistance.\", \"link\": \"https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html\", \"source\": \"New York Times\", \"category_ru\": \"Катастрофа\", \"category_en\": \"Disaster\" }, { \"title_ru\": \"Газа осталась без лекарств от рака на фоне продолжающихся израильских ударов\", \"title_en\": \"Gaza runs out of cancer medicines as Israeli strikes continue\", \"summary_ru\": \"Больницы в Газе сообщают о полном отсутствии лекарств от рака на фоне продолжающихся израильских атак.\", \"summary_en\": \"Hospitals in Gaza report a complete shortage of cancer medicines as Israeli strikes continue.\", \"link\": \"https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss\", \"source\": \"Al Jazeera\", \"category_ru\": \"Здравоохранение\", \"category_en…"
+    },
+    {
+      "phase": "select",
+      "attempt": 3,
+      "ok": false,
+      "storyCount": 11,
+      "stories": [
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Deadly strike on Kyiv weapons depot kills 37"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+          "source": "New York Times",
+          "title_en": "Nepal floods: Missing persons rise to nearly 3,000"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Gaza runs out of cancer medicines as Israeli strikes continue"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Algeria wildfire death toll expected to rise as survivors say nothing left"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Norway’s new king pays tribute to his late father"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Turkey summons Ukraine ambassador over Black Sea attacks"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/29/us-judge-rules-against-trumps-effort-to-deport-pro-palestinian-students?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "US judge rules against Trump’s effort to deport pro-Palestinian students"
+        },
+        {
+          "link": "https://www.dw.com/en/zimbabwe-crash-involving-church-minibus-kills-27/a-78558710?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Zimbabwe crash involving church minibus kills 27"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/29/pakistan-suspends-eight-officials-over-hospital-fire-that-killed-14-babies?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Pakistan suspends eight officials over hospital fire that killed 14 babies"
+        },
+        {
+          "link": "http://www.euronews.com/2026/08/29/hundreds-of-foreign-nationals-among-the-missing-following-deadly-nepal-floods",
+          "source": "Euronews",
+          "title_en": "Hundreds of foreign nationals among the missing following deadly Nepal floods"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Norway’s new king remembers 'my dear father'"
+        }
+      ],
+      "error": "Too few stories: 11/30 (need ≥21)"
+    },
+    {
+      "phase": "fill",
+      "attempt": 1,
+      "ok": false,
+      "error": "[\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      0,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      0,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      0,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      0,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      1,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      1,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      1,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      1,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      2,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      2,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      2,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      2,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      3,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      3,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      3,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      3,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      4,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      4,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      4,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      4,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      5,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      5,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      5,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      5,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      6,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      6,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      6,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      6,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      7,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      7,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      7,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      7,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      8,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      8,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      8,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      8,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      9,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      9,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      9,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      9,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      10,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      10,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      10,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      10,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      11,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      11,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      11,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      11,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      12,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      12,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      12,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      12,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      13,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      13,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      13,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      13,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      14,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      14,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      14,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      14,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      15,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      15,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      15,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      15,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  }\n]",
+      "rawPreview": "{ \"stories\": [ { \"title_en\": \"Iceland votes in a tight race on whether to resume talks to join the EU\", \"title_ru\": \"Исландия голосует в напряженной гонке о возобновлении переговоров о вступлении в ЕС\", \"link\": \"https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss\", \"source\": \"Al Jazeera\" }, { \"title_en\": \"Norway’s new king pays tribute to his late father as the country mourns\", \"title_ru\": \"Новый король Норвегии отдает дань уважения своему покойному отцу, пока страна скорбит\", \"link\": \"https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss\", \"source\": \"Al Jazeera\" }, { \"title_en\": \"Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna\", \"title_ru\": \"Воры разбивают музейный витрину за алмазное ожерелье стоимостью миллионы в Вене\", \"link\": \"https://www.nytimes.com/2026/08/29/world/europe/diamond-necklace-theft-vienna.html\", \"source\": \"New York Times\" }, { \"title_en\": \"Former Ecuadorian president imprisoned for corruption\", \"title_ru\": \"Бывший президент Эквадора осужден за коррупцию\", \"link\": \"https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss\", \"source\": \"BBC\" }, { \"title_en\": \"Tunisians desperate for water as taps run dry\", \"title_ru\": \"Тунисцы в отчаянии из-за нехватки воды, так как краны пересохли\", \"link\": \"https://www.aljazeera.com/video/newsfeed/2026/8/29/tunisians-desperate-for-water-as-taps-run-dry?traffic_source=rss\", \"source\": \"Al Jazeera\" }, { \"title_en\": \"Haitian gangs release 13 captives after mass kidnapping in Kenscoff\", \"title_ru\": \"Группировки Гаити освобождают 13 заложников после массового похищения в Кенскофе\", \"link\": \"https://www.aljazeera.com/news/2026/8/29/haitian-gangs-release-13-captives-after-mass-kidnapping-in-kenscoff?traffic_source=rss\", \"source\": \"Al Jazeera\" }, { \"title_en\": \"Pakistan suspends eight officials over hospital fire that killed 14 babies\", \"title_ru\": \"Пакистан приостанавливает восемь чиновников из-за пожара в больнице, в результате которого погибли 14 младенцев\", \"link\": \"https://www.aljazeera.com/news/2026/8/29/pakistan-suspends-eight-officials-over-hospital-fire-that-killed-14-babies?traffic_source=rss\", \"source\": \"Al Jazeera\" }, { \"title_en\": \"DR Congo begins vaccinating against largest and deadliest Ebola outbreak\", \"title_ru\": \"ДР Конго начинает вакцинацию против крупнейшего и смертоносного всплеска Эб…"
+    },
+    {
+      "phase": "fill",
+      "attempt": 2,
+      "ok": false,
+      "error": "[\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      0,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      0,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      0,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      0,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      1,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      1,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      1,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      1,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      2,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      2,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      2,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      2,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      3,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      3,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      3,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      3,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      4,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      4,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      4,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      4,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      5,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      5,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      5,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      5,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      6,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      6,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      6,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      6,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      7,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      7,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      7,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      7,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      8,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      8,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      8,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      8,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      9,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      9,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      9,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      9,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      10,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      10,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      10,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      10,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      11,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      11,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      11,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      11,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      12,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      12,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      12,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      12,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      13,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      13,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      13,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      13,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      14,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      14,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      14,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      14,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      15,\n      \"summary_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      15,\n      \"summary_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      15,\n      \"category_ru\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  },\n  {\n    \"expected\": \"string\",\n    \"code\": \"invalid_type\",\n    \"path\": [\n      \"stories\",\n      15,\n      \"category_en\"\n    ],\n    \"message\": \"Invalid input: expected string, received undefined\"\n  }\n]",
+      "rawPreview": "{ \"stories\": [ { \"title_en\": \"Iceland votes in a tight race on whether to resume talks to join the EU\", \"title_ru\": \"Исландия голосует в напряженной гонке о возобновлении переговоров о вступлении в ЕС\", \"link\": \"https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss\", \"source\": \"Al Jazeera\" }, { \"title_en\": \"Norway’s new king pays tribute to his late father as the country mourns\", \"title_ru\": \"Новый король Норвегии отдает дань уважения своему покойному отцу, пока страна скорбит\", \"link\": \"https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss\", \"source\": \"Al Jazeera\" }, { \"title_en\": \"Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna\", \"title_ru\": \"Воры разбивают музейный витрину за алмазное ожерелье стоимостью миллионы в Вене\", \"link\": \"https://www.nytimes.com/2026/08/29/world/europe/diamond-necklace-theft-vienna.html\", \"source\": \"New York Times\" }, { \"title_en\": \"Former Ecuadorian president imprisoned for corruption\", \"title_ru\": \"Бывший президент Эквадора заключен в тюрьму за коррупцию\", \"link\": \"https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss\", \"source\": \"BBC\" }, { \"title_en\": \"Tunisians desperate for water as taps run dry\", \"title_ru\": \"Тунисцы в отчаянии из-за нехватки воды, так как краны пересохли\", \"link\": \"https://www.aljazeera.com/video/newsfeed/2026/8/29/tunisians-desperate-for-water-as-taps-run-dry?traffic_source=rss\", \"source\": \"Al Jazeera\" }, { \"title_en\": \"Haitian gangs release 13 captives after mass kidnapping in Kenscoff\", \"title_ru\": \"Группировки Гаити освободили 13 заложников после массового похищения в Кенскофе\", \"link\": \"https://www.aljazeera.com/news/2026/8/29/haitian-gangs-release-13-captives-after-mass-kidnapping-in-kenscoff?traffic_source=rss\", \"source\": \"Al Jazeera\" }, { \"title_en\": \"Pakistan suspends eight officials over hospital fire that killed 14 babies\", \"title_ru\": \"Пакистан приостановил восемь чиновников после пожара в больнице, в котором погибли 14 младенцев\", \"link\": \"https://www.aljazeera.com/news/2026/8/29/pakistan-suspends-eight-officials-over-hospital-fire-that-killed-14-babies?traffic_source=rss\", \"source\": \"Al Jazeera\" }, { \"title_en\": \"DR Congo begins vaccinating against largest and deadliest Ebola outbreak\", \"title_ru\": \"ДР Конго начинает вакцинацию против крупнейшего и смертоносного вспышки Эбола\", \"l…"
+    }
+  ],
+  "finalStoryCount": 12,
+  "finalStories": [
+    {
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title_en": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot"
+    },
+    {
+      "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
+      "source": "New York Times",
+      "title_en": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods"
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title_en": "Gaza runs out of cancer medicines, as Israeli strikes continue"
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title_en": "Algeria wildfire death toll expected to rise as survivors say nothing left"
+    },
+    {
+      "link": "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "title_en": "Israeli settlers attack Palestinian homes in West Bank"
+    },
+    {
+      "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+      "source": "New York Times",
+      "title_en": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation"
+    },
+    {
+      "link": "https://www.dw.com/en/death-toll-from-nepal-tibet-floods-rises-to-over-600/a-78555290?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "title_en": "Death toll from Nepal-Tibet floods rises to over 600"
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title_en": "Norway's new king remembers 'my dear father' in first speech"
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/8/29/us-judge-rules-against-trumps-effort-to-deport-pro-palestinian-students?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title_en": "US judge rules against Trump’s effort to deport pro-Palestinian students"
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title_en": "Niger military says it is regaining control after attempted mutiny"
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title_en": "Turkiye summons Ukraine ambassador over Black Sea attacks"
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title_en": "Deadly strike on Kyiv warehouse prompts evacuations"
+    }
+  ],
+  "unusedCatalog": [
+    {
+      "title": "Iceland votes in a tight race on whether to resume talks to join the EU",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss"
+    },
+    {
+      "title": "Norway’s new king pays tribute to his late father as the country mourns",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss"
+    },
+    {
+      "title": "Can international diplomacy find a way forward in Libya?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss"
+    },
+    {
+      "title": "August reveals Australians’ big appetite for weight-loss drugs, love for ‘dupe’ brands and an accelerating EV uptake",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/aug/30/australians-buying-less-pizza-more-weight-loss-drugs-consumer-report"
+    },
+    {
+      "title": "Tennessee governor says he backs airport name change to honor Dolly Parton",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/music/2026/aug/29/tennessee-dolly-parton-airport-name-change"
+    },
+    {
+      "title": "Nepal-Tibet floods: Nepal calls for technical support for rescue efforts as number of missing rises to nearly 3,000 – latest updates",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue"
+    },
+    {
+      "title": "LAPD releases footage of death of man whom police handcuffed and beat",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death"
+    },
+    {
+      "title": "Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/29/world/europe/diamond-necklace-theft-vienna.html"
+    },
+    {
+      "title": "The rise of K-Beauty: Can South Korea overtake France?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/the-rise-of-k-beauty-can-south-korea-overtake-france?traffic_source=rss"
+    },
+    {
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US says far-right provocateur Milo Yiannopoulos has been deported to UK",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/29/us-says-far-right-provocateur-milo-yiannopoulos-has-been-deported-to-uk?traffic_source=rss"
+    },
+    {
+      "title": "Tunisians desperate for water as taps run dry",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/tunisians-desperate-for-water-as-taps-run-dry?traffic_source=rss"
+    },
+    {
+      "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Haitian gangs release 13 captives after mass kidnapping in Kenscoff",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/29/haitian-gangs-release-13-captives-after-mass-kidnapping-in-kenscoff?traffic_source=rss"
+    },
+    {
+      "title": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html"
+    },
+    {
+      "title": "Pakistan suspends eight officials over hospital fire that killed 14 babies",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/29/pakistan-suspends-eight-officials-over-hospital-fire-that-killed-14-babies?traffic_source=rss"
+    },
+    {
+      "title": "DR Congo begins vaccinating against largest and deadliest Ebola outbreak",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/dr-congo-begins-vaccinating-against-largest-and-deadliest-ebola-outbreak?traffic_source=rss"
+    },
+    {
+      "title": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html"
+    },
+    {
+      "title": "Sudan’s date palm trees under threat from drought and wildfires",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/sudans-date-palm-trees-under-threat-from-drought-and-wildfires?traffic_source=rss"
+    },
+    {
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Zimbabwe crash involving church minibus kills 27",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/zimbabwe-crash-involving-church-minibus-kills-27/a-78558710?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss"
+    },
+    {
+      "title": "Far-right media provocateur Milo Yiannopoulos deported by ICE from US to UK",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk"
+    },
+    {
+      "title": "Daughter traces mother and aunt’s last known location in Nepal through TikTok video",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/29/daughter-traces-mother-and-aunts-last-known-location-in-nepal-through-tiktok-video"
+    },
+    {
+      "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss"
+    },
+    {
+      "title": "James Cleverly resigns from shadow cabinet to run for mayor of London",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/aug/29/james-cleverly-resigns-conservative-shadow-cabinet-london-mayor"
+    },
+    {
+      "title": "Russian-American heads Trump's planned Caucasus trade route",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/russian-american-heads-trump-s-planned-caucasus-trade-route/a-78547064?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "title": "Saxony-Anhalt election: Why the AfD is so strong",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Artemis II astronauts receive nation's highest space honor for their successful moonshot",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/science/2026/aug/29/artemis-ii-astronauts-congressional-space-medal-of-honor"
+    },
+    {
+      "title": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss"
+    },
+    {
+      "title": "Latest news bulletin | August 29th, 2026 – Evening",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/video/2026/08/29/latest-news-bulletin-august-29th-2026-evening"
+    },
+    {
+      "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv"
+    },
+    {
+      "title": "India news: PM Modi in Uzbekistan on way to SCO summit",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/india-news-pm-modi-in-uzbekistan-on-way-to-sco-summit/live-78554796?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "title": "Why Iceland and Others Might Want In, Not Out, of the E.U. Club",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html"
+    },
+    {
+      "title": "Israeli attacks in Gaza kill four people, hit hospital supply warehouse",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss"
+    },
+    {
+      "title": "Michigan Senate candidate Mike Rogers says he saw Bin Laden’s body with his ‘own eyes’. He did not",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/aug/29/michigan-senate-candidate-mike-rogers-osama-bin-laden"
+    },
+    {
+      "title": "Royal Navy spent three days tracking Russian vessels in UK waters",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/29/royal-navy-tracking-russian-vessels-uk-waters-channel-north-sea"
+    },
+    {
+      "title": "Music, lights and drones: Uzbekistan celebrates 35 years of independence",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/video/2026/08/29/music-lights-and-drones-uzbekistan-celebrates-35-years-of-independence"
+    },
+    {
+      "title": "Nepali City Struggles to Handle the Many Bodies on Its Riverbanks",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/28/world/asia/nepal-bodies-morgues.html"
+    },
+    {
+      "title": "Number of missing in Nepal and Tibet rises to nearly 3,000 as operations continue",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood"
+    },
+    {
+      "title": "Russian strike on ammunition depot near Kyiv kills dozens",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/russian-strike-on-ammunition-depot-near-kyiv-kills-dozens/a-78556008?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "title": "Man United vs Ipswich Town: Premier League – preview, team news, prediction",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss"
+    },
+    {
+      "title": "Kazakhstan’s government steps down as newly elected Kurultai holds first session",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/2026/08/29/kazakhstans-government-steps-down-as-newly-elected-kurultai-holds-first-session"
+    },
+    {
+      "title": "Sarah Ferguson to return to UK after relocating amid Epstein revelations",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/29/sarah-ferguson-relocation-uk-jeffrey-epstein"
+    },
+    {
+      "title": "Photos: See the aftermath of deadly flash floods in Nepal",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal"
+    },
+    {
+      "title": "Liverpool net late in Forest draw to avoid Anfield debut defeat for Iraola",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss"
+    },
+    {
+      "title": "FBI no longer treating applicants’ experience with sex workers as automatic bar against hiring",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/aug/29/fbi-apllicants-sex-workers"
+    },
+    {
+      "title": "Hundreds of foreign nationals among the missing following deadly Nepal floods",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/2026/08/29/hundreds-of-foreign-nationals-among-the-missing-following-deadly-nepal-floods"
+    },
+    {
+      "title": "‘Their whole village has disappeared’: frantic hunt for survivors in Kathmandu hospital",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/29/nepal-flood-missing-kathmandu-hospital"
+    },
+    {
+      "title": "People stranded for days on dilapidated Nigerian highway",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss"
+    },
+    {
+      "title": "Korea divided: A sister’s long wait and a defector’s bid to save his mother",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss"
+    },
+    {
+      "title": "Russian drone strike on Kyiv warehouse storing weapons kills at least 37",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37"
+    },
+    {
+      "title": "Mladic died a happy man. He won",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss"
+    },
+    {
+      "title": "Cells for arrested offenders may run out without early prison release, says Labour",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/aug/29/cells-for-arrested-offenders-may-run-out-without-early-prison-release-says-labour"
+    },
+    {
+      "title": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss"
+    },
+    {
+      "title": "Fourth time lucky as Chris Cantrill’s spoof whodunnit wins Edinburgh comedy award 2026",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/stage/2026/aug/29/chris-cantrill-edinburgh-comedy-award-2026"
+    },
+    {
+      "title": "Niger's defense ministry says soldiers attempted mutiny",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/niger-s-defense-ministry-says-soldiers-attempted-mutiny/a-78554001?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "title": "Germany news: Sick leave wage bill doubles in 15 years",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/germany-news-sick-leave-wage-bill-doubles-in-15-years/live-78555302?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "title": "Laurie Anderson’s next manuscript to be locked away for 88 years in Future Library",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/books/2026/aug/29/laurie-anderson-manuscript-88-years-future-library-oslo"
+    },
+    {
+      "title": "Uzbekistan marks 35 years of independence as president outlines plans for next decade",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/2026/08/29/uzbekistan-marks-35-years-of-independence-as-president-outlines-plans-for-next-decade"
+    },
+    {
+      "title": "Srebrenica survivor Ahmed Hrustanovic reflects on Ratko Mladic's death",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/29/nx-s1-5947879/srebrenica-survivor-ahmed-hrustanovic-reflects-on-ratko-mladics-death"
+    },
+    {
+      "title": "Heavy gunfire in Niger capital as clashes reported at presidential palace",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/2026/08/29/heavy-gunfire-in-niger-capital-as-clashes-reported-at-presidential-palace"
+    },
+    {
+      "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president"
+    },
+    {
+      "title": "Latest news bulletin | August 29th, 2026 – Midday",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/video/2026/08/29/latest-news-bulletin-august-29th-2026-midday"
+    },
+    {
+      "title": "Elbows and Chin Up: A Whirlwind Week in the U.S.-Canada Trade War",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-trade-war-tariffs-canada-us.html"
+    },
+    {
+      "title": "Fast Forward",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/29/briefing/fast-forward.html"
+    },
+    {
+      "title": "As Deadly Flash Flooding Batters Nepal, Some Fear ‘the Entire Himalayas Are Melting’",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/29/travel/flash-flood-nepal-global-warming-himalayas.html"
+    },
+    {
+      "title": "Turkey and Israel Vie for Middle East Influence as Tensions Spike",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/29/world/middleeast/turkey-israel-tensions-region.html"
+    },
+    {
+      "title": "Trump pleads not guilty to 34 felony counts",
+      "source": "CNN",
+      "link": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html"
+    },
+    {
+      "title": "READ: Trump indictment related to hush money payment",
+      "source": "CNN",
+      "link": "https://cnn.it/411KYN7"
+    },
+    {
+      "title": "Russian authorities detain suspect over St. Petersburg cafe blast",
+      "source": "CNN",
+      "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html"
+    },
+    {
+      "title": "Hundreds of millions at risk from Chinese shopping app malware",
+      "source": "CNN",
+      "link": "https://cnn.it/40OSomK"
+    }
+  ],
+  "generatedAt": "2026-08-29T20:49:52.810Z"
+}
