@@ -1,6 +1,8 @@
 import { config } from "./config.js";
 import { selectEvents } from "./eventSelection.js";
 import { generateStories } from "./storyGeneration.js";
+import { attachLongBodies } from "./longCopy.js";
+import { publishTelegraphForTopStories } from "./telegraph.js";
 import type { BilingualDigest, DigestResult, NewsItem } from "./types.js";
 import type { Locale } from "./locale.js";
 import type { SummarizeTelemetry } from "./telemetry.js";
@@ -25,6 +27,10 @@ export function digestForLocale(
       title: story.title[locale],
       summary: story.summary[locale],
       category: story.category[locale],
+      ...(story.longBody?.[locale] ? { longBody: story.longBody[locale] } : {}),
+      ...(story.telegraphUrl?.[locale]
+        ? { telegraphUrl: story.telegraphUrl[locale] }
+        : {}),
     })),
   };
 }
@@ -46,13 +52,29 @@ export async function summarizeNews(
 
   const selection = await selectEvents(items);
   const generated = await generateStories(selection.events);
+  let stories = generated.stories;
+  const calls = [...selection.calls, ...generated.calls];
+
+  if (config.readMoreAb()) {
+    const longResult = await attachLongBodies(stories, selection.events, config.topN);
+    stories = longResult.stories;
+    calls.push(...longResult.calls);
+
+    if (!config.dryRun) {
+      stories = await publishTelegraphForTopStories(stories);
+    } else {
+      console.log("[telegraph] dry-run: skip createPage");
+    }
+  }
+
   const digest: BilingualDigest = {
-    intro: digestIntro(generated.stories.length),
-    stories: generated.stories,
+    intro: digestIntro(stories.length),
+    stories,
   };
 
   console.log(
-    `[summarize] ${items.length} URLs → ${selection.clusters.length} event clusters → ${selection.events.length} selected → ${generated.stories.length} localized`,
+    `[summarize] ${items.length} URLs → ${selection.clusters.length} event clusters → ${selection.events.length} selected → ${stories.length} localized` +
+      (config.readMoreAb() ? " | READMORE_AB=1" : ""),
   );
 
   return {
@@ -66,7 +88,7 @@ export async function summarizeNews(
       telegramTopN: config.topN,
       candidates: selection.candidates,
       clusters: selection.clusters,
-      calls: [...selection.calls, ...generated.calls],
+      calls,
     },
   };
 }

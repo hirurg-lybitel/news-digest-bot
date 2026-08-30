@@ -195,6 +195,34 @@ body {
   text-decoration: underline;
 }
 
+.detail-back {
+  border: none;
+  background: transparent;
+  color: var(--accent);
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 0 0 12px;
+  cursor: pointer;
+}
+
+.detail-card .card-title {
+  font-size: 1.15rem;
+}
+
+.detail-body {
+  margin: 0 0 16px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.detail-body p {
+  margin: 0 0 12px;
+}
+
+.detail-body p:last-child {
+  margin-bottom: 0;
+}
+
 .empty,
 .error {
   text-align: center;

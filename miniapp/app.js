@@ -7,6 +7,8 @@ const LABELS = {
     readMore: "Читать полностью",
     empty: "Нет новостей по выбранным фильтрам",
     loadError: "Не удалось загрузить дайджест",
+    back: "← К ленте",
+    openSource: "Источник →",
     dateFmt: "ru-RU",
   },
   en: {
@@ -17,6 +19,8 @@ const LABELS = {
     readMore: "Read full story",
     empty: "No stories match the filters",
     loadError: "Failed to load digest",
+    back: "← Back to feed",
+    openSource: "Source →",
     dateFmt: "en-GB",
   },
 };
@@ -29,6 +33,8 @@ let locale = "ru";
 let categoryFilter = null;
 /** @type {string|null} */
 let sourceFilter = null;
+/** @type {number|null} */
+let detailIndex = null;
 /** @type {import('./data-types.js').DigestPayload|null} */
 let digest = null;
 
@@ -41,18 +47,42 @@ if (tg) {
   }
 }
 
-function detectLocale() {
+/**
+ * Parse `ru`, `en`, `ru_i5`, or `en_i9` from start_param / URL.
+ * @returns {{ locale: Locale, storyIndex: number|null }}
+ */
+function parseStartParam(raw) {
+  if (!raw) return { locale: null, storyIndex: null };
+  const match = String(raw).match(/^(ru|en)(?:_i(\d+))?$/i);
+  if (!match) return { locale: null, storyIndex: null };
+  const loc = /** @type {Locale} */ (match[1].toLowerCase());
+  const storyIndex = match[2] != null ? Number(match[2]) : null;
+  return {
+    locale: loc,
+    storyIndex: Number.isInteger(storyIndex) ? storyIndex : null,
+  };
+}
+
+function detectLocaleAndStory() {
   const params = new URLSearchParams(window.location.search);
-  const fromUrl = params.get("lang");
-  if (fromUrl === "ru" || fromUrl === "en") return fromUrl;
+  const fromStory = params.get("story");
+  const fromUrlLang = params.get("lang");
+  const fromStart = parseStartParam(tg?.initDataUnsafe?.start_param);
+  const fromQueryStart = parseStartParam(params.get("startapp"));
 
-  const start = tg?.initDataUnsafe?.start_param;
-  if (start === "ru" || start === "en") return start;
+  /** @type {Locale} */
+  let nextLocale = "en";
+  if (fromUrlLang === "ru" || fromUrlLang === "en") nextLocale = fromUrlLang;
+  else if (fromStart.locale) nextLocale = fromStart.locale;
+  else if (fromQueryStart.locale) nextLocale = fromQueryStart.locale;
+  else if (tg?.initDataUnsafe?.user?.language_code?.startsWith("ru")) nextLocale = "ru";
 
-  const userLang = tg?.initDataUnsafe?.user?.language_code;
-  if (userLang?.startsWith("ru")) return "ru";
+  let storyIndex = null;
+  if (fromStory != null && /^\d+$/.test(fromStory)) storyIndex = Number(fromStory);
+  else if (fromStart.storyIndex != null) storyIndex = fromStart.storyIndex;
+  else if (fromQueryStart.storyIndex != null) storyIndex = fromQueryStart.storyIndex;
 
-  return "en";
+  return { locale: nextLocale, storyIndex };
 }
 
 function formatDate(isoDate) {
@@ -113,6 +143,45 @@ function filteredStories() {
   });
 }
 
+function showFeed() {
+  detailIndex = null;
+  document.getElementById("feed").classList.remove("hidden");
+  document.getElementById("detail").classList.add("hidden");
+  document.getElementById("intro").classList.remove("hidden");
+}
+
+function showDetail(index) {
+  if (!digest || index < 0 || index >= digest.stories.length) {
+    showFeed();
+    return;
+  }
+  detailIndex = index;
+  const story = digest.stories[index];
+  const labels = LABELS[locale];
+  const bodyText = story.longBody?.[locale] || story.summary[locale];
+
+  document.getElementById("feed").classList.add("hidden");
+  document.getElementById("detail").classList.remove("hidden");
+  document.getElementById("intro").classList.add("hidden");
+
+  document.getElementById("detail-back").textContent = labels.back;
+  document.getElementById("detail-category").textContent = story.category[locale];
+  document.getElementById("detail-source").textContent = story.source;
+  document.getElementById("detail-title").textContent = `${index + 1}. ${story.title[locale]}`;
+
+  const bodyEl = document.getElementById("detail-body");
+  bodyEl.innerHTML = "";
+  for (const para of String(bodyText).split(/\n\n+/).map((p) => p.trim()).filter(Boolean)) {
+    const p = document.createElement("p");
+    p.textContent = para;
+    bodyEl.appendChild(p);
+  }
+
+  const link = document.getElementById("detail-link");
+  link.href = story.link;
+  link.textContent = labels.openSource;
+}
+
 function renderStories() {
   const list = document.getElementById("stories");
   const empty = document.getElementById("empty");
@@ -121,18 +190,31 @@ function renderStories() {
   list.innerHTML = "";
   empty.classList.toggle("hidden", stories.length > 0);
 
-  for (const [index, story] of stories.entries()) {
+  for (const story of stories) {
+    const absoluteIndex = digest.stories.indexOf(story);
     const card = document.createElement("article");
     card.className = "card";
+    const hasLong = Boolean(story.longBody?.[locale]);
     card.innerHTML = `
       <div class="card-meta">
         <span class="badge">${escapeHtml(story.category[locale])}</span>
         <span class="source">${escapeHtml(story.source)}</span>
       </div>
-      <h3 class="card-title">${index + 1}. ${escapeHtml(story.title[locale])}</h3>
+      <h3 class="card-title">${absoluteIndex + 1}. ${escapeHtml(story.title[locale])}</h3>
       <p class="card-summary">${escapeHtml(story.summary[locale])}</p>
       <a class="card-link" href="${escapeAttr(story.link)}" target="_blank" rel="noopener noreferrer">${LABELS[locale].readMore} →</a>
     `;
+    if (hasLong) {
+      const link = card.querySelector(".card-link");
+      link.removeAttribute("href");
+      link.removeAttribute("target");
+      link.setAttribute("role", "button");
+      link.href = "#";
+      link.onclick = (event) => {
+        event.preventDefault();
+        showDetail(absoluteIndex);
+      };
+    }
     list.appendChild(card);
   }
 }
@@ -175,6 +257,12 @@ function render() {
     render();
   });
 
+  if (detailIndex != null) {
+    showDetail(detailIndex);
+    return;
+  }
+
+  showFeed();
   renderStories();
 }
 
@@ -192,5 +280,12 @@ async function loadDigest() {
   }
 }
 
-locale = detectLocale();
+document.getElementById("detail-back").onclick = () => {
+  showFeed();
+  renderStories();
+};
+
+const boot = detectLocaleAndStory();
+locale = boot.locale;
+detailIndex = boot.storyIndex;
 loadDigest();

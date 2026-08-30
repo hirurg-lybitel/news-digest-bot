@@ -1,5 +1,6 @@
+import { config } from "./config.js";
 import { LOCALE_LABELS } from "./locale.js";
-import type { DigestResult } from "./types.js";
+import type { DigestResult, DigestStory } from "./types.js";
 
 function escapeHtml(text: string): string {
   return text
@@ -17,6 +18,23 @@ export function formatMinskDate(locale: DigestResult["locale"], date = new Date(
     month: "long",
     year: "numeric",
   }).format(date);
+}
+
+/** A/B: 1–5 → Telegraph, 6–10 → Mini App story deep link; else original source. */
+export function readMoreHref(
+  story: DigestStory,
+  index: number,
+  locale: DigestResult["locale"],
+): string {
+  if (!config.readMoreAb()) return story.link;
+
+  if (index < 5) {
+    return story.telegraphUrl || story.link;
+  }
+  if (index < 10) {
+    return config.miniAppStoryOpenLink(locale, index) || story.link;
+  }
+  return story.link;
 }
 
 export function formatDigestMessage(digest: DigestResult, publishedAt = new Date()): string {
@@ -38,11 +56,12 @@ export function formatDigestMessage(digest: DigestResult, publishedAt = new Date
   ];
 
   digest.stories.forEach((story, index) => {
+    const href = readMoreHref(story, index, digest.locale);
     lines.push(
       `<b>${index + 1}. ${escapeHtml(story.title)}</b>`,
       "",
       escapeHtml(story.summary),
-      `<a href="${escapeHtml(story.link)}">${escapeHtml(labels.readMore)}</a>`,
+      `<a href="${escapeHtml(href)}">${escapeHtml(labels.readMore)}</a>`,
       "",
     );
   });

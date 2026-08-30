@@ -15,6 +15,9 @@ export type DigestStory = {
   link: string;
   source: string;
   category: string;
+  /** Extended A/B read-more body (Telegram experiment). */
+  longBody?: string;
+  telegraphUrl?: string;
 };
 
 export type DigestResult = {
@@ -29,6 +32,9 @@ export type BilingualStory = {
   title: Record<Locale, string>;
   summary: Record<Locale, string>;
   category: Record<Locale, string>;
+  /** Extended A/B read-more body (Telegram experiment). */
+  longBody?: Record<Locale, string>;
+  telegraphUrl?: Record<Locale, string>;
 };
 
 export type BilingualDigest = {

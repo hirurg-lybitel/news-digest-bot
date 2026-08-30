@@ -56,6 +56,9 @@ export const config = {
   /** Minimum window for manual re-runs right after a digest */
   minLookbackHours: Number(process.env.MIN_LOOKBACK_HOURS || 1),
   dryRun: process.argv.includes("--dry-run"),
+  /** Temporary A/B: Telegraph (1–5) vs Mini App (6–10) for «Читать полностью» */
+  readMoreAb: () => process.env.READMORE_AB === "1",
+  telegraphAccessToken: () => optional("TELEGRAPH_ACCESS_TOKEN"),
   miniAppUrl: () => optional("MINI_APP_URL"),
   /** @username without @ — for t.me deep links that open inside Telegram */
   telegramBotUsername: () => optional("TELEGRAM_BOT_USERNAME") ?? "dayessence_bot",
@@ -73,5 +76,13 @@ export const config = {
     const bot = optional("TELEGRAM_BOT_USERNAME") ?? "dayessence_bot";
     const app = optional("MINI_APP_SHORT_NAME") ?? "digest";
     return `https://t.me/${bot}/${app}?startapp=${locale}`;
+  },
+  /** Deep link into a specific story detail screen (`startapp=ru_i5`). */
+  miniAppStoryOpenLink(locale: Locale, storyIndex: number): string | undefined {
+    if (!optional("MINI_APP_URL")) return undefined;
+    if (!Number.isInteger(storyIndex) || storyIndex < 0) return undefined;
+    const bot = optional("TELEGRAM_BOT_USERNAME") ?? "dayessence_bot";
+    const app = optional("MINI_APP_SHORT_NAME") ?? "digest";
+    return `https://t.me/${bot}/${app}?startapp=${locale}_i${storyIndex}`;
   },
 };

@@ -21,7 +21,7 @@ export type TelemetryCandidate = {
 };
 
 export type AiCallTelemetry = {
-  stage: "cluster" | "localize";
+  stage: "cluster" | "localize" | "longCopy";
   attempt: number;
   ok: boolean;
   model?: string;

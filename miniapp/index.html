@@ -21,15 +21,31 @@
         <p id="intro" class="intro"></p>
       </header>
 
-      <section class="filters">
-        <h2 id="filter-category-label" class="filter-label">Category</h2>
-        <div id="category-filters" class="chip-row"></div>
-        <h2 id="filter-source-label" class="filter-label">Source</h2>
-        <div id="source-filters" class="chip-row"></div>
+      <section id="feed" class="feed">
+        <section class="filters">
+          <h2 id="filter-category-label" class="filter-label">Category</h2>
+          <div id="category-filters" class="chip-row"></div>
+          <h2 id="filter-source-label" class="filter-label">Source</h2>
+          <div id="source-filters" class="chip-row"></div>
+        </section>
+
+        <main id="stories" class="stories"></main>
+        <p id="empty" class="empty hidden">No stories match the filters.</p>
       </section>
 
-      <main id="stories" class="stories"></main>
-      <p id="empty" class="empty hidden">No stories match the filters.</p>
+      <section id="detail" class="detail hidden" aria-live="polite">
+        <button type="button" id="detail-back" class="detail-back">← Back</button>
+        <article class="card detail-card">
+          <div class="card-meta">
+            <span id="detail-category" class="badge"></span>
+            <span id="detail-source" class="source"></span>
+          </div>
+          <h2 id="detail-title" class="card-title"></h2>
+          <div id="detail-body" class="detail-body"></div>
+          <a id="detail-link" class="card-link" href="#" target="_blank" rel="noopener noreferrer"></a>
+        </article>
+      </section>
+
       <p id="error" class="error hidden"></p>
     </div>
     <script src="app.js" type="module"></script>
