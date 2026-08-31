@@ -55,16 +55,17 @@ export async function summarizeNews(
   let stories = generated.stories;
   const calls = [...selection.calls, ...generated.calls];
 
-  if (config.readMoreAb()) {
-    const longResult = await attachLongBodies(stories, selection.events, config.topN);
-    stories = longResult.stories;
-    calls.push(...longResult.calls);
+  // Long briefings for Telegram top-N (also used by Mini App detail screens).
+  const longResult = await attachLongBodies(stories, selection.events, config.topN);
+  stories = longResult.stories;
+  calls.push(...longResult.calls);
 
-    if (!config.dryRun) {
-      stories = await publishTelegraphForTopStories(stories);
-    } else {
-      console.log("[telegraph] dry-run: skip createPage");
-    }
+  if (!config.dryRun && config.telegraphAccessToken()) {
+    stories = await publishTelegraphForTopStories(stories, config.topN);
+  } else if (config.dryRun) {
+    console.log("[telegraph] dry-run: skip createPage");
+  } else {
+    console.warn("[telegraph] TELEGRAPH_ACCESS_TOKEN missing; channel links stay on source URLs");
   }
 
   const digest: BilingualDigest = {
@@ -73,8 +74,7 @@ export async function summarizeNews(
   };
 
   console.log(
-    `[summarize] ${items.length} URLs → ${selection.clusters.length} event clusters → ${selection.events.length} selected → ${stories.length} localized` +
-      (config.readMoreAb() ? " | READMORE_AB=1" : ""),
+    `[summarize] ${items.length} URLs → ${selection.clusters.length} event clusters → ${selection.events.length} selected → ${stories.length} localized`,
   );
 
   return {

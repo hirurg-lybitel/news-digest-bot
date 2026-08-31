@@ -15,7 +15,7 @@ export type DigestStory = {
   link: string;
   source: string;
   category: string;
-  /** Extended A/B read-more body (Telegram experiment). */
+  /** Extended briefing for Mini App detail / Telegraph. */
   longBody?: string;
   telegraphUrl?: string;
 };
@@ -32,7 +32,7 @@ export type BilingualStory = {
   title: Record<Locale, string>;
   summary: Record<Locale, string>;
   category: Record<Locale, string>;
-  /** Extended A/B read-more body (Telegram experiment). */
+  /** Extended briefing for Mini App detail / Telegraph. */
   longBody?: Record<Locale, string>;
   telegraphUrl?: Record<Locale, string>;
 };

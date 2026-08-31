@@ -5,6 +5,7 @@ import {
   repairClusters,
   type RawEventCluster,
 } from "./eventSelection.js";
+import { readMoreHref } from "./format.js";
 import { digestForLocale } from "./summarize.js";
 import { summarizeCost, type AiCallTelemetry } from "./telemetry.js";
 import type { BilingualDigest, NewsItem } from "./types.js";
@@ -70,13 +71,7 @@ test("Telegram digest is the exact Mini App prefix", () => {
   );
 });
 
-test("READMORE_AB links: 1–5 telegraph, 6–10 mini app deep link", async () => {
-  process.env.READMORE_AB = "1";
-  process.env.MINI_APP_URL = "https://example.pages.test";
-  process.env.TELEGRAM_BOT_USERNAME = "dayessence_bot";
-  process.env.MINI_APP_SHORT_NAME = "digest";
-
-  const { readMoreHref } = await import("./format.js");
+test("Telegram read-more prefers Telegraph URL when present", () => {
   const base = {
     title: "T",
     summary: "S",
@@ -85,22 +80,8 @@ test("READMORE_AB links: 1–5 telegraph, 6–10 mini app deep link", async () =
     category: "World",
   };
 
-  assert.equal(
-    readMoreHref({ ...base, telegraphUrl: "https://telegra.ph/A" }, 0, "ru"),
-    "https://telegra.ph/A",
-  );
-  assert.equal(
-    readMoreHref(base, 0, "ru"),
-    "https://source.example/a",
-  );
-  assert.equal(
-    readMoreHref(base, 5, "ru"),
-    "https://t.me/dayessence_bot/digest?startapp=ru_i5",
-  );
-  assert.equal(
-    readMoreHref(base, 9, "en"),
-    "https://t.me/dayessence_bot/digest?startapp=en_i9",
-  );
+  assert.equal(readMoreHref({ ...base, telegraphUrl: "https://telegra.ph/A" }), "https://telegra.ph/A");
+  assert.equal(readMoreHref(base), "https://source.example/a");
 });
 
 test("AI cost includes responses later rejected by validation", () => {

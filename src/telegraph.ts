@@ -94,15 +94,16 @@ async function createPage(params: {
 }
 
 /**
- * Publish Telegraph pages for stories[0..4] (both locales). Mutates telegraphUrl on those stories.
+ * Publish Telegraph pages for Telegram top-N stories (both locales).
  */
 export async function publishTelegraphForTopStories(
   stories: BilingualStory[],
+  limit = config.topN,
 ): Promise<BilingualStory[]> {
-  const limit = Math.min(5, stories.length);
+  const count = Math.min(limit, stories.length);
   const updated = [...stories];
 
-  for (let i = 0; i < limit; i++) {
+  for (let i = 0; i < count; i++) {
     const story = updated[i];
     if (!story?.longBody) continue;
 
@@ -135,8 +136,8 @@ export async function publishTelegraphForTopStories(
   }
 
   const published = updated
-    .slice(0, limit)
+    .slice(0, count)
     .filter((s) => s.telegraphUrl?.ru || s.telegraphUrl?.en).length;
-  console.log(`[telegraph] published pages for ${published}/${limit} stories`);
+  console.log(`[telegraph] published pages for ${published}/${count} stories`);
   return updated;
 }

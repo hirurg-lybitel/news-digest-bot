@@ -44,7 +44,8 @@ MINI_APP_SHORT_NAME=digest
 
 Язык в Mini App берётся из `startapp` → `Telegram.WebApp.start_param`.
 
-Временный A/B (`READMORE_AB=1`): deep link на карточку истории — `startapp=ru_i5` (локаль + индекс 0-based).
+Опционально: deep link на карточку — `startapp=ru_i5` (локаль + индекс 0-based).  
+В канале «Читать полностью» ведёт на **Telegraph**; длинный текст в Mini App открывается на своих экранах.
 
 ## GitHub Pages
 
@@ -60,11 +61,10 @@ Settings → Pages → Source: **GitHub Actions** → workflow **Deploy Mini App
 | Variable | Value |
 |----------|--------|
 | `MINI_APP_URL` | `https://hirurg-lybitel.github.io/news-digest-bot` |
-| `READMORE_AB` | `1` (временный A/B Telegraph vs Mini App) |
 
 Опционально Variables: `TELEGRAM_BOT_USERNAME`, `MINI_APP_SHORT_NAME`.
 
-Secret для A/B: `TELEGRAPH_ACCESS_TOKEN` (из `api.telegra.ph/createAccount`).
+Secret: `TELEGRAPH_ACCESS_TOKEN` (из `api.telegra.ph/createAccount`) — страницы для ссылок из канала.
 
 ## Кнопки в каналах
 

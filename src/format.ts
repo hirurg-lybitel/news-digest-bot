@@ -1,4 +1,3 @@
-import { config } from "./config.js";
 import { LOCALE_LABELS } from "./locale.js";
 import type { DigestResult, DigestStory } from "./types.js";
 
@@ -20,21 +19,9 @@ export function formatMinskDate(locale: DigestResult["locale"], date = new Date(
   }).format(date);
 }
 
-/** A/B: 1–5 → Telegraph, 6–10 → Mini App story deep link; else original source. */
-export function readMoreHref(
-  story: DigestStory,
-  index: number,
-  locale: DigestResult["locale"],
-): string {
-  if (!config.readMoreAb()) return story.link;
-
-  if (index < 5) {
-    return story.telegraphUrl || story.link;
-  }
-  if (index < 10) {
-    return config.miniAppStoryOpenLink(locale, index) || story.link;
-  }
-  return story.link;
+/** Channel «Читать полностью»: Telegraph briefing when published, else original source. */
+export function readMoreHref(story: DigestStory): string {
+  return story.telegraphUrl || story.link;
 }
 
 export function formatDigestMessage(digest: DigestResult, publishedAt = new Date()): string {
@@ -56,7 +43,7 @@ export function formatDigestMessage(digest: DigestResult, publishedAt = new Date
   ];
 
   digest.stories.forEach((story, index) => {
-    const href = readMoreHref(story, index, digest.locale);
+    const href = readMoreHref(story);
     lines.push(
       `<b>${index + 1}. ${escapeHtml(story.title)}</b>`,
       "",

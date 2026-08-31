@@ -43,7 +43,6 @@ jobs:
           MINI_APP_URL: ${{ vars.MINI_APP_URL }}
           TELEGRAM_BOT_USERNAME: ${{ vars.TELEGRAM_BOT_USERNAME }}
           MINI_APP_SHORT_NAME: ${{ vars.MINI_APP_SHORT_NAME }}
-          READMORE_AB: ${{ vars.READMORE_AB }}
           TELEGRAPH_ACCESS_TOKEN: ${{ secrets.TELEGRAPH_ACCESS_TOKEN }}
           OPENAI_MODEL: gpt-4o-mini
           OPENAI_INPUT_USD_PER_MILLION: "0.15"
