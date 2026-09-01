@@ -9,6 +9,8 @@ import {
   type AiCallTelemetry,
 } from "./telemetry.js";
 
+const BATCH_SIZE = 10;
+
 const LongCopySchema = z.object({
   id: z.number().int(),
   long_ru: z.string(),
@@ -47,12 +49,16 @@ const responseFormat = {
   },
 };
 
-function buildPrompt(events: RankedEvent[], stories: BilingualStory[]): string {
+function buildPrompt(
+  events: RankedEvent[],
+  stories: BilingualStory[],
+  idOffset: number,
+): string {
   const byLink = new Map(stories.map((story) => [story.link, story]));
   const payload = events.map((event, index) => {
     const story = byLink.get(event.representative.link);
     return {
-      id: index,
+      id: idOffset + index,
       source: event.representative.source,
       title: story?.title.en ?? event.representative.title,
       short_ru: story?.summary.ru ?? "",
@@ -78,25 +84,14 @@ Events:
 ${JSON.stringify(payload)}`;
 }
 
-/**
- * Attach longBody to the first `limit` stories (Telegram top-N) using RankedEvent context.
- */
-export async function attachLongBodies(
-  stories: BilingualStory[],
+async function requestLongBodies(
   events: RankedEvent[],
-  limit = config.topN,
-): Promise<{ stories: BilingualStory[]; calls: AiCallTelemetry[] }> {
-  const targetStories = stories.slice(0, limit);
-  const eventByLink = new Map(events.map((event) => [event.representative.link, event]));
-  const targetEvents = targetStories
-    .map((story) => eventByLink.get(story.link))
-    .filter((event): event is RankedEvent => Boolean(event));
-
-  if (targetEvents.length < 1) {
-    return { stories, calls: [] };
-  }
-
-  const calls: AiCallTelemetry[] = [];
+  stories: BilingualStory[],
+  idOffset: number,
+  attempt: number,
+  calls: AiCallTelemetry[],
+): Promise<Map<number, { long_ru: string; long_en: string }>> {
+  const accepted = new Map<number, { long_ru: string; long_en: string }>();
   let content = "";
   let result: ChatJsonResult | undefined;
 
@@ -112,51 +107,91 @@ export async function attachLongBodies(
           content:
             "You write concise bilingual news briefings. Return only the requested JSON. Never omit an input id.",
         },
-        { role: "user", content: buildPrompt(targetEvents, targetStories) },
+        { role: "user", content: buildPrompt(events, stories, idOffset) },
       ],
     });
     content = result.content;
     const parsed = LongResponseSchema.parse(JSON.parse(content));
-    const byId = new Map(parsed.stories.map((row) => [row.id, row]));
+    const allowedIds = new Set(events.map((_, index) => idOffset + index));
 
-    const enriched = stories.map((story, index) => {
-      if (index >= limit) return story;
-      const row = byId.get(index);
-      if (!row?.long_ru?.trim() || !row.long_en?.trim()) return story;
-      return {
-        ...story,
-        longBody: { ru: row.long_ru.trim(), en: row.long_en.trim() },
-      };
-    });
+    for (const row of parsed.stories) {
+      if (!allowedIds.has(row.id) || !row.long_ru?.trim() || !row.long_en?.trim()) continue;
+      accepted.set(row.id, { long_ru: row.long_ru.trim(), long_en: row.long_en.trim() });
+    }
 
-    const accepted = enriched.filter((s, i) => i < limit && s.longBody).length;
     calls.push(
-      callTelemetry("longCopy", 1, result, {
+      callTelemetry("longCopy", attempt, result, {
         returnedCount: parsed.stories.length,
-        acceptedCount: accepted,
+        acceptedCount: accepted.size,
       }),
     );
-
-    console.log(`[longCopy] attached longBody to ${accepted}/${limit} telegram stories`);
-    return { stories: enriched, calls };
   } catch (error) {
     calls.push(
       result
         ? {
-            ...callTelemetry("longCopy", 1, result),
+            ...callTelemetry("longCopy", attempt, result),
             ok: false,
             error: errorMessage(error),
             ...(content ? { rawPreview: rawPreview(content) } : {}),
           }
         : {
             stage: "longCopy",
-            attempt: 1,
+            attempt,
             ok: false,
             error: errorMessage(error),
             ...(content ? { rawPreview: rawPreview(content) } : {}),
           },
     );
-    console.warn("[longCopy] failed; continuing without long bodies:", error);
-    return { stories, calls };
+    console.warn(`[longCopy] batch at offset ${idOffset} failed:`, error);
   }
+
+  return accepted;
+}
+
+/**
+ * Attach longBody to the first `limit` stories (Mini App + Telegraph) using RankedEvent context.
+ */
+export async function attachLongBodies(
+  stories: BilingualStory[],
+  events: RankedEvent[],
+  limit = config.miniAppTopN,
+): Promise<{ stories: BilingualStory[]; calls: AiCallTelemetry[] }> {
+  const count = Math.min(limit, stories.length);
+  const targetStories = stories.slice(0, count);
+  const eventByLink = new Map(events.map((event) => [event.representative.link, event]));
+  const copies = new Map<number, { long_ru: string; long_en: string }>();
+  const calls: AiCallTelemetry[] = [];
+  let callNumber = 0;
+
+  for (let offset = 0; offset < count; offset += BATCH_SIZE) {
+    const batchStories = targetStories.slice(offset, offset + BATCH_SIZE);
+    const batchEvents = batchStories
+      .map((story) => eventByLink.get(story.link))
+      .filter((event): event is RankedEvent => Boolean(event));
+
+    if (batchEvents.length < 1) continue;
+
+    const batch = await requestLongBodies(
+      batchEvents,
+      batchStories,
+      offset,
+      ++callNumber,
+      calls,
+    );
+    for (const [id, copy] of batch) copies.set(id, copy);
+  }
+
+  const enriched = stories.map((story, index) => {
+    if (index >= count) return story;
+    const copy = copies.get(index);
+    if (!copy) return story;
+    return {
+      ...story,
+      longBody: { ru: copy.long_ru, en: copy.long_en },
+    };
+  });
+
+  const accepted = enriched.filter((s, i) => i < count && s.longBody).length;
+  console.log(`[longCopy] attached longBody to ${accepted}/${count} stories`);
+  return { stories: enriched, calls };
 }

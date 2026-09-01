@@ -194,7 +194,6 @@ function renderStories() {
     const absoluteIndex = digest.stories.indexOf(story);
     const card = document.createElement("article");
     card.className = "card";
-    const hasLong = Boolean(story.longBody?.[locale]);
     card.innerHTML = `
       <div class="card-meta">
         <span class="badge">${escapeHtml(story.category[locale])}</span>
@@ -202,19 +201,13 @@ function renderStories() {
       </div>
       <h3 class="card-title">${absoluteIndex + 1}. ${escapeHtml(story.title[locale])}</h3>
       <p class="card-summary">${escapeHtml(story.summary[locale])}</p>
-      <a class="card-link" href="${escapeAttr(story.link)}" target="_blank" rel="noopener noreferrer">${LABELS[locale].readMore} →</a>
+      <a class="card-link" href="#" role="button">${LABELS[locale].readMore} →</a>
     `;
-    if (hasLong) {
-      const link = card.querySelector(".card-link");
-      link.removeAttribute("href");
-      link.removeAttribute("target");
-      link.setAttribute("role", "button");
-      link.href = "#";
-      link.onclick = (event) => {
-        event.preventDefault();
-        showDetail(absoluteIndex);
-      };
-    }
+    const link = card.querySelector(".card-link");
+    link.onclick = (event) => {
+      event.preventDefault();
+      showDetail(absoluteIndex);
+    };
     list.appendChild(card);
   }
 }

@@ -63,8 +63,8 @@ export async function summarizeNews(
   let stories = generated.stories;
   const calls = [...selection.calls, ...generated.calls];
 
-  // Long briefings for Telegram top-N (also used by Mini App detail screens).
-  const longResult = await attachLongBodies(stories, selection.events, config.topN);
+  // Long briefings for Mini App detail screens; Telegraph uses the same top-N subset.
+  const longResult = await attachLongBodies(stories, selection.events, config.miniAppTopN);
   stories = longResult.stories;
   calls.push(...longResult.calls);
 
