@@ -1,0 +1,8 @@
+name = "dayessence-bot"
+main = "src/index.ts"
+compatibility_date = "2024-09-01"
+account_id = "f314373745ae1d5c468c4dcb8a97c141"
+
+[vars]
+TELEGRAM_BOT_USERNAME = "dayessence_bot"
+MINI_APP_SHORT_NAME = "digest"

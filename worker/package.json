@@ -1,0 +1,13 @@
+{
+  "name": "dayessence-bot-worker",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "wrangler": "^4.14.0",
+    "@cloudflare/workers-types": "^5.20260831.1",
+    "typescript": "^7.0.2"
+  }
+}
