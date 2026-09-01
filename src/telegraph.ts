@@ -60,6 +60,16 @@ function buildContent(
   ];
 }
 
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function floodWaitSeconds(error: string | undefined): number | null {
+  if (!error) return null;
+  const match = error.match(/FLOOD_WAIT_(\d+)/);
+  return match ? Number(match[1]) : null;
+}
+
 async function createPage(params: {
   title: string;
   authorName: string;
@@ -71,26 +81,42 @@ async function createPage(params: {
     return undefined;
   }
 
-  const response = await fetch(`${TELEGRAPH_API}/createPage`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      access_token: token,
-      title: params.title.slice(0, 256),
-      author_name: params.authorName.slice(0, 128),
-      content: params.content,
-      return_content: false,
-    }),
-  });
+  const maxAttempts = 4;
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    const response = await fetch(`${TELEGRAPH_API}/createPage`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        access_token: token,
+        title: params.title.slice(0, 256),
+        author_name: params.authorName.slice(0, 128),
+        content: params.content,
+        return_content: false,
+      }),
+    });
 
-  const body = (await response.json()) as TelegraphApiResponse<TelegraphPage>;
-  if (!response.ok || !body.ok || !body.result?.url) {
+    const body = (await response.json()) as TelegraphApiResponse<TelegraphPage>;
+    if (response.ok && body.ok && body.result?.url) {
+      return body.result.url;
+    }
+
+    const waitSec = floodWaitSeconds(body.error);
+    if (waitSec != null && attempt < maxAttempts) {
+      const delayMs = (waitSec + 1) * 1_000;
+      console.warn(
+        `[telegraph] createPage rate-limited (${body.error}); retry ${attempt}/${maxAttempts - 1} in ${waitSec + 1}s`,
+      );
+      await sleep(delayMs);
+      continue;
+    }
+
     console.warn(
       `[telegraph] createPage failed: ${body.error ?? response.statusText}`,
     );
     return undefined;
   }
-  return body.result.url;
+
+  return undefined;
 }
 
 /**
@@ -122,6 +148,7 @@ export async function publishTelegraphForTopStories(
         content: buildContent(body, story.source, story.link, locale),
       });
       if (url) telegraphUrl[locale] = url;
+      await sleep(1_200);
     }
 
     if (telegraphUrl.ru || telegraphUrl.en) {
