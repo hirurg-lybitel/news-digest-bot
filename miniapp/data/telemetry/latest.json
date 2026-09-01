@@ -1,6 +1,6 @@
 {
   "model": "gpt-4o-mini",
-  "periodHours": 13.073322777777777,
+  "periodHours": 13.334915277777778,
   "poolSize": 134,
   "candidateCount": 80,
   "maxStories": 30,
@@ -8,762 +8,701 @@
   "candidates": [
     {
       "index": 1,
-      "title": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html"
-    },
-    {
-      "index": 2,
-      "title": "Briton among 119 more people rescued in Nepal after flash floods",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/01/briton-among-119-more-people-rescued-in-nepal-after-flash-floods"
-    },
-    {
-      "index": 3,
-      "title": "Iran: US launches fresh strikes as hostilities flare again",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/iran-us-launches-fresh-strikes-as-hostilities-flare-again/a-78655364?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 4,
-      "title": "Todd Haynes and Wallace Shawn among signatories of letter backing Mark Ruffalo amid antisemitism charge",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/film/2026/sep/01/jewish-artist-support-mark-ruffalo-antisemitism"
-    },
-    {
-      "index": 5,
-      "title": "Édouard Balladur, Embattled French Prime Minister, Dies at 97",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/08/31/world/europe/edouard-balladur-dead.html"
-    },
-    {
-      "index": 6,
-      "title": "‘Dangerous power grab’: top Democrats decry USPS system that could thwart mail-in voting – live",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates"
-    },
-    {
-      "index": 7,
-      "title": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html"
-    },
-    {
-      "index": 8,
-      "title": "Ed Miliband promises ‘comprehensive reset’ of UK policy toward Israel",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/politics/2026/sep/01/ed-miliband-promises-reset-of-uk-policy-toward-israel"
-    },
-    {
-      "index": 9,
-      "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html"
-    },
-    {
-      "index": 10,
-      "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html"
-    },
-    {
-      "index": 11,
-      "title": "House passes funding bill to avoid shutdown before midterms",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/sep/01/house-bill-prevents-government-shutdown"
-    },
-    {
-      "index": 12,
-      "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 13,
-      "title": "UN food agency cuts aid in West Bank amid funding crisis",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss"
-    },
-    {
-      "index": 14,
-      "title": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html"
-    },
-    {
-      "index": 15,
-      "title": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss"
-    },
-    {
-      "index": 16,
-      "title": "Vanuatu pushes France to accept ICJ jurisdiction in Pacific islands dispute",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/1/vanuatu-pushes-france-to-accept-icj-jurisdiction-in-pacific-islands-dispute?traffic_source=rss"
-    },
-    {
-      "index": 17,
-      "title": "Nepal rescuers race to reach 900 missing hydropower workers",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/nepal-rescuers-race-to-reach-900-missing-hydropower-workers?traffic_source=rss"
-    },
-    {
-      "index": 18,
-      "title": "Deep-sea search begins for 20 people missing in Cyprus ferry disaster",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deep-sea-search-begins-for-20-people-missing-in-cyprus-ferry-disaster?traffic_source=rss"
-    },
-    {
-      "index": 19,
-      "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 20,
-      "title": "US launches new airstrikes on Iranian targets as hostilities flare",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch"
-    },
-    {
-      "index": 21,
-      "title": "German police investigating reported explosives at Brandenburg power substation – Europe live",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates"
-    },
-    {
-      "index": 22,
-      "title": "Congo's Ebola caseload tops 6,000 as concerns grow",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/congo-s-ebola-caseload-tops-6-000-as-concerns-grow/a-78638447?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 23,
-      "title": "Germany blames Russia for drone attack at Leipzig airport",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport"
-    },
-    {
-      "index": 24,
-      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html"
-    },
-    {
-      "index": 25,
-      "title": "US launches more strikes on Iran as state media reports explosions",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 26,
-      "title": "Burnham says Brexit brought ‘decade of low growth’ in first Commons address as prime minister – UK politics live",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates"
-    },
-    {
-      "index": 27,
-      "title": "US health authorities contradict state officials on measles-related deaths",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/1/us-health-authorities-contradict-state-officials-on-measles-related-deaths?traffic_source=rss"
-    },
-    {
-      "index": 28,
-      "title": "Five held by police after newborn baby dies from stab wounds in Sheffield",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/uk-news/2026/sep/01/five-held-by-police-after-newborn-baby-dies-from-stab-wounds-in-south-yorkshire"
-    },
-    {
-      "index": 29,
-      "title": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham | John Crace",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/politics/2026/sep/01/kier-starmer-last-u-turn-andy-burnham"
-    },
-    {
-      "index": 30,
-      "title": "US military says it struck IRGC targets in Iran after attacks on shipping in Strait of Hormuz",
-      "source": "Euronews",
-      "link": "http://www.euronews.com/2026/09/01/us-military-says-it-struck-irgc-targets-in-iran-after-attacks-on-shipping-in-strait-of-hor"
-    },
-    {
-      "index": 31,
-      "title": "The US military began striking targets in Iran, CENTCOM says",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss"
-    },
-    {
-      "index": 32,
-      "title": "John Ternus succeeds Tim Cook as Apple CEO after 15 years",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss"
-    },
-    {
-      "index": 33,
-      "title": "‘I think he’s sensible’: constituents on Keir Starmer stepping down as MP",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/politics/2026/sep/01/keir-starmer-stepping-down-mp-constituents-holborn-st-pancras-kentish-town"
-    },
-    {
-      "index": 34,
-      "title": "Who is John Ternus, Apple’s next CEO?",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/technology/2026/apr/20/john-ternus-apple-ceo-tim-cook"
-    },
-    {
-      "index": 35,
-      "title": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification"
-    },
-    {
-      "index": 36,
-      "title": "How to Help Nepal Flash Flood Victims",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-tibet-aid-relief-how-donate.html"
-    },
-    {
-      "index": 37,
       "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "index": 38,
-      "title": "Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/1/pitso-mosimane-appointed-by-south-africa-ahead-of-afcon-qualifiers?traffic_source=rss"
-    },
-    {
-      "index": 39,
-      "title": "Russia targets Ukraine’s rail network as war enters deadly new phase",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/01/russia-targets-ukraines-rail-network-as-war-enters-deadly-new-phase"
-    },
-    {
-      "index": 40,
-      "title": "These Ukrainian Children Go to School Underground. They’re the Lucky Ones.",
+      "index": 2,
+      "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/09/01/world/europe/ukraine-underground-schools.html"
+      "link": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html"
     },
     {
-      "index": 41,
-      "title": "ICE holds man with stage 4 cancer in detention despite permanent US residency",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/sep/01/ice-stage-4-cancer-filipino-national"
-    },
-    {
-      "index": 42,
-      "title": "China’s Xi makes first visit to Egypt in a decade, amid regional turmoil",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/9/1/chinas-xi-makes-first-visit-to-egypt-in-a-decade-amid-regional-turmoil?traffic_source=rss"
-    },
-    {
-      "index": 43,
-      "title": "Private equity keeps picking off London-listed firms – and Westminster barely notices | Nils Pratley",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/01/bodycote-private-equity-london-takeover-spree-politicians-ignore"
-    },
-    {
-      "index": 44,
-      "title": "Ousted UK Prime Minister Keir Starmer to quit domestic politics",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/1/ousted-uk-prime-minister-keir-starmer-to-quit-domestic-politics?traffic_source=rss"
-    },
-    {
-      "index": 45,
+      "index": 3,
       "title": "Germany says Russia behind Leipzig airport drone attack",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "index": 4,
+      "title": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html"
+    },
+    {
+      "index": 5,
+      "title": "Farage faces questions over his claim of facing second standards investigation",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/sep/01/nigel-farage-questions-claim-second-standards-investigation"
+    },
+    {
+      "index": 6,
+      "title": "Burnham promises to bring optimism and ‘substantial change’ in first Commons speech as PM",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm"
+    },
+    {
+      "index": 7,
+      "title": "Briton among 119 more people rescued in Nepal after flash floods",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/sep/01/briton-among-119-more-people-rescued-in-nepal-after-flash-floods"
+    },
+    {
+      "index": 8,
+      "title": "Iran: US launches fresh strikes as hostilities flare again",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/iran-us-launches-fresh-strikes-as-hostilities-flare-again/a-78655364?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 9,
+      "title": "Todd Haynes and Wallace Shawn among signatories of letter backing Mark Ruffalo amid antisemitism charge",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/film/2026/sep/01/jewish-artist-support-mark-ruffalo-antisemitism"
+    },
+    {
+      "index": 10,
+      "title": "Édouard Balladur, Embattled French Prime Minister, Dies at 97",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/31/world/europe/edouard-balladur-dead.html"
+    },
+    {
+      "index": 11,
+      "title": "‘Dangerous power grab’: top Democrats decry USPS system that could thwart mail-in voting – live",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates"
+    },
+    {
+      "index": 12,
+      "title": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html"
+    },
+    {
+      "index": 13,
+      "title": "Ed Miliband promises ‘comprehensive reset’ of UK policy toward Israel",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/sep/01/ed-miliband-promises-reset-of-uk-policy-toward-israel"
+    },
+    {
+      "index": 14,
+      "title": "Belgian mayor blocks club from hosting Israeli opponent in Europa League",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/9/1/belgian-mayor-blocks-club-from-hosting-israeli-opponent-in-europa-league?traffic_source=rss"
+    },
+    {
+      "index": 15,
+      "title": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html"
+    },
+    {
+      "index": 16,
+      "title": "House passes funding bill to avoid shutdown before midterms",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/sep/01/house-bill-prevents-government-shutdown"
+    },
+    {
+      "index": 17,
+      "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 18,
+      "title": "UN food agency cuts aid in West Bank amid funding crisis",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss"
+    },
+    {
+      "index": 19,
+      "title": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html"
+    },
+    {
+      "index": 20,
+      "title": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss"
+    },
+    {
+      "index": 21,
+      "title": "Vanuatu pushes France to accept ICJ jurisdiction in Pacific islands dispute",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/1/vanuatu-pushes-france-to-accept-icj-jurisdiction-in-pacific-islands-dispute?traffic_source=rss"
+    },
+    {
+      "index": 22,
+      "title": "Nepal rescuers race to reach 900 missing hydropower workers",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/nepal-rescuers-race-to-reach-900-missing-hydropower-workers?traffic_source=rss"
+    },
+    {
+      "index": 23,
+      "title": "Deep-sea search begins for 20 people missing in Cyprus ferry disaster",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deep-sea-search-begins-for-20-people-missing-in-cyprus-ferry-disaster?traffic_source=rss"
+    },
+    {
+      "index": 24,
+      "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 25,
+      "title": "US launches new airstrikes on Iranian targets as hostilities flare",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch"
+    },
+    {
+      "index": 26,
+      "title": "German police investigating reported explosives at Brandenburg power substation – Europe live",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates"
+    },
+    {
+      "index": 27,
+      "title": "Congo's Ebola caseload tops 6,000 as concerns grow",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/congo-s-ebola-caseload-tops-6-000-as-concerns-grow/a-78638447?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 28,
+      "title": "Germany blames Russia for drone attack at Leipzig airport",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport"
+    },
+    {
+      "index": 29,
+      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html"
+    },
+    {
+      "index": 30,
+      "title": "US launches more strikes on Iran as state media reports explosions",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 31,
+      "title": "Burnham says Brexit brought ‘decade of low growth’ in first Commons address as prime minister – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates"
+    },
+    {
+      "index": 32,
+      "title": "US health authorities contradict state officials on measles-related deaths",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/1/us-health-authorities-contradict-state-officials-on-measles-related-deaths?traffic_source=rss"
+    },
+    {
+      "index": 33,
+      "title": "Five held by police after newborn baby dies from stab wounds in Sheffield",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/sep/01/five-held-by-police-after-newborn-baby-dies-from-stab-wounds-in-south-yorkshire"
+    },
+    {
+      "index": 34,
+      "title": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham | John Crace",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/sep/01/kier-starmer-last-u-turn-andy-burnham"
+    },
+    {
+      "index": 35,
+      "title": "US military says it struck IRGC targets in Iran after attacks on shipping in Strait of Hormuz",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/2026/09/01/us-military-says-it-struck-irgc-targets-in-iran-after-attacks-on-shipping-in-strait-of-hor"
+    },
+    {
+      "index": 36,
+      "title": "The US military began striking targets in Iran, CENTCOM says",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss"
+    },
+    {
+      "index": 37,
+      "title": "John Ternus succeeds Tim Cook as Apple CEO after 15 years",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss"
+    },
+    {
+      "index": 38,
+      "title": "Who is John Ternus, Apple’s next CEO?",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/2026/apr/20/john-ternus-apple-ceo-tim-cook"
+    },
+    {
+      "index": 39,
+      "title": "Nepal-Tibet flood deaths pass 1,000 as police ask relatives for DNA to identify victims",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/sep/01/nepal-tibet-flood-deaths-police-relatives-dna-identification"
+    },
+    {
+      "index": 40,
+      "title": "How to Help Nepal Flash Flood Victims",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-tibet-aid-relief-how-donate.html"
+    },
+    {
+      "index": 41,
+      "title": "Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/9/1/pitso-mosimane-appointed-by-south-africa-ahead-of-afcon-qualifiers?traffic_source=rss"
+    },
+    {
+      "index": 42,
+      "title": "Russia targets Ukraine’s rail network as war enters deadly new phase",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/sep/01/russia-targets-ukraines-rail-network-as-war-enters-deadly-new-phase"
+    },
+    {
+      "index": 43,
+      "title": "These Ukrainian Children Go to School Underground. They’re the Lucky Ones.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/09/01/world/europe/ukraine-underground-schools.html"
+    },
+    {
+      "index": 44,
+      "title": "ICE holds man with stage 4 cancer in detention despite permanent US residency",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/sep/01/ice-stage-4-cancer-filipino-national"
+    },
+    {
+      "index": 45,
+      "title": "China’s Xi makes first visit to Egypt in a decade, amid regional turmoil",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/9/1/chinas-xi-makes-first-visit-to-egypt-in-a-decade-amid-regional-turmoil?traffic_source=rss"
+    },
+    {
       "index": 46,
+      "title": "Ousted UK Prime Minister Keir Starmer to quit domestic politics",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/1/ousted-uk-prime-minister-keir-starmer-to-quit-domestic-politics?traffic_source=rss"
+    },
+    {
+      "index": 47,
       "title": "SCO challenges West as diverse group of nations pursues multipolar future",
       "source": "Euronews",
       "link": "http://www.euronews.com/2026/09/01/sco-challenges-west-as-diverse-group-of-nations-pursues-multipolar-future"
     },
     {
-      "index": 47,
+      "index": 48,
       "title": "Iran promises to respond to new wave of US strikes despite Trump’s threats",
       "source": "Al Jazeera",
       "link": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss"
     },
     {
-      "index": 48,
+      "index": 49,
       "title": "Destroyed desalination plant worsens Gaza’s drinking water crisis",
       "source": "Al Jazeera",
       "link": "https://www.aljazeera.com/features/2026/9/1/destroyed-desalination-plant-worsens-gazas-drinking-water-crisis?traffic_source=rss"
     },
     {
-      "index": 49,
+      "index": 50,
       "title": "Trump says US position on Falklands 'one of many' under review",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "index": 50,
+      "index": 51,
       "title": "Husband and 12 Men in Britain Are Accused of Woman’s Yearslong Drugging and Rape",
       "source": "New York Times",
       "link": "https://www.nytimes.com/2026/09/01/world/europe/manchester-uk-trial-husband-rape-abuse.html"
     },
     {
-      "index": 51,
+      "index": 52,
       "title": "Pistol in a lake gives hope for French cold case",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "index": 52,
+      "index": 53,
       "title": "Germany accuses Russia of drone attack on Leipzig airport",
       "source": "Al Jazeera",
       "link": "https://www.aljazeera.com/news/2026/9/1/germany-accuses-russia-of-drone-attack-on-leipzig-airport?traffic_source=rss"
     },
     {
-      "index": 53,
+      "index": 54,
       "title": "Germany terminates lease for Berlin's Russian House",
       "source": "Deutsche Welle",
       "link": "https://www.dw.com/en/germany-terminates-lease-for-berlin-s-russian-house/a-73037945?maca=en-rss-en-all-1573-rdf"
     },
     {
-      "index": 54,
+      "index": 55,
       "title": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
       "source": "Al Jazeera",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss"
     },
     {
-      "index": 55,
+      "index": 56,
       "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
       "source": "New York Times",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html"
     },
     {
-      "index": 56,
+      "index": 57,
       "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "index": 57,
+      "index": 58,
       "title": "Sydney’s beaches enter the drone age to get swimmers back in the water after spate of shark attacks",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/environment/2026/sep/02/sydneys-beaches-enter-the-drone-age-to-get-swimmers-back-in-the-water-after-spate-of-shark-attacks"
     },
     {
-      "index": 58,
+      "index": 59,
       "title": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "index": 59,
+      "index": 60,
       "title": "‘No one else like him’: Argentinians rally for Lionel Messi",
       "source": "Al Jazeera",
       "link": "https://www.aljazeera.com/news/2026/9/1/no-one-else-like-him-argentinians-rally-for-lionel-messi?traffic_source=rss"
     },
     {
-      "index": 60,
+      "index": 61,
       "title": "Iran and Russia vow to stand against US ‘unilateralism’",
       "source": "Al Jazeera",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iran-and-russia-vow-to-stand-against-us?traffic_source=rss"
     },
     {
-      "index": 61,
+      "index": 62,
       "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "index": 62,
+      "index": 63,
       "title": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada"
     },
     {
-      "index": 63,
+      "index": 64,
       "title": "Six days of Russian strikes push Kyiv residents to consider leaving",
       "source": "Al Jazeera",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/six-days-of-russian-strikes-push-kyiv-residents-to-consider-leaving?traffic_source=rss"
     },
     {
-      "index": 64,
+      "index": 65,
       "title": "Bank of America VP identified as victim in Times Square stabbing",
       "source": "Al Jazeera",
       "link": "https://www.aljazeera.com/news/2026/9/1/bank-of-america-vice-president-identified-as-killed-in-times-square-attack?traffic_source=rss"
     },
     {
-      "index": 65,
+      "index": 66,
       "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
       "source": "Deutsche Welle",
       "link": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-rdf"
     },
     {
-      "index": 66,
+      "index": 67,
       "title": "Mansouri rocked by Israeli strikes as residents flee again",
       "source": "Al Jazeera",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/mansouri-rocked-by-israeli-strikes-as-residents-flee-again?traffic_source=rss"
     },
     {
-      "index": 67,
+      "index": 68,
       "title": "Photos: Nepal begins burying flood victims in mass graves",
       "source": "Al Jazeera",
       "link": "https://www.aljazeera.com/gallery/2026/9/1/photos-nepal-buries-flood-victims-in-mass-grave?traffic_source=rss"
     },
     {
-      "index": 68,
+      "index": 69,
       "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "index": 69,
+      "index": 70,
       "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
       "source": "Al Jazeera",
       "link": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss"
     },
     {
-      "index": 70,
+      "index": 71,
       "title": "Jerusalem schools strike after Israel enforces curriculum and bans teachers",
       "source": "Al Jazeera",
       "link": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss"
     },
     {
-      "index": 71,
+      "index": 72,
       "title": "France targets Shein and Temu with fast fashion fees",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "index": 72,
+      "index": 73,
       "title": "The Ritual of Coffin Making in a City Hit by Ebola",
       "source": "New York Times",
       "link": "https://www.nytimes.com/2026/09/01/world/africa/congo-ebola-coffins.html"
     },
     {
-      "index": 73,
+      "index": 74,
       "title": "Russia kills at least 12 on sixth night of drone attacks on Kyiv",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv"
     },
     {
-      "index": 74,
+      "index": 75,
       "title": "U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad",
       "source": "New York Times",
       "link": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html"
     },
     {
-      "index": 75,
+      "index": 76,
       "title": "NSW government to resume pill testing at music festivals but rejects calls for wider community rollout",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/australia-news/2026/sep/02/nsw-government-to-resume-pill-testing-at-music-festivals-but-rejects-calls-for-wider-community-rollout"
     },
     {
-      "index": 76,
+      "index": 77,
       "title": "Macquarie University swaps in-person psychology classes with AI chatbot for two subjects",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials"
     },
     {
-      "index": 77,
+      "index": 78,
       "title": "House prices head for historic 10% drop as fourth interest rate hike looms",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/australia-news/2026/sep/02/property-house-prices-drop-sydney-melbourne-brisbane-perth-adelaide-interest-rates"
     },
     {
-      "index": 78,
+      "index": 79,
       "title": "Inside knowledge or ‘making stuff up’? Charles Perrottet’s advice to Jean Nassif put under microscope by Icac",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/australia-news/2026/sep/02/charles-perrottet-advice-jean-nassif-icac-ntwnfb"
     },
     {
-      "index": 79,
+      "index": 80,
       "title": "Palestinian farmers inspect olive trees bulldozed by Israeli forces",
       "source": "Al Jazeera",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinian-farmers-inspect-olive-trees-bulldozed-by-israeli-forces?traffic_source=rss"
-    },
-    {
-      "index": 80,
-      "title": "Is Trump wooing Russia again – and why?",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/1/is-trump-wooing-russia-again-and-why?traffic_source=rss"
     }
   ],
   "clusters": [
     {
-      "representativeIndex": 2,
+      "representativeIndex": 4,
       "memberIndices": [
-        2,
-        17,
-        35,
-        36,
-        67
+        4,
+        7,
+        39,
+        40
       ],
       "score": 95,
       "category": "disaster",
-      "rationale": "The catastrophic floods in Nepal have resulted in over 1,000 deaths and significant damage, marking it as a major humanitarian crisis."
+      "rationale": "The catastrophic floods in Nepal have resulted in over 1,000 deaths and significant economic damage, marking a major humanitarian crisis."
     },
     {
       "representativeIndex": 3,
       "memberIndices": [
         3,
-        20,
-        25,
-        30,
-        31
+        19,
+        28,
+        66
       ],
       "score": 90,
       "category": "conflict",
-      "rationale": "The renewed hostilities between the US and Iran, including airstrikes and threats, escalate tensions in a critical geopolitical region."
+      "rationale": "Germany's accusation of Russia's involvement in a drone attack highlights escalating tensions in the Ukraine conflict and broader geopolitical implications."
     },
     {
-      "representativeIndex": 9,
+      "representativeIndex": 8,
       "memberIndices": [
-        9,
-        39,
-        66,
-        73
+        8,
+        25,
+        30,
+        35,
+        36
       ],
       "score": 85,
       "category": "conflict",
-      "rationale": "The ongoing violence in Gaza, including Israeli raids and civilian casualties, highlights the persistent conflict and humanitarian issues in the region."
-    },
-    {
-      "representativeIndex": 1,
-      "memberIndices": [
-        1,
-        7,
-        10,
-        77
-      ],
-      "score": 80,
-      "category": "economy",
-      "rationale": "The economic impact of the floods in Nepal, estimated at $5 billion, poses severe challenges for the country's already fragile economy."
-    },
-    {
-      "representativeIndex": 22,
-      "memberIndices": [
-        22,
-        72,
-        15
-      ],
-      "score": 75,
-      "category": "health",
-      "rationale": "The Ebola outbreak in Congo, with over 6,000 cases, represents a significant public health crisis that requires urgent international attention."
-    },
-    {
-      "representativeIndex": 11,
-      "memberIndices": [
-        11,
-        62,
-        44
-      ],
-      "score": 70,
-      "category": "politics",
-      "rationale": "The US House's passage of a funding bill to avoid a government shutdown reflects critical political maneuvering ahead of midterm elections."
+      "rationale": "The renewed hostilities between the US and Iran, marked by airstrikes, signify a critical escalation in Middle Eastern tensions."
     },
     {
       "representativeIndex": 12,
       "memberIndices": [
         12,
-        37
+        78,
+        16
+      ],
+      "score": 80,
+      "category": "economy",
+      "rationale": "The global bond sell-off and rising interest rates are poised to impact economies worldwide, affecting borrowing costs and financial stability."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6,
+        31,
+        46
+      ],
+      "score": 75,
+      "category": "politics",
+      "rationale": "The new UK Prime Minister's address addressing Brexit's impact on growth reflects significant political and economic challenges facing the country."
+    },
+    {
+      "representativeIndex": 15,
+      "memberIndices": [
+        15,
+        55,
+        71
+      ],
+      "score": 70,
+      "category": "conflict",
+      "rationale": "The ongoing violence in Gaza, including Israeli raids, continues to exacerbate the humanitarian situation and international tensions."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2,
+        18,
+        80
       ],
       "score": 65,
-      "category": "law",
-      "rationale": "The conviction of a former gang leader for the murder of Tupac Shakur marks a significant legal development in a high-profile case."
+      "category": "society",
+      "rationale": "Farmers' protests in Denmark against fertilizer restrictions illustrate growing societal tensions over environmental regulations and agricultural practices."
     },
     {
-      "representativeIndex": 19,
+      "representativeIndex": 10,
       "memberIndices": [
-        19,
-        38
+        10,
+        27,
+        73
       ],
       "score": 60,
-      "category": "society",
-      "rationale": "The heated Senate race in Michigan, characterized by personal attacks, reflects broader societal divisions and political tensions in the US."
+      "category": "health",
+      "rationale": "The Ebola outbreak in Congo, with thousands of cases, poses a significant public health threat and highlights ongoing challenges in disease control."
     },
     {
-      "representativeIndex": 42,
+      "representativeIndex": 1,
       "memberIndices": [
-        42,
-        49
+        1,
+        62,
+        65
       ],
       "score": 55,
-      "category": "world",
-      "rationale": "Xi Jinping's visit to Egypt amid regional turmoil underscores China's growing influence in the Middle East."
-    },
-    {
-      "representativeIndex": 4,
-      "memberIndices": [
-        4,
-        41
-      ],
-      "score": 50,
-      "category": "society",
-      "rationale": "The support for Mark Ruffalo amid antisemitism accusations highlights ongoing societal debates about representation and free speech."
-    },
-    {
-      "representativeIndex": 54,
-      "memberIndices": [
-        54,
-        8
-      ],
-      "score": 45,
-      "category": "politics",
-      "rationale": "The UK Foreign Secretary's condemnation of Israeli settlements signals a shift in foreign policy that could impact international relations."
-    },
-    {
-      "representativeIndex": 32,
-      "memberIndices": [
-        32,
-        34
-      ],
-      "score": 40,
-      "category": "technology",
-      "rationale": "The transition of Apple’s CEO to John Ternus indicates a potential shift in innovation strategy for one of the world's leading tech companies."
-    },
-    {
-      "representativeIndex": 48,
-      "memberIndices": [
-        48
-      ],
-      "score": 35,
-      "category": "health",
-      "rationale": "The destruction of a desalination plant in Gaza exacerbates the ongoing water crisis, posing serious health risks for the population."
-    },
-    {
-      "representativeIndex": 61,
-      "memberIndices": [
-        61,
-        64
-      ],
-      "score": 30,
-      "category": "society",
-      "rationale": "The violent incident in Times Square raises concerns about public safety and mental health issues in urban environments."
-    },
-    {
-      "representativeIndex": 50,
-      "memberIndices": [
-        50,
-        58
-      ],
-      "score": 25,
       "category": "law",
-      "rationale": "The serious allegations against a man and multiple accomplices in a drugging and rape case highlight ongoing issues of gender-based violence."
-    },
-    {
-      "representativeIndex": 70,
-      "memberIndices": [
-        70,
-        79
-      ],
-      "score": 20,
-      "category": "society",
-      "rationale": "The strike by Jerusalem schools over enforced curriculum changes reflects tensions in educational policies amid the Israeli-Palestinian conflict."
+      "rationale": "The trial of Lindsay Clancy for the tragic deaths of her children raises critical legal and ethical questions surrounding mental health and accountability."
     },
     {
       "representativeIndex": 14,
       "memberIndices": [
         14,
-        23
+        21,
+        49
       ],
-      "score": 15,
-      "category": "conflict",
-      "rationale": "Germany's accusations against Russia for drone attacks illustrate the ongoing geopolitical tensions in Europe."
-    },
-    {
-      "representativeIndex": 46,
-      "memberIndices": [
-        46,
-        80
-      ],
-      "score": 10,
-      "category": "world",
-      "rationale": "The SCO's summit reflects the shifting dynamics of global power, although its impact remains to be seen."
-    },
-    {
-      "representativeIndex": 76,
-      "memberIndices": [
-        76,
-        75
-      ],
-      "score": 5,
-      "category": "technology",
-      "rationale": "The use of AI chatbots in education represents a growing trend in technology's role in learning, though it raises concerns about quality."
-    },
-    {
-      "representativeIndex": 68,
-      "memberIndices": [
-        68
-      ],
-      "score": 3,
+      "score": 50,
       "category": "society",
-      "rationale": "The reports of daily sexual assaults in Ceuta highlight ongoing societal issues related to migration and safety.",
-      "repaired": true
+      "rationale": "The controversy over Israeli settlements and their impact on Palestinian farmers underscores ongoing societal and political conflicts in the region."
     },
     {
-      "representativeIndex": 78,
+      "representativeIndex": 11,
       "memberIndices": [
-        78
+        11,
+        32,
+        44
       ],
-      "score": 1,
-      "category": "politics",
-      "rationale": "The investigation into potential corruption in New South Wales politics underscores the challenges of governance and accountability."
+      "score": 45,
+      "category": "law",
+      "rationale": "Concerns over mail-in voting and potential USPS system changes highlight significant legal and electoral issues in the US ahead of midterm elections."
     },
     {
       "representativeIndex": 5,
       "memberIndices": [
-        5
+        5,
+        63,
+        79
       ],
-      "score": 19.9375,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 6,
-      "memberIndices": [
-        6
-      ],
-      "score": 19.925,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
+      "score": 40,
+      "category": "politics",
+      "rationale": "The scrutiny of Nigel Farage's claims regarding standards investigations reflects ongoing political controversies in the UK."
     },
     {
       "representativeIndex": 13,
       "memberIndices": [
-        13
+        13,
+        42,
+        43
       ],
-      "score": 19.8375,
+      "score": 35,
+      "category": "conflict",
+      "rationale": "Ed Miliband's commitment to reset UK policy on Israel indicates a shift in foreign policy that could impact international relations."
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45,
+        61,
+        70
+      ],
+      "score": 30,
+      "category": "world",
+      "rationale": "Xi Jinping's visit to Egypt amidst regional turmoil signifies China's growing influence in Middle Eastern geopolitics."
+    },
+    {
+      "representativeIndex": 37,
+      "memberIndices": [
+        37,
+        38,
+        56
+      ],
+      "score": 25,
+      "category": "technology",
+      "rationale": "John Ternus's appointment as Apple CEO marks a significant leadership change in a major technology company, affecting future innovation strategies."
+    },
+    {
+      "representativeIndex": 9,
+      "memberIndices": [
+        9
+      ],
+      "score": 19.8875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 16,
+      "representativeIndex": 17,
       "memberIndices": [
-        16
+        17
       ],
-      "score": 19.8,
+      "score": 19.7875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 18,
+      "representativeIndex": 20,
       "memberIndices": [
-        18
+        20
       ],
-      "score": 19.775,
+      "score": 19.75,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 21,
+      "representativeIndex": 22,
       "memberIndices": [
-        21
+        22
       ],
-      "score": 19.7375,
+      "score": 19.725,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -789,26 +728,6 @@
       "repaired": true
     },
     {
-      "representativeIndex": 27,
-      "memberIndices": [
-        27
-      ],
-      "score": 19.6625,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 28,
-      "memberIndices": [
-        28
-      ],
-      "score": 19.65,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
       "representativeIndex": 29,
       "memberIndices": [
         29
@@ -829,31 +748,21 @@
       "repaired": true
     },
     {
-      "representativeIndex": 40,
+      "representativeIndex": 34,
       "memberIndices": [
-        40
+        34
       ],
-      "score": 19.5,
+      "score": 19.575,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 43,
+      "representativeIndex": 41,
       "memberIndices": [
-        43
+        41
       ],
-      "score": 19.4625,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 45,
-      "memberIndices": [
-        45
-      ],
-      "score": 19.4375,
+      "score": 19.4875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -864,6 +773,26 @@
         47
       ],
       "score": 19.4125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 48,
+      "memberIndices": [
+        48
+      ],
+      "score": 19.4,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 50,
+      "memberIndices": [
+        50
+      ],
+      "score": 19.375,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -899,21 +828,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 55,
+      "representativeIndex": 54,
       "memberIndices": [
-        55
+        54
       ],
-      "score": 19.3125,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 56,
-      "memberIndices": [
-        56
-      ],
-      "score": 19.3,
+      "score": 19.325,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -924,6 +843,16 @@
         57
       ],
       "score": 19.2875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 19.275,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -949,21 +878,31 @@
       "repaired": true
     },
     {
-      "representativeIndex": 63,
+      "representativeIndex": 64,
       "memberIndices": [
-        63
+        64
       ],
-      "score": 19.2125,
+      "score": 19.2,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 65,
+      "representativeIndex": 67,
       "memberIndices": [
-        65
+        67
       ],
-      "score": 19.1875,
+      "score": 19.1625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 68,
+      "memberIndices": [
+        68
+      ],
+      "score": 19.15,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -979,11 +918,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 71,
+      "representativeIndex": 72,
       "memberIndices": [
-        71
+        72
       ],
-      "score": 19.1125,
+      "score": 19.1,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -997,6 +936,36 @@
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
+    },
+    {
+      "representativeIndex": 75,
+      "memberIndices": [
+        75
+      ],
+      "score": 19.0625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76
+      ],
+      "score": 19.05,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 77,
+      "memberIndices": [
+        77
+      ],
+      "score": 19.0375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
     }
   ],
   "calls": [
@@ -1006,14 +975,14 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 21127,
+      "latencyMs": 13446,
       "usage": {
-        "inputTokens": 7712,
-        "outputTokens": 1002,
-        "totalTokens": 8714
+        "inputTokens": 7699,
+        "outputTokens": 743,
+        "totalTokens": 8442
       },
-      "estimatedCostUsd": 0.001758,
-      "returnedCount": 21,
+      "estimatedCostUsd": 0.00160065,
+      "returnedCount": 15,
       "acceptedCount": 30
     },
     {
@@ -1022,13 +991,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 14058,
+      "latencyMs": 12605,
       "usage": {
-        "inputTokens": 1420,
-        "outputTokens": 1270,
-        "totalTokens": 2690
+        "inputTokens": 1274,
+        "outputTokens": 1267,
+        "totalTokens": 2541
       },
-      "estimatedCostUsd": 0.000975,
+      "estimatedCostUsd": 0.0009513,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1038,13 +1007,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 12698,
+      "latencyMs": 12739,
       "usage": {
-        "inputTokens": 936,
-        "outputTokens": 1194,
-        "totalTokens": 2130
+        "inputTokens": 1270,
+        "outputTokens": 1165,
+        "totalTokens": 2435
       },
-      "estimatedCostUsd": 0.0008567999999999999,
+      "estimatedCostUsd": 0.0008895,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1054,13 +1023,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 11155,
+      "latencyMs": 13853,
       "usage": {
-        "inputTokens": 1325,
-        "outputTokens": 1033,
-        "totalTokens": 2358
+        "inputTokens": 1059,
+        "outputTokens": 1280,
+        "totalTokens": 2339
       },
-      "estimatedCostUsd": 0.0008185499999999999,
+      "estimatedCostUsd": 0.00092685,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1070,25 +1039,57 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 27449,
+      "latencyMs": 26195,
       "usage": {
-        "inputTokens": 2196,
-        "outputTokens": 2732,
-        "totalTokens": 4928
+        "inputTokens": 2069,
+        "outputTokens": 2489,
+        "totalTokens": 4558
       },
-      "estimatedCostUsd": 0.0019686,
+      "estimatedCostUsd": 0.0018037499999999998,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 43467,
+      "usage": {
+        "inputTokens": 1900,
+        "outputTokens": 3024,
+        "totalTokens": 4924
+      },
+      "estimatedCostUsd": 0.0020993999999999995,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 30144,
+      "usage": {
+        "inputTokens": 1821,
+        "outputTokens": 2930,
+        "totalTokens": 4751
+      },
+      "estimatedCostUsd": 0.0020311500000000002,
       "returnedCount": 10,
       "acceptedCount": 10
     }
   ],
-  "generatedAt": "2026-09-01T19:08:50.193Z",
+  "generatedAt": "2026-09-01T19:25:37.815Z",
   "cost": {
     "currency": "USD",
-    "estimatedTotalUsd": 0.00637695,
+    "estimatedTotalUsd": 0.0103026,
     "complete": true,
-    "inputTokens": 13589,
-    "outputTokens": 7231,
-    "totalTokens": 20820,
+    "inputTokens": 17092,
+    "outputTokens": 12898,
+    "totalTokens": 29990,
     "inputUsdPerMillion": 0.15,
     "outputUsdPerMillion": 0.6
   },
@@ -1097,9 +1098,14 @@
       "storyCount": 30,
       "stories": [
         {
-          "link": "https://www.theguardian.com/world/2026/sep/01/briton-among-119-more-people-rescued-in-nepal-after-flash-floods",
-          "source": "The Guardian",
-          "title_en": "Briton among 119 more people rescued in Nepal after flash floods"
+          "link": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html",
+          "source": "New York Times",
+          "title_en": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Germany says Russia behind Leipzig airport drone attack"
         },
         {
           "link": "https://www.dw.com/en/iran-us-launches-fresh-strikes-as-hostilities-flare-again/a-78655364?maca=en-rss-en-all-1573-rdf",
@@ -1107,74 +1113,24 @@
           "title_en": "Iran: US launches fresh strikes as hostilities flare again"
         },
         {
+          "link": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html",
+          "source": "New York Times",
+          "title_en": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm",
+          "source": "The Guardian",
+          "title_en": "Burnham promises to bring optimism and ‘substantial change’ in first Commons speech as PM"
+        },
+        {
           "link": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
           "source": "New York Times",
           "title_en": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say"
         },
         {
-          "link": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html",
+          "link": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
           "source": "New York Times",
-          "title_en": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage"
-        },
-        {
-          "link": "https://www.dw.com/en/congo-s-ebola-caseload-tops-6-000-as-concerns-grow/a-78638447?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "title_en": "Congo's Ebola caseload tops 6,000 as concerns grow"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/2026/sep/01/house-bill-prevents-government-shutdown",
-          "source": "The Guardian",
-          "title_en": "House passes funding bill to avoid shutdown before midterms"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'"
-        },
-        {
-          "link": "https://www.aljazeera.com/economy/2026/9/1/chinas-xi-makes-first-visit-to-egypt-in-a-decade-amid-regional-turmoil?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "China’s Xi makes first visit to Egypt in a decade, amid regional turmoil"
-        },
-        {
-          "link": "https://www.theguardian.com/film/2026/sep/01/jewish-artist-support-mark-ruffalo-antisemitism",
-          "source": "The Guardian",
-          "title_en": "Todd Haynes and Wallace Shawn among signatories of letter backing Mark Ruffalo amid antisemitism charge"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank"
-        },
-        {
-          "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "John Ternus succeeds Tim Cook as Apple CEO after 15 years"
-        },
-        {
-          "link": "https://www.aljazeera.com/features/2026/9/1/destroyed-desalination-plant-worsens-gazas-drinking-water-crisis?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Destroyed desalination plant worsens Gaza’s drinking water crisis"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Woman killed in Times Square stabbing, suspect shot dead by police"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/09/01/world/europe/manchester-uk-trial-husband-rape-abuse.html",
-          "source": "New York Times",
-          "title_en": "Husband and 12 Men in Britain Are Accused of Woman’s Yearslong Drugging and Rape"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Jerusalem schools strike after Israel enforces curriculum and bans teachers"
+          "title_en": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions"
         },
         {
           "link": "https://www.nytimes.com/2026/08/31/world/europe/edouard-balladur-dead.html",
@@ -1182,19 +1138,59 @@
           "title_en": "Édouard Balladur, Embattled French Prime Minister, Dies at 97"
         },
         {
+          "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/2026/9/1/belgian-mayor-blocks-club-from-hosting-israeli-opponent-in-europa-league?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Belgian mayor blocks club from hosting Israeli opponent in Europa League"
+        },
+        {
           "link": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
           "source": "The Guardian",
           "title_en": "‘Dangerous power grab’: top Democrats decry USPS system that could thwart mail-in voting"
         },
         {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "UN food agency cuts aid in West Bank amid funding crisis"
+          "link": "https://www.theguardian.com/politics/2026/sep/01/nigel-farage-questions-claim-second-standards-investigation",
+          "source": "The Guardian",
+          "title_en": "Farage faces questions over his claim of facing second standards investigation"
         },
         {
-          "link": "https://www.aljazeera.com/news/2026/9/1/vanuatu-pushes-france-to-accept-icj-jurisdiction-in-pacific-islands-dispute?traffic_source=rss",
+          "link": "https://www.theguardian.com/politics/2026/sep/01/ed-miliband-promises-reset-of-uk-policy-toward-israel",
+          "source": "The Guardian",
+          "title_en": "Ed Miliband promises ‘comprehensive reset’ of UK policy toward Israel"
+        },
+        {
+          "link": "https://www.aljazeera.com/economy/2026/9/1/chinas-xi-makes-first-visit-to-egypt-in-a-decade-amid-regional-turmoil?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Vanuatu pushes France to accept ICJ jurisdiction in Pacific islands dispute"
+          "title_en": "China’s Xi makes first visit to Egypt in a decade, amid regional turmoil"
+        },
+        {
+          "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "John Ternus succeeds Tim Cook as Apple CEO after 15 years"
+        },
+        {
+          "link": "https://www.theguardian.com/film/2026/sep/01/jewish-artist-support-mark-ruffalo-antisemitism",
+          "source": "The Guardian",
+          "title_en": "Todd Haynes and Wallace Shawn among signatories of letter backing Mark Ruffalo amid antisemitism charge"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Health crisis looming as Gaza heads towards rainy season, warns WHO"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/nepal-rescuers-race-to-reach-900-missing-hydropower-workers?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Nepal rescuers race to reach 900 missing hydropower workers"
         },
         {
           "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deep-sea-search-begins-for-20-people-missing-in-cyprus-ferry-disaster?traffic_source=rss",
@@ -1202,24 +1198,19 @@
           "title_en": "Deep-sea search begins for 20 people missing in Cyprus ferry disaster"
         },
         {
+          "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "In Michigan Senate race, Vance calls El-Sayed 'evil'"
+        },
+        {
           "link": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates",
           "source": "The Guardian",
-          "title_en": "German police investigating reported explosives at Brandenburg power substation"
+          "title_en": "German police investigating reported explosives at Brandenburg power substation – Europe live"
         },
         {
           "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
           "source": "New York Times",
           "title_en": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power."
-        },
-        {
-          "link": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
-          "source": "The Guardian",
-          "title_en": "Burnham says Brexit brought ‘decade of low growth’ in first Commons address as prime minister"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/9/1/us-health-authorities-contradict-state-officials-on-measles-related-deaths?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "US health authorities contradict state officials on measles-related deaths"
         },
         {
           "link": "https://www.theguardian.com/uk-news/2026/sep/01/five-held-by-police-after-newborn-baby-dies-from-stab-wounds-in-south-yorkshire",
@@ -1229,22 +1220,32 @@
         {
           "link": "https://www.theguardian.com/politics/2026/sep/01/kier-starmer-last-u-turn-andy-burnham",
           "source": "The Guardian",
-          "title_en": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham"
+          "title_en": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham | John Crace"
         },
         {
-          "link": "https://www.theguardian.com/politics/2026/sep/01/keir-starmer-stepping-down-mp-constituents-holborn-st-pancras-kentish-town",
-          "source": "The Guardian",
-          "title_en": "‘I think he’s sensible’: constituents on Keir Starmer stepping down as MP"
+          "link": "https://www.aljazeera.com/sports/2026/9/1/pitso-mosimane-appointed-by-south-africa-ahead-of-afcon-qualifiers?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers"
         },
         {
-          "link": "https://www.nytimes.com/2026/09/01/world/europe/ukraine-underground-schools.html",
+          "link": "http://www.euronews.com/2026/09/01/sco-challenges-west-as-diverse-group-of-nations-pursues-multipolar-future",
+          "source": "Euronews",
+          "title_en": "SCO challenges West as diverse group of nations pursues multipolar future"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Iran promises to respond to new wave of US strikes despite Trump’s threats"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Trump says US position on Falklands 'one of many' under review"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/09/01/world/europe/manchester-uk-trial-husband-rape-abuse.html",
           "source": "New York Times",
-          "title_en": "These Ukrainian Children Go to School Underground. They’re the Lucky Ones."
-        },
-        {
-          "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/01/bodycote-private-equity-london-takeover-spree-politicians-ignore",
-          "source": "The Guardian",
-          "title_en": "Private equity keeps picking off London-listed firms – and Westminster barely notices"
+          "title_en": "Husband and 12 Men in Britain Are Accused of Woman’s Yearslong Drugging and Rape"
         }
       ]
     },
@@ -1252,9 +1253,14 @@
       "storyCount": 10,
       "stories": [
         {
-          "link": "https://www.theguardian.com/world/2026/sep/01/briton-among-119-more-people-rescued-in-nepal-after-flash-floods",
-          "source": "The Guardian",
-          "title_en": "Briton among 119 more people rescued in Nepal after flash floods"
+          "link": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html",
+          "source": "New York Times",
+          "title_en": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Germany says Russia behind Leipzig airport drone attack"
         },
         {
           "link": "https://www.dw.com/en/iran-us-launches-fresh-strikes-as-hostilities-flare-again/a-78655364?maca=en-rss-en-all-1573-rdf",
@@ -1262,49 +1268,44 @@
           "title_en": "Iran: US launches fresh strikes as hostilities flare again"
         },
         {
+          "link": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html",
+          "source": "New York Times",
+          "title_en": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm",
+          "source": "The Guardian",
+          "title_en": "Burnham promises to bring optimism and ‘substantial change’ in first Commons speech as PM"
+        },
+        {
           "link": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
           "source": "New York Times",
           "title_en": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say"
         },
         {
-          "link": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html",
+          "link": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
           "source": "New York Times",
-          "title_en": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage"
+          "title_en": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions"
         },
         {
-          "link": "https://www.dw.com/en/congo-s-ebola-caseload-tops-6-000-as-concerns-grow/a-78638447?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "title_en": "Congo's Ebola caseload tops 6,000 as concerns grow"
+          "link": "https://www.nytimes.com/2026/08/31/world/europe/edouard-balladur-dead.html",
+          "source": "New York Times",
+          "title_en": "Édouard Balladur, Embattled French Prime Minister, Dies at 97"
         },
         {
-          "link": "https://www.theguardian.com/us-news/2026/sep/01/house-bill-prevents-government-shutdown",
-          "source": "The Guardian",
-          "title_en": "House passes funding bill to avoid shutdown before midterms"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "title_en": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur"
+          "title_en": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'"
-        },
-        {
-          "link": "https://www.aljazeera.com/economy/2026/9/1/chinas-xi-makes-first-visit-to-egypt-in-a-decade-amid-regional-turmoil?traffic_source=rss",
+          "link": "https://www.aljazeera.com/sports/2026/9/1/belgian-mayor-blocks-club-from-hosting-israeli-opponent-in-europa-league?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "China’s Xi makes first visit to Egypt in a decade, amid regional turmoil"
-        },
-        {
-          "link": "https://www.theguardian.com/film/2026/sep/01/jewish-artist-support-mark-ruffalo-antisemitism",
-          "source": "The Guardian",
-          "title_en": "Todd Haynes and Wallace Shawn among signatories of letter backing Mark Ruffalo amid antisemitism charge"
+          "title_en": "Belgian mayor blocks club from hosting Israeli opponent in Europa League"
         }
       ],
       "contentHashes": {
-        "ru": "26895fd284a31634e7316be0f2edb83a357f2a7b5a7fdac5389722752c395307",
-        "en": "a943fb6420b2b3b860bb325026e168a43305757937f047c60ce501aa8000c8e0"
+        "ru": "204809d496ff2cf9c778d2cd43f45a0b588869d94f6414e7e7c5c0f738aa123b",
+        "en": "75fbba9b8bb0426b0c676a1b0576cce32945ad48d00d73163adfa19800e58a97"
       }
     }
   }

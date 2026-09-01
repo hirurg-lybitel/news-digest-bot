@@ -1,203 +1,311 @@
 {
-  "generatedAt": "2026-09-01T19:08:50.193Z",
+  "generatedAt": "2026-09-01T19:25:37.815Z",
   "date": "2026-09-01",
   "slot": "evening",
-  "periodHours": 13.073322777777777,
+  "periodHours": 13.334915277777778,
   "intro": {
     "ru": "Главные мировые события за последние несколько часов — 30 коротких новостей.",
     "en": "The latest major world events in 30 concise stories."
   },
   "stories": [
     {
-      "link": "https://www.theguardian.com/world/2026/sep/01/briton-among-119-more-people-rescued-in-nepal-after-flash-floods",
-      "source": "The Guardian",
+      "link": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html",
+      "source": "New York Times",
       "title": {
-        "ru": "Британия среди 119 человек, спасенных в Непале после наводнений",
-        "en": "Briton among 119 more people rescued in Nepal after flash floods"
+        "ru": "Экономика Непала не может справиться с последствиями наводнений",
+        "en": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage"
       },
       "summary": {
-        "ru": "Британский гражданин был среди 119 человек, спасенных в Непале после катастрофических наводнений на границе с Тибетом. Более 1000 человек подтверждены мертвыми, более 4000 все еще числятся пропавшими без вести.",
-        "en": "A British national was among 119 people rescued in Nepal after catastrophic flash floods on the border with Tibet. Over 1,000 people are confirmed dead, with more than 4,000 still missing."
+        "ru": "Правительство Непала оценивает ущерб от недавних катастрофических наводнений в 5 миллиардов долларов. Это составляет одну десятую часть экономики страны.",
+        "en": "The country’s government estimates that the recent catastrophic floods caused $5 billion in damage. That’s one-tenth of Nepal’s entire economy."
       },
       "category": {
         "ru": "Катастрофа",
         "en": "Disaster"
       },
       "longBody": {
-        "ru": "Британский гражданин оказался среди 119 человек, спасенных в Непале после катастрофических наводнений на границе с Тибетом. Спасательные операции продолжаются, и, по данным официальных источников, число погибших превысило 1000 человек, а более 4000 все еще числятся пропавшими без вести.\n\nНаводнения были вызваны обрушением ледника, что привело к масштабным разрушениям. Спасательные команды работают круглосуточно, чтобы найти выживших и оказать помощь пострадавшим. В операции участвуют как местные, так и международные силы.\n\nСитуация остается критической, и власти Непала призывают к международной помощи для преодоления последствий этой природной катастрофы.",
-        "en": "A British national was among 119 people rescued in Nepal after catastrophic flash floods on the border with Tibet. Rescue operations are ongoing, with official reports confirming over 1,000 deaths and more than 4,000 still missing.\n\nThe floods were triggered by a glacial collapse, leading to widespread destruction. Rescue teams are working around the clock to find survivors and provide aid to those affected. Both local and international forces are involved in the operation.\n\nThe situation remains critical, and Nepali authorities are calling for international assistance to cope with the aftermath of this natural disaster."
+        "ru": "Правительство Непала оценивает ущерб от недавних катастрофических наводнений в 5 миллиардов долларов. Это составляет одну десятую часть экономики страны, что создает серьезные проблемы для восстановления и будущего экономического роста.\n\nМестные власти сталкиваются с трудностями в поиске средств для восстановления инфраструктуры и помощи пострадавшим. Экономика Непала уже была под давлением из-за различных факторов, и такие катастрофы усугубляют ситуацию.\n\nВ условиях ограниченных ресурсов правительство ищет международную помощь и поддержку, чтобы справиться с последствиями наводнений и предотвратить дальнейшие экономические потрясения.",
+        "en": "The government of Nepal estimates that the recent catastrophic floods caused $5 billion in damage. This amounts to one-tenth of the country's economy, creating significant challenges for recovery and future economic growth.\n\nLocal authorities are struggling to find funds for infrastructure restoration and assistance to those affected. Nepal's economy was already under pressure from various factors, and such disasters exacerbate the situation.\n\nWith limited resources, the government is seeking international aid and support to cope with the aftermath of the floods and prevent further economic turmoil."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Britaniya-sredi-119-chelovek-spasennyh-v-Nepale-posle-navodnenij-09-01",
-        "en": "https://telegra.ph/Briton-among-119-more-people-rescued-in-Nepal-after-flash-floods-09-01-2"
+        "ru": "https://telegra.ph/EHkonomika-Nepala-ne-mozhet-spravitsya-s-posledstviyami-navodnenij-09-01",
+        "en": "https://telegra.ph/Nepals-Economy-Has-Few-Ways-to-Absorb-the-Cost-of-Flood-Damage-09-01-2"
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Германия обвиняет Россию в атаке дронов на аэропорт Лейпцига",
+        "en": "Germany says Russia behind Leipzig airport drone attack"
+      },
+      "summary": {
+        "ru": "Дрон с взрывным устройством был обнаружен в аэропорту рядом с украинскими грузовыми самолетами 4 августа. Германия указывает на Россию как на виновника атаки.",
+        "en": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August. Germany points to Russia as responsible for the attack."
+      },
+      "category": {
+        "ru": "Конфликт",
+        "en": "Conflict"
+      },
+      "longBody": {
+        "ru": "Дрон с взрывным устройством был обнаружен в аэропорту Лейпцига рядом с украинскими грузовыми самолетами 4 августа. Германия указывает на Россию как на виновника этой атаки, что подчеркивает продолжающуюся напряженность в регионе.\n\nЭтот инцидент стал очередным свидетельством угрозы, которую представляют беспилотники в современных конфликтах. Германия обеспокоена безопасностью своих аэропортов и возможными последствиями для международных отношений.\n\nВласти Германии продолжают расследование, чтобы выяснить детали инцидента и предотвратить подобные атаки в будущем.",
+        "en": "A drone carrying an explosive device was discovered at Leipzig airport near Ukrainian cargo planes on August 4. Germany points to Russia as responsible for this attack, highlighting the ongoing tensions in the region.\n\nThis incident serves as another reminder of the threats posed by drones in modern conflicts. Germany is concerned about the security of its airports and the potential implications for international relations.\n\nGerman authorities are continuing their investigation to uncover the details of the incident and prevent similar attacks in the future."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Germaniya-obvinyaet-Rossiyu-v-atake-dronov-na-aehroport-Lejpciga-09-01",
+        "en": "https://telegra.ph/Germany-says-Russia-behind-Leipzig-airport-drone-attack-09-01-13"
       }
     },
     {
       "link": "https://www.dw.com/en/iran-us-launches-fresh-strikes-as-hostilities-flare-again/a-78655364?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "title": {
-        "ru": "Иран: США наносят новые удары, когда враждебность снова вспыхивает",
+        "ru": "Иран: США запускают новые удары, обостряя конфликт",
         "en": "Iran: US launches fresh strikes as hostilities flare again"
       },
       "summary": {
-        "ru": "Сообщения о взрывах поступили в районе Ормузского пролива и в аэропорту на юге Ирана. Президент США Трамп охарактеризовал удары как \"большие и мощные\".",
-        "en": "Explosions were reported in the Strait of Hormuz and at an airport in southern Iran. US President Trump described the strikes as \"large and powerful.\""
+        "ru": "Взрывы были зафиксированы в районе Ормузского пролива и в аэропорту на юге Ирана. Президент США Трамп охарактеризовал удары как \"большие и мощные\".",
+        "en": "Explosions were reported in and around the Strait of Hormuz, as well as at an airport in southern Iran. US President Trump described the strikes as \"large and powerful.\""
       },
       "category": {
         "ru": "Конфликт",
         "en": "Conflict"
       },
       "longBody": {
-        "ru": "В районе Ормузского пролива и в аэропорту на юге Ирана были зафиксированы взрывы. Президент США Дональд Трамп охарактеризовал удары как \"большие и мощные\", что свидетельствует о нарастающей напряженности в регионе.\n\nЭти события происходят на фоне ухудшения отношений между США и Ираном, где власти Ирана заявили, что США \"пожалели\" о своих последних атаках. Взрывы вызвали обеспокоенность среди международного сообщества и могут привести к дальнейшей эскалации конфликта.\n\nСитуация в регионе остается нестабильной, и эксперты предупреждают о возможных последствиях для безопасности судоходства и энергетических поставок.",
-        "en": "Explosions were reported in and around the Strait of Hormuz, as well as at an airport in southern Iran. US President Donald Trump described the strikes as \"large and powerful,\" indicating rising tensions in the region.\n\nThese events occur amid deteriorating relations between the US and Iran, with Iranian authorities stating that the US will \"regret\" its latest attacks. The explosions have raised concerns among the international community and could lead to further escalation of the conflict.\n\nThe situation in the region remains unstable, and experts warn of potential consequences for shipping security and energy supplies."
+        "ru": "Взрывы были зафиксированы в районе Ормузского пролива и в аэропорту на юге Ирана. Президент США Трамп охарактеризовал удары как \"большие и мощные\", что свидетельствует о нарастающей напряженности в регионе.\n\nЭти действия США стали ответом на недавние инциденты, связанные с иранскими силами. Иран в свою очередь заявил, что США \"пожалеют\" о своих последних атаках, что указывает на возможное дальнейшее обострение конфликта.\n\nМеждународное сообщество внимательно следит за развитием ситуации, поскольку она может повлиять на стабильность в регионе и глобальные рынки.",
+        "en": "Explosions were reported in and around the Strait of Hormuz, as well as at an airport in southern Iran. US President Trump described the strikes as \"large and powerful,\" indicating escalating tensions in the region.\n\nThese actions by the US were a response to recent incidents involving Iranian forces. Iran, in turn, stated that the US will \"regret\" its latest attacks, suggesting a potential further escalation of the conflict.\n\nThe international community is closely monitoring the situation, as it could impact regional stability and global markets."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Iran-SSHA-nanosyat-novye-udary-kogda-vrazhdebnost-snova-vspyhivaet-09-01",
-        "en": "https://telegra.ph/Iran-US-launches-fresh-strikes-as-hostilities-flare-again-09-01-3"
+        "ru": "https://telegra.ph/Iran-SSHA-zapuskayut-novye-udary-obostryaya-konflikt-09-01",
+        "en": "https://telegra.ph/Iran-US-launches-fresh-strikes-as-hostilities-flare-again-09-01-4"
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+      "link": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html",
       "source": "New York Times",
       "title": {
-        "ru": "Израильская операция в Газе убивает 4 человека, сообщают палестинские чиновники",
-        "en": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say"
+        "ru": "Рынок облигаций под угрозой, что может затруднить заимствования по всему миру",
+        "en": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World"
       },
       "summary": {
-        "ru": "Израиль заявил, что захватил главу внутренней безопасности ХАМАСа в ходе операции. Бои продолжаются в анклаве, несмотря на поддерживаемое США перемирие.",
-        "en": "Israel stated it seized the head of Hamas’s internal security force during the operation. Fighting continues in the enclave despite a US-backed truce."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
-      },
-      "longBody": {
-        "ru": "Израиль сообщил о захвате главы внутренней безопасности ХАМАСа в ходе недавней операции в Газе. Несмотря на это, бои продолжаются в анклаве, что ставит под сомнение эффективность поддерживаемого США перемирия.\n\nОперация привела к жертвам, и местные власти сообщают о погибших. Конфликт в Газе продолжает оставаться одним из самых сложных и затяжных в регионе, с постоянными вспышками насилия.\n\nМеждународное сообщество призывает к мирным переговорам, однако ситуация остается напряженной, и обе стороны продолжают обвинять друг друга в эскалации насилия.",
-        "en": "Israel stated it seized the head of Hamas’s internal security force during a recent operation in Gaza. Despite this, fighting continues in the enclave, calling into question the effectiveness of the US-backed truce.\n\nThe operation resulted in casualties, with local authorities reporting deaths. The conflict in Gaza remains one of the most complex and protracted in the region, with ongoing outbreaks of violence.\n\nThe international community is urging for peaceful negotiations, yet the situation remains tense, with both sides continuing to blame each other for escalating violence."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Izrailskaya-operaciya-v-Gaze-ubivaet-4-cheloveka-soobshchayut-palestinskie-chinovniki-09-01",
-        "en": "https://telegra.ph/Israeli-Raid-in-Gaza-Kills-4-Palestinian-Officials-Say-09-01-3"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Экономика Непала не может справиться с ущербом от наводнений",
-        "en": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage"
-      },
-      "summary": {
-        "ru": "Правительство Непала оценивает ущерб от недавних наводнений в 5 миллиардов долларов. Это составляет одну десятую часть экономики страны.",
-        "en": "The Nepali government estimates the recent floods caused $5 billion in damage, which is one-tenth of the country's entire economy."
+        "ru": "Доходность государственных облигаций достигает многолетних максимумов, отражая беспокойство по поводу уровня долга, дефицитов и инфляции. Это повлияет на ипотеку, бизнес-кредиты и другие виды кредитования.",
+        "en": "Government bond yields are hitting multi-decade highs, reflecting anxiety about debt levels, deficits and inflation. The effects will extend to mortgages, business loans and other types of credit."
       },
       "category": {
         "ru": "Экономика",
         "en": "Economy"
       },
       "longBody": {
-        "ru": "Правительство Непала оценивает ущерб от недавних наводнений в 5 миллиардов долларов, что составляет одну десятую часть экономики страны. Эта катастрофа оказала серьезное влияние на инфраструктуру и жизнедеятельность населения.\n\nСитуация усугубляется тем, что страна уже сталкивается с экономическими трудностями, и такие потери могут значительно замедлить восстановление. Власти ищут способы финансирования восстановления и помощи пострадавшим.\n\nЭксперты предупреждают, что последствия наводнений могут ощущаться в течение многих лет, и призывают к международной поддержке для преодоления кризиса.",
-        "en": "The Nepali government estimates that the recent floods caused $5 billion in damage, which is one-tenth of the country's entire economy. This disaster has had a severe impact on infrastructure and the livelihoods of the population.\n\nThe situation is compounded by the fact that the country is already facing economic difficulties, and such losses could significantly slow recovery efforts. Authorities are seeking ways to finance recovery and assist those affected.\n\nExperts warn that the repercussions of the floods may be felt for years to come, and they are calling for international support to overcome the crisis."
+        "ru": "Доходность государственных облигаций достигает многолетних максимумов, что отражает беспокойство по поводу уровня долга, дефицитов и инфляции. Это повышение ставок может оказать значительное влияние на ипотеку, бизнес-кредиты и другие виды кредитования.\n\nЭкономисты предупреждают, что такие изменения могут привести к замедлению экономического роста, так как более высокие ставки делают заимствования более дорогими для потребителей и бизнеса.\n\nПравительства и центральные банки по всему миру находятся под давлением, чтобы найти баланс между контролем инфляции и поддержанием экономической активности.",
+        "en": "Government bond yields are hitting multi-decade highs, reflecting anxiety about debt levels, deficits, and inflation. This rise in rates could have a significant impact on mortgages, business loans, and other types of credit.\n\nEconomists warn that such changes may lead to a slowdown in economic growth, as higher rates make borrowing more expensive for consumers and businesses.\n\nGovernments and central banks around the world are under pressure to find a balance between controlling inflation and maintaining economic activity."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/EHkonomika-Nepala-ne-mozhet-spravitsya-s-ushcherbom-ot-navodnenij-09-01",
-        "en": "https://telegra.ph/Nepals-Economy-Has-Few-Ways-to-Absorb-the-Cost-of-Flood-Damage-09-01"
+        "ru": "https://telegra.ph/Rynok-obligacij-pod-ugrozoj-chto-mozhet-zatrudnit-zaimstvovaniya-po-vsemu-miru-09-01",
+        "en": "https://telegra.ph/Bond-Sell-Off-Threatens-to-Squeeze-Borrowers-Around-the-World-09-01-3"
       }
     },
     {
-      "link": "https://www.dw.com/en/congo-s-ebola-caseload-tops-6-000-as-concerns-grow/a-78638447?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "title": {
-        "ru": "Количество случаев Эболы в Конго превысило 6000, растут опасения",
-        "en": "Congo's Ebola caseload tops 6,000 as concerns grow"
-      },
-      "summary": {
-        "ru": "Вспышка Эболы в Демократической Республике Конго превысила 6000 подтвержденных случаев, почти 3000 человек погибли. Власти спешат с мерами по сдерживанию одной из самых смертоносных вспышек в истории.",
-        "en": "The Ebola outbreak in the Democratic Republic of Congo has surpassed 6,000 confirmed cases, with nearly 3,000 deaths. Authorities are racing to contain one of the deadliest outbreaks in history."
-      },
-      "category": {
-        "ru": "Здоровье",
-        "en": "Health"
-      },
-      "longBody": {
-        "ru": "Вспышка Эболы в Демократической Республике Конго превысила 6000 подтвержденных случаев, и почти 3000 человек погибли. Власти страны спешат с мерами по сдерживанию одной из самых смертоносных вспышек в истории.\n\nЭпидемия вызывает серьезные опасения как на национальном, так и на международном уровнях. Врачи и организации здравоохранения работают над тем, чтобы остановить распространение вируса и обеспечить лечение пострадавших.\n\nСитуация требует немедленных действий, и международное сообщество также подключается к усилиям по борьбе с этой угрозой.",
-        "en": "The Ebola outbreak in the Democratic Republic of Congo has surpassed 6,000 confirmed cases, with nearly 3,000 deaths. Authorities are racing to contain one of the deadliest outbreaks in history.\n\nThe epidemic raises serious concerns at both national and international levels. Doctors and health organizations are working to stop the spread of the virus and provide treatment for those affected.\n\nThe situation demands immediate action, and the international community is also getting involved in efforts to combat this threat."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Kolichestvo-sluchaev-EHboly-v-Kongo-prevysilo-6000-rastut-opaseniya-09-01",
-        "en": "https://telegra.ph/Congos-Ebola-caseload-tops-6000-as-concerns-grow-09-01-3"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/us-news/2026/sep/01/house-bill-prevents-government-shutdown",
+      "link": "https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm",
       "source": "The Guardian",
       "title": {
-        "ru": "Палата представителей США принимает законопроект о финансировании, чтобы избежать закрытия правительства",
-        "en": "House passes funding bill to avoid shutdown before midterms"
+        "ru": "Бернэм обещает оптимизм и «существенные изменения» в первой речи в парламенте как премьер-министр",
+        "en": "Burnham promises to bring optimism and ‘substantial change’ in first Commons speech as PM"
       },
       "summary": {
-        "ru": "Законопроект о продолжении финансирования правительства до 11 декабря был принят Палатой представителей с голосованием 370-48.",
-        "en": "The US House of Representatives approved a continuing resolution to fund the government until December 11, passing with a vote of 370-48."
+        "ru": "Премьер-министр заявил, что Британии нужно быть жестко честной по поводу «серии неверных шагов», которые она предприняла за последние 40 лет. Бернэм хочет создать новый дух оптимизма.",
+        "en": "The prime minister said Britain needed to be brutally honest about the ‘series of wrong turns’ it had taken in the last 40 years. Burnham wants to build a new sense of optimism."
       },
       "category": {
         "ru": "Политика",
         "en": "Politics"
       },
       "longBody": {
-        "ru": "Палата представителей США приняла законопроект о продолжении финансирования правительства до 11 декабря, чтобы избежать его закрытия. Голосование завершилось со счетом 370-48, что свидетельствует о bipartisan поддержке.\n\nЭтот шаг был предпринят в преддверии промежуточных выборов, когда обе партии стремятся избежать политических конфликтов. Законопроект теперь будет передан на подпись президенту Трампу.\n\nПредставители обеих партий выразили надежду, что это позволит сосредоточиться на более важных вопросах, касающихся будущего страны и ее экономики.",
-        "en": "The US House of Representatives approved a continuing resolution to fund the government until December 11, in order to avoid a shutdown. The vote concluded with a tally of 370-48, indicating bipartisan support.\n\nThis move comes ahead of the midterm elections, as both parties seek to avoid political conflicts. The bill will now be sent to President Trump for his signature.\n\nRepresentatives from both parties expressed hope that this will allow them to focus on more pressing issues concerning the future of the country and its economy."
+        "ru": "Премьер-министр Британии заявил, что стране необходимо быть жестко честной по поводу «серии неверных шагов», которые она предприняла за последние 40 лет. Бернэм выразил желание создать новый дух оптимизма для будущего страны.\n\nВ своей первой речи в парламенте он указал на последствия Brexit и на ошибки, допущенные в экономической политике, которые привели к низкому росту в стране.\n\nБернэм также намекнул на возможные изменения в расходах, чтобы улучшить экономическую ситуацию и вернуть доверие граждан к правительству.",
+        "en": "The Prime Minister of Britain stated that the country needs to be brutally honest about the 'series of wrong turns' it has taken over the last 40 years. Burnham expressed a desire to build a new sense of optimism for the country's future.\n\nIn his first speech in Parliament, he pointed to the consequences of Brexit and the mistakes made in economic policy that have led to low growth in the country.\n\nBurnham also hinted at possible changes in spending to improve the economic situation and restore public trust in the government."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Palata-predstavitelej-SSHA-prinimaet-zakonoproekt-o-finansirovanii-chtoby-izbezhat-zakrytiya-pravitelstva-09-01",
-        "en": "https://telegra.ph/House-passes-funding-bill-to-avoid-shutdown-before-midterms-09-01"
+        "ru": "https://telegra.ph/Bernehm-obeshchaet-optimizm-i-sushchestvennye-izmeneniya-v-pervoj-rechi-v-parlamente-kak-premer-ministr-09-01",
+        "en": "https://telegra.ph/Burnham-promises-to-bring-optimism-and-substantial-change-in-first-Commons-speech-as-PM-09-01"
       }
     },
     {
-      "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
+      "link": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+      "source": "New York Times",
       "title": {
-        "ru": "Бывший босс банды признан виновным в организации убийства рэпера Тупака Шакура в 1996 году",
-        "en": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur"
+        "ru": "Израильская операция в Газе убивает 4 человека, сообщают палестинские власти",
+        "en": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say"
       },
       "summary": {
-        "ru": "Дуэйн \"Кеффи Д\" Дэвис был признан виновным в стрельбе по рэп-звезде 30 лет назад.",
-        "en": "Duane \"Keffe D\" Davis was convicted for orchestrating the drive-by shooting of the rap superstar 30 years ago."
+        "ru": "Израиль заявил, что захватил главу внутренней безопасности ХАМАСа в ходе операции. Бои продолжаются в анклаве, несмотря на поддерживаемое США перемирие.",
+        "en": "Israel said it seized the head of Hamas’s internal security force in the deadly operation. Fighting has continued in the enclave despite a U.S.-backed truce."
       },
       "category": {
-        "ru": "Право",
-        "en": "Law"
+        "ru": "Конфликт",
+        "en": "Conflict"
       },
       "longBody": {
-        "ru": "Дуэйн \"Кеффи Д\" Дэвис был признан виновным в организации убийства рэп-звезды Тупака Шакура 30 лет назад. Этот случай стал одним из самых известных преступлений в истории музыки и культуры.\n\nСудебный процесс привлек внимание общественности и вызвал множество обсуждений о насилии в музыкальной индустрии. Приговор стал важным шагом в поисках справедливости для семьи Тупака.\n\nДело продолжает оставаться актуальным, и многие надеются, что оно поможет в дальнейшем расследовании других неразрешенных преступлений в этой области.",
-        "en": "Duane \"Keffe D\" Davis was convicted for orchestrating the drive-by shooting of the rap superstar Tupac Shakur 30 years ago. This case has become one of the most notorious crimes in music and cultural history.\n\nThe trial attracted public attention and sparked numerous discussions about violence in the music industry. The verdict represents an important step in the quest for justice for Tupac's family.\n\nThe case remains relevant, and many hope it will aid in further investigations of other unresolved crimes in this area."
+        "ru": "Израиль заявил, что захватил главу внутренней безопасности ХАМАСа в ходе операции, в результате которой погибли четыре человека. Бои продолжаются в анклаве, несмотря на поддерживаемое США перемирие, что вызывает обеспокоенность международного сообщества.\n\nКонфликт в Газе продолжает оставаться источником напряженности в регионе, и действия Израиля могут привести к дальнейшему эскалации насилия.\n\nМеждународные организации призывают к соблюдению перемирия и поиску мирного решения конфликта, однако ситуация остается сложной и нестабильной.",
+        "en": "Israel said it seized the head of Hamas’s internal security force in a deadly operation that resulted in four fatalities. Fighting has continued in the enclave despite a U.S.-backed truce, raising concerns within the international community.\n\nThe conflict in Gaza remains a source of tension in the region, and Israel's actions could lead to further escalation of violence.\n\nInternational organizations are calling for adherence to the truce and seeking a peaceful resolution to the conflict, but the situation remains complex and unstable."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Byvshij-boss-bandy-priznan-vinovnym-v-organizacii-ubijstva-rehpera-Tupaka-SHakura-v-1996-godu-09-01",
-        "en": "https://telegra.ph/Ex-gang-boss-guilty-of-orchestrating-1996-murder-of-rapper-Tupac-Shakur-09-01-3"
+        "ru": "https://telegra.ph/Izrailskaya-operaciya-v-Gaze-ubivaet-4-cheloveka-soobshchayut-palestinskie-vlasti-09-01",
+        "en": "https://telegra.ph/Israeli-Raid-in-Gaza-Kills-4-Palestinian-Officials-Say-09-01-4"
       }
     },
     {
-      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
+      "link": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
+      "source": "New York Times",
       "title": {
-        "ru": "В ходе выборов в Сенат Мичигана Вэнс называет Эль-Сайеда \"злым\"",
-        "en": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'"
+        "ru": "Тракторы заблокировали Копенгаген в знак протеста фермеров против ограничений на удобрения",
+        "en": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions"
       },
       "summary": {
-        "ru": "Эль-Сайед сталкивается с союзником Трампа Майком Роджерсом в гонке, которая быстро становится личной.",
-        "en": "El-Sayed faces Trump ally Mike Rogers in a Senate race characterized by personal attacks and insults."
+        "ru": "Чтобы защитить свои воды от чрезмерного содержания нитратов, Дания предлагает ужесточить контроль за использованием удобрений. Фермеры недовольны.",
+        "en": "To protect its waters from overexposure to nitrates, Denmark is proposing a crackdown on fertilizer use. Farmers aren’t happy."
       },
       "category": {
         "ru": "Общество",
         "en": "Society"
       },
       "longBody": {
-        "ru": "Эль-Сайед сталкивается с Майком Роджерсом, союзником Трампа, в гонке за место в Сенате, которая быстро становится личной. Конфликт между кандидатами обостряется, и обе стороны обмениваются резкими обвинениями.\n\nЭта гонка привлекает внимание избирателей, и многие эксперты отмечают, что личные атаки могут повлиять на исход выборов. Обе стороны пытаются заручиться поддержкой своих избирателей в условиях растущей напряженности.\n\nСитуация в Мичигане становится все более напряженной, и наблюдатели ожидают, что предстоящие дебаты будут полны острых высказываний и взаимных упреков.",
-        "en": "El-Sayed faces Trump ally Mike Rogers in a Senate race characterized by personal attacks and insults. The conflict between the candidates is intensifying, with both sides exchanging sharp accusations.\n\nThis race is attracting voter attention, and many experts note that personal attacks could influence the election outcome. Both sides are trying to secure support from their constituents amid rising tensions.\n\nThe situation in Michigan is becoming increasingly heated, and observers expect the upcoming debates to be filled with pointed remarks and mutual reproaches."
+        "ru": "Дания предлагает ужесточить контроль за использованием удобрений, чтобы защитить свои воды от чрезмерного содержания нитратов. Фермеры выражают недовольство такими мерами, которые могут повлиять на их производственные возможности.\n\nПротесты фермеров в Копенгагене подчеркивают их обеспокоенность по поводу будущего сельского хозяйства в стране. Они опасаются, что новые ограничения могут привести к снижению урожайности и увеличению затрат.\n\nВласти пытаются найти компромисс между защитой окружающей среды и поддержкой сельскохозяйственного сектора, что является сложной задачей.",
+        "en": "Denmark is proposing a crackdown on fertilizer use to protect its waters from overexposure to nitrates. Farmers are unhappy with such measures, which could impact their production capabilities.\n\nProtests by farmers in Copenhagen highlight their concerns about the future of agriculture in the country. They fear that new restrictions could lead to lower yields and increased costs.\n\nAuthorities are trying to find a compromise between environmental protection and supporting the agricultural sector, which is a challenging task."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/V-hode-vyborov-v-Senat-Michigana-Vehns-nazyvaet-EHl-Sajeda-zlym-09-01",
-        "en": "https://telegra.ph/As-Michigan-Senate-race-heats-up-Vance-calls-El-Sayed-evil-09-01-3"
+        "ru": "https://telegra.ph/Traktory-zablokirovali-Kopengagen-v-znak-protesta-fermerov-protiv-ogranichenij-na-udobreniya-09-01",
+        "en": "https://telegra.ph/Tractors-Clog-Copenhagen-as-Farmers-Protest-Fertilizer-Restrictions-09-01-2"
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/08/31/world/europe/edouard-balladur-dead.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Эдуар Балладыр, скандально известный премьер-министр Франции, умер в возрасте 97 лет",
+        "en": "Édouard Balladur, Embattled French Prime Minister, Dies at 97"
+      },
+      "summary": {
+        "ru": "Его время на посту совпало с напряженной ролью Франции в геноциде в Руанде в 1994 году и коррупционным скандалом, известным как дело Карачи.",
+        "en": "His time in office coincided with France’s fraught role in the 1994 Rwandan genocide and the corruption scandal known as the Karachi affair."
+      },
+      "category": {
+        "ru": "Здоровье",
+        "en": "Health"
+      },
+      "longBody": {
+        "ru": "Эдвард Балладюр, бывший премьер-министр Франции, скончался в возрасте 97 лет. Его время на посту совпало с напряженной ролью Франции в геноциде в Руанде в 1994 году и коррупционным скандалом, известным как дело Карачи.\n\nБалладюр оставил заметный след в политической истории страны, и его наследие будет обсуждаться в контексте его решений и действий в сложные времена.\n\nСмерть Балладюра вызывает интерес к его вкладу в французскую политику и к урокам, которые можно извлечь из его времени на посту.",
+        "en": "Édouard Balladur, the former Prime Minister of France, has died at the age of 97. His time in office coincided with France’s fraught role in the 1994 Rwandan genocide and the corruption scandal known as the Karachi affair.\n\nBalladur left a notable mark on the political history of the country, and his legacy will be discussed in the context of his decisions and actions during challenging times.\n\nHis death has sparked interest in his contributions to French politics and the lessons that can be learned from his time in office."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/EHduar-Balladyr-skandalno-izvestnyj-premer-ministr-Francii-umer-v-vozraste-97-let-09-01",
+        "en": "https://telegra.ph/Édouard-Balladur-Embattled-French-Prime-Minister-Dies-at-97-09-01"
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Присяжные в деле Линдси Клэнси не пришли к единому мнению, но судья просит их продолжать",
+        "en": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying"
+      },
+      "summary": {
+        "ru": "Мать из Массачусетса обвиняется в убийстве своих троих детей в их семейном доме в 2023 году.",
+        "en": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023."
+      },
+      "category": {
+        "ru": "Право",
+        "en": "Law"
+      },
+      "longBody": {
+        "ru": "Мать из Массачусетса обвиняется в убийстве своих троих детей в их семейном доме в 2023 году. Дело привлекло большое внимание общественности и вызвало обсуждение вопросов психического здоровья и семейного насилия.\n\nСудебный процесс проходит с трудностями, так как присяжные не могут прийти к единому мнению. Это создает дополнительные сложности для правосудия и для семьи обвиняемой.\n\nОбщество продолжает следить за развитием дела, поскольку оно затрагивает важные социальные темы, такие как безопасность детей и поддержка семей в кризисных ситуациях.",
+        "en": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023. The case has attracted significant public attention and sparked discussions about mental health and domestic violence.\n\nThe trial is facing difficulties as jurors are deadlocked and unable to reach a unanimous decision. This adds further complications to the pursuit of justice and for the accused's family.\n\nThe community continues to monitor the developments of the case, as it touches on important social issues such as child safety and support for families in crisis situations."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Prisyazhnye-v-dele-Lindsi-Klehnsi-ne-prishli-k-edinomu-mneniyu-no-sudya-prosit-ih-prodolzhat-09-01",
+        "en": "https://telegra.ph/Jurors-in-Lindsay-Clancy-trial-deadlocked-but-judge-asks-them-to-keep-trying-09-01"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/sports/2026/9/1/belgian-mayor-blocks-club-from-hosting-israeli-opponent-in-europa-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Мэр Бельгии блокирует клуб от проведения матча с израильским соперником в Лиге Европы",
+        "en": "Belgian mayor blocks club from hosting Israeli opponent in Europa League"
+      },
+      "summary": {
+        "ru": "Клуб Union Saint-Gilloise должен был принять Хапоэль Беэр-Шева в Лиге Европы, но бельгийский мэр настаивает на другом месте проведения.",
+        "en": "Union Saint-Gilloise were to host Hapoel Beer-Sheva in Europa League, but Belgian mayor insists on different venue."
+      },
+      "category": {
+        "ru": "Общество",
+        "en": "Society"
+      },
+      "longBody": {
+        "ru": "Клуб Union Saint-Gilloise должен был принять Хапоэль Беэр-Шева в Лиге Европы, но бельгийский мэр настаивает на другом месте проведения матча. Это решение вызвало споры и обсуждения о влиянии политики на спорт.\n\nМэр подчеркивает необходимость учитывать политические аспекты в организации спортивных мероприятий, особенно в свете текущих международных конфликтов.\n\nСитуация поднимает вопросы о том, как политика и спорт могут пересекаться, и о последствиях для клубов и игроков.",
+        "en": "Union Saint-Gilloise were to host Hapoel Beer-Sheva in the Europa League, but the Belgian mayor insists on a different venue for the match. This decision has sparked debates about the influence of politics on sports.\n\nThe mayor emphasizes the need to consider political aspects in organizing sporting events, especially in light of current international conflicts.\n\nThe situation raises questions about how politics and sports can intersect and the implications for clubs and players."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Mehr-Belgii-blokiruet-klub-ot-provedeniya-matcha-s-izrailskim-sopernikom-v-Lige-Evropy-09-01",
+        "en": "https://telegra.ph/Belgian-mayor-blocks-club-from-hosting-Israeli-opponent-in-Europa-League-09-01"
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
+      "source": "The Guardian",
+      "title": {
+        "ru": "«Опасный захват власти»: ведущие демократы осуждают систему USPS, которая может помешать голосованию по почте",
+        "en": "‘Dangerous power grab’: top Democrats decry USPS system that could thwart mail-in voting"
+      },
+      "summary": {
+        "ru": "Демократический сенатор раскрыл заявление информатора, предупреждающее о потенциальном хаосе из-за новой компьютерной системы USPS, которая может помешать голосованию по почте.",
+        "en": "A Democratic senator disclosed a whistleblower statement warning of potential chaos as USPS is set to launch a computer system that could derail mail-in voting."
+      },
+      "category": {
+        "ru": "Право",
+        "en": "Law"
+      },
+      "longBody": {
+        "ru": "Демократический сенатор Чак Шумер раскрыл заявление информатора, в котором предупреждается о потенциальном хаосе, связанном с запуском новой компьютерной системы Почтовой службы США (USPS). Эта система может помешать голосованию по почте, что вызывает серьезные опасения среди демократов и правозащитников.\n\nШумер и другие демократы выразили недовольство по поводу этой ситуации, указывая на то, что любые сбои в системе могут негативно сказаться на избирательном процессе. Они подчеркивают важность надежного и безопасного голосования, особенно в условиях, когда многие граждане полагаются на голосование по почте.\n\nВ ответ на эти опасения, Шумер планирует внести законопроект, который, по его мнению, поможет предотвратить возможные проблемы и обеспечить защиту прав избирателей. Это заявление стало частью более широкой дискуссии о доступности голосования и необходимости защиты избирательных прав.",
+        "en": "Democratic Senator Chuck Schumer disclosed a whistleblower statement warning of potential chaos associated with the launch of a new computer system by the United States Postal Service (USPS). This system could disrupt mail-in voting, raising serious concerns among Democrats and civil rights advocates.\n\nSchumer and other Democrats have expressed dissatisfaction with the situation, pointing out that any failures in the system could negatively impact the electoral process. They emphasize the importance of reliable and secure voting, especially as many citizens rely on mail-in ballots.\n\nIn response to these concerns, Schumer plans to introduce a bill that he believes will help prevent potential issues and ensure the protection of voters' rights. This statement is part of a broader discussion about voting accessibility and the need to safeguard electoral rights."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/politics/2026/sep/01/nigel-farage-questions-claim-second-standards-investigation",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Фараж сталкивается с вопросами о своем заявлении о втором расследовании стандартов",
+        "en": "Farage faces questions over his claim of facing second standards investigation"
+      },
+      "summary": {
+        "ru": "Лидер Reform заявил, что расследование было расширено, но наблюдательный орган, как считается, еще не принял решение об этом.",
+        "en": "Reform leader said inquiry had been widened but the watchdog is not believed to have decided whether to do so."
+      },
+      "category": {
+        "ru": "Политика",
+        "en": "Politics"
+      },
+      "longBody": {
+        "ru": "Лидер партии Reform Нигел Фараж столкнулся с вопросами о своих заявлениях о втором расследовании стандартов, касающемся его финансов. Он утверждает, что расследование было расширено, хотя наблюдательный орган еще не принял решения о его расширении.\n\nФараж, который вновь был приведен к присяге как депутат от Клактон, заявил, что система стандартов стала \"политическим инструментом\". Он выразил недовольство тем, что его финансовые дела снова стали предметом внимания, что вызывает вопросы о прозрачности и честности в политике.\n\nЭта ситуация поднимает важные вопросы о том, как политические фигуры управляют своими финансами и как система стандартов может быть использована или злоупотреблена в политических целях.",
+        "en": "Reform leader Nigel Farage is facing questions regarding his claims about a second standards investigation into his finances. He stated that the inquiry had been widened, although the watchdog is not believed to have made a decision to do so yet.\n\nFarage, who was sworn in again as MP for Clacton, expressed that the standards system has become a \"political tool.\" He voiced his dissatisfaction with the renewed scrutiny of his financial affairs, raising questions about transparency and integrity in politics.\n\nThis situation highlights important issues regarding how political figures manage their finances and how the standards system can be used or misused for political purposes."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/politics/2026/sep/01/ed-miliband-promises-reset-of-uk-policy-toward-israel",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Эд Милибанд обещает «всесторонний пересмотр» политики Великобритании в отношении Израиля",
+        "en": "Ed Miliband promises ‘comprehensive reset’ of UK policy toward Israel"
+      },
+      "summary": {
+        "ru": "Министр иностранных дел заявил, что он попытается остановить незаконные поселения на Западном берегу.",
+        "en": "Foreign secretary tells MPs he will try to stop illegal settlements carving up the West Bank."
+      },
+      "category": {
+        "ru": "Конфликт",
+        "en": "Conflict"
+      },
+      "longBody": {
+        "ru": "Министр иностранных дел Великобритании Эд Милибанд пообещал \"перезагрузить\" политику страны в отношении Израиля. Он заявил, что будет пытаться остановить незаконные поселения, которые, по его мнению, разрушают территорию Западного берега.\n\nВыступая перед членами парламента, Милибанд подчеркнул необходимость предотвращения участия британских компаний в строительстве поселений, таких как план E1, который, по мнению критиков, может разделить Западный берег на две части.\n\nЭти меры отражают более широкую стратегию правительства по пересмотру внешней политики в отношении конфликта в регионе и подчеркивают важность соблюдения международного права.",
+        "en": "Foreign Secretary Ed Miliband has promised to \"reset\" Britain's policy towards Israel. He stated that he would try to stop illegal settlements that he believes are undermining the territory of the West Bank.\n\nSpeaking to MPs, Miliband emphasized the need to prevent British companies from participating in the construction of settlements, such as the E1 plan, which critics argue could split the West Bank in half.\n\nThese measures reflect a broader strategy by the government to reassess its foreign policy regarding the conflict in the region and highlight the importance of adhering to international law."
       }
     },
     {
@@ -208,7 +316,7 @@
         "en": "China’s Xi makes first visit to Egypt in a decade, amid regional turmoil"
       },
       "summary": {
-        "ru": "Президент Китая Си Цзиньпин посещает Египет для углубления экономических связей и согласования стратегий на фоне кризисов на Ближнем Востоке.",
+        "ru": "Президент Китая Си посещает Египет для углубления экономических связей и согласования стратегий на фоне кризисов на Ближнем Востоке.",
         "en": "Chinese President Xi visits Egypt to deepen economic ties and align strategies amid Middle East crises."
       },
       "category": {
@@ -216,12 +324,28 @@
         "en": "World"
       },
       "longBody": {
-        "ru": "Президент Китая Си Цзиньпин совершает свой первый визит в Египет за десятилетие, стремясь углубить экономические связи и согласовать стратегии на фоне кризисов на Ближнем Востоке. Этот визит подчеркивает растущее влияние Китая в регионе.\n\nСи Цзиньпин обсуждает с египетскими властями возможности сотрудничества в различных сферах, включая торговлю и инвестиции. Ожидается, что этот визит приведет к новым соглашениям, которые укрепят двусторонние отношения.\n\nВ условиях нестабильности на Ближнем Востоке, такие визиты становятся важными для укрепления позиций Китая и расширения его влияния в регионе.",
-        "en": "Chinese President Xi is making his first visit to Egypt in a decade, aiming to deepen economic ties and align strategies amid Middle East crises. This visit underscores China's growing influence in the region.\n\nXi is discussing opportunities for cooperation in various sectors, including trade and investment, with Egyptian authorities. This visit is expected to lead to new agreements that will strengthen bilateral relations.\n\nIn the context of instability in the Middle East, such visits are becoming crucial for consolidating China's position and expanding its influence in the region."
+        "ru": "Президент Китая Си Цзиньпин совершает свой первый визит в Египет за десять лет, стремясь углубить экономические связи и согласовать стратегии на фоне растущих кризисов на Ближнем Востоке. Этот визит подчеркивает важность Египта как ключевого партнера в регионе.\n\nСи намерен обсудить с египетскими лидерами вопросы, касающиеся торговли и инвестиций, а также совместные усилия по решению текущих проблем, таких как безопасность и стабильность в регионе.\n\nЭтот визит также может быть частью более широкой стратегии Китая по укреплению своего влияния на Ближнем Востоке, где конкуренция с другими мировыми державами, такими как США, становится все более напряженной.",
+        "en": "Chinese President Xi Jinping is making his first visit to Egypt in a decade, aiming to deepen economic ties and align strategies amid escalating crises in the Middle East. This visit underscores the importance of Egypt as a key partner in the region.\n\nXi intends to discuss trade and investment issues with Egyptian leaders, as well as joint efforts to address current challenges such as security and stability in the region.\n\nThis visit may also be part of a broader strategy by China to strengthen its influence in the Middle East, where competition with other global powers, such as the United States, is becoming increasingly intense."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Джон Тёрнус сменяет Тима Кука на посту генерального директора Apple после 15 лет",
+        "en": "John Ternus succeeds Tim Cook as Apple CEO after 15 years"
       },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Si-Czinpin-sovershaet-pervyj-vizit-v-Egipet-za-desyatiletie-na-fone-regionalnyh-krizisov-09-01",
-        "en": "https://telegra.ph/Chinas-Xi-makes-first-visit-to-Egypt-in-a-decade-amid-regional-turmoil-09-01-2"
+      "summary": {
+        "ru": "Apple готовится к инновациям под руководством Тёрнуса перед запуском нового продукта, который может включать складные телефоны.",
+        "en": "Apple gears up for innovation under Ternus before a new product launch event that could include foldable phones."
+      },
+      "category": {
+        "ru": "Технологии",
+        "en": "Technology"
+      },
+      "longBody": {
+        "ru": "Apple готовится к инновациям под руководством нового генерального директора Джона Тёрнуса, который сменил Тима Кука после 15 лет на посту. Ожидается, что под его руководством компания будет развивать новые продукты, включая возможные складные телефоны.\n\nТёрнус, который ранее занимал должность старшего вице-президента по аппаратному обеспечению, имеет богатый опыт в разработке технологий и продуктов Apple. Его назначение вызывает интерес у аналитиков и инвесторов, ожидающих новых идей и направлений для компании.\n\nС запуском новых продуктов Apple надеется укрепить свои позиции на рынке и продолжить привлекать внимание потребителей к своим инновациям.",
+        "en": "Apple is gearing up for innovation under the leadership of new CEO John Ternus, who has succeeded Tim Cook after 15 years in the role. It is expected that under his guidance, the company will develop new products, including potential foldable phones.\n\nTernus, who previously served as Senior Vice President of Hardware Engineering, has extensive experience in developing Apple technologies and products. His appointment is generating interest among analysts and investors who are anticipating new ideas and directions for the company.\n\nWith the launch of new products, Apple hopes to strengthen its market position and continue to attract consumer attention to its innovations."
       }
     },
     {
@@ -233,211 +357,135 @@
       },
       "summary": {
         "ru": "Более 170 еврейских артистов, включая Тодда Хейнса и Джоэла Коэна, поддержали актера после его критики Paramount.",
-        "en": "Over 170 Jewish artists, including Todd Haynes and Joel Coen, have signed a letter supporting Mark Ruffalo after he criticized Paramount."
+        "en": "More than 170 Jewish artists, including Todd Haynes and Joel Coen, have supported the actor after he criticized Paramount."
       },
       "category": {
-        "ru": "Общество",
-        "en": "Society"
+        "ru": "Мир",
+        "en": "World"
       },
       "longBody": {
-        "ru": "Более 170 еврейских артистов, включая Тодда Хейнса и Джоэла Коэна, подписали открытое письмо в поддержку актера Марка Руффало после его критики Paramount. Это заявление стало ответом на обвинения в антисемитизме в адрес Руффало.\n\nПоддержка со стороны таких известных личностей подчеркивает важность свободы слова и защиты артистов от необоснованных обвинений. Письмо также привлекает внимание к вопросам, касающимся репрезентации и стереотипов в индустрии развлечений.\n\nСитуация вокруг Руффало продолжает вызывать обсуждения, и многие надеются, что это приведет к более глубокому пониманию проблем, с которыми сталкиваются артисты.",
-        "en": "Over 170 Jewish artists, including Todd Haynes and Joel Coen, have signed an open letter supporting actor Mark Ruffalo after he criticized Paramount. This statement was a response to accusations of antisemitism against Ruffalo.\n\nThe support from such prominent figures highlights the importance of free speech and protecting artists from unfounded accusations. The letter also draws attention to issues related to representation and stereotypes in the entertainment industry.\n\nThe situation surrounding Ruffalo continues to spark discussions, and many hope it will lead to a deeper understanding of the challenges faced by artists."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Todd-Hejns-i-Uolles-SHon-sredi-podpisantov-pisma-v-podderzhku-Marka-Ruffalo-na-fone-obvinenij-v-antisemitizme-09-01",
-        "en": "https://telegra.ph/Todd-Haynes-and-Wallace-Shawn-among-signatories-of-letter-backing-Mark-Ruffalo-amid-antisemitism-charge-09-01"
+        "ru": "Более 170 еврейских артистов, включая Тодда Хейнса и Джоэла Коэна, подписали открытое письмо в поддержку актера Марка Руффало. Это заявление было сделано после того, как Руффало подвергся критике за свои высказывания о компании Paramount, что привело к обвинениям в использовании антисемитских стереотипов.\n\nПоддержка от таких известных фигур подчеркивает важность защиты свободы слова и выражения мнений в искусстве. Артисты призывают к более глубокому пониманию контекста высказываний и предостерегают от поспешных выводов.\n\nЭто событие также поднимает вопросы о том, как общество воспринимает критику крупных медиа-компаний и как это может повлиять на карьеру артистов.",
+        "en": "More than 170 Jewish artists, including Todd Haynes and Joel Coen, have signed an open letter supporting actor Mark Ruffalo. This statement came after Ruffalo faced criticism for his comments about Paramount, leading to accusations of invoking antisemitic tropes.\n\nSupport from such prominent figures highlights the importance of protecting freedom of speech and expression in the arts. The artists call for a deeper understanding of the context of statements and caution against hasty conclusions.\n\nThis event also raises questions about how society perceives criticism of major media companies and how it may impact the careers of artists."
       }
     },
     {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Глава МИД Великобритании осуждает израильские поселения на оккупированном Западном берегу",
-        "en": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank"
-      },
-      "summary": {
-        "ru": "Глава МИД Великобритании осудил израильские поселения на оккупированном Западном берегу.",
-        "en": "The UK Foreign Secretary condemned Israeli settlements in the occupied West Bank."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Джон Тёрнус сменил Тима Кука на посту генерального директора Apple после 15 лет",
-        "en": "John Ternus succeeds Tim Cook as Apple CEO after 15 years"
-      },
-      "summary": {
-        "ru": "Apple готовится к инновациям под руководством Тёрнуса перед запуском нового продукта, который может включать складные телефоны.",
-        "en": "Apple gears up for innovation under Ternus before a new product launch event that could include foldable phones."
-      },
-      "category": {
-        "ru": "Технологии",
-        "en": "Technology"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/features/2026/9/1/destroyed-desalination-plant-worsens-gazas-drinking-water-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Разрушенный опреснительный завод усугубляет кризис питьевой воды в Газе",
-        "en": "Destroyed desalination plant worsens Gaza’s drinking water crisis"
-      },
-      "summary": {
-        "ru": "После разрушения нового опреснительного завода семьи, лишившиеся жилья на севере Газы, испытывают трудности с поиском чистой воды.",
-        "en": "After a newly built desalination plant was destroyed, displaced families in northern Gaza struggle to find clean water."
-      },
-      "category": {
-        "ru": "Здоровье",
-        "en": "Health"
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "title": {
-        "ru": "Женщина убита в нападении с ножом на Таймс-сквер, подозреваемый застрелен полицией",
-        "en": "Woman killed in Times Square stabbing, suspect shot dead by police"
+        "ru": "Бывший босс банды признан виновным в организации убийства рэпера Тупака Шакура в 1996 году",
+        "en": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur"
       },
       "summary": {
-        "ru": "Полиция сообщает, что двойное нападение с ножом, в результате которого пострадал еще один человек, было случайным, а подозреваемый имел историю психических заболеваний.",
-        "en": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history."
+        "ru": "Дуэйн «Кеффи Д» Дэвис был осужден за стрельбу из автомобиля по рэп-звезде 30 лет назад.",
+        "en": "Duane 'Keffe D' Davis was convicted over the drive-by shooting of the rap superstar 30 years ago."
       },
       "category": {
-        "ru": "Общество",
-        "en": "Society"
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Дуэйн \"Кеффи Д\" Дэвис был признан виновным в организации стрельбы из автомобиля, в результате которой 30 лет назад был убит рэп-звезда Тупак Шакур. Этот процесс стал важным событием в мире музыки и криминалистики, подчеркивая долгожданное завершение дела, которое оставалось неразрешенным на протяжении многих лет.\n\nДэвис, который был одним из последних оставшихся свидетелей, предоставил информацию о событиях, приведших к убийству. Его осуждение может стать важным шагом в поисках справедливости для семьи Шакура и его поклонников.\n\nЭто дело также поднимает вопросы о насилии в музыкальной индустрии и о том, как оно влияет на жизни артистов и их окружения.",
+        "en": "Duane \"Keffe D\" Davis has been convicted of orchestrating the drive-by shooting that resulted in the death of rap superstar Tupac Shakur 30 years ago. This trial has become a significant event in the music and criminal justice worlds, highlighting the long-awaited resolution of a case that has remained unsolved for many years.\n\nDavis, who was one of the last remaining witnesses, provided information about the events leading to the murder. His conviction may represent an important step towards justice for Shakur's family and fans.\n\nThis case also raises questions about violence in the music industry and how it affects the lives of artists and those around them."
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/09/01/world/europe/manchester-uk-trial-husband-rape-abuse.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Муж и 12 мужчин в Британии обвиняются в многолетнем наркотическом изнасиловании женщины",
-        "en": "Husband and 12 Men in Britain Are Accused of Woman’s Yearslong Drugging and Rape"
-      },
-      "summary": {
-        "ru": "Прокуроры заявили, что мужчина в возрасте 60 лет подсыпал наркотики и злоупотреблял своей женой, пока она была без сознания, вместе с дюжиной других мужчин в возрасте от 28 до 73 лет.",
-        "en": "Prosecutors said that the man, in his 60s, drugged and abused his wife while she was unconscious, alongside a dozen other men aged 28 to 73."
-      },
-      "category": {
-        "ru": "Право",
-        "en": "Law"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Школы Иерусалима бастуют после того, как Израиль ввел учебный план и запретил учителей",
-        "en": "Jerusalem schools strike after Israel enforces curriculum and bans teachers"
+        "ru": "В Газа назревает кризис здравоохранения на фоне приближающегося сезона дождей, предупреждает ВОЗ",
+        "en": "Health crisis looming as Gaza heads towards rainy season, warns WHO"
       },
       "summary": {
-        "ru": "Школы Восточного Иерусалима бастуют, так как запреты на разрешения и принудительные учебные планы погружают учебный год в хаос.",
-        "en": "East Jerusalem schools strike as Israeli permit bans and forced curricula plunge the academic year into chaos."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/08/31/world/europe/edouard-balladur-dead.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Эдуар Балладер, под давлением находившийся премьер-министр Франции, скончался в возрасте 97 лет",
-        "en": "Édouard Balladur, Embattled French Prime Minister, Dies at 97"
-      },
-      "summary": {
-        "ru": "Его время на посту совпало с непростой ролью Франции в геноциде в Руанде 1994 года и коррупционным скандалом, известным как дело Карачи.",
-        "en": "His time in office coincided with France’s fraught role in the 1994 Rwandan genocide and the corruption scandal known as the Karachi affair."
+        "ru": "Качество воды в обстреливаемом палестинском анклаве уже плохое; наводнения усугубят угрозу для здоровья, сообщает агентство ООН.",
+        "en": "Water quality in embattled Palestinian enclave already poor; flooding will exacerbate threat to health, says UN agency."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
+      },
+      "longBody": {
+        "ru": "Всемирная организация здравоохранения предупреждает о надвигающемся кризисе здоровья в Газе, где качество воды уже находится на низком уровне. С приближением сезона дождей ситуация может ухудшиться, что создаст дополнительные угрозы для здоровья населения.\n\nВ условиях продолжающегося конфликта и гуманитарной катастрофы, доступ к чистой воде становится критически важным. Специалисты подчеркивают необходимость срочных мер для предотвращения ухудшения ситуации и защиты здоровья жителей.\n\nЭти предупреждения подчеркивают важность международного внимания к гуманитарным нуждам региона и необходимости поддержки усилий по улучшению условий жизни.",
+        "en": "The World Health Organization warns of an impending health crisis in Gaza, where water quality is already poor. With the rainy season approaching, the situation may worsen, creating additional health threats for the population.\n\nIn the context of ongoing conflict and humanitarian disaster, access to clean water becomes critically important. Experts emphasize the need for urgent measures to prevent further deterioration and protect the health of residents.\n\nThese warnings highlight the importance of international attention to the humanitarian needs of the region and the necessity of supporting efforts to improve living conditions."
       }
     },
     {
-      "link": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
-      "source": "The Guardian",
-      "title": {
-        "ru": "‘Опасный захват власти’: ведущие демократы осуждают систему USPS, которая может помешать голосованию по почте",
-        "en": "‘Dangerous power grab’: top Democrats decry USPS system that could thwart mail-in voting"
-      },
-      "summary": {
-        "ru": "Демократический сенатор раскрыл заявление информатора, которое предупреждало о потенциальном хаосе, поскольку USPS собирается запустить компьютерную систему, которая может подорвать голосование по почте.",
-        "en": "A Democratic senator disclosed a whistleblower statement, which warned of potential chaos as the USPS is set to launch a computer system that could derail mail-in voting."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/nepal-rescuers-race-to-reach-900-missing-hydropower-workers?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Продовольственное агентство ООН сокращает помощь на Западном берегу на фоне финансового кризиса",
-        "en": "UN food agency cuts aid in West Bank amid funding crisis"
+        "ru": "Спасатели в Непале спешат найти 900 пропавших рабочих на гидроэлектростанциях",
+        "en": "Nepal rescuers race to reach 900 missing hydropower workers"
       },
       "summary": {
-        "ru": "Продовольственное агентство ООН сокращает помощь на Западном берегу на фоне финансового кризиса.",
-        "en": "UN food agency cuts aid in West Bank amid funding crisis."
+        "ru": "Спасатели в Непале приоритизируют поиски как минимум 900 рабочих, пропавших с 12 гидроэлектростанций.",
+        "en": "Rescuers in Nepal are prioritising the search for at least 900 workers missing from 12 hydropower projects."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/9/1/vanuatu-pushes-france-to-accept-icj-jurisdiction-in-pacific-islands-dispute?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Вануату призывает Францию принять юрисдикцию МС в споре о тихоокеанских островах",
-        "en": "Vanuatu pushes France to accept ICJ jurisdiction in Pacific islands dispute"
       },
-      "summary": {
-        "ru": "Вануату утверждает, что французский контроль над островами является реликтом колониального прошлого, в то время как крайние правые во Франции используют это дело как политическое оружие.",
-        "en": "Vanuatu says French control of islands is relic of colonial past, as France’s far right uses case as a political weapon."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
+      "longBody": {
+        "ru": "Спасатели в Непале сосредоточили свои усилия на поисках как минимум 900 рабочих, пропавших с 12 гидроэлектростанций. Эти работники исчезли в результате недавних стихийных бедствий, и их судьба остается неизвестной.\n\nОперации по поиску и спасению продолжаются, и власти прилагают все усилия для того, чтобы найти пропавших. Ситуация подчеркивает важность безопасности на строительных площадках и необходимость улучшения условий труда в таких опасных условиях.\n\nСемьи пропавших рабочих выражают тревогу и надежду на скорейшее возвращение своих близких, в то время как спасательные команды работают круглосуточно, чтобы найти их.",
+        "en": "Rescuers in Nepal are prioritizing the search for at least 900 workers missing from 12 hydropower projects. These workers disappeared due to recent natural disasters, and their fate remains unknown.\n\nSearch and rescue operations are ongoing, with authorities making every effort to locate the missing individuals. The situation highlights the importance of safety on construction sites and the need for improved working conditions in such hazardous environments.\n\nFamilies of the missing workers are expressing concern and hope for the swift return of their loved ones, while rescue teams work around the clock to find them."
       }
     },
     {
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deep-sea-search-begins-for-20-people-missing-in-cyprus-ferry-disaster?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Начало глубоководных поисков 20 пропавших в катастрофе парома на Кипре",
+        "ru": "Начинается глубоководный поиск 20 пропавших людей в результате катастрофы парома на Кипре",
         "en": "Deep-sea search begins for 20 people missing in Cyprus ferry disaster"
       },
       "summary": {
-        "ru": "Глубоководное судно из Турции присоединилось к поискам 20 человек, пропавших два дня назад.",
+        "ru": "Глубоководное судно из Турции присоединилось к поискам 20 человек, пропавших в течение двух дней.",
         "en": "A deep-sea vessel from Turkiye joined the search for 20 people missing for two days."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
+      },
+      "longBody": {
+        "ru": "Глубоководное судно из Турции присоединилось к поискам 20 человек, пропавших в результате катастрофы парома на Кипре. Эти люди пропали без вести в течение двух дней, и усилия по их поиску продолжаются.\n\nПоисковые операции включают как подводные, так и надводные поиски, чтобы максимально увеличить шансы на нахождение пропавших. Власти выражают надежду на то, что удастся найти выживших среди пропавших.\n\nЭта трагедия подчеркивает важность безопасности на водном транспорте и необходимость улучшения стандартов безопасности для предотвращения подобных инцидентов в будущем.",
+        "en": "A deep-sea vessel from Turkiye has joined the search for 20 people missing following a ferry disaster in Cyprus. These individuals have been unaccounted for over the past two days, and efforts to locate them are ongoing.\n\nSearch operations include both underwater and surface searches to maximize the chances of finding the missing persons. Authorities express hope that survivors may still be found among the missing.\n\nThis tragedy highlights the importance of safety in maritime transport and the need for improved safety standards to prevent similar incidents in the future."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "В гонке за Сенат Мичигана Ванс назвал Эль-Сайеда 'злом'",
+        "en": "In Michigan Senate race, Vance calls El-Sayed 'evil'"
+      },
+      "summary": {
+        "ru": "Эль-Сайед противостоит союзнику Трампа Майку Роджерсу в гонке за сенат, которая быстро стала ареной личных атак и оскорблений между ними.",
+        "en": "El-Sayed faces Trump ally Mike Rogers in a Senate race characterized by personal attacks and insults between the two."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "В Мичигане разгорелась напряженная гонка за место в Сенате, где кандидат Эль-Сайед сталкивается с Майком Роджерсом, союзником Дональда Трампа. Конкуренция между ними быстро перешла в плоскость личных атак и оскорблений, что подчеркивает накал политической борьбы в регионе.\n\nЭль-Сайед, представляющий демократическую партию, и Роджерс, республиканец, используют различные стратегии, чтобы привлечь внимание избирателей. Личные выпады и обвинения стали основными элементами их предвыборной кампании, что создает напряженную атмосферу в преддверии выборов.\n\nЭта гонка также отражает более широкие политические расколы в стране, где выборы становятся ареной для выражения различных идеологий и подходов к управлению.",
+        "en": "In Michigan, a heated Senate race has emerged where candidate El-Sayed faces Trump ally Mike Rogers. The competition between them has quickly devolved into personal attacks and insults, highlighting the intensity of political rivalry in the region.\n\nEl-Sayed, representing the Democratic Party, and Rogers, a Republican, are employing different strategies to capture voters' attention. Personal jabs and accusations have become central to their campaigns, creating a tense atmosphere leading up to the elections.\n\nThis race also reflects broader political divides in the country, where elections serve as a battleground for expressing differing ideologies and approaches to governance."
       }
     },
     {
       "link": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates",
       "source": "The Guardian",
       "title": {
-        "ru": "Немецкая полиция расследует сообщения о взрывчатых веществах на подстанции в Бранденбурге",
-        "en": "German police investigating reported explosives at Brandenburg power substation"
+        "ru": "Немецкая полиция расследует сообщения о взрывчатых веществах на подстанции в Бранденбурге – Европа в прямом эфире",
+        "en": "German police investigating reported explosives at Brandenburg power substation – Europe live"
       },
       "summary": {
-        "ru": "Министр заявил, что за гибридной деятельностью в Германии и Европе стоит Россия.",
-        "en": "Minister says Russia is believed to be behind hybrid activities in Germany and Europe."
+        "ru": "Министр заявил, что за гибридной активностью в Германии и Европе стоит Россия. Европейская комиссия начала свой первый брифинг осени с объявления о встрече президента комиссии Урсулы фон дер Ляйен с Марком Рютте.",
+        "en": "The minister said Russia is believed to be behind hybrid activities in Germany and Europe. The European Commission started its first autumn briefing with an announcement of Commission President Ursula von der Leyen's meeting with Mark Rutte."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
+      },
+      "longBody": {
+        "ru": "В Германии продолжается расследование по делу о взрывчатых веществах, обнаруженных на подстанции в Бранденбурге. Министр заявил, что за гибридной активностью в стране и Европе, вероятно, стоит Россия, что подчеркивает растущие опасения по поводу безопасности в регионе.\n\nЕвропейская комиссия начала свой первый осенний брифинг с объявления о встрече президента комиссии Урсулы фон дер Ляйен с премьер-министром Нидерландов Марком Рютте. Это событие подчеркивает важность сотрудничества в условиях растущей напряженности.\n\nДанные инциденты и встречи указывают на необходимость более активного подхода к вопросам безопасности и стабильности в Европе, особенно в свете последних событий, связанных с Россией.",
+        "en": "In Germany, an investigation is underway regarding reported explosives found at a substation in Brandenburg. The minister stated that Russia is believed to be behind hybrid activities in the country and Europe, highlighting growing security concerns in the region.\n\nThe European Commission commenced its first autumn briefing with an announcement of Commission President Ursula von der Leyen's meeting with Dutch Prime Minister Mark Rutte. This event underscores the importance of cooperation amid rising tensions.\n\nThese incidents and meetings indicate the need for a more proactive approach to security and stability issues in Europe, especially in light of recent developments related to Russia."
       }
     },
     {
@@ -448,44 +496,16 @@
         "en": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power."
       },
       "summary": {
-        "ru": "Си Цзиньпин встретился с лидерами России и Ирана, в то время как Европа бросила вызов администрации Трампа на G20.",
-        "en": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20."
+        "ru": "Си Цзиньпин встретился с лидерами России и Ирана, в то время как Европа бросила вызов администрации Трампа на G20, демонстрируя изменяющийся мир.",
+        "en": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, showcasing a changing world."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Бернхэм говорит, что Brexit привел к «десятилетию низкого роста» в своем первом обращении в парламенте как премьер-министр",
-        "en": "Burnham says Brexit brought ‘decade of low growth’ in first Commons address as prime minister"
       },
-      "summary": {
-        "ru": "Премьер-министр заявил, что у него есть «четкая диагностика того, что пошло не так» с Великобританией.",
-        "en": "PM says he has a ‘clear diagnosis of what has gone wrong’ with the UK."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/9/1/us-health-authorities-contradict-state-officials-on-measles-related-deaths?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Американские власти здравоохранения противоречат государственным чиновникам по поводу смертей от кори",
-        "en": "US health authorities contradict state officials on measles-related deaths"
-      },
-      "summary": {
-        "ru": "Конфликт с Пенсильванией происходит на фоне рекордного числа случаев кори в США за десятилетия.",
-        "en": "Clash with Pennsylvania comes as the US records the highest number of measles cases in decades."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
+      "longBody": {
+        "ru": "Си Цзиньпин встретился с лидерами России и Ирана, что подчеркивает растущее влияние Китая на мировой арене. В то же время, Европа бросает вызов администрации Трампа на саммите G20, демонстрируя изменяющийся баланс сил в международной политике.\n\nЭти два события представляют собой контрастирующие подходы к глобальному управлению, где Китай и его союзники стремятся укрепить свои позиции, в то время как Запад пытается сохранить свое влияние. Это подчеркивает сложность и многообразие современных международных отношений.\n\nПроисходящие события свидетельствуют о том, что мир становится все более многополярным, с различными центрами силы, которые стремятся утвердить свои интересы на глобальной арене.",
+        "en": "Xi Jinping met with the leaders of Russia and Iran, highlighting China's growing influence on the world stage. Meanwhile, Europe is challenging the Trump administration at the G20 summit, showcasing a shifting balance of power in international politics.\n\nThese two events represent contrasting approaches to global governance, where China and its allies seek to strengthen their positions while the West attempts to maintain its influence. This underscores the complexity and diversity of contemporary international relations.\n\nThe unfolding events indicate that the world is becoming increasingly multipolar, with various centers of power striving to assert their interests on the global stage."
       }
     },
     {
@@ -496,76 +516,136 @@
         "en": "Five held by police after newborn baby dies from stab wounds in Sheffield"
       },
       "summary": {
-        "ru": "Полиция задержала пятерых человек по подозрению в убийстве после смерти новорожденной девочки от ножевых ранений.",
-        "en": "Five people are being held on suspicion of murder after a newborn baby died from stab wounds."
+        "ru": "Полиция задержала пятерых человек по подозрению в убийстве после того, как новорожденная девочка умерла от ножевых ранений в Шеффилде в воскресенье.",
+        "en": "Five people are being held on suspicion of murder after a newborn baby died from stab wounds in Sheffield on Sunday."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
+      },
+      "longBody": {
+        "ru": "В Шеффилде полиция задержала пятерых человек по подозрению в убийстве после того, как новорожденная девочка скончалась от ножевых ранений. Инцидент произошел в воскресенье, когда правоохранительные органы отреагировали на сообщения о безопасности ребенка.\n\nПолиция обнаружила девочку в одном из домов в районе Уинкобанк и, к сожалению, она была объявлена мертвой на месте происшествия. Этот трагический случай вызывает серьезные вопросы о безопасности детей и о том, как такие инциденты могут быть предотвращены в будущем.\n\nРасследование продолжается, и власти призывают общественность предоставить любую информацию, которая может помочь в этом деле.",
+        "en": "In Sheffield, police have arrested five individuals on suspicion of murder after a newborn baby died from stab wounds. The incident occurred on Sunday when law enforcement responded to reports concerning the safety of the child.\n\nOfficers found the girl at a property in the Wincobank area, and unfortunately, she was pronounced dead at the scene. This tragic case raises serious questions about child safety and how such incidents can be prevented in the future.\n\nThe investigation is ongoing, and authorities are urging the public to provide any information that may assist in the case."
       }
     },
     {
       "link": "https://www.theguardian.com/politics/2026/sep/01/kier-starmer-last-u-turn-andy-burnham",
       "source": "The Guardian",
       "title": {
-        "ru": "Последний разворот Стармера, и дело передано Энди «меньше политики, больше настроения» Бернхэму",
-        "en": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham"
+        "ru": "Последний разворот Стармера, и дело передано Энди 'меньше политики, больше настроения' Бернхэму | Джон Крейс",
+        "en": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham | John Crace"
       },
       "summary": {
-        "ru": "Что мог бы сделать бывший премьер-министр, чтобы затмить нового всего за несколько часов до его первого выступления?",
-        "en": "What former PM could resist upstaging the new one hours before his first dispatch box appearance?"
+        "ru": "Что может удержать бывшего премьер-министра от того, чтобы затмить нового всего за несколько часов до его первого выступления за 16 лет?",
+        "en": "What former PM could resist upstaging the new one just hours before his first dispatch box appearance in 16 years?"
       },
       "category": {
         "ru": "Мир",
         "en": "World"
+      },
+      "longBody": {
+        "ru": "В британской политике вновь разгорелись страсти, когда бывший премьер-министр, похоже, затмевает нового всего за несколько часов до его первого выступления за 16 лет. Это событие подчеркивает нестабильность и непредсказуемость политической сцены в Великобритании.\n\nКир Стармер, который ранее утверждал, что останется депутатом до следующих выборов, теперь, похоже, готов покинуть свой пост. Его частые изменения мнения стали отличительной чертой его двухлетнего пребывания на посту, что вызывает вопросы о его политической надежности.\n\nЭта ситуация демонстрирует, как быстро могут меняться политические обстоятельства и как это влияет на общественное восприятие лидеров.",
+        "en": "In British politics, tensions have flared again as a former prime minister seems to overshadow the new one just hours before his first appearance at the dispatch box in 16 years. This event highlights the instability and unpredictability of the political scene in the UK.\n\nKeir Starmer, who previously insisted he would remain an MP until the next general election, now appears ready to leave his post. His frequent changes of stance have become a hallmark of his two-year tenure, raising questions about his political reliability.\n\nThis situation demonstrates how quickly political circumstances can change and how it affects public perception of leaders."
       }
     },
     {
-      "link": "https://www.theguardian.com/politics/2026/sep/01/keir-starmer-stepping-down-mp-constituents-holborn-st-pancras-kentish-town",
-      "source": "The Guardian",
+      "link": "https://www.aljazeera.com/sports/2026/9/1/pitso-mosimane-appointed-by-south-africa-ahead-of-afcon-qualifiers?traffic_source=rss",
+      "source": "Al Jazeera",
       "title": {
-        "ru": "«Я думаю, он разумный»: избиратели о том, что Кеир Стармер уходит с поста депутата",
-        "en": "‘I think he’s sensible’: constituents on Keir Starmer stepping down as MP"
+        "ru": "Пиццо Мосимане назначен тренером сборной ЮАР перед отборочными матчами AFCON",
+        "en": "Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers"
       },
       "summary": {
-        "ru": "В округе Кеира Стармера в Лондоне немногие сожалеют о его уходе с поста депутата.",
-        "en": "Few regrets voiced in Keir Starmer’s constituency over his decision to step down as MP."
+        "ru": "Пиццо Мосимане заменяет Хуго Бруса на посту главного тренера сборной ЮАР после выхода из Кубка мира.",
+        "en": "Pitso Mosimane replaces Hugo Broos as manager of the South Africa national football team following World Cup exit."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
+      },
+      "longBody": {
+        "ru": "Пиццо Мосимане назначен новым главным тренером сборной ЮАР по футболу после неудачного выступления на Кубке мира. Он заменяет Хуго Бруса, что свидетельствует о стремлении команды к обновлению и улучшению результатов.\n\nНазначение Мосимане может стать важным шагом для сборной, так как он имеет опыт работы на высоком уровне и может внести свежие идеи в команду. Это также подчеркивает необходимость адаптации к современным требованиям футбольного мира.\n\nСборная ЮАР надеется, что новое руководство поможет команде вернуть утраченные позиции и добиться успеха в предстоящих квалификациях к Кубку Африки.",
+        "en": "Pitso Mosimane has been appointed as the new head coach of the South Africa national football team following an unsuccessful World Cup campaign. He replaces Hugo Broos, indicating the team's desire for renewal and improved performance.\n\nMosimane's appointment could be a significant step for the team, as he has experience at high levels and can bring fresh ideas to the squad. This also highlights the need to adapt to the modern demands of the football world.\n\nThe South African team hopes that the new leadership will help them regain lost ground and achieve success in the upcoming African Cup of Nations qualifiers."
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/09/01/world/europe/ukraine-underground-schools.html",
+      "link": "http://www.euronews.com/2026/09/01/sco-challenges-west-as-diverse-group-of-nations-pursues-multipolar-future",
+      "source": "Euronews",
+      "title": {
+        "ru": "ШОС бросает вызов Западу, стремясь к многополярному будущему",
+        "en": "SCO challenges West as diverse group of nations pursues multipolar future"
+      },
+      "summary": {
+        "ru": "Саммит Шанхайской организации сотрудничества, представляющий почти половину населения мира, завершился с целью продемонстрировать рост глобальной силы, бросающей вызов Западу.",
+        "en": "The summit of the Shanghai Cooperation Organisation, representing almost half of the world's population, ended with an aim to signal the rise of a global powerhouse challenging the West."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "На саммите Шанхайской организации сотрудничества, представляющей почти половину мирового населения, обсуждались вопросы, касающиеся роста глобальной силы, бросающей вызов Западу. Участники стремятся продемонстрировать единство и многообразие, несмотря на существующие разногласия.\n\nСОС, состоящая из различных стран, продемонстрировала свои амбиции на мировой арене, подчеркивая необходимость многополярности в международных отношениях. Однако разнообразие участников также выявило значительные разногласия и различные интересы между странами.\n\nЭти события подчеркивают, что мир становится все более сложным, и для достижения стабильности необходимы диалог и сотрудничество между различными центрами силы.",
+        "en": "At the summit of the Shanghai Cooperation Organisation, which represents almost half of the world's population, discussions focused on the rise of a global powerhouse challenging the West. Participants aim to showcase unity and diversity despite existing disagreements.\n\nThe SCO, composed of various nations, demonstrated its ambitions on the world stage, emphasizing the need for multipolarity in international relations. However, the diversity of participants also revealed significant disagreements and divergent interests among countries.\n\nThese events highlight that the world is becoming increasingly complex, and achieving stability requires dialogue and cooperation among various centers of power."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Иран обещает ответить на новую волну ударов США, несмотря на угрозы Трампа",
+        "en": "Iran promises to respond to new wave of US strikes despite Trump’s threats"
+      },
+      "summary": {
+        "ru": "Трамп заявил, что атаки США были 'большими и мощными' и предупредил, что Иран будет подвергнут 'гораздо более жестоким' ударам, если ответит.",
+        "en": "Trump said the US attacks were 'large and powerful' and warned that Iran would be hit 'much harder' if it retaliates."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Трамп заявил, что недавние атаки США были 'большими и мощными', и предупредил, что Иран столкнется с 'гораздо более жестокими' ударами, если решит ответить. Это заявление подчеркивает напряженность между двумя странами и риски дальнейшей эскалации конфликта.\n\nИран, в свою очередь, пообещал ответить на новую волну американских ударов, что создает опасную ситуацию в регионе. Обе стороны продолжают обмениваться угрозами, что может привести к непредсказуемым последствиям.\n\nЭти события подчеркивают необходимость дипломатического подхода к разрешению конфликтов и снижения напряженности между государствами.",
+        "en": "Trump stated that recent US attacks were 'large and powerful' and warned that Iran would face 'much harder' strikes if it retaliates. This statement underscores the tension between the two countries and the risks of further escalation of the conflict.\n\nIran, in turn, has promised to respond to the new wave of US strikes, creating a dangerous situation in the region. Both sides continue to exchange threats, which could lead to unpredictable consequences.\n\nThese events highlight the need for a diplomatic approach to conflict resolution and the reduction of tensions between states."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Трамп говорит, что позиция США по Фолклендам 'одна из многих' на пересмотре",
+        "en": "Trump says US position on Falklands 'one of many' under review"
+      },
+      "summary": {
+        "ru": "Великобритания заявляет, что фолклендцы 'являются британцами с правом определять свое будущее'.",
+        "en": "The UK says Falkland islanders 'are British with a right to determine their own future'."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Великобритания заявила, что жители Фолклендских островов 'являются британцами с правом определять свое будущее'. Это заявление сделано на фоне обсуждений о пересмотре позиции США по Фолклендам, что вызывает обеспокоенность в Лондоне.\n\nПравительство Великобритании подчеркивает важность самоопределения для жителей островов, что является ключевым аспектом в международных отношениях. Это также указывает на возможные изменения в политике США, которые могут повлиять на статус Фолклендских островов.\n\nДанная ситуация подчеркивает сложные аспекты суверенитета и самоопределения в международной политике, особенно в контексте исторических споров.",
+        "en": "The UK stated that Falkland Islanders 'are British with a right to determine their own future.' This statement comes amid discussions about a review of the US position on the Falklands, raising concerns in London.\n\nThe British government emphasizes the importance of self-determination for the islanders, which is a key aspect of international relations. This also points to potential changes in US policy that could affect the status of the Falkland Islands.\n\nThis situation highlights the complex aspects of sovereignty and self-determination in international politics, especially in the context of historical disputes."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/09/01/world/europe/manchester-uk-trial-husband-rape-abuse.html",
       "source": "New York Times",
       "title": {
-        "ru": "Эти украинские дети учатся в школе под землей. Они счастливчики.",
-        "en": "These Ukrainian Children Go to School Underground. They’re the Lucky Ones."
+        "ru": "Муж и 12 мужчин в Британии обвиняются в многолетнем изнасиловании и наркотизации женщины",
+        "en": "Husband and 12 Men in Britain Are Accused of Woman’s Yearslong Drugging and Rape"
       },
       "summary": {
-        "ru": "В прифронтовом городе родители не рассматривают школы, построенные под землей, как апокалиптические.",
-        "en": "In a frontline city, parents don’t see schools built below ground as apocalyptic."
+        "ru": "Прокуроры заявили, что мужчина в возрасте 60 лет наркотизировал и насиловал свою жену, пока она была в бессознательном состоянии, вместе с десятком других мужчин в возрасте от 28 до 73 лет.",
+        "en": "Prosecutors said that the man, in his 60s, drugged and abused his wife while she was unconscious, alongside a dozen other men aged 28 to 73."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/01/bodycote-private-equity-london-takeover-spree-politicians-ignore",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Частный капитал продолжает поглощать компании, зарегистрированные в Лондоне, а Вестминстер едва замечает",
-        "en": "Private equity keeps picking off London-listed firms – and Westminster barely notices"
       },
-      "summary": {
-        "ru": "Bodycote — последняя компания FTSE 250, которая может перейти к зарубежному покупателю.",
-        "en": "Bodycote is the latest FTSE 250 industrial company set to fall to an overseas bidder."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
+      "longBody": {
+        "ru": "Прокуроры сообщили, что мужчина в возрасте 60 лет обвиняется в том, что он наркотизировал и насиловал свою жену, пока она была в бессознательном состоянии, вместе с десятком других мужчин в возрасте от 28 до 73 лет. Этот случай вызывает шок и осуждение в обществе.\n\nДело привлекло внимание общественности, подчеркивая серьезные проблемы, связанные с насилием в семье и сексуальными преступлениями. Прокуратура продолжает расследование, чтобы выяснить все обстоятельства произошедшего.\n\nОбщество требует справедливости и защиты прав жертв, что подчеркивает необходимость более строгих мер против насилия и преступлений на сексуальной почве.",
+        "en": "Prosecutors reported that a man in his 60s is accused of drugging and abusing his wife while she was unconscious, alongside a dozen other men aged 28 to 73. This case has sparked shock and condemnation in society.\n\nThe incident has drawn public attention, highlighting serious issues related to domestic violence and sexual crimes. The prosecution continues to investigate to uncover all circumstances surrounding the incident.\n\nSociety demands justice and protection of victims' rights, underscoring the need for stricter measures against violence and sexual offenses."
       }
     }
   ]
