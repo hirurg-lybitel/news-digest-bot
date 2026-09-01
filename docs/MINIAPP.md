@@ -2,6 +2,13 @@
 
 Интерактивный дайджest с фильтрами по **разделам** и **источникам**.
 
+# Telegram channels (public Pages — indexed by Google)
+
+| Channel | Link |
+|---------|------|
+| EN | [World News · Day Essence](https://t.me/dayessence_en) |
+| RU | [Мировые новости · Суть дня](https://t.me/dayessence_ru) |
+
 ## Два URL — не путать
 
 | Назначение | URL | Где используется |

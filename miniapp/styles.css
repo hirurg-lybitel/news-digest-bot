@@ -237,3 +237,34 @@ body {
 .hidden {
   display: none !important;
 }
+
+.site-footer {
+  margin-top: 32px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+  text-align: center;
+}
+
+.site-footer-label {
+  margin: 0 0 8px;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.site-footer-links {
+  margin: 0;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.site-footer-links a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.site-footer-links a:hover {
+  text-decoration: underline;
+}

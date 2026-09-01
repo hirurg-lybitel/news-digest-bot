@@ -2,7 +2,9 @@
 
 Twice-daily world news digest for Telegram: RSS → OpenAI → **two channels** (RU + EN) from a single run.
 
-**Day Essence** / **Суть дня** — same set of stories, localized headlines and summaries.
+**World News · Day Essence** / **Мировые новости · Суть дня** — twice-daily world news digests on Telegram (RU + EN), same stories with localized headlines and summaries.
+
+**Telegram channels:** [World News · Day Essence](https://t.me/dayessence_en) · [Мировые новости · Суть дня](https://t.me/dayessence_ru) · [Mini App](https://hirurg-lybitel.github.io/news-digest-bot/)
 
 Brand: [brand/BRANDING.md](brand/BRANDING.md) · Story selection: [docs/SELECTION.md](docs/SELECTION.md)
 
@@ -25,12 +27,12 @@ See [docs/SELECTION.md](docs/SELECTION.md) for the full selection pipeline.
 
 [brand/BRANDING.md](brand/BRANDING.md) — BotFather setup, avatar, channel copy.
 
-| Locale | Username | Env var |
-|--------|----------|---------|
-| RU | `@dayessence_ru` | `TELEGRAM_CHANNEL_ID_RU` |
-| EN | `@dayessence_en` | `TELEGRAM_CHANNEL_ID_EN` |
+| Locale | Channel title | Username | Env var |
+|--------|---------------|----------|---------|
+| RU | **Мировые новости · Суть дня** | [@dayessence_ru](https://t.me/dayessence_ru) | `TELEGRAM_CHANNEL_ID_RU` |
+| EN | **World News · Day Essence** | [@dayessence_en](https://t.me/dayessence_en) | `TELEGRAM_CHANNEL_ID_EN` |
 
-One **Day Essence** bot must be an admin of **both** channels with permission to post.
+One **Day Essence** bot must be an admin of **both** channels with permission to post. Set the channel **display title** in Telegram to match the names above (helps search inside Telegram and on Google).
 
 ### 2. Local run
 
@@ -103,6 +105,8 @@ brand/BRANDING.md
 
 ## Mini App
 
-Each run writes `miniapp/data/digest.json` (and an archive copy). GitHub Actions commits and pushes this data; GitHub Pages serves the web UI. Channel posts link via `t.me/<bot>/<shortname>?startapp=<locale>` so the app opens inside Telegram.
+Each run writes `miniapp/data/digest.json` (and an archive copy). GitHub Actions commits and pushes this data; GitHub Pages serves the web UI at [hirurg-lybitel.github.io/news-digest-bot](https://hirurg-lybitel.github.io/news-digest-bot/). Channel posts link via `t.me/<bot>/<shortname>?startapp=<locale>` so the app opens inside Telegram.
+
+Subscribe: [World News · Day Essence (EN)](https://t.me/dayessence_en) · [Мировые новости · Суть дня (RU)](https://t.me/dayessence_ru)
 
 Register the web app URL in BotFather (`/newapp`) and set `MINI_APP_URL`, `TELEGRAM_BOT_USERNAME`, and `MINI_APP_SHORT_NAME` to match.

@@ -12,8 +12,10 @@ Digest posts: **Russian** in `@dayessence_ru`, **English** in `@dayessence_en` (
 | Field | Value |
 |------|----------|
 | Brand (EN) | **Day Essence** |
-| Brand (RU, channel/posts) | **Суть дня** |
-| Positioning | Evening briefing of the day’s top world news — short summaries with links to originals |
+| Brand (RU, posts) | **Суть дня** |
+| **Channel title (EN)** | **World News · Day Essence** |
+| **Channel title (RU)** | **Мировые новости · Суть дня** |
+| Positioning | Twice-daily briefing of top world news — short summaries with links to originals |
 | Tone | Calm, editorial; no clickbait, no emoji spam |
 | Publish time | Twice daily: **06:00 & 18:00 UTC** (09:00 & 21:00 Minsk) |
 
@@ -50,7 +52,7 @@ Save the token → `TELEGRAM_BOT_TOKEN`.
 ### `/setdescription` → select the bot
 
 ```
-Publishes world-news digests twice daily (06:00 & 18:00 UTC) to Day Essence channels (RU + EN): concise summaries with links to original stories.
+Publishes world-news digests twice daily (06:00 & 18:00 UTC) to World News · Day Essence and Мировые новости · Суть дня on Telegram: concise summaries with links to original stories.
 ```
 
 ### `/setabouttext` → select the bot
@@ -85,16 +87,17 @@ Leave the default; not critical for a channel poster.
 ## Channel setup (audience-facing, Russian)
 
 1. Telegram → New Channel  
-2. **Title:** `Суть дня`  
+2. **Title:** `Мировые новости · Суть дня`  
 3. **Description:**
 
 ```
-Главные мировые новости за день — коротко и по делу.
+Мировые новости за день — коротко и по делу. Канал «Суть дня».
 
 Два раза в сутки в 09:00 и 21:00 (Минск): топ событий с прошлого выпуска, краткое саммари на русском и ссылка на первоисточник.
 
 Источники: BBC, CNN, NYT, Guardian, DW, Euronews, Al Jazeera, NPR и др.
 Не официальный канал агентств · дайджест автоматизирован
+t.me/dayessence_ru
 ```
 
 4. **Avatar:** `brand/avatar.png`  
@@ -107,17 +110,18 @@ Leave the default; not critical for a channel poster.
 ## English channel setup
 
 1. Telegram → New Channel  
-2. **Title:** `Day Essence`  
+2. **Title:** `World News · Day Essence`  
 3. **Username:** `@dayessence_en`  
 4. **Description:**
 
 ```
-Top world news of the day — concise and to the point.
+World news of the day — concise and to the point. Day Essence digest.
 
 Twice daily at 09:00 and 21:00 Minsk time: top stories since the last briefing, short summaries in English, and a link to the full original article.
 
-Sources: BBC, AP, CNN, NYT, Guardian, DW, Euronews, Al Jazeera, NPR.
+Sources: BBC, AP, CNN, NYT, Guardian, DW, Euronews, Al Jazeera, NPR, The Block.
 Not affiliated with news agencies · automated digest
+t.me/dayessence_en
 ```
 
 5. **Avatar:** `brand/avatar.png`  
@@ -127,25 +131,25 @@ Not affiliated with news agencies · automated digest
 ### Suggested pinned post (EN)
 
 ```
-Welcome to Day Essence.
+Welcome to World News · Day Essence.
 
-Once a day — a compact digest of the world’s most important events.
+Twice a day — a compact digest of the world’s most important events.
 If a story catches your eye, follow the link to the original source.
 
-📅 Published daily at 21:00 (Minsk)
-🔗 We don’t republish full articles — only a short summary + source link
+📅 09:00 & 21:00 (Minsk)
+🔗 Short summary + source link · t.me/dayessence_en
 ```
 
 ### Suggested pinned post
 
 ```
-Добро пожаловать в «Суть дня».
+Добро пожаловать в «Мировые новости · Суть дня».
 
-Раз в сутки — сжатый дайджест важных мировых событий.
+Два раза в сутки — сжатый дайджест важных мировых событий.
 Если тема зацепила — переходите по ссылке к оригиналу.
 
-📅 Публикация: ежедневно в 21:00 (Минск)
-🔗 Мы не перепечатываем статьи целиком — только краткое саммари + источник
+📅 09:00 и 21:00 (Минск)
+🔗 Краткое саммари + источник · t.me/dayessence_ru
 ```
 
 ---
