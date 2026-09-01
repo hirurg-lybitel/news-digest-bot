@@ -71,6 +71,27 @@ test("Telegram digest is the exact Mini App prefix", () => {
   );
 });
 
+test("Telegram digest uses channel intro without story count", () => {
+  const stories = Array.from({ length: 30 }, (_, index) => ({
+    link: `https://example.com/${index}`,
+    source: "Test",
+    title: { ru: `Новость ${index}`, en: `Story ${index}` },
+    summary: { ru: `Текст ${index}`, en: `Summary ${index}` },
+    category: { ru: "Мир", en: "World" },
+  }));
+  const digest: BilingualDigest = {
+    intro: {
+      ru: "Главные мировые события за последние несколько часов — 30 коротких новостей.",
+      en: "The latest major world events in 30 concise stories.",
+    },
+    stories,
+  };
+
+  const telegram = digestForLocale(digest, "ru", 10);
+  assert.equal(telegram.intro, "Главные мировые события за последние несколько часов.");
+  assert.doesNotMatch(telegram.intro, /30/);
+});
+
 test("Telegram read-more prefers Telegraph URL when present", () => {
   const base = {
     title: "T",

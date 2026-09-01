@@ -20,7 +20,7 @@ export function digestForLocale(
   const stories = storyLimit ? digest.stories.slice(0, storyLimit) : digest.stories;
   return {
     locale,
-    intro: digest.intro[locale],
+    intro: telegramIntro()[locale],
     stories: stories.map((story) => ({
       link: story.link,
       source: story.source,
@@ -39,6 +39,14 @@ function digestIntro(storyCount: number): BilingualDigest["intro"] {
   return {
     ru: `Главные мировые события за последние несколько часов — ${storyCount} коротких новостей.`,
     en: `The latest major world events in ${storyCount} concise stories.`,
+  };
+}
+
+/** Channel post intro — no Mini App story count. */
+export function telegramIntro(): BilingualDigest["intro"] {
+  return {
+    ru: "Главные мировые события за последние несколько часов.",
+    en: "The latest major world events from the past few hours.",
   };
 }
 
