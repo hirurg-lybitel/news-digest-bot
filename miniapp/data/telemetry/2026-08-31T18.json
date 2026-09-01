@@ -1,0 +1,1367 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.977969166666666,
+  "poolSize": 133,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 2,
+      "title": "‘The Nest of Snakes’: Warring Cartels Target Women in Mexico",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html"
+    },
+    {
+      "index": 3,
+      "title": "India’s PM Modi urges end to Ukraine war in talks with Russia’s Putin",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/indias-pm-modi-urges-end-to-ukraine-war-in-talks-with-russias-putin?traffic_source=rss"
+    },
+    {
+      "index": 4,
+      "title": "Trump says datacenter opponents ‘want to end up being backwards and poor’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-datacenter-comments"
+    },
+    {
+      "index": 5,
+      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 6,
+      "title": "She is still in the sea, mother describes losing daughter in ferry disaster",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/she-is-still-in-the-sea-mother-describes-losing-daughter-in-ferry-disaster?traffic_source=rss"
+    },
+    {
+      "index": 7,
+      "title": "China Is the Star at a Summit With the Leaders of Russia, India and Iran",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html"
+    },
+    {
+      "index": 8,
+      "title": "War on Iran: US bombs Iran",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/war-on-iran-us-bombs-iran?traffic_source=rss"
+    },
+    {
+      "index": 9,
+      "title": "China Prepared for One Kind of Himalayan Flood. Then a Different Disaster Struck.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/31/world/asia/china-nepal-tibet-flood-himalayas-risk.html"
+    },
+    {
+      "index": 10,
+      "title": "Nepal FM speaks to Al Jazeera on devastating floods",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/nepal-fm-speaks-to-al-jazeera-on-devastating-floods?traffic_source=rss"
+    },
+    {
+      "index": 11,
+      "title": "Trump says US will ‘hit Iran hard’ as hostilities resume – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates"
+    },
+    {
+      "index": 12,
+      "title": "Trump threatens further action as US and Iran exchange fire in new flare-up",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/31/trump-threatens-further-action-us-iran-exchange-fire"
+    },
+    {
+      "index": 13,
+      "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 14,
+      "title": "Principal who saved 900 students recalls Nepal’s devastating flood",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/principal-who-saved-900-students-recalls-nepals-devastating-flood?traffic_source=rss"
+    },
+    {
+      "index": 15,
+      "title": "House lawmakers return to Capitol Hill as Republicans hope to pass stopgap spending bill – live",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/live/2026/aug/31/donald-trump-lake-america-ontario-canada-trade-war-tariffs-jd-vance-g20-latest-news-updates"
+    },
+    {
+      "index": 16,
+      "title": "Vance says Trump ‘sending a message’ to Iran with AI-generated video",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video?traffic_source=rss"
+    },
+    {
+      "index": 17,
+      "title": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html"
+    },
+    {
+      "index": 18,
+      "title": "Photos: Nearly 1,000 dead, thousands missing in Nepal–China border floods",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/gallery/2026/8/31/photos-nearly-1000-dead-thousands-missing-in-nepal-china-border?traffic_source=rss"
+    },
+    {
+      "index": 19,
+      "title": "Iran could face economic collapse in months, US Treasury’s Bessent warns",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/8/31/iran-could-face-economic-collapse-in-months-us-treasurys-bessent-warns?traffic_source=rss"
+    },
+    {
+      "index": 20,
+      "title": "Head of Viktor Orbán’s favourite thinktank quits over unpaid wages",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/aug/31/viktor-orbans-thinktank-mcc-brussels-crisis-frank-furedi-quits"
+    },
+    {
+      "index": 21,
+      "title": "Tunisia protests: Water, power cuts and rising anger",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/tunisia-protests-water-power-cuts-and-rising-anger?traffic_source=rss"
+    },
+    {
+      "index": 22,
+      "title": "'I haven't lost my hope' - the search for missing loved ones",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/c4g79v842xjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 23,
+      "title": "James Clyburn says supporting Clarence Thomas for supreme court ‘was mistake’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/aug/31/james-clyburn-clarence-thomas-supreme-court"
+    },
+    {
+      "index": 24,
+      "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer"
+    },
+    {
+      "index": 25,
+      "title": "Two dead and at least 15 missing after flash flood in Arizona’s Grand Canyon",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood"
+    },
+    {
+      "index": 26,
+      "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html"
+    },
+    {
+      "index": 27,
+      "title": "Company offering reward for safe return of truckload of beer",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 28,
+      "title": "Thousands of cans of Pabst beer stolen in two separate heists in California",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/aug/31/pabst-beer-stolen-southern-california"
+    },
+    {
+      "index": 29,
+      "title": "Over 6,000 Ebola cases confirmed in DRC as death toll nears 3,000",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000?traffic_source=rss"
+    },
+    {
+      "index": 30,
+      "title": "India rejects Hague court order to restore Indus waters pact with Pakistan",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan?traffic_source=rss"
+    },
+    {
+      "index": 31,
+      "title": "Algerian president seeks to impose death penalty on arsonists",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/2026/08/31/algerian-president-seeks-to-impose-death-penalty-on-arsonists"
+    },
+    {
+      "index": 32,
+      "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease"
+    },
+    {
+      "index": 33,
+      "title": "Latest news bulletin | August 31st, 2026 – Evening",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/video/2026/08/31/latest-news-bulletin-august-31st-2026-evening"
+    },
+    {
+      "index": 34,
+      "title": "LIVE: Aston Villa vs Arsenal – Premier League",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/31/live-aston-villa-vs-arsenal-premier-league?traffic_source=rss"
+    },
+    {
+      "index": 35,
+      "title": "Spanish Leader Says 5,000 Migrants Are Still in Ceuta, Weeks After Border Surge",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/31/world/europe/ceuta-migrants-pedro-sanchez-north-africa.html"
+    },
+    {
+      "index": 36,
+      "title": "Nepal rescuers race to reach hundreds feared trapped in hydropower tunnels",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/31/nepal-tibet-floods-rescuers-hundreds-trapped-hydropower"
+    },
+    {
+      "index": 37,
+      "title": "Argentina legend Lionel Messi retires from international football",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/8/31/argentina-legend-lionel-messi-retires-from-international-football?traffic_source=rss"
+    },
+    {
+      "index": 38,
+      "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html"
+    },
+    {
+      "index": 39,
+      "title": "John Galliano exhibition at New York Met cancelled after backlash",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 40,
+      "title": "Lionel Messi announces retirement from international football",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/lionel-messi-announces-retirement-from-international-football/a-78579502?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 41,
+      "title": "‘We Are Shattered’: Survivors Recall Chaos as Ferry Sank Near Cyprus",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/31/world/europe/cyprus-ferry-turkey.html"
+    },
+    {
+      "index": 42,
+      "title": "Israeli strikes kill at least five Palestinians in Gaza City",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-strikes-kill-at-least-five-palestinians-in-gaza-city?traffic_source=rss"
+    },
+    {
+      "index": 43,
+      "title": "Messi retires from Argentina duty with 'nothing left to give'",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 44,
+      "title": "Trump says Iran is ‘dead’, vows to respond after renewed clashes",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss"
+    },
+    {
+      "index": 45,
+      "title": "Is Trump testing the limits of US power?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/31/is-trump-testing-the-limits-of-us-power?traffic_source=rss"
+    },
+    {
+      "index": 46,
+      "title": "Border area between Nepal and China where 33 Australians are missing still almost entirely cut off",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/sep/01/nepal-china-border-area-gyirong-port-almost-entirely-cut-off-missing-australians-ntwnfb"
+    },
+    {
+      "index": 47,
+      "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 48,
+      "title": "South African airline Airlink defends dramatic stadium flyover",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/2026/08/31/south-african-airline-airlink-defends-dramatic-stadium-flyover"
+    },
+    {
+      "index": 49,
+      "title": "Why has Greece signed a $3.5bn missile deal with Israel?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss"
+    },
+    {
+      "index": 50,
+      "title": "Jason Arday mural displayed at London’s Notting Hill Carnival",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jason-arday-mural-displayed-at-londons-notting-hill-carnival?traffic_source=rss"
+    },
+    {
+      "index": 51,
+      "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 52,
+      "title": "Court says India must uphold Pakistan water treaty",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/court-says-india-must-uphold-pakistan-water-treaty/a-78579010?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 53,
+      "title": "War and heat: Why are wheat prices soaring?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/31/war-and-heat-why-are-wheat-prices-soaring?traffic_source=rss"
+    },
+    {
+      "index": 54,
+      "title": "A Principal Saved 900 Students Before His School Was Washed Away in Nepal",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-teacher.html"
+    },
+    {
+      "index": 55,
+      "title": "For Nepal’s Young Leader, Flood Recovery Will Be a Herculean Task",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-balen-shah-gen-z.html"
+    },
+    {
+      "index": 56,
+      "title": "Why Larak Island Is Strategically Important for Iran",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/31/world/middleeast/larak-island-iran-us-strikes.html"
+    },
+    {
+      "index": 57,
+      "title": "How China buried Tibet flood images after Nepal disaster",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/how-china-buried-tibet-flood-images-after-nepal-disaster/a-78576472?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 58,
+      "title": "Germany poised to identify suspect in Leipzig drone attack on Ukrainian plane",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/31/germany-leipzig-drone-attack-ukrainian-plane"
+    },
+    {
+      "index": 59,
+      "title": "BT on track for estimated £2bn windfall from selling old copper amid AI boom",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/aug/31/bt-windfall-selling-old-copper-cables-telecoms-broadband-metal"
+    },
+    {
+      "index": 60,
+      "title": "At Venice Film Festival, politics take center stage",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/at-venice-film-festival-politics-take-center-stage/a-78493761?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 61,
+      "title": "Sleeping in on weekends is good for the heart: What research has shown",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/31/sleeping-in-on-weekends-is-good-for-the-heart-what-research-has-shown?traffic_source=rss"
+    },
+    {
+      "index": 62,
+      "title": "Greece signs $3.5bn air defence deal with Israel",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/31/greece-signs-3-5bn-air-defence-deal-with-israel?traffic_source=rss"
+    },
+    {
+      "index": 63,
+      "title": "Why is piracy picking up off Somalia’s coast again?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/31/why-is-piracy-picking-up-off-somalias-coast-again?traffic_source=rss"
+    },
+    {
+      "index": 64,
+      "title": "Transfer day: What and when is the deadline for club football signings?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/8/31/transfer-deadline-day-2026-football-summer-signing-window-barcola-gakpo-alvarez?traffic_source=rss"
+    },
+    {
+      "index": 65,
+      "title": "US and Iran trade strikes for first time in weeks",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 66,
+      "title": "South African airline defends dramatic low-level flyby before rugby union clash",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand"
+    },
+    {
+      "index": 67,
+      "title": "South Korea court gives church leader two years in jail for bribery",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/south-korea-court-gives-church-leader-two-years-in-jail-for-bribery?traffic_source=rss"
+    },
+    {
+      "index": 68,
+      "title": "Liverpool sign Bradley Barcola from Paris Saint-Germain",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/8/31/liverpool-sign-bradley-barcola-from-paris-saint-germain?traffic_source=rss"
+    },
+    {
+      "index": 69,
+      "title": "Deceived and deployed: How young Cameroonians end up fighting in Russia's war in Ukraine",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/deceived-and-deployed-how-young-cameroonians-end-up-fighting-in-russia-s-war-in-ukraine/a-78513256?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 70,
+      "title": "Tariffs spat: Carney bets Canada can defy Trump",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/tariffs-spat-carney-bets-canada-can-defy-trump/a-78542754?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 71,
+      "title": "British family pleads with French authorities to release body of relative who died in Channel",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/31/british-family-plead-with-french-authorities-to-release-body-of-relative-who-died-in-the-channel"
+    },
+    {
+      "index": 72,
+      "title": "EU puts ChatGPT, Reddit and Roblox under stricter rules",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/eu-puts-chatgpt-reddit-and-roblox-under-stricter-rules/a-78577019?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 73,
+      "title": "Buenos Aires welcomes 800 couples for Tango BA World Championship",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/video/2026/08/31/buenos-aires-welcomes-800-couples-for-tango-ba-world-championship"
+    },
+    {
+      "index": 74,
+      "title": "Man Arrested in Switzerland After Deadly Shooting at Rave",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/31/world/europe/switzerland-shooting-rave-suspect-arrest.html"
+    },
+    {
+      "index": 75,
+      "title": "Man arrested after Swiss rave shooting that killed woman",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 76,
+      "title": "Iran’s economy in crisis as US launches new sanctions campaign",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/31/iran-economy-crisis-usa-launches-sanctions-inflation-trump"
+    },
+    {
+      "index": 77,
+      "title": "Smelling test: children need education in sniffing aromas, scientist says",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/science/2026/aug/31/children-education-sniffing-aromas-scientist"
+    },
+    {
+      "index": 78,
+      "title": "Iran retaliates, condemns US strikes on Larak Island",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/iran-retaliates-condemns-us-strikes-on-larak-island/live-78566992?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 79,
+      "title": "Badenoch appoints Andrew Griffith shadow chancellor in sweeping reshuffle",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/aug/31/kemi-badenoch-reshuffle-shadow-cabinet-patel-cleverly-resignations"
+    },
+    {
+      "index": 80,
+      "title": "In Saxony-Anhalt, Sven Schulze takes on far-right AfD",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/in-saxony-anhalt-sven-schulze-takes-on-far-right-afd/a-78509861?maca=en-rss-en-all-1573-rdf"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        7,
+        17
+      ],
+      "score": 95,
+      "category": "politics",
+      "rationale": "India's PM Modi's call for an end to the Ukraine war reflects significant geopolitical implications and India's growing diplomatic role."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5,
+        10,
+        18,
+        36
+      ],
+      "score": 90,
+      "category": "disaster",
+      "rationale": "The catastrophic floods in Nepal have resulted in a high death toll and widespread devastation, highlighting urgent humanitarian needs."
+    },
+    {
+      "representativeIndex": 11,
+      "memberIndices": [
+        11,
+        12,
+        44,
+        76,
+        78
+      ],
+      "score": 85,
+      "category": "conflict",
+      "rationale": "The escalating conflict between the US and Iran, marked by military actions and threats, poses serious risks to regional stability."
+    },
+    {
+      "representativeIndex": 29,
+      "memberIndices": [
+        29,
+        19
+      ],
+      "score": 80,
+      "category": "health",
+      "rationale": "The rapid spread of Ebola in the DRC represents a critical public health crisis with potential global implications."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2,
+        21
+      ],
+      "score": 75,
+      "category": "conflict",
+      "rationale": "The ongoing violence against women in Mexico amid cartel wars underscores a severe societal issue that demands international attention."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4,
+        15,
+        45
+      ],
+      "score": 70,
+      "category": "politics",
+      "rationale": "Trump's remarks on datacenters and their implications for local economies reflect broader political and economic tensions in the US."
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32,
+        61
+      ],
+      "score": 65,
+      "category": "health",
+      "rationale": "The development of an AI tool for rapid heart disease detection could revolutionize healthcare and improve patient outcomes."
+    },
+    {
+      "representativeIndex": 24,
+      "memberIndices": [
+        24,
+        40,
+        43
+      ],
+      "score": 60,
+      "category": "sport",
+      "rationale": "Lionel Messi's retirement from international football marks the end of an era for one of the sport's greatest players."
+    },
+    {
+      "representativeIndex": 30,
+      "memberIndices": [
+        30,
+        52
+      ],
+      "score": 55,
+      "category": "law",
+      "rationale": "India's rejection of the Hague court order regarding the Indus waters pact with Pakistan raises significant legal and diplomatic concerns."
+    },
+    {
+      "representativeIndex": 49,
+      "memberIndices": [
+        49,
+        62
+      ],
+      "score": 50,
+      "category": "politics",
+      "rationale": "Greece's $3.5 billion missile deal with Israel reflects shifting geopolitical alliances and security concerns in the region."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6,
+        41,
+        51
+      ],
+      "score": 45,
+      "category": "disaster",
+      "rationale": "The tragic ferry disaster near Cyprus highlights ongoing maritime safety issues and the human cost of such incidents."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1
+      ],
+      "score": 40,
+      "category": "society",
+      "rationale": "The withdrawal of celebrity lawyers from a high-profile murder case illustrates the complexities of legal representation in celebrity culture."
+    },
+    {
+      "representativeIndex": 25,
+      "memberIndices": [
+        25,
+        13
+      ],
+      "score": 35,
+      "category": "disaster",
+      "rationale": "The flash floods in the Grand Canyon have resulted in fatalities and missing persons, raising concerns about visitor safety."
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38
+      ],
+      "score": 30,
+      "category": "conflict",
+      "rationale": "The increase in drone attacks in Kyiv signifies a dangerous escalation in the ongoing war, affecting civilian life."
+    },
+    {
+      "representativeIndex": 39,
+      "memberIndices": [
+        39
+      ],
+      "score": 20,
+      "category": "culture",
+      "rationale": "The cancellation of the John Galliano exhibition reflects ongoing societal debates about accountability and cultural sensitivity."
+    },
+    {
+      "representativeIndex": 68,
+      "memberIndices": [
+        68
+      ],
+      "score": 15,
+      "category": "sport",
+      "rationale": "Liverpool's signing of Bradley Barcola highlights the ongoing dynamics of player transfers in professional football."
+    },
+    {
+      "representativeIndex": 74,
+      "memberIndices": [
+        74,
+        75
+      ],
+      "score": 10,
+      "category": "society",
+      "rationale": "The shooting at a rave in Switzerland raises concerns about safety and security at public events."
+    },
+    {
+      "representativeIndex": 67,
+      "memberIndices": [
+        67
+      ],
+      "score": 5,
+      "category": "law",
+      "rationale": "The sentencing of a church leader for bribery in South Korea underscores ongoing issues of corruption within religious institutions."
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 3,
+      "category": "politics",
+      "rationale": "Sven Schulze's challenge to the far-right AfD in Saxony-Anhalt reflects the ongoing political struggle in Germany."
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 2,
+      "category": "politics",
+      "rationale": "Germany's investigation into a drone attack on a Ukrainian plane highlights the complexities of international military engagements."
+    },
+    {
+      "representativeIndex": 8,
+      "memberIndices": [
+        8
+      ],
+      "score": 19.9,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 9,
+      "memberIndices": [
+        9
+      ],
+      "score": 19.8875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14
+      ],
+      "score": 19.825,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 16,
+      "memberIndices": [
+        16
+      ],
+      "score": 19.8,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 20,
+      "memberIndices": [
+        20
+      ],
+      "score": 19.75,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 22,
+      "memberIndices": [
+        22
+      ],
+      "score": 19.725,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 26,
+      "memberIndices": [
+        26
+      ],
+      "score": 19.675,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 27,
+      "memberIndices": [
+        27
+      ],
+      "score": 19.6625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 28,
+      "memberIndices": [
+        28
+      ],
+      "score": 19.65,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 31,
+      "memberIndices": [
+        31
+      ],
+      "score": 19.6125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 33,
+      "memberIndices": [
+        33
+      ],
+      "score": 19.5875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 34,
+      "memberIndices": [
+        34
+      ],
+      "score": 19.575,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 35,
+      "memberIndices": [
+        35
+      ],
+      "score": 19.5625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 37,
+      "memberIndices": [
+        37
+      ],
+      "score": 19.5375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 42,
+      "memberIndices": [
+        42
+      ],
+      "score": 19.475,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46
+      ],
+      "score": 19.425,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 47,
+      "memberIndices": [
+        47
+      ],
+      "score": 19.4125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 48,
+      "memberIndices": [
+        48
+      ],
+      "score": 19.4,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 50,
+      "memberIndices": [
+        50
+      ],
+      "score": 19.375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 54,
+      "memberIndices": [
+        54
+      ],
+      "score": 19.325,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 19.3125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 56,
+      "memberIndices": [
+        56
+      ],
+      "score": 19.3,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 57,
+      "memberIndices": [
+        57
+      ],
+      "score": 19.2875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 59,
+      "memberIndices": [
+        59
+      ],
+      "score": 19.2625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60
+      ],
+      "score": 19.25,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 19.2125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64
+      ],
+      "score": 19.2,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.1875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 66,
+      "memberIndices": [
+        66
+      ],
+      "score": 19.175,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 69,
+      "memberIndices": [
+        69
+      ],
+      "score": 19.1375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70
+      ],
+      "score": 19.125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 71,
+      "memberIndices": [
+        71
+      ],
+      "score": 19.1125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 72,
+      "memberIndices": [
+        72
+      ],
+      "score": 19.1,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 73,
+      "memberIndices": [
+        73
+      ],
+      "score": 19.0875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 77,
+      "memberIndices": [
+        77
+      ],
+      "score": 19.0375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 19.0125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 15117,
+      "usage": {
+        "inputTokens": 7292,
+        "outputTokens": 943,
+        "totalTokens": 8235
+      },
+      "estimatedCostUsd": 0.0016596,
+      "returnedCount": 21,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 12961,
+      "usage": {
+        "inputTokens": 1264,
+        "outputTokens": 1180,
+        "totalTokens": 2444
+      },
+      "estimatedCostUsd": 0.0008976,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 10300,
+      "usage": {
+        "inputTokens": 945,
+        "outputTokens": 1096,
+        "totalTokens": 2041
+      },
+      "estimatedCostUsd": 0.00079935,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 9869,
+      "usage": {
+        "inputTokens": 995,
+        "outputTokens": 1137,
+        "totalTokens": 2132
+      },
+      "estimatedCostUsd": 0.00083145,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-08-31T18:02:19.916Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.004188,
+    "complete": true,
+    "inputTokens": 10496,
+    "outputTokens": 4356,
+    "totalTokens": 14852,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/indias-pm-modi-urges-end-to-ukraine-war-in-talks-with-russias-putin?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "India’s PM Modi urges end to Ukraine war in talks with Russia’s Putin"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously"
+        },
+        {
+          "link": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates",
+          "source": "The Guardian",
+          "title_en": "Trump says US will ‘hit Iran hard’ as hostilities resume – as it happened"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Over 6,000 Ebola cases confirmed in DRC as death toll nears 3,000"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
+          "source": "New York Times",
+          "title_en": "‘The Nest of Snakes’: Warring Cartels Target Women in Mexico"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-datacenter-comments",
+          "source": "The Guardian",
+          "title_en": "Trump says datacenter opponents ‘want to end up being backwards and poor’"
+        },
+        {
+          "link": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+          "source": "The Guardian",
+          "title_en": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds"
+        },
+        {
+          "link": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
+          "source": "NPR",
+          "title_en": "Lionel Messi says he's retiring from playing internationally for Argentina"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "India rejects Hague court order to restore Indus waters pact with Pakistan"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Why has Greece signed a $3.5bn missile deal with Israel?"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/she-is-still-in-the-sea-mother-describes-losing-daughter-in-ferry-disaster?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Mother describes losing daughter in ferry disaster"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "US singer D4vd's celebrity lawyers withdraw from murder case"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood",
+          "source": "The Guardian",
+          "title_en": "Two dead and at least 15 missing after flash flood in Arizona’s Grand Canyon"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
+          "source": "New York Times",
+          "title_en": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "John Galliano exhibition at New York Met cancelled after backlash"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/war-on-iran-us-bombs-iran?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "War on Iran: US bombs Iran"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/08/31/world/asia/china-nepal-tibet-flood-himalayas-risk.html",
+          "source": "New York Times",
+          "title_en": "China Prepared for One Kind of Himalayan Flood. Then a Different Disaster Struck."
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/principal-who-saved-900-students-recalls-nepals-devastating-flood?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Principal who saved 900 students recalls Nepal’s devastating flood"
+        },
+        {
+          "link": "https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Vance says Trump ‘sending a message’ to Iran with AI-generated video"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/2026/aug/31/viktor-orbans-thinktank-mcc-brussels-crisis-frank-furedi-quits",
+          "source": "The Guardian",
+          "title_en": "Head of Viktor Orbán’s favourite thinktank quits over unpaid wages"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/videos/c4g79v842xjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "'I haven't lost my hope' - the search for missing loved ones"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/aug/31/james-clyburn-clarence-thomas-supreme-court",
+          "source": "The Guardian",
+          "title_en": "James Clyburn says supporting Clarence Thomas for supreme court ‘was mistake’"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html",
+          "source": "New York Times",
+          "title_en": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Company offering reward for safe return of truckload of beer"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/aug/31/pabst-beer-stolen-southern-california",
+          "source": "The Guardian",
+          "title_en": "Thousands of cans of Pabst beer stolen in two separate heists in California"
+        },
+        {
+          "link": "http://www.euronews.com/2026/08/31/algerian-president-seeks-to-impose-death-penalty-on-arsonists",
+          "source": "Euronews",
+          "title_en": "Algerian president seeks to impose death penalty on arsonists"
+        },
+        {
+          "link": "http://www.euronews.com/video/2026/08/31/latest-news-bulletin-august-31st-2026-evening",
+          "source": "Euronews",
+          "title_en": "Latest news bulletin | August 31st, 2026 – Evening"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/8/31/live-aston-villa-vs-arsenal-premier-league?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "LIVE: Aston Villa vs Arsenal – Premier League"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/08/31/world/europe/ceuta-migrants-pedro-sanchez-north-africa.html",
+          "source": "New York Times",
+          "title_en": "Spanish Leader Says 5,000 Migrants Are Still in Ceuta, Weeks After Border Surge"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/2026/8/31/argentina-legend-lionel-messi-retires-from-international-football?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Argentina legend Lionel Messi retires from international football"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/indias-pm-modi-urges-end-to-ukraine-war-in-talks-with-russias-putin?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "India’s PM Modi urges end to Ukraine war in talks with Russia’s Putin"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously"
+        },
+        {
+          "link": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates",
+          "source": "The Guardian",
+          "title_en": "Trump says US will ‘hit Iran hard’ as hostilities resume – as it happened"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Over 6,000 Ebola cases confirmed in DRC as death toll nears 3,000"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
+          "source": "New York Times",
+          "title_en": "‘The Nest of Snakes’: Warring Cartels Target Women in Mexico"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-datacenter-comments",
+          "source": "The Guardian",
+          "title_en": "Trump says datacenter opponents ‘want to end up being backwards and poor’"
+        },
+        {
+          "link": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+          "source": "The Guardian",
+          "title_en": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds"
+        },
+        {
+          "link": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
+          "source": "NPR",
+          "title_en": "Lionel Messi says he's retiring from playing internationally for Argentina"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "India rejects Hague court order to restore Indus waters pact with Pakistan"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Why has Greece signed a $3.5bn missile deal with Israel?"
+        }
+      ],
+      "contentHashes": {
+        "ru": "0bf9a780c731d8d2993e41d36140951d1aae7003bde83412dae494d1556d602b",
+        "en": "82a02ef950ced1cd35932dae833f166adf6e277dd8f96b72d6f0712dd89d181c"
+      }
+    }
+  }
+}

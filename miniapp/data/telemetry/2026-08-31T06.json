@@ -1,0 +1,837 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 7.178898055555556,
+  "poolSize": 48,
+  "candidateCount": 48,
+  "maxStories": 25,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "US and Iran trade strikes for first time in weeks",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 2,
+      "title": "Icac lawyer tells Charles Perrottet the key to lying is ‘you have to be really good at remembering it’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/31/icac-charles-perrottet-lawyer-ntwnfb"
+    },
+    {
+      "index": 3,
+      "title": "Monday briefing: Nepal and Tibet’s floods are a warning for the future",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/30/monday-briefing-nepal-and-tibets-floods-are-a-warning-for-the-future"
+    },
+    {
+      "index": 4,
+      "title": "Aston Villa vs Arsenal: Premier League – prediction, team news, lineups",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss"
+    },
+    {
+      "index": 5,
+      "title": "Tennis great Djokovic exits US Open in first round amid tears and pain",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss"
+    },
+    {
+      "index": 6,
+      "title": "US: Deadly flash flood hits Grand Canyon",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/us-deadly-flash-flood-hits-grand-canyon/a-78568246?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 7,
+      "title": "One dead and 15 people may be missing after flash flood in Arizona’s Grand Canyon",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/aug/30/grand-canyon-flash-flood-arizona-people-missing-evacuated"
+    },
+    {
+      "index": 8,
+      "title": "US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan and UAE",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/30/us-strikes-iranian-launchers-on-larak-island-amid-strait-of-hormuz-tensions"
+    },
+    {
+      "index": 9,
+      "title": "Global coral reef coverage risks irreversible decline, new report warns",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/31/global-coral-reef-coverage-risks-irreversible-decline-new-report-warns?traffic_source=rss"
+    },
+    {
+      "index": 10,
+      "title": "Body of 46-year-old man recovered after Grand Canyon flash flood, park service says",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/2026/08/31/body-of-46-year-old-man-recovered-after-grand-canyon-flash-flood-park-service-says"
+    },
+    {
+      "index": 11,
+      "title": "Australia news live: NSW won’t appeal ruling that found anti-Israel vandalism was not antisemitic; body of newborn baby found in bin in Sydney",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb"
+    },
+    {
+      "index": 12,
+      "title": "Victorian prisoners to be sent out to repair roads under Labor’s pothole plan",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/31/victorian-prisoners-to-be-sent-out-to-repair-roads-under-labors-pothole-plan"
+    },
+    {
+      "index": 13,
+      "title": "Embattled Sydney property developer Bathla warns it could fold by the end of the week",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/31/embattled-sydney-property-developer-bathla-warns-it-could-fold-by-the-end-of-the-week"
+    },
+    {
+      "index": 14,
+      "title": "Latest news bulletin | August 31st, 2026 – Morning",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/video/2026/08/31/latest-news-bulletin-august-31st-2026-morning"
+    },
+    {
+      "index": 15,
+      "title": "NHS to offer free high-street cholesterol tests in England",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack"
+    },
+    {
+      "index": 16,
+      "title": "Melting Himalayas",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/30/world/nepal-tibet-flood-glacier-nasa.html"
+    },
+    {
+      "index": 17,
+      "title": "Authorities in Nepal carry out temporary burials of unidentified flood victims causing public outrage",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/2026/08/31/authorities-in-nepal-carry-out-temporary-burials-of-unidentified-flood-victims-causing-pub"
+    },
+    {
+      "index": 18,
+      "title": "People return to their flood-ravaged homes in Nepal",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-nepal-aftermath-clip?traffic_source=rss"
+    },
+    {
+      "index": 19,
+      "title": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss"
+    },
+    {
+      "index": 20,
+      "title": "Oil prices higher as US-Iran tensions flare and Warsh fans rate hikes",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/business/2026/08/31/oil-prices-higher-as-us-iran-tensions-flare-and-warsh-fans-rate-hikes"
+    },
+    {
+      "index": 21,
+      "title": "What we know about Trump’s deal giving the US access to Venezuela’s oil",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/business/2026/08/31/what-we-know-about-trumps-deal-giving-the-us-access-to-venezuelas-oil"
+    },
+    {
+      "index": 22,
+      "title": "Coral Reefs Are Running Out of Time to Recover, Research Find",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/31/climate/coral-reef-recovery-time.html"
+    },
+    {
+      "index": 23,
+      "title": "Man who murdered Molly Ticehurst will not face life in jail, judge says",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb"
+    },
+    {
+      "index": 24,
+      "title": "‘Everything’s smashed to bits’: Ukrainians turn anger on those storing weapons near their villages",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla"
+    },
+    {
+      "index": 25,
+      "title": "Properties in UK national parks command 24% premium, study finds",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/aug/31/properties-uk-national-parks-premium-nationwide"
+    },
+    {
+      "index": 26,
+      "title": "Rejoining the EU, Burnham’s donors and the bedroom tax: Politics Weekly answers your questions – podcast",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/audio/2026/aug/31/rejoining-eu-bedroom-tax-andy-burnham-political-donors-politics-weekly-answers-your-questions-podcast"
+    },
+    {
+      "index": 27,
+      "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 28,
+      "title": "Google Maps changes Lake Ontario to 'Lake America' in US",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/google-maps-changes-lake-ontario-to-lake-america-in-us/a-78567904?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 29,
+      "title": "Iran fires retaliatory strikes following US attacks on Larak island in the Strait of Hormuz",
+      "source": "Euronews",
+      "link": "http://www.euronews.com/2026/08/31/iran-fires-retaliatory-strikes-following-us-attacks-on-larak-island-in-the-strait-of-hormu"
+    },
+    {
+      "index": 30,
+      "title": "Mamdani lookalike contest draws hundreds of hopefuls in New York",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-mamdani-nyc-lookalike-sv?traffic_source=rss"
+    },
+    {
+      "index": 31,
+      "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss"
+    },
+    {
+      "index": 32,
+      "title": "Iran targets Jordan after first US attack in a month",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss"
+    },
+    {
+      "index": 33,
+      "title": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html"
+    },
+    {
+      "index": 34,
+      "title": "What Argentina gets right about youth soccer — and what the U.S. gets wrong",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/30/nx-s1-5924666/what-argentina-gets-right-about-youth-soccer-and-what-the-u-s-gets-wrong"
+    },
+    {
+      "index": 35,
+      "title": "Niger mutiny puts Russia’s expanding role in the Sahel to the test",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/31/niger-mutiny-puts-russias-expanding-role-in-the-sahel-to-the-test?traffic_source=rss"
+    },
+    {
+      "index": 36,
+      "title": "Tunisia swelters as power cuts disrupt water supplies",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/31/tunisia-swelters-as-power-cuts-disrupt-water-supplies?traffic_source=rss"
+    },
+    {
+      "index": 37,
+      "title": "US plans to sanction another bank to keep economic pressure on Iran",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss"
+    },
+    {
+      "index": 38,
+      "title": "Venezuela’s Maduro shares first photos from US detention",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/31/venezuelas-maduro-shares-first-photos-from-us-detention?traffic_source=rss"
+    },
+    {
+      "index": 39,
+      "title": "What are the implications of the US-Venezuela oil deal?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss"
+    },
+    {
+      "index": 40,
+      "title": "Dozens evacuated and about 15 missing after Grand Canyon flash flood",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss"
+    },
+    {
+      "index": 41,
+      "title": "Iran war: US military strikes Iran's Larak Island",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island/live-78566992?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 42,
+      "title": "Flash flooding in Grand Canyon leaves more than 20 people missing",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss"
+    },
+    {
+      "index": 43,
+      "title": "Iran war live: Tehran says it attacked bases in Jordan, UAE after US strike",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss"
+    },
+    {
+      "index": 44,
+      "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 45,
+      "title": "Families of pilgrims likely caught in floods are desperate for news from Nepal",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal"
+    },
+    {
+      "index": 46,
+      "title": "What is Notting Hill Carnival’s Jab Jab parade?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/what-is-notting-hill-carnivals-jab-jab-parade?traffic_source=rss"
+    },
+    {
+      "index": 47,
+      "title": "See Nepali Rescue Workers Testing Aid Delivery by Drone",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-aid-drone.html"
+    },
+    {
+      "index": 48,
+      "title": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        16,
+        17,
+        33,
+        45
+      ],
+      "score": 95,
+      "category": "disaster",
+      "rationale": "The catastrophic floods in Nepal and Tibet have resulted in a significant death toll and highlight the urgent climate risks facing the region."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        8,
+        29,
+        32,
+        41
+      ],
+      "score": 90,
+      "category": "conflict",
+      "rationale": "The escalating US-Iran tensions, marked by military strikes and retaliatory actions, pose a serious threat to regional stability and global security."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6,
+        7,
+        10,
+        40,
+        42
+      ],
+      "score": 85,
+      "category": "disaster",
+      "rationale": "The flash floods in the Grand Canyon have led to evacuations and casualties, drawing attention to the dangers of extreme weather events."
+    },
+    {
+      "representativeIndex": 15,
+      "memberIndices": [
+        15,
+        9,
+        22
+      ],
+      "score": 80,
+      "category": "health",
+      "rationale": "The NHS's initiative to offer free cholesterol tests aims to significantly reduce heart disease and stroke deaths, representing a major public health advancement."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5,
+        34
+      ],
+      "score": 75,
+      "category": "sport",
+      "rationale": "Novak Djokovic's unexpected exit from the US Open has significant implications for the tennis world and his pursuit of a historic Grand Slam record."
+    },
+    {
+      "representativeIndex": 19,
+      "memberIndices": [
+        19,
+        35
+      ],
+      "score": 70,
+      "category": "politics",
+      "rationale": "The upcoming meeting between Russia and China at the Shanghai Cooperation Organisation summit reflects the shifting geopolitical landscape and the growing influence of these nations."
+    },
+    {
+      "representativeIndex": 20,
+      "memberIndices": [
+        20,
+        21,
+        37
+      ],
+      "score": 65,
+      "category": "economy",
+      "rationale": "Rising oil prices amid US-Iran tensions and potential economic sanctions highlight the interconnectedness of global markets and geopolitical events."
+    },
+    {
+      "representativeIndex": 11,
+      "memberIndices": [
+        11,
+        12,
+        13
+      ],
+      "score": 60,
+      "category": "society",
+      "rationale": "The Australian government's initiatives regarding anti-corruption and prisoner labor reflect significant societal and political dynamics in the country."
+    },
+    {
+      "representativeIndex": 31,
+      "memberIndices": [
+        31,
+        24
+      ],
+      "score": 55,
+      "category": "conflict",
+      "rationale": "The ongoing violence in Nablus, resulting in Palestinian casualties, underscores the persistent conflict and humanitarian issues in the region."
+    },
+    {
+      "representativeIndex": 28,
+      "memberIndices": [
+        28,
+        38,
+        39
+      ],
+      "score": 50,
+      "category": "world",
+      "rationale": "The controversy surrounding the renaming of Lake Ontario by Google Maps highlights ongoing tensions in Canadian-American relations."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4
+      ],
+      "score": 45,
+      "category": "sport",
+      "rationale": "The Premier League match preview between Aston Villa and Arsenal showcases the ongoing excitement and competitive nature of top-tier football."
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46
+      ],
+      "score": 40,
+      "category": "culture",
+      "rationale": "The Notting Hill Carnival's Jab Jab parade represents a vibrant cultural celebration, reflecting the diversity and creativity of London."
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14
+      ],
+      "score": 35,
+      "category": "world",
+      "rationale": "The latest news bulletin provides a snapshot of global events, emphasizing the importance of staying informed about international developments."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2
+      ],
+      "score": 30,
+      "category": "law",
+      "rationale": "The ongoing ICAC investigation into political figures in Australia raises critical questions about integrity and accountability in governance."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18
+      ],
+      "score": 20,
+      "category": "society",
+      "rationale": "The return of flood survivors to their homes in Nepal illustrates the resilience of communities in the face of disaster."
+    },
+    {
+      "representativeIndex": 30,
+      "memberIndices": [
+        30
+      ],
+      "score": 15,
+      "category": "culture",
+      "rationale": "The Zohran Mamdani lookalike contest in New York reflects the playful and engaging aspects of cultural events."
+    },
+    {
+      "representativeIndex": 27,
+      "memberIndices": [
+        27
+      ],
+      "score": 10,
+      "category": "disaster",
+      "rationale": "The tragic ferry capsizing off northern Cyprus underscores the ongoing risks associated with maritime travel."
+    },
+    {
+      "representativeIndex": 36,
+      "memberIndices": [
+        36
+      ],
+      "score": 5,
+      "category": "climate",
+      "rationale": "The extreme heat and power cuts in Tunisia highlight the pressing challenges posed by climate change."
+    },
+    {
+      "representativeIndex": 47,
+      "memberIndices": [
+        47
+      ],
+      "score": 3,
+      "category": "technology",
+      "rationale": "The testing of drone aid delivery in Nepal represents innovative approaches to disaster response."
+    },
+    {
+      "representativeIndex": 26,
+      "memberIndices": [
+        26
+      ],
+      "score": 1,
+      "category": "politics",
+      "rationale": "The discussion on UK politics reflects ongoing public interest in governance and policy issues."
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.520833333333332,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 25,
+      "memberIndices": [
+        25
+      ],
+      "score": 19.479166666666668,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 43,
+      "memberIndices": [
+        43
+      ],
+      "score": 19.104166666666668,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 44,
+      "memberIndices": [
+        44
+      ],
+      "score": 19.083333333333332,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 48,
+      "memberIndices": [
+        48
+      ],
+      "score": 19,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 15683,
+      "usage": {
+        "inputTokens": 4750,
+        "outputTokens": 967,
+        "totalTokens": 5717
+      },
+      "estimatedCostUsd": 0.0012927,
+      "returnedCount": 21,
+      "acceptedCount": 25
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 9309,
+      "usage": {
+        "inputTokens": 1435,
+        "outputTokens": 1180,
+        "totalTokens": 2615
+      },
+      "estimatedCostUsd": 0.00092325,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 9844,
+      "usage": {
+        "inputTokens": 1087,
+        "outputTokens": 1225,
+        "totalTokens": 2312
+      },
+      "estimatedCostUsd": 0.00089805,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 5636,
+      "usage": {
+        "inputTokens": 534,
+        "outputTokens": 615,
+        "totalTokens": 1149
+      },
+      "estimatedCostUsd": 0.0004491,
+      "returnedCount": 5,
+      "acceptedCount": 5
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 27641,
+      "usage": {
+        "inputTokens": 2171,
+        "outputTokens": 2774,
+        "totalTokens": 4945
+      },
+      "estimatedCostUsd": 0.0019900499999999997,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-08-31T06:02:50.520Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.00555315,
+    "complete": true,
+    "inputTokens": 9977,
+    "outputTokens": 6761,
+    "totalTokens": 16738,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 25,
+      "stories": [
+        {
+          "link": "https://www.theguardian.com/world/2026/aug/30/monday-briefing-nepal-and-tibets-floods-are-a-warning-for-the-future",
+          "source": "The Guardian",
+          "title_en": "Nepal and Tibet’s floods are a warning for the future"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "US and Iran trade strikes for first time in weeks"
+        },
+        {
+          "link": "https://www.dw.com/en/us-deadly-flash-flood-hits-grand-canyon/a-78568246?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Deadly flash flood hits Grand Canyon"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
+          "source": "The Guardian",
+          "title_en": "NHS to offer free high-street cholesterol tests in England"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Tennis great Djokovic exits US Open in first round"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit"
+        },
+        {
+          "link": "http://www.euronews.com/business/2026/08/31/oil-prices-higher-as-us-iran-tensions-flare-and-warsh-fans-rate-hikes",
+          "source": "Euronews",
+          "title_en": "Oil prices higher as US-Iran tensions flare and Warsh fans rate hikes"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Australia news live: Body of newborn baby found in bin in Sydney"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Two Palestinians reported dead as Israeli forces raid Nablus"
+        },
+        {
+          "link": "https://www.dw.com/en/google-maps-changes-lake-ontario-to-lake-america-in-us/a-78567904?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Google Maps changes Lake Ontario to 'Lake America' in US"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Aston Villa vs Arsenal: Premier League – prediction, team news, lineups"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/what-is-notting-hill-carnivals-jab-jab-parade?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "What is Notting Hill Carnival’s Jab Jab parade?"
+        },
+        {
+          "link": "http://www.euronews.com/video/2026/08/31/latest-news-bulletin-august-31st-2026-morning",
+          "source": "Euronews",
+          "title_en": "Latest news bulletin | August 31st, 2026 – Morning"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/aug/31/icac-charles-perrottet-lawyer-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Icac lawyer tells Charles Perrottet the key to lying is ‘you have to be really good at remembering it’"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-nepal-aftermath-clip?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "People return to their flood-ravaged homes in Nepal"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Man who murdered Molly Ticehurst will not face life in jail, judge says"
+        },
+        {
+          "link": "https://www.theguardian.com/business/2026/aug/31/properties-uk-national-parks-premium-nationwide",
+          "source": "The Guardian",
+          "title_en": "Properties in UK national parks command 24% premium, study finds"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Iran war live: Tehran says it attacked bases in Jordan, UAE after US strike"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Vote count starts in Guinea-Bissau referendum on strengthening presidency"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-mamdani-nyc-lookalike-sv?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Mamdani lookalike contest draws hundreds of hopefuls in New York"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Eight killed and 18 missing after ferry capsizes off northern Cyprus"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/31/tunisia-swelters-as-power-cuts-disrupt-water-supplies?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Tunisia swelters as power cuts disrupt water supplies"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-aid-drone.html",
+          "source": "New York Times",
+          "title_en": "See Nepali Rescue Workers Testing Aid Delivery by Drone"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/audio/2026/aug/31/rejoining-eu-bedroom-tax-andy-burnham-political-donors-politics-weekly-answers-your-questions-podcast",
+          "source": "The Guardian",
+          "title_en": "Rejoining the EU, Burnham’s donors and the bedroom tax: Politics Weekly answers your questions – podcast"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.theguardian.com/world/2026/aug/30/monday-briefing-nepal-and-tibets-floods-are-a-warning-for-the-future",
+          "source": "The Guardian",
+          "title_en": "Nepal and Tibet’s floods are a warning for the future"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "US and Iran trade strikes for first time in weeks"
+        },
+        {
+          "link": "https://www.dw.com/en/us-deadly-flash-flood-hits-grand-canyon/a-78568246?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Deadly flash flood hits Grand Canyon"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
+          "source": "The Guardian",
+          "title_en": "NHS to offer free high-street cholesterol tests in England"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Tennis great Djokovic exits US Open in first round"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit"
+        },
+        {
+          "link": "http://www.euronews.com/business/2026/08/31/oil-prices-higher-as-us-iran-tensions-flare-and-warsh-fans-rate-hikes",
+          "source": "Euronews",
+          "title_en": "Oil prices higher as US-Iran tensions flare and Warsh fans rate hikes"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Australia news live: Body of newborn baby found in bin in Sydney"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Two Palestinians reported dead as Israeli forces raid Nablus"
+        },
+        {
+          "link": "https://www.dw.com/en/google-maps-changes-lake-ontario-to-lake-america-in-us/a-78567904?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Google Maps changes Lake Ontario to 'Lake America' in US"
+        }
+      ],
+      "contentHashes": {
+        "ru": "c1717c591830cef9dd85aa90d316083437735aecacebbb79195b74e509dff572",
+        "en": "3408beaa99dad82458f6e3d89d51df27d9e68f139c6e7e753b2ec74ac727a077"
+      }
+    }
+  }
+}
