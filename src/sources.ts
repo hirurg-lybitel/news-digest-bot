@@ -51,4 +51,44 @@ export const NEWS_SOURCES: NewsSource[] = [
     name: "Al Jazeera",
     url: "https://www.aljazeera.com/xml/rss/all.xml",
   },
+  {
+    id: "bbc-science",
+    name: "BBC",
+    url: "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+  },
+  {
+    id: "bbc-tech",
+    name: "BBC",
+    url: "https://feeds.bbci.co.uk/news/technology/rss.xml",
+  },
+  {
+    id: "bbc-business",
+    name: "BBC",
+    url: "https://feeds.bbci.co.uk/news/business/rss.xml",
+  },
+  {
+    id: "nyt-science",
+    name: "New York Times",
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+  },
+  {
+    id: "nyt-tech",
+    name: "New York Times",
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+  },
+  {
+    id: "nyt-business",
+    name: "New York Times",
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+  },
+  {
+    id: "the-block",
+    name: "The Block",
+    url: "https://www.theblock.co/rss.xml",
+  },
+  {
+    id: "guardian-crypto",
+    name: "The Guardian",
+    url: "https://www.theguardian.com/technology/cryptocurrencies/rss",
+  },
 ];
