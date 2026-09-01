@@ -56,6 +56,29 @@ curl "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/setWebhook" \
 
 Проверка: `getWebhookInfo`, затем `/start` боту в Telegram.
 
+Текущий URL Worker: `https://dayessence-bot.day-essence.workers.dev`
+
+## Смена workers.dev subdomain
+
+В коде URL **не захардкожен** — `setup.ps1` и CI берут его из вывода `wrangler deploy`.
+
+После смены subdomain в Cloudflare (например `yurashoihet` → `day-essence`):
+
+1. Перерегистрируйте webhook (старый `*.workers.dev` перестанет получать апдейты):
+
+```powershell
+cd worker
+$env:WEBHOOK_SECRET = "<тот же секрет, что в GitHub Secrets>"
+$env:WORKER_URL = "https://dayessence-bot.day-essence.workers.dev"
+.\register-webhook.ps1
+```
+
+Или полный цикл: `.\setup.ps1` (деплой + секреты + webhook).
+
+2. Проверьте: `getWebhookInfo` → URL должен быть `.../day-essence.workers.dev/telegram`.
+
+Mini App (GitHub Pages) и дайджест в каналы **не зависят** от workers.dev subdomain.
+
 ## CI
 
 Workflow `.github/workflows/deploy-worker.yml` — деплой при push в `worker/` на `main`.
