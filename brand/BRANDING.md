@@ -1,7 +1,8 @@
 # Brand pack: Day Essence («Суть дня»)
 
 Ready-to-paste copy for [@BotFather](https://t.me/BotFather).  
-Avatar: [`brand/avatar.png`](avatar.png) (1:1 — use for the bot and the channel).
+Avatar: [`brand/avatar.png`](avatar.png) (1:1 — use for the bot and the channel).  
+Alternative avatar (globe from Mini App cover, solid navy background): [`brand/avatar-from-cover.png`](avatar-from-cover.png).
 
 Digest posts: **Russian** in `@dayessence_ru`, **English** in `@dayessence_en` (same stories, same bot).
 
