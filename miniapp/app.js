@@ -150,6 +150,13 @@ function showFeed() {
   document.getElementById("intro").classList.remove("hidden");
 }
 
+function scrollToTop() {
+  window.scrollTo(0, 0);
+  document.documentElement.scrollTop = 0;
+  document.body.scrollTop = 0;
+  tg?.scrollToTop?.();
+}
+
 function showDetail(index) {
   if (!digest || index < 0 || index >= digest.stories.length) {
     showFeed();
@@ -180,6 +187,12 @@ function showDetail(index) {
   const link = document.getElementById("detail-link");
   link.href = story.link;
   link.textContent = labels.openSource;
+  link.blur();
+
+  requestAnimationFrame(() => {
+    scrollToTop();
+    document.getElementById("detail-back")?.focus({ preventScroll: true });
+  });
 }
 
 function renderStories() {
