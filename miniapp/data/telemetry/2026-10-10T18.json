@@ -1,0 +1,1397 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.962439444444444,
+  "poolSize": 100,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "Nine killed in shooting in US state of Pennsylvania, including two children",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss"
+    },
+    {
+      "index": 2,
+      "title": "Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/10/world/europe/kimberly-guilfoyle-greece.html"
+    },
+    {
+      "index": 3,
+      "title": "Trump slams Zelenskyy, says Ukraine should elect new president",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 4,
+      "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html"
+    },
+    {
+      "index": 5,
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 6,
+      "title": "Hurricane Isaias live updates: warning of ‘spinoff tornadoes’ as hundreds of thousands without power",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates"
+    },
+    {
+      "index": 7,
+      "title": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss"
+    },
+    {
+      "index": 8,
+      "title": "Video shows rare albino Asian black bear",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss"
+    },
+    {
+      "index": 9,
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 10,
+      "title": "Man dies after jumping into tiger enclosure at Yorkshire zoo",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/10/man-suffers-serious-injury-after-jumping-into-zoo-tiger-enclosure"
+    },
+    {
+      "index": 11,
+      "title": "Christa Pike out of hospital and back in prison after botched execution attempt",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/10/christa-pike-discharged-back-in-prison"
+    },
+    {
+      "index": 12,
+      "title": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html"
+    },
+    {
+      "index": 13,
+      "title": "Christa Pike discharged from hospital and returned to Tennessee prison",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss"
+    },
+    {
+      "index": 14,
+      "title": "Several injured in attack on airport in Saudi capital Riyadh",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 15,
+      "title": "Celebrations in Ethiopian city after reported Eritrean ‘incursion’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss"
+    },
+    {
+      "index": 16,
+      "title": "Thousands gather in London to express support for Palestinians after three years of ‘genocide’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/10/thousands-in-london-express-support-for-palestinians-after-three-years-genocide"
+    },
+    {
+      "index": 17,
+      "title": "Palestinian Authority Formally Delays Elections, Despite Western Pressure",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/10/world/middleeast/palestinian-authority-elections-abbas.html"
+    },
+    {
+      "index": 18,
+      "title": "Saudi Arabia suspends operations at Riyadh airport after an attack causes multiple injuries",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 19,
+      "title": "Indian Police Round Up Protest Leaders and Lock Down Delhi",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/10/world/asia/delhi-protests-india.html"
+    },
+    {
+      "index": 20,
+      "title": "Eritrea urges UN to intervene in standoff with Ethiopia",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss"
+    },
+    {
+      "index": 21,
+      "title": "Ukraine Peace Talks Sputter After Trump and Putin Strike Fuel Deal",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html"
+    },
+    {
+      "index": 22,
+      "title": "Latest news bulletin | October 10th, 2026 – Evening",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/10/10/latest-news-bulletin-october-10th-2026-evening"
+    },
+    {
+      "index": 23,
+      "title": "King warns malicious online actors are evolving tactics",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 24,
+      "title": "Dozens reported injured in Yemeni Houthi attack at Riyadh airport",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz"
+    },
+    {
+      "index": 25,
+      "title": "Evacuations and injuries reported at Riyadh airport after another alleged Houthi attack",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/10/10/evacuations-and-injuries-reported-at-riyadh-airport-after-another-alleged-houthi-attack"
+    },
+    {
+      "index": 26,
+      "title": "Nine people, including children, dead after mass shooting in Pennsylvania",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania"
+    },
+    {
+      "index": 27,
+      "title": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss"
+    },
+    {
+      "index": 28,
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 29,
+      "title": "Trump Accounts: Free money, but who gets a say?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss"
+    },
+    {
+      "index": 30,
+      "title": "With or without Hamas",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss"
+    },
+    {
+      "index": 31,
+      "title": "Three injured in third school attack in Poland in less than a week",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss"
+    },
+    {
+      "index": 32,
+      "title": "Liverpool vs Man City: Premier League – teams, prediction, Haaland, charges",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach?traffic_source=rss"
+    },
+    {
+      "index": 33,
+      "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215"
+    },
+    {
+      "index": 34,
+      "title": "Camden council was warned about paedophile nursery worker years before arrest",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/oct/10/vincent-chan-paedophile-nursery-worker-camden-council-warning-years-before-arrest"
+    },
+    {
+      "index": 35,
+      "title": "Woman injures three people in third Poland school knife attack in a week",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 36,
+      "title": "From a Sikh Sanctuary to Chaotic Streets, Protesters Brave Police in Delhi",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/10/world/asia/india-cjp-cockroach-protest.html"
+    },
+    {
+      "index": 37,
+      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 38,
+      "title": "Ukraine hit by deadly Russian strikes as ‘thanks’ for Trump diesel deal, Zelenskyy says",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy"
+    },
+    {
+      "index": 39,
+      "title": "Arsenal beat Leeds 2-1 in comeback win to move level with Man City at top",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/arsenal-beat-leeds-2-1-in-comeback-win-to-move-level-with-man-city-at-top?traffic_source=rss"
+    },
+    {
+      "index": 40,
+      "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss"
+    },
+    {
+      "index": 41,
+      "title": "Mexican judge sentences three men for murders of Australian, US surfers",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/mexican-judge-sentences-three-men-for-murders-of-australian-us-surfers?traffic_source=rss"
+    },
+    {
+      "index": 42,
+      "title": "Two dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone"
+    },
+    {
+      "index": 43,
+      "title": "What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html"
+    },
+    {
+      "index": 44,
+      "title": "Will We Ever Understand Dementia?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/10/science/will-we-ever-understand-dementia.html"
+    },
+    {
+      "index": 45,
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 46,
+      "title": "The Underappreciated Benefits of Leaving Fallen Leaves Alone",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/10/science/fallen-leaves.html"
+    },
+    {
+      "index": 47,
+      "title": "Why is the US sanctioning the International Criminal Court?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss"
+    },
+    {
+      "index": 48,
+      "title": "Abbas postpones Palestinian legislative elections to September 2027",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/abbas-postpones-palestinian-legislative-elections-to-september-2027?traffic_source=rss"
+    },
+    {
+      "index": 49,
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 50,
+      "title": "Has Yemen returned to ‘full-scale war’?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss"
+    },
+    {
+      "index": 51,
+      "title": "Thousands detained in New Delhi as police crack down on 'cockroach' movement",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/10/10/thousands-detained-in-new-delhi-as-police-crack-down-on-cockroach-movement"
+    },
+    {
+      "index": 52,
+      "title": "Palestinian President Abbas postpones legislative elections until September 2027",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/10/10/palestinian-president-abbas-postpones-legislative-elections-until-september-2027"
+    },
+    {
+      "index": 53,
+      "title": "‘People are leaving’: New York City’s EMS workers are struggling to make ends meet",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/10/ems-workers-nyc-low-pay"
+    },
+    {
+      "index": 54,
+      "title": "When streets become a workplace: Gaza workers convert tents into offices",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss"
+    },
+    {
+      "index": 55,
+      "title": "Hundreds protest over data centre plans",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm78pwq47vp1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 56,
+      "title": "'Ragebait' is the 2026 German Youth Word of the Year",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 57,
+      "title": "Inside Erik Prince’s Mercenary Deal in Congo",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html"
+    },
+    {
+      "index": 58,
+      "title": "High silver prices threaten Lucknow’s famed bridal nagra craft",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss"
+    },
+    {
+      "index": 59,
+      "title": "Germany sticks to Russia sanctions after Trump diesel deal",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 60,
+      "title": "New Delhi police crack down on protesters ahead of anti-gov’t march",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss"
+    },
+    {
+      "index": 61,
+      "title": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss"
+    },
+    {
+      "index": 62,
+      "title": "Verstappen wins chaotic Singapore GP F1 sprint after Russell crashes",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss"
+    },
+    {
+      "index": 63,
+      "title": "How a South African billionaire is turning a corner of Somerset into ‘one man’s estate’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/news/2026/oct/10/how-a-south-african-billionaire-is-turning-a-corner-of-somerset-into-one-mans-estate"
+    },
+    {
+      "index": 64,
+      "title": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown?traffic_source=rss"
+    },
+    {
+      "index": 65,
+      "title": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss"
+    },
+    {
+      "index": 66,
+      "title": "England international Cole Palmer signs new Chelsea deal until 2034",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss"
+    },
+    {
+      "index": 67,
+      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 68,
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 69,
+      "title": "Operations Plan Germany: How the Bundeswehr trains for NATO collective defense",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 70,
+      "title": "Study explores links between 19th-century Manchester workers and enslaved Africans in Caribbean",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/news/2026/oct/10/study-explores-links-between-19th-century-manchester-workers-and-enslaved-africans-in-caribbean"
+    },
+    {
+      "index": 71,
+      "title": "Candidate named Hitler Mussolini elected mayor in Peru",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor"
+    },
+    {
+      "index": 72,
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 73,
+      "title": "Greens must avoid ‘capture by extremists and racists’, says party MP",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/oct/10/greens-must-avoid-capture-by-extremists-and-racists-ellie-chowns-zionism-racism"
+    },
+    {
+      "index": 74,
+      "title": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows"
+    },
+    {
+      "index": 75,
+      "title": "Money Box",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 76,
+      "title": "‘Cockroach’ leader among thousands detained in Delhi protest crackdown",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns"
+    },
+    {
+      "index": 77,
+      "title": "US midterms: Women candidates could make history",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 78,
+      "title": "What to Know About the Delhi Protests",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html"
+    },
+    {
+      "index": 79,
+      "title": "Dozens injured and buildings damaged as tornadoes hit Sicily",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage"
+    },
+    {
+      "index": 80,
+      "title": "Panic in Panama as 7.7 quake hits, cathedral collapses and tsunami warnings spread",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/10/10/panic-in-panama-as-77-quake-hits-cathedral-collapses-and-tsunami-warnings-spread"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        26
+      ],
+      "score": 95,
+      "category": "disaster",
+      "rationale": "The mass shooting in Pennsylvania resulted in multiple fatalities, including children, highlighting a significant public safety crisis."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4,
+        14,
+        18,
+        24,
+        25
+      ],
+      "score": 90,
+      "category": "conflict",
+      "rationale": "The repeated attacks on Riyadh Airport by Houthi forces represent a serious escalation in the ongoing conflict in Yemen and its regional implications."
+    },
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        9,
+        21,
+        38,
+        45
+      ],
+      "score": 85,
+      "category": "politics",
+      "rationale": "Trump's comments on Ukraine and the controversial diesel deal with Russia have significant geopolitical ramifications for the ongoing war."
+    },
+    {
+      "representativeIndex": 27,
+      "memberIndices": [
+        6,
+        27,
+        42,
+        72
+      ],
+      "score": 80,
+      "category": "disaster",
+      "rationale": "Hurricane Isaias caused widespread damage and fatalities, affecting hundreds of thousands and prompting emergency responses."
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        2,
+        17,
+        48,
+        52
+      ],
+      "score": 75,
+      "category": "politics",
+      "rationale": "The postponement of Palestinian elections reflects ongoing political instability and the lack of democratic processes in the region."
+    },
+    {
+      "representativeIndex": 19,
+      "memberIndices": [
+        19,
+        51,
+        60,
+        78
+      ],
+      "score": 70,
+      "category": "society",
+      "rationale": "The crackdown on protests in New Delhi highlights significant tensions surrounding electoral reforms and civil liberties in India."
+    },
+    {
+      "representativeIndex": 49,
+      "memberIndices": [
+        49
+      ],
+      "score": 70,
+      "category": "conflict",
+      "rationale": "The deadly Russian strikes in Ukraine, particularly following the diesel deal, underscore the ongoing humanitarian crisis and international tensions."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5,
+        11,
+        13
+      ],
+      "score": 65,
+      "category": "law",
+      "rationale": "The botched execution of Christa Pike raises critical questions about the ethics and effectiveness of capital punishment in the US."
+    },
+    {
+      "representativeIndex": 15,
+      "memberIndices": [
+        15,
+        20
+      ],
+      "score": 60,
+      "category": "conflict",
+      "rationale": "The reported withdrawal of Eritrean forces from Ethiopia is a significant development in the ongoing conflict and regional stability."
+    },
+    {
+      "representativeIndex": 10,
+      "memberIndices": [
+        10,
+        31,
+        35
+      ],
+      "score": 55,
+      "category": "society",
+      "rationale": "The series of school attacks in Poland raises urgent concerns about safety and security in educational environments."
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 50,
+      "category": "disaster",
+      "rationale": "The tornadoes in Sicily caused injuries and damage, highlighting the increasing frequency of extreme weather events."
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 50,
+      "category": "disaster",
+      "rationale": "The earthquake in Panama caused significant structural damage and prompted evacuations, demonstrating the region's vulnerability to natural disasters."
+    },
+    {
+      "representativeIndex": 41,
+      "memberIndices": [
+        41
+      ],
+      "score": 45,
+      "category": "law",
+      "rationale": "The sentencing of individuals for the murders of surfers in Mexico highlights issues of crime and justice in tourist areas."
+    },
+    {
+      "representativeIndex": 39,
+      "memberIndices": [
+        39
+      ],
+      "score": 40,
+      "category": "sport",
+      "rationale": "Arsenal's comeback win in the Premier League reflects the competitive nature of top-flight football and its impact on league standings."
+    },
+    {
+      "representativeIndex": 66,
+      "memberIndices": [
+        66
+      ],
+      "score": 35,
+      "category": "sport",
+      "rationale": "Cole Palmer's contract extension with Chelsea signifies the club's investment in young talent and its future ambitions."
+    },
+    {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12
+      ],
+      "score": 30,
+      "category": "science",
+      "rationale": "The unexplained death of a plague researcher raises concerns about public health and biosecurity."
+    },
+    {
+      "representativeIndex": 28,
+      "memberIndices": [
+        28,
+        47
+      ],
+      "score": 25,
+      "category": "law",
+      "rationale": "The US sanctions on the ICC reflect ongoing tensions regarding international law and accountability for war crimes."
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 20,
+      "category": "economy",
+      "rationale": "The rising silver prices due to war impacts threaten traditional crafts in India, illustrating the economic consequences of global conflicts."
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70
+      ],
+      "score": 15,
+      "category": "culture",
+      "rationale": "The study linking Manchester workers to enslaved Africans highlights historical injustices and their relevance to contemporary social issues."
+    },
+    {
+      "representativeIndex": 62,
+      "memberIndices": [
+        62
+      ],
+      "score": 10,
+      "category": "sport",
+      "rationale": "Max Verstappen's win in the F1 sprint race showcases the ongoing excitement and unpredictability of motorsport."
+    },
+    {
+      "representativeIndex": 7,
+      "memberIndices": [
+        7
+      ],
+      "score": 19.9125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 8,
+      "memberIndices": [
+        8
+      ],
+      "score": 19.9,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 16,
+      "memberIndices": [
+        16
+      ],
+      "score": 19.8,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 22,
+      "memberIndices": [
+        22
+      ],
+      "score": 19.725,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 29,
+      "memberIndices": [
+        29
+      ],
+      "score": 19.6375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 30,
+      "memberIndices": [
+        30
+      ],
+      "score": 19.625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32
+      ],
+      "score": 19.6,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 33,
+      "memberIndices": [
+        33
+      ],
+      "score": 19.5875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 34,
+      "memberIndices": [
+        34
+      ],
+      "score": 19.575,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 36,
+      "memberIndices": [
+        36
+      ],
+      "score": 19.55,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 37,
+      "memberIndices": [
+        37
+      ],
+      "score": 19.5375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 40,
+      "memberIndices": [
+        40
+      ],
+      "score": 19.5,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 43,
+      "memberIndices": [
+        43
+      ],
+      "score": 19.4625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 44,
+      "memberIndices": [
+        44
+      ],
+      "score": 19.45,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46
+      ],
+      "score": 19.425,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 50,
+      "memberIndices": [
+        50
+      ],
+      "score": 19.375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 54,
+      "memberIndices": [
+        54
+      ],
+      "score": 19.325,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 19.3125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 56,
+      "memberIndices": [
+        56
+      ],
+      "score": 19.3,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 57,
+      "memberIndices": [
+        57
+      ],
+      "score": 19.2875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 59,
+      "memberIndices": [
+        59
+      ],
+      "score": 19.2625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 61,
+      "memberIndices": [
+        61
+      ],
+      "score": 19.2375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 19.2125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64
+      ],
+      "score": 19.2,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.1875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 67,
+      "memberIndices": [
+        67
+      ],
+      "score": 19.1625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 68,
+      "memberIndices": [
+        68
+      ],
+      "score": 19.15,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 69,
+      "memberIndices": [
+        69
+      ],
+      "score": 19.1375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 71,
+      "memberIndices": [
+        71
+      ],
+      "score": 19.1125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 73,
+      "memberIndices": [
+        73
+      ],
+      "score": 19.0875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 74,
+      "memberIndices": [
+        74
+      ],
+      "score": 19.075,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 75,
+      "memberIndices": [
+        75
+      ],
+      "score": 19.0625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76
+      ],
+      "score": 19.05,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 77,
+      "memberIndices": [
+        77
+      ],
+      "score": 19.0375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 10396,
+      "usage": {
+        "inputTokens": 7176,
+        "outputTokens": 951,
+        "totalTokens": 8127
+      },
+      "estimatedCostUsd": 0.001647,
+      "returnedCount": 21,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 26373,
+      "usage": {
+        "inputTokens": 1193,
+        "outputTokens": 1248,
+        "totalTokens": 2441
+      },
+      "estimatedCostUsd": 0.00092775,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 33819,
+      "usage": {
+        "inputTokens": 844,
+        "outputTokens": 1152,
+        "totalTokens": 1996
+      },
+      "estimatedCostUsd": 0.0008177999999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 27966,
+      "usage": {
+        "inputTokens": 969,
+        "outputTokens": 1306,
+        "totalTokens": 2275
+      },
+      "estimatedCostUsd": 0.00092895,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 32324,
+      "usage": {
+        "inputTokens": 1950,
+        "outputTokens": 2663,
+        "totalTokens": 4613
+      },
+      "estimatedCostUsd": 0.0018903,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 154669,
+      "usage": {
+        "inputTokens": 1480,
+        "outputTokens": 2278,
+        "totalTokens": 3758
+      },
+      "estimatedCostUsd": 0.0015888,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 37136,
+      "usage": {
+        "inputTokens": 1784,
+        "outputTokens": 3379,
+        "totalTokens": 5163
+      },
+      "estimatedCostUsd": 0.002295,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-10-10T18:07:10.383Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.0100956,
+    "complete": true,
+    "inputTokens": 15396,
+    "outputTokens": 12977,
+    "totalTokens": 28373,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Nine killed in shooting in US state of Pennsylvania, including two children"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+          "source": "New York Times",
+          "title_en": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes"
+        },
+        {
+          "link": "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Trump slams Zelenskyy, says Ukraine should elect new president"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/10/world/middleeast/palestinian-authority-elections-abbas.html",
+          "source": "New York Times",
+          "title_en": "Palestinian Authority Formally Delays Elections, Despite Western Pressure"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/10/world/asia/delhi-protests-india.html",
+          "source": "New York Times",
+          "title_en": "Indian Police Round Up Protest Leaders and Lock Down Delhi"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "US murderer Christa Pike discharged from hospital 10 days after failed execution"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Celebrations in Ethiopian city after reported Eritrean ‘incursion’"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/oct/10/man-suffers-serious-injury-after-jumping-into-zoo-tiger-enclosure",
+          "source": "The Guardian",
+          "title_en": "Man dies after jumping into tiger enclosure at Yorkshire zoo"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage",
+          "source": "The Guardian",
+          "title_en": "Dozens injured and buildings damaged as tornadoes hit Sicily"
+        },
+        {
+          "link": "https://www.euronews.com/video/2026/10/10/panic-in-panama-as-77-quake-hits-cathedral-collapses-and-tsunami-warnings-spread",
+          "source": "Euronews",
+          "title_en": "Panic in Panama as 7.7 quake hits, cathedral collapses and tsunami warnings spread"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/10/mexican-judge-sentences-three-men-for-murders-of-australian-us-surfers?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Mexican judge sentences three men for murders of Australian, US surfers"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/2026/10/10/arsenal-beat-leeds-2-1-in-comeback-win-to-move-level-with-man-city-at-top?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Arsenal beat Leeds 2-1 in comeback win to move level with Man City at top"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "England international Cole Palmer signs new Chelsea deal until 2034"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
+          "source": "New York Times",
+          "title_en": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Nobel peace laureate says US sanctions on ICC 'unacceptable'"
+        },
+        {
+          "link": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "High silver prices threaten Lucknow’s famed bridal nagra craft"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Video shows rare albino Asian black bear"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/oct/10/thousands-in-london-express-support-for-palestinians-after-three-years-genocide",
+          "source": "The Guardian",
+          "title_en": "Thousands gather in London to express support for Palestinians after three years of ‘genocide’"
+        },
+        {
+          "link": "https://www.euronews.com/video/2026/10/10/latest-news-bulletin-october-10th-2026-evening",
+          "source": "Euronews",
+          "title_en": "Latest news bulletin | October 10th, 2026 – Evening"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "King warns malicious online actors are evolving tactics"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Trump Accounts: Free money, but who gets a say?"
+        },
+        {
+          "link": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "With or without Hamas"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Liverpool vs Man City: Premier League – teams, prediction, Haaland, charges"
+        },
+        {
+          "link": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+          "source": "The Block",
+          "title_en": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/oct/10/vincent-chan-paedophile-nursery-worker-camden-council-warning-years-before-arrest",
+          "source": "The Guardian",
+          "title_en": "Camden council was warned about paedophile nursery worker years before arrest"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/10/world/asia/india-cjp-cockroach-protest.html",
+          "source": "New York Times",
+          "title_en": "From a Sikh Sanctuary to Chaotic Streets, Protesters Brave Police in Delhi"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Nine killed in shooting in US state of Pennsylvania, including two children"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+          "source": "New York Times",
+          "title_en": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes"
+        },
+        {
+          "link": "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Trump slams Zelenskyy, says Ukraine should elect new president"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/10/world/middleeast/palestinian-authority-elections-abbas.html",
+          "source": "New York Times",
+          "title_en": "Palestinian Authority Formally Delays Elections, Despite Western Pressure"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/10/world/asia/delhi-protests-india.html",
+          "source": "New York Times",
+          "title_en": "Indian Police Round Up Protest Leaders and Lock Down Delhi"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "US murderer Christa Pike discharged from hospital 10 days after failed execution"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Celebrations in Ethiopian city after reported Eritrean ‘incursion’"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/oct/10/man-suffers-serious-injury-after-jumping-into-zoo-tiger-enclosure",
+          "source": "The Guardian",
+          "title_en": "Man dies after jumping into tiger enclosure at Yorkshire zoo"
+        }
+      ],
+      "contentHashes": {
+        "ru": "31e0463c0f930890e995d2c7d46f91827674459723a29b5852614e57d22b5a43",
+        "en": "b60ba8796242b312b98630e857de07c7f58148737b8c7e8ed33979798c294977"
+      }
+    }
+  }
+}
