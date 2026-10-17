@@ -1,809 +1,731 @@
 {
   "model": "gpt-4o-mini",
-  "periodHours": 11.958702222222222,
-  "poolSize": 92,
+  "periodHours": 11.96240888888889,
+  "poolSize": 101,
   "candidateCount": 80,
   "maxStories": 30,
   "telegramTopN": 10,
   "candidates": [
     {
       "index": 1,
-      "title": "The chatbot murder guide: AI’s struggle between privacy, reporting violence",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/the-chatbot-murder-guide-ais-struggle-between-privacy-reporting-violence?traffic_source=rss"
-    },
-    {
-      "index": 2,
-      "title": "Katie Zacharia leaving White House role less than five days into job",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 3,
-      "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss"
-    },
-    {
-      "index": 4,
-      "title": "Avian flu and costs among reasons for loss of captive birds at Castle Espie",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c6m24e1ln130o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 5,
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 6,
-      "title": "Three Mexicans jailed for 158 years each for killing Australian, US surfers",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/three-mexicans-jailed-for-158-years-each-for-killing-australian-us-surfers?traffic_source=rss"
-    },
-    {
-      "index": 7,
-      "title": "The Israeli politicians seeking to replace Netanyahu",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu?traffic_source=rss"
-    },
-    {
-      "index": 8,
-      "title": "Latest news bulletin | October 17th, 2026 – Morning",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-morning"
-    },
-    {
-      "index": 9,
-      "title": "Home Office denies British baby living in Thailand chance to meet great-grandfather in UK",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/politics/2026/oct/17/home-office-visa-british-baby-thailand-great-grandfather"
-    },
-    {
-      "index": 10,
-      "title": "Trump waives Russia sanctions as rift with Zelenskyy widens",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss"
-    },
-    {
-      "index": 11,
-      "title": "Trump puts on hold new Russia sanctions he signed into law",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss"
-    },
-    {
-      "index": 12,
-      "title": "Albania’s PM blames ‘foreign hands’ for protests",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss"
-    },
-    {
-      "index": 13,
-      "title": "Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html"
-    },
-    {
-      "index": 14,
-      "title": "Japan’s ‘Dancing Salaryman’ Can’t Stop Grooving",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html"
-    },
-    {
-      "index": 15,
-      "title": "Not cool: who hacked France’s supermarket fridges?",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges"
-    },
-    {
-      "index": 16,
-      "title": "Dancing Salaryman Pokes Fun at Japan’s Buttoned-Down Culture",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/video/world/asia/100000011204367/japan-dancing-salaryman-tohru-dance.html"
-    },
-    {
-      "index": 17,
-      "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss"
-    },
-    {
-      "index": 18,
-      "title": "Cameroonians await government reshuffle after Biya’s return",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss"
-    },
-    {
-      "index": 19,
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 20,
       "title": "Child sex abuse charges against actor Timothy Busfield dismissed by judge",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/us-news/2026/oct/17/child-sex-abuse-charges-against-actor-timothy-busfield-dismissed-by-judge"
     },
     {
-      "index": 21,
-      "title": "Meet Neha Bora, Activist and Face of India’s Young Protesters",
+      "index": 2,
+      "title": "Dispute Between Trump Allies Centers on Payment From Congo",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html"
+      "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html"
     },
     {
-      "index": 22,
-      "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb"
-    },
-    {
-      "index": 23,
-      "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html"
-    },
-    {
-      "index": 24,
-      "title": "Brazil’s Amazon deforestation hits lowest level on record",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss"
-    },
-    {
-      "index": 25,
-      "title": "A Wayward Shark Becomes a Celebrity in South Korea",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html"
-    },
-    {
-      "index": 26,
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 27,
-      "title": "Trump puts new Russia sanctions on hold",
+      "index": 3,
+      "title": "Romanian fighter jets shoot down 2 drones over Black Sea",
       "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf"
+      "link": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf"
     },
     {
-      "index": 28,
-      "title": "Trump’s appearance at Georgia rally disrupted by anti-ICE protesters – as it happened",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates"
+      "index": 4,
+      "title": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf"
     },
     {
-      "index": 29,
-      "title": "Why hasn't the UK had any named storms yet?",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 30,
-      "title": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb"
-    },
-    {
-      "index": 31,
-      "title": "Healthcare crisis escalating in Yemen’s besieged Taiz",
+      "index": 5,
+      "title": "India and West Indies denied a thrilling finale as rain hits final T20",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss"
+      "link": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss"
     },
     {
-      "index": 32,
-      "title": "Evacuation orders as fast-moving California wildfire burns homes",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 33,
-      "title": "US coastguard rescues 16 after boat sinks off Mexico’s Baja coast",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss"
-    },
-    {
-      "index": 34,
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 35,
-      "title": "The uncertain future of Canada's 30 rescued belugas",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 36,
-      "title": "M.L.B. Playoff Ads With Sydney Sweeney and Megan Fox Draw Backlash",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/16/business/media/mlb-playoffs-commercials-sydney-sweeney-novig.html"
-    },
-    {
-      "index": 37,
-      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 38,
+      "index": 6,
       "title": "The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’",
       "source": "New York Times",
       "link": "https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html"
     },
     {
-      "index": 39,
-      "title": "Oregon school shooter was former special needs student, police say",
+      "index": 7,
+      "title": "Pope Leo returns to Vatican after lung cancer surgery",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss"
+      "link": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss"
     },
     {
-      "index": 40,
-      "title": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
+      "index": 8,
+      "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss"
+      "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss"
     },
     {
-      "index": 41,
-      "title": "Trump mocks Middle Eastern names with ‘Mohammed’ joke",
+      "index": 9,
+      "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke?traffic_source=rss"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss"
     },
     {
-      "index": 42,
-      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 43,
-      "title": "RFK Jr. Pledged to Advance Anti-Vaccine Group’s Goals. Here’s What He’s Doing.",
+      "index": 10,
+      "title": "A Reporter Who Saw Covid Coming Has Died",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/16/us/politics/rfk-jr-vaccines.html"
+      "link": "https://www.nytimes.com/2026/10/17/health/helen-branswell-dead.html"
     },
     {
-      "index": 44,
-      "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
+      "index": 11,
+      "title": "Masked settlers attack European diplomats in occupied West Bank",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank"
+    },
+    {
+      "index": 12,
+      "title": "Al Jazeera reports from Paris as protests turns violent",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss"
     },
     {
-      "index": 45,
-      "title": "Netflix Hurries to Rewrite Its Narrative With Layoffs and a Sudden Firing",
+      "index": 13,
+      "title": "Police clash with protesters as tens of thousands take to streets across France",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes"
+    },
+    {
+      "index": 14,
+      "title": "Why are Latin American countries building closer ties with Israel?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss"
+    },
+    {
+      "index": 15,
+      "title": "Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/16/business/media/netflix-layoffs-bela-bajaria.html"
+      "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html"
     },
     {
-      "index": 46,
-      "title": "Brush fires set homes ablaze in southern California as it braces for more hot weather",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/oct/16/southern-california-brush-fires-force-evacuations"
-    },
-    {
-      "index": 47,
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 48,
-      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 49,
-      "title": "Shooter in fatal Bend, Oregon, school shooting was former student there",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest"
-    },
-    {
-      "index": 50,
-      "title": "Gone to the dogs: racing fans mourn closure of ‘Wenty’, Sydney’s historic greyhound track",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/17/gone-to-the-dogs-racing-fans-mourn-closure-of-wenty-sydneys-historic-greyhound-track"
-    },
-    {
-      "index": 51,
-      "title": "Mortgage repayments are now cheaper than rent in some Australian suburbs. Is yours among them?",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/17/buying-a-home-cheaper-than-renting-in-some-australian-suburbs"
-    },
-    {
-      "index": 52,
-      "title": "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/oct/16/trump-georgia-rally-jon-ossoff"
-    },
-    {
-      "index": 53,
-      "title": "Leeds vs Manchester United: Premier League – teams, prediction, lineups",
+      "index": 16,
+      "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss"
     },
     {
-      "index": 54,
-      "title": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
+      "index": 17,
+      "title": "Kenya confirms four more Ebola cases, bringing total to seven",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss"
+      "link": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss"
     },
     {
-      "index": 55,
-      "title": "Families demand justice after Pakistan school collapse",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss"
+      "index": 18,
+      "title": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html"
     },
     {
-      "index": 56,
-      "title": "Reform councillor resigns after being filmed making racist remarks",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/politics/2026/oct/16/reform-councillor-resigns-after-being-filmed-making-racist-remarks"
+      "index": 19,
+      "title": "Protesters storm town hall and clash with police in France’s Marseille",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/10/17/protesters-storm-town-hall-and-clash-with-police-in-frances-marseille"
     },
     {
-      "index": 57,
-      "title": "Brazil: Amazon deforestation lowest in nearly 40 years",
+      "index": 20,
+      "title": "West Bank: Israeli settlers attack EU diplomats, French mayor",
       "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-rdf"
+      "link": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-rdf"
     },
     {
-      "index": 58,
-      "title": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
+      "index": 21,
+      "title": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html"
+      "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html"
     },
     {
-      "index": 59,
-      "title": "Venezuela’s Opposition Leader Calls Trump’s New Oil Partner Corrupt",
+      "index": 22,
+      "title": "What to Know About the Violent Protests in Albania",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/15/world/americas/venezuela-machado-trump-oil-deal.html"
+      "link": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html"
     },
     {
-      "index": 60,
-      "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
+      "index": 23,
+      "title": "Buildings and cars set on fire as cost of living protests rock France",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss"
     },
     {
-      "index": 61,
-      "title": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
+      "index": 24,
+      "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham"
+      "link": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters"
     },
     {
-      "index": 62,
-      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss"
+      "index": 25,
+      "title": "Latest news bulletin | October 17th, 2026 – Evening",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-evening"
     },
     {
-      "index": 63,
-      "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss"
+      "index": 26,
+      "title": "Scuffles and fires break out as protesters rally across France, joining students",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france"
     },
     {
-      "index": 64,
-      "title": "Meta Withdraws $25 Million from Its Midterms Push",
+      "index": 27,
+      "title": "Plaque telling story of African-Caribbean prisoners in Britain stolen within days",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/17/plaque-honouring-african-caribbean-prisoners-in-britain-stolen-portchester-castle"
+    },
+    {
+      "index": 28,
+      "title": "Indian Gen Z Protest Leader Is Released on Bail After Arrest",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html"
+      "link": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html"
     },
     {
-      "index": 65,
-      "title": "Why Bad News in the Bond Market May Be Good News for Investors",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html"
-    },
-    {
-      "index": 66,
-      "title": "Students in Europe are rising up to call for better education",
+      "index": 29,
+      "title": "Pope Leo leaves hospital after lung cancer surgery",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss"
     },
     {
-      "index": 67,
-      "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss"
+      "index": 30,
+      "title": "SNP says campaign for next referendum on independence ‘has already begun’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney"
     },
     {
-      "index": 68,
-      "title": "Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen",
-      "source": "The Block",
-      "link": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839"
-    },
-    {
-      "index": 69,
-      "title": "Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math",
+      "index": 31,
+      "title": "Why Are There Protests in France?",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html"
+      "link": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html"
     },
     {
-      "index": 70,
-      "title": "The Leap Second Has Been Canceled",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/16/science/leap-second-abolished-vote.html"
+      "index": 32,
+      "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine"
     },
     {
-      "index": 71,
-      "title": "Oregon community mourns victims of school shooting",
+      "index": 33,
+      "title": "Tourism office set ablaze during cost-of-living protests in Lyon",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/10/17/tourism-office-set-ablaze-during-cost-of-living-protests-in-lyon"
+    },
+    {
+      "index": 34,
+      "title": "Neto’s brace fires Chelsea past Everton but Martinez head injury mars win",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss"
+      "link": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss"
     },
     {
-      "index": 72,
+      "index": 35,
+      "title": "Florida fisher dragged into water and killed by 12ft alligator",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/17/alligator-attack-florida-fisher-killed"
+    },
+    {
+      "index": 36,
+      "title": "How big is Russia's threat against Germany?",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 37,
+      "title": "The Reporter Who Exposed Elizabeth Holmes on Nathan Fielder’s Documentary",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html"
+    },
+    {
+      "index": 38,
+      "title": "Ilhan Omar’s lawyers demand the return of property seized in house raid",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid?traffic_source=rss"
+    },
+    {
+      "index": 39,
       "title": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
       "source": "New York Times",
       "link": "https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html"
     },
     {
-      "index": 73,
-      "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+      "index": 40,
+      "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery"
+    },
+    {
+      "index": 41,
+      "title": "Can Cereal Be Healthy? Big Companies Are Trying.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/17/dining/breakfast-cereal-healthy.html"
+    },
+    {
+      "index": 42,
+      "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss"
+    },
+    {
+      "index": 43,
+      "title": "China's influence in the gaming industry is growing",
       "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf"
+      "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 44,
+      "title": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit"
+    },
+    {
+      "index": 45,
+      "title": "Why adults are going back to summer camp",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss"
+    },
+    {
+      "index": 46,
+      "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss"
+    },
+    {
+      "index": 47,
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia"
+    },
+    {
+      "index": 48,
+      "title": "Ilhan Omar’s attorneys say federal search of her home was ‘neither justified nor lawful’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items"
+    },
+    {
+      "index": 49,
+      "title": "Low-cost clinic helps pet owners with vet bills",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 50,
+      "title": "Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss"
+    },
+    {
+      "index": 51,
+      "title": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss"
+    },
+    {
+      "index": 52,
+      "title": "Pope Leo leaves hospital after cancer surgery",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 53,
+      "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss"
+    },
+    {
+      "index": 54,
+      "title": "Selma Blair ‘did not intend to harm anyone’ during airplane incident, representatives say",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/film/2026/oct/17/selma-blair-airplane-incident"
+    },
+    {
+      "index": 55,
+      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 56,
+      "title": "Tens of thousands protest for reforms in France amid tear gas and unrest",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss"
+    },
+    {
+      "index": 57,
+      "title": "Pope Leo discharged from hospital after cancer operation",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation"
+    },
+    {
+      "index": 58,
+      "title": "Why Trump’s latest White House press secretary lasted just five days",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/why-trumps-latest-white-house-press-secretary-lasted-just-five-days?traffic_source=rss"
+    },
+    {
+      "index": 59,
+      "title": "Dancing Salaryman Pokes Fun at Japan’s Buttoned-Down Culture",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/video/world/asia/100000011204367/japan-dancing-salaryman-tohru-dance.html"
+    },
+    {
+      "index": 60,
+      "title": "Isabel Allende wins €1m Spanish literary prize under pseudonym",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/books/2026/oct/17/isabel-allende-wins-premio-planeta-spanish-literary-prize-pseudonym"
+    },
+    {
+      "index": 61,
+      "title": "Japan’s ‘Dancing Salaryman’ Can’t Stop Grooving",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html"
+    },
+    {
+      "index": 62,
+      "title": "‘We’re not playing games’: Parents launch playground protests to fight school field sell-off",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/17/were-not-playing-games-parents-launch-playground-protests-to-fight-school-field-sell-off"
+    },
+    {
+      "index": 63,
+      "title": "India news: CJP founder released a day after detention",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/india-news-cjp-founder-released-a-day-after-detention/live-79685143?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 64,
+      "title": "A Wayward Shark Becomes a Celebrity in South Korea",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html"
+    },
+    {
+      "index": 65,
+      "title": "Israeli settlers attack European diplomats during West Bank olive harvest",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss"
+    },
+    {
+      "index": 66,
+      "title": "Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss"
+    },
+    {
+      "index": 67,
+      "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss"
+    },
+    {
+      "index": 68,
+      "title": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html"
+    },
+    {
+      "index": 69,
+      "title": "France tackles new wave of nationwide protests",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss"
+    },
+    {
+      "index": 70,
+      "title": "A Calgary Crowd Rallies for Canada as Alberta’s Vote on Secession Nears",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/17/world/canada/alberta-referendum-separation-smith.html"
+    },
+    {
+      "index": 71,
+      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 72,
+      "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss"
+    },
+    {
+      "index": 73,
+      "title": "Hungarian PM Péter Magyar says Zelenskyy unlikely to visit Budapest later this month",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/10/17/hungarian-pm-peter-magyar-says-zelenskyy-unlikely-to-visit-budapest-later-this-month"
     },
     {
       "index": 74,
-      "title": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html"
+      "title": "From little acorns … to his 1,000th article for the Guardian country diary",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/environment/2026/oct/17/1000-articles-for-the-guardian-country-diary-mark-cocker"
     },
     {
       "index": 75,
-      "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election"
+      "title": "States Are Stepping Up as the New Antitrust Enforcers",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/17/business/dealbook/state-antitrust-enforcement.html"
     },
     {
       "index": 76,
-      "title": "Trump denies limiting Ukraine access to Starlink network",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss"
+      "title": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains"
     },
     {
       "index": 77,
-      "title": "West Bank: US journalist injured by Israeli settlers",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-rdf"
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 78,
-      "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html"
+      "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf"
     },
     {
       "index": 79,
-      "title": "Trump's new press secretary leaves after less than a week following controversy",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/10/16/trumps-new-press-secretary-leaves-after-less-than-a-week-following-controversy"
+      "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid"
     },
     {
       "index": 80,
-      "title": "Why No One Can Look Away From Elizabeth Holmes",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html"
+      "title": "Two people killed in light aircraft crash near Loch Lomond",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/17/two-people-killed-light-aircraft-crash-near-loch-lomond-scotland"
     }
   ],
   "clusters": [
     {
-      "representativeIndex": 3,
-      "memberIndices": [
-        3,
-        10,
-        11,
-        5,
-        27
-      ],
-      "score": 95,
-      "category": "conflict",
-      "rationale": "The ongoing conflict in Ukraine remains a critical global issue, highlighted by Russia's continued military aggression and the implications of U.S. sanctions."
-    },
-    {
-      "representativeIndex": 31,
-      "memberIndices": [
-        31,
-        60,
-        17,
-        32,
-        46
-      ],
-      "score": 90,
-      "category": "disaster",
-      "rationale": "The escalating humanitarian crisis in Yemen, exacerbated by ongoing conflict, underscores the dire need for international attention and aid."
-    },
-    {
-      "representativeIndex": 24,
-      "memberIndices": [
-        24,
-        26,
-        75,
-        57
-      ],
-      "score": 85,
-      "category": "climate",
-      "rationale": "Brazil's significant reduction in Amazon deforestation is a landmark achievement in climate action, crucial for global environmental health."
-    },
-    {
-      "representativeIndex": 23,
-      "memberIndices": [
-        23,
-        55,
-        39,
-        49
-      ],
-      "score": 80,
-      "category": "disaster",
-      "rationale": "The tragic school roof collapse in Pakistan that resulted in numerous fatalities raises urgent concerns about infrastructure safety and regulation."
-    },
-    {
-      "representativeIndex": 6,
-      "memberIndices": [
-        6,
-        19,
-        22
-      ],
-      "score": 75,
-      "category": "society",
-      "rationale": "The sentencing of three men for the high-profile murders of surfers in Mexico highlights ongoing issues of violence and justice in the region."
-    },
-    {
-      "representativeIndex": 2,
-      "memberIndices": [
-        2,
-        79,
-        41
-      ],
-      "score": 70,
-      "category": "politics",
-      "rationale": "The rapid departure of a press secretary from the White House amid controversy reflects the turbulent political climate and challenges within the administration."
-    },
-    {
-      "representativeIndex": 12,
-      "memberIndices": [
-        12,
-        44
-      ],
-      "score": 65,
-      "category": "politics",
-      "rationale": "Albania's political unrest, fueled by accusations of external interference, illustrates the complexities of governance and public dissent in the region."
-    },
-    {
-      "representativeIndex": 4,
-      "memberIndices": [
-        4,
-        51
-      ],
-      "score": 60,
-      "category": "society",
-      "rationale": "The decline in captive bird populations due to various factors, including Brexit, raises important questions about wildlife conservation and policy."
-    },
-    {
-      "representativeIndex": 40,
-      "memberIndices": [
-        40,
-        78,
-        77
-      ],
-      "score": 50,
-      "category": "conflict",
-      "rationale": "The incident involving an oil supertanker in the Strait of Hormuz underscores ongoing tensions in the region and the potential for broader geopolitical implications."
-    },
-    {
-      "representativeIndex": 58,
-      "memberIndices": [
-        58,
-        73
-      ],
-      "score": 45,
-      "category": "world",
-      "rationale": "The daily realities of life in Kyiv amidst the ongoing war with Russia illustrate the resilience of civilians in conflict zones."
-    },
-    {
-      "representativeIndex": 66,
-      "memberIndices": [
-        66,
-        21
-      ],
-      "score": 40,
-      "category": "society",
-      "rationale": "The rise of student activism across Europe reflects a growing demand for educational reform and social justice among younger generations."
-    },
-    {
-      "representativeIndex": 1,
-      "memberIndices": [
-        1,
-        43
-      ],
-      "score": 35,
-      "category": "technology",
-      "rationale": "The ethical implications of AI in reporting violence highlight the ongoing struggle between technological advancement and societal safety."
-    },
-    {
-      "representativeIndex": 14,
-      "memberIndices": [
-        14,
-        16
-      ],
-      "score": 30,
-      "category": "culture",
-      "rationale": "The phenomenon of the 'Dancing Salaryman' in Japan illustrates cultural shifts and the blending of traditional and modern societal expressions."
-    },
-    {
-      "representativeIndex": 25,
-      "memberIndices": [
-        25,
-        38
-      ],
-      "score": 25,
-      "category": "culture",
-      "rationale": "The story of a wayward shark in South Korea captivates public interest, showcasing the intersection of wildlife and human fascination."
-    },
-    {
       "representativeIndex": 18,
       "memberIndices": [
-        18
-      ],
-      "score": 20,
-      "category": "politics",
-      "rationale": "The anticipation surrounding a government reshuffle in Cameroon reflects the political dynamics and public expectations in the region."
-    },
-    {
-      "representativeIndex": 71,
-      "memberIndices": [
-        71
-      ],
-      "score": 15,
-      "category": "society",
-      "rationale": "The community mourning the victims of a school shooting in Oregon highlights the ongoing issues of gun violence and its impact on society."
-    },
-    {
-      "representativeIndex": 42,
-      "memberIndices": [
-        42,
+        18,
+        4,
+        16,
         76
       ],
-      "score": 5,
-      "category": "politics",
-      "rationale": "The ongoing debate over U.S. support for Ukraine amidst political tensions illustrates the complexities of international relations."
-    },
-    {
-      "representativeIndex": 67,
-      "memberIndices": [
-        67
-      ],
-      "score": 5,
-      "category": "society",
-      "rationale": "The humanitarian situation in Gaza, exacerbated by restrictions on goods, highlights the dire need for international humanitarian assistance."
-    },
-    {
-      "representativeIndex": 7,
-      "memberIndices": [
-        7
-      ],
-      "score": 19.9125,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
+      "score": 90,
+      "category": "conflict",
+      "rationale": "The ongoing conflict in Yemen, exacerbated by Houthi advances and regional military responses, remains a critical humanitarian crisis."
     },
     {
       "representativeIndex": 8,
       "memberIndices": [
-        8
+        8,
+        32,
+        47,
+        77
       ],
-      "score": 19.9,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
+      "score": 85,
+      "category": "politics",
+      "rationale": "Trump's decision to waive sanctions against Russia has significant implications for U.S. foreign policy and the ongoing conflict in Ukraine."
     },
     {
-      "representativeIndex": 9,
+      "representativeIndex": 56,
       "memberIndices": [
-        9
+        56,
+        12,
+        13,
+        31
       ],
-      "score": 19.8875,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
+      "score": 80,
+      "category": "society",
+      "rationale": "Mass protests across France highlight widespread discontent over living costs and social issues, marking a pivotal moment in French civil society."
     },
     {
-      "representativeIndex": 13,
+      "representativeIndex": 3,
       "memberIndices": [
-        13
+        3,
+        20,
+        65,
+        11
       ],
-      "score": 19.8375,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
+      "score": 75,
+      "category": "conflict",
+      "rationale": "The violence against Palestinian farmers and diplomats in the West Bank underscores the ongoing tensions and conflict in the region."
     },
     {
-      "representativeIndex": 15,
+      "representativeIndex": 17,
       "memberIndices": [
-        15
-      ],
-      "score": 19.8125,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 20,
-      "memberIndices": [
-        20
-      ],
-      "score": 19.75,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 28,
-      "memberIndices": [
+        17,
+        10,
+        42,
         28
       ],
-      "score": 19.65,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "score": 70,
+      "category": "health",
+      "rationale": "The emergence of new Ebola cases in Kenya raises alarms about public health and the potential for outbreaks in vulnerable regions."
+    },
+    {
+      "representativeIndex": 51,
+      "memberIndices": [
+        51
+      ],
+      "score": 65,
+      "category": "conflict",
+      "rationale": "Egypt's commitment to defend Saudi Arabia amid Houthi attacks reflects the geopolitical tensions in the Middle East.",
       "repaired": true
     },
     {
       "representativeIndex": 29,
       "memberIndices": [
-        29
+        29,
+        21,
+        7,
+        55
       ],
-      "score": 19.6375,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "score": 60,
+      "category": "health",
+      "rationale": "Pope Leo's recovery from lung cancer surgery is significant for the Catholic community and highlights health issues faced by global leaders."
+    },
+    {
+      "representativeIndex": 19,
+      "memberIndices": [
+        19,
+        23,
+        26
+      ],
+      "score": 55,
+      "category": "society",
+      "rationale": "The protests in France, driven by economic grievances, reflect a broader trend of civil unrest in response to rising living costs.",
       "repaired": true
     },
     {
-      "representativeIndex": 30,
+      "representativeIndex": 1,
       "memberIndices": [
+        1,
+        9
+      ],
+      "score": 50,
+      "category": "law",
+      "rationale": "The dismissal of child abuse charges against Timothy Busfield raises important questions about legal processes and accountability."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2
+      ],
+      "score": 45,
+      "category": "politics",
+      "rationale": "The dispute among Trump allies over foreign payments highlights the complexities of political financing and accountability."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6,
+        43,
+        41,
+        53
+      ],
+      "score": 40,
+      "category": "technology",
+      "rationale": "The growing influence of China in the gaming industry reflects broader trends in technology and cultural exchange."
+    },
+    {
+      "representativeIndex": 34,
+      "memberIndices": [
+        34,
+        50,
+        66,
+        70
+      ],
+      "score": 35,
+      "category": "sport",
+      "rationale": "Chelsea's victory in the Premier League is a notable sports event, showcasing the competitive nature of football."
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14,
+        22,
         30
       ],
-      "score": 19.625,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
+      "score": 30,
+      "category": "politics",
+      "rationale": "The renewed push for Scottish independence reflects ongoing political debates about national identity and governance."
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46,
+        78,
+        72,
+        36
+      ],
+      "score": 25,
+      "category": "disaster",
+      "rationale": "Hurricane Trudy's approach to Mexico poses significant risks and highlights the ongoing challenges of climate-related disasters."
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80,
+        35,
+        39,
+        71
+      ],
+      "score": 20,
+      "category": "disaster",
+      "rationale": "The tragic light aircraft crash near Loch Lomond underscores the risks associated with aviation and public safety."
     },
     {
       "representativeIndex": 33,
       "memberIndices": [
         33
       ],
-      "score": 19.5875,
+      "score": 15,
+      "category": "society",
+      "rationale": "The protests in France, while significant, are part of a broader narrative of civil unrest that is common in many societies.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5
+      ],
+      "score": 10,
+      "category": "sport",
+      "rationale": "The rain-affected T20 match between India and West Indies reflects the unpredictability of sports events."
+    },
+    {
+      "representativeIndex": 15,
+      "memberIndices": [
+        15
+      ],
+      "score": 5,
+      "category": "health",
+      "rationale": "Pope Leo's health updates are of interest but do not carry significant global implications."
+    },
+    {
+      "representativeIndex": 59,
+      "memberIndices": [
+        59,
+        61,
+        62,
+        63
+      ],
+      "score": 3,
+      "category": "culture",
+      "rationale": "The rise of social media stars like Toru Utsumi reflects cultural shifts but lacks broader societal impact."
+    },
+    {
+      "representativeIndex": 24,
+      "memberIndices": [
+        24
+      ],
+      "score": 19.7,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 34,
+      "representativeIndex": 25,
       "memberIndices": [
-        34
+        25
       ],
-      "score": 19.575,
+      "score": 19.6875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 35,
+      "representativeIndex": 27,
       "memberIndices": [
-        35
+        27
       ],
-      "score": 19.5625,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 36,
-      "memberIndices": [
-        36
-      ],
-      "score": 19.55,
+      "score": 19.6625,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -819,21 +741,41 @@
       "repaired": true
     },
     {
-      "representativeIndex": 45,
+      "representativeIndex": 38,
       "memberIndices": [
-        45
+        38
       ],
-      "score": 19.4375,
+      "score": 19.525,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 47,
+      "representativeIndex": 40,
       "memberIndices": [
-        47
+        40
       ],
-      "score": 19.4125,
+      "score": 19.5,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 44,
+      "memberIndices": [
+        44
+      ],
+      "score": 19.45,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 19.4375,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -849,11 +791,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 50,
+      "representativeIndex": 49,
       "memberIndices": [
-        50
+        49
       ],
-      "score": 19.375,
+      "score": 19.3875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -869,16 +811,6 @@
       "repaired": true
     },
     {
-      "representativeIndex": 53,
-      "memberIndices": [
-        53
-      ],
-      "score": 19.3375,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
       "representativeIndex": 54,
       "memberIndices": [
         54
@@ -889,51 +821,31 @@
       "repaired": true
     },
     {
-      "representativeIndex": 56,
+      "representativeIndex": 57,
       "memberIndices": [
-        56
+        57
       ],
-      "score": 19.3,
+      "score": 19.2875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 59,
+      "representativeIndex": 58,
       "memberIndices": [
-        59
+        58
       ],
-      "score": 19.2625,
+      "score": 19.275,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 61,
+      "representativeIndex": 60,
       "memberIndices": [
-        61
+        60
       ],
-      "score": 19.2375,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 62,
-      "memberIndices": [
-        62
-      ],
-      "score": 19.225,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 63,
-      "memberIndices": [
-        63
-      ],
-      "score": 19.2125,
+      "score": 19.25,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -949,11 +861,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 65,
+      "representativeIndex": 67,
       "memberIndices": [
-        65
+        67
       ],
-      "score": 19.1875,
+      "score": 19.1625,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -979,21 +891,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 70,
+      "representativeIndex": 73,
       "memberIndices": [
-        70
+        73
       ],
-      "score": 19.125,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 72,
-      "memberIndices": [
-        72
-      ],
-      "score": 19.1,
+      "score": 19.0875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -1009,11 +911,21 @@
       "repaired": true
     },
     {
-      "representativeIndex": 80,
+      "representativeIndex": 75,
       "memberIndices": [
-        80
+        75
       ],
-      "score": 19,
+      "score": 19.0625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 19.0125,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -1026,14 +938,14 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 10054,
+      "latencyMs": 9243,
       "usage": {
-        "inputTokens": 7094,
-        "outputTokens": 975,
-        "totalTokens": 8069
+        "inputTokens": 7338,
+        "outputTokens": 925,
+        "totalTokens": 8263
       },
-      "estimatedCostUsd": 0.0016491,
-      "returnedCount": 20,
+      "estimatedCostUsd": 0.0016557,
+      "returnedCount": 19,
       "acceptedCount": 30
     },
     {
@@ -1042,13 +954,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 9050,
+      "latencyMs": 10630,
       "usage": {
-        "inputTokens": 1100,
-        "outputTokens": 1142,
-        "totalTokens": 2242
+        "inputTokens": 1132,
+        "outputTokens": 1126,
+        "totalTokens": 2258
       },
-      "estimatedCostUsd": 0.0008502,
+      "estimatedCostUsd": 0.0008454,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1058,13 +970,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 9097,
+      "latencyMs": 9273,
       "usage": {
-        "inputTokens": 1059,
-        "outputTokens": 1169,
-        "totalTokens": 2228
+        "inputTokens": 1235,
+        "outputTokens": 1224,
+        "totalTokens": 2459
       },
-      "estimatedCostUsd": 0.00086025,
+      "estimatedCostUsd": 0.0009196499999999999,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1074,13 +986,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 10535,
+      "latencyMs": 10828,
       "usage": {
-        "inputTokens": 1042,
-        "outputTokens": 1229,
-        "totalTokens": 2271
+        "inputTokens": 1200,
+        "outputTokens": 1270,
+        "totalTokens": 2470
       },
-      "estimatedCostUsd": 0.0008937,
+      "estimatedCostUsd": 0.000942,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1090,13 +1002,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 18142,
+      "latencyMs": 17564,
       "usage": {
-        "inputTokens": 1750,
-        "outputTokens": 2579,
-        "totalTokens": 4329
+        "inputTokens": 1801,
+        "outputTokens": 2443,
+        "totalTokens": 4244
       },
-      "estimatedCostUsd": 0.0018099,
+      "estimatedCostUsd": 0.0017359499999999998,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1106,13 +1018,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 18568,
+      "latencyMs": 10481,
       "usage": {
-        "inputTokens": 1801,
-        "outputTokens": 2614,
-        "totalTokens": 4415
+        "inputTokens": 1966,
+        "outputTokens": 1277,
+        "totalTokens": 3243
       },
-      "estimatedCostUsd": 0.0018385499999999998,
+      "estimatedCostUsd": 0.0010611,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1122,25 +1034,25 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 22754,
+      "latencyMs": 18759,
       "usage": {
-        "inputTokens": 1779,
-        "outputTokens": 2784,
-        "totalTokens": 4563
+        "inputTokens": 2024,
+        "outputTokens": 2595,
+        "totalTokens": 4619
       },
-      "estimatedCostUsd": 0.0019372499999999997,
+      "estimatedCostUsd": 0.0018606,
       "returnedCount": 10,
       "acceptedCount": 10
     }
   ],
-  "generatedAt": "2026-10-17T06:03:34.502Z",
+  "generatedAt": "2026-10-17T18:03:13.540Z",
   "cost": {
     "currency": "USD",
-    "estimatedTotalUsd": 0.009838949999999999,
+    "estimatedTotalUsd": 0.0090204,
     "complete": true,
-    "inputTokens": 15625,
-    "outputTokens": 12492,
-    "totalTokens": 28117,
+    "inputTokens": 16696,
+    "outputTokens": 10860,
+    "totalTokens": 27556,
     "inputUsdPerMillion": 0.15,
     "outputUsdPerMillion": 0.6
   },
@@ -1149,104 +1061,44 @@
       "storyCount": 30,
       "stories": [
         {
-          "link": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Russian attacks in Ukraine kill at least 8, cut power to 1 million"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Healthcare crisis escalating in Yemen’s besieged Taiz"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Brazil’s Amazon deforestation hits lowest level on record"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
+          "link": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
           "source": "New York Times",
-          "title_en": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation"
+          "title_en": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens"
         },
         {
-          "link": "https://www.aljazeera.com/news/2026/10/17/three-mexicans-jailed-for-158-years-each-for-killing-australian-us-surfers?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Three Mexicans jailed for 158 years each for killing Australian, US surfers"
+          "title_en": "Trump faces bipartisan backlash over Russia sanctions waiver"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Katie Zacharia leaving White House role less than five days into job"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Albania’s PM blames ‘foreign hands’ for protests"
+          "title_en": "Tens of thousands protest for reforms in France amid tear gas and unrest"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/c6m24e1ln130o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Avian flu and costs among reasons for loss of captive birds at Castle Espie"
+          "link": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Romanian fighter jets shoot down 2 drones over Black Sea"
         },
         {
-          "link": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire"
+          "title_en": "Kenya confirms four more Ebola cases, bringing total to seven"
         },
         {
-          "link": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
-          "source": "New York Times",
-          "title_en": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss",
+          "link": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Students in Europe are rising up to call for better education"
+          "title_en": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia"
         },
         {
-          "link": "https://www.aljazeera.com/news/2026/10/17/the-chatbot-murder-guide-ais-struggle-between-privacy-reporting-violence?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "The chatbot murder guide: AI’s struggle between privacy, reporting violence"
+          "title_en": "Pope Leo leaves hospital after lung cancer surgery"
         },
         {
-          "link": "https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html",
-          "source": "New York Times",
-          "title_en": "Japan’s ‘Dancing Salaryman’ Can’t Stop Grooving"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html",
-          "source": "New York Times",
-          "title_en": "A Wayward Shark Becomes a Celebrity in South Korea"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Cameroonians await government reshuffle after Biya’s return"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "The Israeli politicians seeking to replace Netanyahu"
-        },
-        {
-          "link": "https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-morning",
+          "link": "https://www.euronews.com/2026/10/17/protesters-storm-town-hall-and-clash-with-police-in-frances-marseille",
           "source": "Euronews",
-          "title_en": "Latest news bulletin | October 17th, 2026 – Morning"
-        },
-        {
-          "link": "https://www.theguardian.com/politics/2026/oct/17/home-office-visa-british-baby-thailand-great-grandfather",
-          "source": "The Guardian",
-          "title_en": "Home Office denies British baby living in Thailand chance to meet great-grandfather in UK"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html",
-          "source": "New York Times",
-          "title_en": "Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor"
-        },
-        {
-          "link": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-          "source": "The Guardian",
-          "title_en": "Not cool: who hacked France’s supermarket fridges?"
+          "title_en": "Protesters storm town hall and clash with police in France’s Marseille"
         },
         {
           "link": "https://www.theguardian.com/us-news/2026/oct/17/child-sex-abuse-charges-against-actor-timothy-busfield-dismissed-by-judge",
@@ -1254,49 +1106,109 @@
           "title_en": "Child sex abuse charges against actor Timothy Busfield dismissed by judge"
         },
         {
-          "link": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
-          "source": "The Guardian",
-          "title_en": "Trump’s appearance at Georgia rally disrupted by anti-ICE protesters"
+          "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
+          "source": "New York Times",
+          "title_en": "Dispute Between Trump Allies Centers on Payment From Congo"
         },
         {
-          "link": "https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Why hasn't the UK had any named storms yet?"
+          "link": "https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html",
+          "source": "New York Times",
+          "title_en": "The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’"
         },
         {
-          "link": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb",
-          "source": "The Guardian",
-          "title_en": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss",
+          "link": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "US coastguard rescues 16 after boat sinks off Mexico’s Baja coast"
+          "title_en": "Neto’s brace fires Chelsea past Everton but Martinez head injury mars win"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'"
+          "link": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Why are Latin American countries building closer ties with Israel?"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "The uncertain future of Canada's 30 rescued belugas"
+          "link": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain"
         },
         {
-          "link": "https://www.nytimes.com/2026/10/16/business/media/mlb-playoffs-commercials-sydney-sweeney-novig.html",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/17/two-people-killed-light-aircraft-crash-near-loch-lomond-scotland",
+          "source": "The Guardian",
+          "title_en": "Two people killed in light aircraft crash near Loch Lomond"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
+          "source": "The Guardian",
+          "title_en": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters"
+        },
+        {
+          "link": "https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-evening",
+          "source": "Euronews",
+          "title_en": "Latest news bulletin | October 17th, 2026 – Evening"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/oct/17/plaque-honouring-african-caribbean-prisoners-in-britain-stolen-portchester-castle",
+          "source": "The Guardian",
+          "title_en": "Plaque telling story of African-Caribbean prisoners in Britain stolen within days"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html",
           "source": "New York Times",
-          "title_en": "M.L.B. Playoff Ads With Sydney Sweeney and Megan Fox Draw Backlash"
+          "title_en": "The Reporter Who Exposed Elizabeth Holmes on Nathan Fielder’s Documentary"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Ilhan Omar’s lawyers demand the return of property seized in house raid"
+        },
+        {
+          "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+          "source": "NPR",
+          "title_en": "Pope Leo XIV leaves hospital after lung cancer surgery"
+        },
+        {
+          "link": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
+          "source": "The Guardian",
+          "title_en": "Elon Musk agrees to settle lawsuits over 2024 election lottery"
+        },
+        {
+          "link": "https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Why adults are going back to summer camp"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items",
+          "source": "The Guardian",
+          "title_en": "Ilhan Omar’s attorneys say federal search of her home was ‘neither justified nor lawful’"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "title_en": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site"
+          "title_en": "Low-cost clinic helps pet owners with vet bills"
         },
         {
-          "link": "https://www.nytimes.com/2026/10/16/business/media/netflix-layoffs-bela-bajaria.html",
-          "source": "New York Times",
-          "title_en": "Netflix Hurries to Rewrite Its Narrative With Layoffs and a Sudden Firing"
+          "link": "https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Pope Leo leaves hospital after cancer surgery"
+        },
+        {
+          "link": "https://www.theguardian.com/film/2026/oct/17/selma-blair-airplane-incident",
+          "source": "The Guardian",
+          "title_en": "Selma Blair ‘did not intend to harm anyone’ during airplane incident, representatives say"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation",
+          "source": "The Guardian",
+          "title_en": "Pope Leo discharged from hospital after cancer operation"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/17/why-trumps-latest-white-house-press-secretary-lasted-just-five-days?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Why Trump’s latest White House press secretary lasted just five days"
+        },
+        {
+          "link": "https://www.theguardian.com/books/2026/oct/17/isabel-allende-wins-premio-planeta-spanish-literary-prize-pseudonym",
+          "source": "The Guardian",
+          "title_en": "Isabel Allende wins €1m Spanish literary prize under pseudonym"
         }
       ]
     },
@@ -1304,59 +1216,59 @@
       "storyCount": 10,
       "stories": [
         {
-          "link": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Russian attacks in Ukraine kill at least 8, cut power to 1 million"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Healthcare crisis escalating in Yemen’s besieged Taiz"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Brazil’s Amazon deforestation hits lowest level on record"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
+          "link": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
           "source": "New York Times",
-          "title_en": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation"
+          "title_en": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens"
         },
         {
-          "link": "https://www.aljazeera.com/news/2026/10/17/three-mexicans-jailed-for-158-years-each-for-killing-australian-us-surfers?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Three Mexicans jailed for 158 years each for killing Australian, US surfers"
+          "title_en": "Trump faces bipartisan backlash over Russia sanctions waiver"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Katie Zacharia leaving White House role less than five days into job"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Albania’s PM blames ‘foreign hands’ for protests"
+          "title_en": "Tens of thousands protest for reforms in France amid tear gas and unrest"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/c6m24e1ln130o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Avian flu and costs among reasons for loss of captive birds at Castle Espie"
+          "link": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Romanian fighter jets shoot down 2 drones over Black Sea"
         },
         {
-          "link": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire"
+          "title_en": "Kenya confirms four more Ebola cases, bringing total to seven"
         },
         {
-          "link": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
+          "link": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Pope Leo leaves hospital after lung cancer surgery"
+        },
+        {
+          "link": "https://www.euronews.com/2026/10/17/protesters-storm-town-hall-and-clash-with-police-in-frances-marseille",
+          "source": "Euronews",
+          "title_en": "Protesters storm town hall and clash with police in France’s Marseille"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/oct/17/child-sex-abuse-charges-against-actor-timothy-busfield-dismissed-by-judge",
+          "source": "The Guardian",
+          "title_en": "Child sex abuse charges against actor Timothy Busfield dismissed by judge"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
           "source": "New York Times",
-          "title_en": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable"
+          "title_en": "Dispute Between Trump Allies Centers on Payment From Congo"
         }
       ],
       "contentHashes": {
-        "ru": "b3195b3f4588c42e8c5b31a1753c8ef460d0e174ad7a63535b1f7c4f79d3e8ce",
-        "en": "e6488e311c76cd4ed4dae29fbd131d3ea82a4be1909f024958445dab764d48fc"
+        "ru": "b0f282c5e80a672f9fb573a982fe3474eae30140bd90dd8dc9e28964fa1ebeae",
+        "en": "23429cab37226c7513244bf9af4ff2efcf8061f766b2a23f217d50ddfaf2a9ec"
       }
     }
   }
