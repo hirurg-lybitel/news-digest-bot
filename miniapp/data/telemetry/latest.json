@@ -1,681 +1,769 @@
 {
   "model": "gpt-4o-mini",
-  "periodHours": 11.970220833333334,
-  "poolSize": 78,
-  "candidateCount": 78,
+  "periodHours": 11.954683333333334,
+  "poolSize": 103,
+  "candidateCount": 80,
   "maxStories": 30,
   "telegramTopN": 10,
   "candidates": [
     {
       "index": 1,
-      "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+      "title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html"
     },
     {
       "index": 2,
-      "title": "Corby metal pollution may harm people, says study",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2dgl087lzo?at_medium=RSS&at_campaign=rss"
+      "title": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html"
     },
     {
       "index": 3,
-      "title": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss"
+      "title": "Zack Polanski says application of Zionism is racist and no state has right to exist",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/oct/18/greens-zack-polanski-application-zionism-racist-no-state-right-to-exist"
     },
     {
       "index": 4,
-      "title": "Two damselfly species return to restored woodland",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5jvnqv28go?at_medium=RSS&at_campaign=rss"
+      "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
     },
     {
       "index": 5,
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss"
+      "title": "Flydubai captain describes blocking axe blows as co-pilot attacked him",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073"
     },
     {
       "index": 6,
-      "title": "Latest news bulletin | October 18th, 2026 – Morning",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/video/2026/10/18/latest-news-bulletin-october-18th-2026-morning"
+      "title": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss"
     },
     {
       "index": 7,
-      "title": "Deaths, injuries after fire at Alberta military base: Canada minister",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss"
+      "title": "Trump ‘border czar’ says Ilhan Omar could be ‘of course’ denaturalized and deported",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation"
     },
     {
       "index": 8,
-      "title": "St Petersburg under attack from Ukrainian drone swarm",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss"
+      "title": "US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine"
     },
     {
       "index": 9,
-      "title": "UK police rule out probe into Palestine Action post by PM adviser’s wife",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss"
+      "title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure"
     },
     {
       "index": 10,
-      "title": "India news: Kolkata stampede dampens Durga Puja festivities",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/india-news-kolkata-stampede-dampens-durga-puja-festivities/live-79685143?maca=en-rss-en-all-1573-rdf"
+      "title": "Trump endorses Netanyahu in Israeli legislative elections",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss"
     },
     {
       "index": 11,
-      "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html"
+      "title": "Saudi Arabia sends skyscraper employees home amid Houthi threats",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225?maca=en-rss-en-all-1573-rdf"
     },
     {
       "index": 12,
-      "title": "At least 19 dead in stampede at Kolkata Hindu festival",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss"
+      "title": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html"
     },
     {
       "index": 13,
-      "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss"
+      "title": "Pope Leo Addresses the Faithful a Day After Leaving the Hospital",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html"
     },
     {
       "index": 14,
-      "title": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
+      "title": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html"
+      "link": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html"
     },
     {
       "index": 15,
-      "title": "Deaths confirmed in major fire at Canada military base",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
+      "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss"
     },
     {
       "index": 16,
-      "title": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action"
+      "title": "French mayor attacked by settlers during occupied West Bank olive harvest",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss"
     },
     {
       "index": 17,
-      "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina"
-    },
-    {
-      "index": 18,
-      "title": "Is sisterhood the secret to a long life? The Sardinian village that could hold key to women’s longevity",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/18/bolotana-sardinian-village-women-centenarians-longevity-long-life"
-    },
-    {
-      "index": 19,
-      "title": "Indigenous woman shackled to hospital bed while in labour in Queensland",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/18/indigenous-woman-shackled-during-labour-childbirth-queensland-ntwnfb"
-    },
-    {
-      "index": 20,
-      "title": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss"
-    },
-    {
-      "index": 21,
       "title": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
       "source": "New York Times",
       "link": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html"
     },
     {
-      "index": 22,
-      "title": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
-    },
-    {
-      "index": 23,
-      "title": "Search continues for 11 missing after boat sank off Mexico’s Baja coast",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss"
-    },
-    {
-      "index": 24,
-      "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
+      "index": 18,
+      "title": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html"
+      "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html"
     },
     {
-      "index": 25,
-      "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss"
-    },
-    {
-      "index": 26,
-      "title": "Canada: Major fire reported at military base in Alberta",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 27,
-      "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss"
-    },
-    {
-      "index": 28,
-      "title": "Buildings burn as French protests go into the night",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss"
-    },
-    {
-      "index": 29,
-      "title": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss"
-    },
-    {
-      "index": 30,
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 31,
-      "title": "Israeli settlers attack European diplomats in the occupied West Bank",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss"
-    },
-    {
-      "index": 32,
-      "title": "'No Kings' rallies push early voting ahead of US midterm elections",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 33,
-      "title": "Buildings set ablaze and more than 1,200 arrested as police clash with protesters across France",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes"
-    },
-    {
-      "index": 34,
-      "title": "Iran war live: Two killed in Saudi helicopter crash; drones target Riyadh",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss"
-    },
-    {
-      "index": 35,
-      "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/18/sydney-northern-beaches-teenage-ebike-rider-13-charged-sexual-touching-trails-ntwnfb"
-    },
-    {
-      "index": 36,
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 37,
-      "title": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html"
-    },
-    {
-      "index": 38,
-      "title": "US ambassador urges Israel to prosecute attackers of American journalist",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss"
-    },
-    {
-      "index": 39,
-      "title": "Arizona joins Nevada to fight proposed cuts to their shares of Colorado River",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/oct/17/arizona-nevada-water-rights-colorado-river"
-    },
-    {
-      "index": 40,
-      "title": "Hurricane Trudy strengthens to category 2 as it heads toward Mexico",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/17/hurricane-trudy-mexico"
-    },
-    {
-      "index": 41,
-      "title": "Two people, including child, killed after person drives through soccer game in Kansas",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings"
-    },
-    {
-      "index": 42,
-      "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss"
-    },
-    {
-      "index": 43,
-      "title": "New York City police seek suspect in fatal subway station shooting",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting"
-    },
-    {
-      "index": 44,
-      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 45,
+      "index": 19,
       "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
       "source": "New York Times",
       "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html"
     },
     {
-      "index": 46,
-      "title": "17 Dead, Dozens Injured After Stampede at Indian Religious Event",
+      "index": 20,
+      "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863"
+    },
+    {
+      "index": 21,
+      "title": "Meloni backs police after cost-of-living protests turn violent in Italian cities",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 22,
+      "title": "Latest news bulletin | October 18th, 2026 – Evening",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/10/18/latest-news-bulletin-october-18th-2026-evening"
+    },
+    {
+      "index": 23,
+      "title": "France: Paris, Lyon and Marseille count the cost after violent protests",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/10/18/france-paris-lyon-and-marseille-count-the-cost-after-violent-protests"
+    },
+    {
+      "index": 24,
+      "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html"
+      "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html"
+    },
+    {
+      "index": 25,
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 26,
+      "title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss"
+    },
+    {
+      "index": 27,
+      "title": "Manchester United held at Leeds despite improved performance for Carrick",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss"
+    },
+    {
+      "index": 28,
+      "title": "Police investigate Reform mayor for allegedly sharing ‘naked and sexualised’ images of himself",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/oct/18/police-investigate-reform-mayor-allegedly-sharing-naked-sexualised-images-of-himself"
+    },
+    {
+      "index": 29,
+      "title": "Fuel leak spreads more than two miles along River Taff",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 30,
+      "title": "French government in crisis talks after ‘colossal failure of the state’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron"
+    },
+    {
+      "index": 31,
+      "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss"
+    },
+    {
+      "index": 32,
+      "title": "Tirana sees sixth day of violent protests as Albania’s PM refuses to resign",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss"
+    },
+    {
+      "index": 33,
+      "title": "Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html"
+    },
+    {
+      "index": 34,
+      "title": "Scholars conclude ‘beyond doubt’ that Shakespeare was main author of Edward III",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/culture/2026/oct/18/scholars-conclude-beyond-doubt-that-shakespeare-was-main-author-of-edward-iii"
+    },
+    {
+      "index": 35,
+      "title": "Six-year-old among two dead after Kansas woman drives through soccer game, with 11 more injured",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths"
+    },
+    {
+      "index": 36,
+      "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news"
+    },
+    {
+      "index": 37,
+      "title": "Russia: Huge flames and smoke rise over St Petersburg after drone strikes",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/10/18/russia-huge-flames-and-smoke-rise-over-st-petersburg-after-drone-strikes"
+    },
+    {
+      "index": 38,
+      "title": "Rubio arrives in Samarkand as Washington seeks closer ties with Central Asia",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/10/18/rubio-arrives-in-samarkand-as-washington-seeks-closer-ties-with-central-asia"
+    },
+    {
+      "index": 39,
+      "title": "A timeline of West Bank attacks on Palestinians and foreign officials",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss"
+    },
+    {
+      "index": 40,
+      "title": "Manchester City owner’s £55m housing loan while Burnham was mayor investigated",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated"
+    },
+    {
+      "index": 41,
+      "title": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html"
+    },
+    {
+      "index": 42,
+      "title": "France protests live: Big blaze, tear gas fired during standoff in Paris",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/france-protests-live-macron-to-address-nation-after-deadly-protests?traffic_source=rss"
+    },
+    {
+      "index": 43,
+      "title": "Ukraine apologizes after a suspected drone crashes in Lithuania, damaging a moving car.",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 44,
+      "title": "Pope appears in public for first time since surgery",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/pope-appears-in-public-for-first-time-since-surgery/a-79692583?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 45,
+      "title": "Why is Trump now encouraging mail-in voting?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-is-trump-now-encouraging-mail-in-voting?traffic_source=rss"
+    },
+    {
+      "index": 46,
+      "title": "Air Force officer killed in rappelling accident before UTSA’s game against Navy",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/sport/2026/oct/18/air-force-officer-killed-in-rappelling-accident-before-utsas-game-against-navy"
     },
     {
       "index": 47,
-      "title": "How day of protests unfolded as disorder breaks out across France",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss"
+      "title": "Why have France’s school protests become a wider political crisis?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss"
     },
     {
       "index": 48,
-      "title": "Student protests widen into greater social unrest in France",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france"
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 49,
-      "title": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal"
+      "title": "Sudan army accused of drone strike on livestock market",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss"
     },
     {
       "index": 50,
-      "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss"
+      "title": "France: Young voters blase about Glucksmann's Socialists",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-rdf"
     },
     {
       "index": 51,
-      "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss"
+      "title": "Forget the seven-year itch: opposite-sex marriages more likely to end after two decades",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/oct/18/opposite-sex-marriages-end-after-20-years-divorce-england-wales-ons"
     },
     {
       "index": 52,
-      "title": "Historic Limoges town hall engulfed in flames amid protests in France",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france"
+      "title": "Was ancient India the world’s forgotten superpower?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss"
     },
     {
       "index": 53,
-      "title": "Anti-government protesters battle with police in Albania",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
+      "title": "Gaza families fear food shortages as Israel halts commercial shipments",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss"
     },
     {
       "index": 54,
-      "title": "Ten killed in fire at beach resort in Bangladesh",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss"
+      "title": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html"
     },
     {
       "index": 55,
-      "title": "Dispute Between Trump Allies Centers on Millions Transferred From Congo",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html"
+      "title": "Paris left reeling as student-led protests turn chaotic",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss"
     },
     {
       "index": 56,
-      "title": "Protesters allege police brutality as violent clashes rage on in Albania",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss"
+      "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery"
     },
     {
       "index": 57,
-      "title": "No further action against government adviser's wife over Palestine Action post, police say",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss"
+      "title": "Is FIFA scrapping its peace prize after awarding it to US President Trump?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/18/fifa-peace-prize-football-us-president-donald-trump?traffic_source=rss"
     },
     {
       "index": 58,
-      "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
+      "title": "Paris residents tell Al Jazeera they’re dismayed by protest damage",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/paris-residents-tell-al-jazeera-theyre-dismayed-by-protest-damage?traffic_source=rss"
     },
     {
       "index": 59,
-      "title": "M.L.B. Playoff Ads With Sydney Sweeney and Megan Fox Draw Backlash",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/16/business/media/mlb-playoffs-commercials-sydney-sweeney-novig.html"
+      "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss"
     },
     {
       "index": 60,
-      "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
+      "title": "Nottingham Forest 0-1 Arsenal LIVE: Premier League",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss"
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/18/nottingham-forest-vs-arsenal-live-premier-league?traffic_source=rss"
     },
     {
       "index": 61,
-      "title": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",
+      "title": "Oklahoma Families Faced the Hottest Summer Ever and an Electricity Crisis",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/17/world/americas/mexican-judge-sentences-3-men-to-159-years-each-in-surfer-killings.html"
+      "link": "https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html"
     },
     {
       "index": 62,
-      "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
-      "source": "The Block",
-      "link": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859"
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 63,
-      "title": "At least 19 killed in stampede at religious gathering in India",
+      "title": "There’s a ‘New Middle East’, but not the one Israel planned",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss"
+      "link": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss"
     },
     {
       "index": 64,
-      "title": "No action to be taken against wife of PM’s aide over Palestine Action post",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action"
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 65,
-      "title": "Kenya Confirms Four New Ebola Cases",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html"
+      "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss"
     },
     {
       "index": 66,
-      "title": "Albanian police fire rubber bullets as protests against Rama escalate",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss"
+      "title": "EPA quietly backtracks on claims US has phased out toxic Pfas compounds",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/environment/2026/oct/18/epa-pfas-compounds-toxins"
     },
     {
       "index": 67,
-      "title": "At least 17 dead in crush at Hindu festival event in India",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss"
+      "title": "Some conservative states aren’t using Medicaid hardship exemption – for political reasons",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/18/medicaid-hardship-exemptions-conservative-states"
     },
     {
       "index": 68,
-      "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-all-1573-rdf"
+      "title": "The New Science of Stuttering",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/18/science/the-new-science-of-stuttering.html"
     },
     {
       "index": 69,
-      "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss"
+      "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss"
     },
     {
       "index": 70,
-      "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
+      "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss"
+      "link": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss"
     },
     {
       "index": 71,
-      "title": "ICE agent who crashed into man in Texas was targeting suspect who died years ago, family says",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/oct/17/ice-crash-houston"
+      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 72,
-      "title": "Reform candidate filmed saying asylum seekers should be put in ‘concentration camps’",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/politics/2026/oct/17/reform-candidate-filmed-saying-asylum-seekers-should-be-put-in-concentration-camps"
+      "title": "Burnt bicycles, smashed windows and looted shops: Trail of destruction across Paris",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/10/18/burnt-bicycles-smashed-windows-and-looted-shops-trail-of-destruction-across-paris"
     },
     {
       "index": 73,
-      "title": "Plover, not a fighter: protected bird 12th man on Tasmanian cricket ground as staff mow around nest",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/18/plover-not-a-fighter-masked-lapwing-nesting-on-tasmanian-cricket-ground-indifferent-as-play-continues"
+      "title": "Gleaning group gives £1m of produce to food banks",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 74,
-      "title": "Most NSW homes destroyed in black summer bushfires were within 100 metres of vegetation",
+      "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone"
+      "link": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs"
     },
     {
       "index": 75,
-      "title": "Israeli settlers attack European diplomats in West Bank",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank"
+      "title": "Free clear-up has big engagement on social media",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cly8q2rryejo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 76,
-      "title": "What to Know About the Violent Protests in Albania",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html"
+      "title": "Parisians wake up to protest damage and looted shops",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 77,
-      "title": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets",
-      "source": "The Block",
-      "link": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852"
+      "title": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss"
     },
     {
       "index": 78,
-      "title": "Egypt’s President Says He Will Leave Office in 2030",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/10/17/world/middleeast/egypt-president-el-sisi-term-limits-2030.html"
+      "title": "Is Germany's eight-hour workday under threat?",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 79,
+      "title": "France reports more than 1,800 arrests after riots, looting and arson during cost-of-living protests",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/france-reports-more-than-1-800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 80,
+      "title": "Pony herd gathering raises money for air ambulance",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9lx01ynj8o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "clusters": [
     {
-      "representativeIndex": 1,
+      "representativeIndex": 2,
       "memberIndices": [
-        1,
-        33,
-        45,
-        47,
-        51
+        2,
+        4,
+        17
       ],
-      "score": 90,
-      "category": "society",
-      "rationale": "The widespread protests in France against the cost of living have escalated into violent clashes, highlighting significant social unrest."
+      "score": 95,
+      "category": "disaster",
+      "rationale": "The tragic fire at the Canadian Forces Base Wainwright resulted in multiple fatalities and injuries, marking a significant disaster for the Canadian military."
     },
     {
-      "representativeIndex": 12,
+      "representativeIndex": 19,
       "memberIndices": [
-        12,
-        46,
-        63,
-        10,
-        67
+        19,
+        23,
+        24,
+        30,
+        79
       ],
-      "score": 85,
-      "category": "disaster",
-      "rationale": "The tragic stampede during a religious festival in Kolkata resulted in numerous fatalities, drawing attention to safety issues at large gatherings."
+      "score": 90,
+      "category": "conflict",
+      "rationale": "The widespread protests in France, which escalated into riots and significant property damage, reflect deep societal unrest over living costs and governance."
     },
     {
       "representativeIndex": 8,
       "memberIndices": [
         8,
-        24,
         31,
-        20,
-        38
+        62
+      ],
+      "score": 85,
+      "category": "conflict",
+      "rationale": "The violent attack on a US photojournalist by Israeli settlers highlights ongoing tensions and violence in the West Bank, drawing international condemnation."
+    },
+    {
+      "representativeIndex": 9,
+      "memberIndices": [
+        9,
+        41
       ],
       "score": 80,
-      "category": "conflict",
-      "rationale": "The surge in settler violence in the West Bank, including attacks on Palestinians and European diplomats, underscores escalating tensions in the region."
-    },
-    {
-      "representativeIndex": 5,
-      "memberIndices": [
-        5,
-        65,
-        13,
-        19,
-        39
-      ],
-      "score": 75,
-      "category": "health",
-      "rationale": "The emergence of a new synthetic drug crisis in the US poses serious public health challenges, exacerbating existing addiction issues."
-    },
-    {
-      "representativeIndex": 7,
-      "memberIndices": [
-        7,
-        21,
-        22,
-        15,
-        26
-      ],
-      "score": 75,
-      "category": "disaster",
-      "rationale": "The deadly incident at a Canadian military base, resulting in casualties, raises concerns about safety protocols in military operations."
-    },
-    {
-      "representativeIndex": 27,
-      "memberIndices": [
-        27,
-        60,
-        34,
-        40,
-        42
-      ],
-      "score": 70,
-      "category": "conflict",
-      "rationale": "The incident involving tankers in the Strait of Hormuz highlights ongoing geopolitical tensions and risks in a critical maritime route."
-    },
-    {
-      "representativeIndex": 3,
-      "memberIndices": [
-        3,
-        14,
-        70
-      ],
-      "score": 65,
       "category": "politics",
-      "rationale": "Marco Rubio's controversial visit to India reflects the complexities of US-India relations amid domestic political challenges."
-    },
-    {
-      "representativeIndex": 4,
-      "memberIndices": [
-        4,
-        18,
-        74,
-        62,
-        72
-      ],
-      "score": 60,
-      "category": "science",
-      "rationale": "The successful restoration of damselfly species in a woodland project showcases positive environmental conservation efforts."
-    },
-    {
-      "representativeIndex": 2,
-      "memberIndices": [
-        2
-      ],
-      "score": 55,
-      "category": "health",
-      "rationale": "The study on metal pollution in Corby raises important health concerns, although the Environment Agency's findings are less alarming."
+      "rationale": "Zelenskyy's comments on US intelligence sharing and Trump's potential support for Russia underscore critical geopolitical dynamics affecting Ukraine."
     },
     {
       "representativeIndex": 11,
       "memberIndices": [
         11,
-        59
+        33
+      ],
+      "score": 75,
+      "category": "conflict",
+      "rationale": "Egypt's pledge to support Saudi Arabia amid Houthi threats reflects escalating regional tensions and military alliances."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6,
+        39
+      ],
+      "score": 70,
+      "category": "conflict",
+      "rationale": "Drone strikes in Ethiopia's Tigray region signify ongoing conflict and humanitarian crises, impacting civilian lives."
+    },
+    {
+      "representativeIndex": 35,
+      "memberIndices": [
+        35,
+        46
+      ],
+      "score": 70,
+      "category": "disaster",
+      "rationale": "The tragic incident at a youth soccer game in Kansas, resulting in fatalities and injuries, raises concerns about public safety."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1
+      ],
+      "score": 65,
+      "category": "culture",
+      "rationale": "The release of the Elizabeth Holmes documentary has sparked significant public interest and discussion about ethics in technology."
+    },
+    {
+      "representativeIndex": 21,
+      "memberIndices": [
+        21,
+        74
+      ],
+      "score": 65,
+      "category": "economy",
+      "rationale": "Protests in Italy against rising living costs indicate growing economic discontent, similar to movements seen in other European nations."
+    },
+    {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12,
+        7
+      ],
+      "score": 60,
+      "category": "politics",
+      "rationale": "Netanyahu's downplaying of extremist attacks in the West Bank raises concerns about governance and accountability in Israel."
+    },
+    {
+      "representativeIndex": 15,
+      "memberIndices": [
+        15,
+        77
+      ],
+      "score": 60,
+      "category": "conflict",
+      "rationale": "China's military maneuvers around Taiwan highlight rising tensions and the potential for conflict in the region."
+    },
+    {
+      "representativeIndex": 10,
+      "memberIndices": [
+        10
+      ],
+      "score": 55,
+      "category": "politics",
+      "rationale": "Trump's endorsement of Netanyahu ahead of Israeli elections reflects ongoing US-Israel relations and their implications for Middle Eastern politics."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18,
+        56
+      ],
+      "score": 55,
+      "category": "health",
+      "rationale": "Pope Leo XIV's return to public duties after cancer surgery resonates with global audiences concerned about health and leadership."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5
       ],
       "score": 50,
-      "category": "culture",
-      "rationale": "The intersection of AI and entertainment in South Korea reflects cultural shifts and the growing influence of technology on social interactions."
+      "category": "disaster",
+      "rationale": "The heroic actions of a flydubai captain during a co-pilot's attack highlight critical issues of aviation safety and security."
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14,
+        72
+      ],
+      "score": 50,
+      "category": "society",
+      "rationale": "The unexpected unrest in Limoges, France, signifies broader societal tensions and the potential for localized violence."
+    },
+    {
+      "representativeIndex": 22,
+      "memberIndices": [
+        22
+      ],
+      "score": 50,
+      "category": "world",
+      "rationale": "The latest news bulletin encapsulates significant global events, reflecting the interconnectedness of current affairs."
+    },
+    {
+      "representativeIndex": 20,
+      "memberIndices": [
+        20
+      ],
+      "score": 45,
+      "category": "technology",
+      "rationale": "The cyber attack on Cysic and subsequent financial implications underscore vulnerabilities in the cryptocurrency space."
     },
     {
       "representativeIndex": 29,
       "memberIndices": [
         29
       ],
-      "score": 50,
-      "category": "conflict",
-      "rationale": "The Saudi-led airstrikes in Yemen signify ongoing military efforts to address the Houthi siege, impacting regional stability."
-    },
-    {
-      "representativeIndex": 25,
-      "memberIndices": [
-        25
-      ],
       "score": 45,
-      "category": "conflict",
-      "rationale": "Former President Kabila's involvement in rebellion raises alarms about the potential for renewed conflict in the DRC."
+      "category": "disaster",
+      "rationale": "The fuel leak along the River Taff raises environmental concerns and public health advisories."
     },
     {
-      "representativeIndex": 41,
+      "representativeIndex": 3,
       "memberIndices": [
-        41
+        3
       ],
       "score": 40,
-      "category": "disaster",
-      "rationale": "The tragic incident during a soccer game in Kansas highlights public safety concerns at community events."
+      "category": "society",
+      "rationale": "Zack Polanski's controversial statements on Zionism spark discussions about identity and political discourse in the UK."
     },
     {
-      "representativeIndex": 66,
+      "representativeIndex": 55,
       "memberIndices": [
-        66
+        55,
+        47
+      ],
+      "score": 40,
+      "category": "society",
+      "rationale": "The student-led protests in France reflect a growing movement against educational and economic inequalities."
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70
+      ],
+      "score": 40,
+      "category": "politics",
+      "rationale": "The potential for Egypt's military support to Saudi Arabia amid Houthi attacks indicates shifting alliances in the Middle East."
+    },
+    {
+      "representativeIndex": 54,
+      "memberIndices": [
+        54
       ],
       "score": 35,
-      "category": "society",
-      "rationale": "The protests in Albania reflect growing discontent with the government, driven by economic grievances and demands for accountability."
+      "category": "politics",
+      "rationale": "Rahul Gandhi's political resurgence amid protests highlights the dynamics of leadership in contemporary India."
     },
     {
-      "representativeIndex": 77,
+      "representativeIndex": 68,
       "memberIndices": [
-        77
+        68
+      ],
+      "score": 35,
+      "category": "science",
+      "rationale": "New insights into stuttering represent a significant advancement in understanding and treating the condition."
+    },
+    {
+      "representativeIndex": 69,
+      "memberIndices": [
+        69
       ],
       "score": 30,
-      "category": "technology",
-      "rationale": "The arrest of Hex founder Richard Heart raises questions about regulatory scrutiny in the cryptocurrency space."
+      "category": "society",
+      "rationale": "The funeral for Palestinians recovered from Gaza highlights ongoing humanitarian issues and the impact of conflict."
+    },
+    {
+      "representativeIndex": 61,
+      "memberIndices": [
+        61
+      ],
+      "score": 30,
+      "category": "climate",
+      "rationale": "The electricity crisis in Oklahoma amid record heat underscores the challenges of climate change on energy infrastructure."
     },
     {
       "representativeIndex": 78,
       "memberIndices": [
         78
       ],
+      "score": 30,
+      "category": "economy",
+      "rationale": "Debates over Germany's working hours reflect broader discussions on labor rights and economic policies."
+    },
+    {
+      "representativeIndex": 75,
+      "memberIndices": [
+        75
+      ],
       "score": 25,
-      "category": "politics",
-      "rationale": "Egypt's President's announcement about his future plans reflects ongoing political dynamics in the country."
-    },
-    {
-      "representativeIndex": 35,
-      "memberIndices": [
-        35
-      ],
-      "score": 5,
       "category": "society",
-      "rationale": "The case of a young boy charged with sexual offences reflects ongoing societal issues regarding youth behavior and accountability."
+      "rationale": "Community efforts to address local issues demonstrate grassroots activism and social responsibility."
     },
     {
-      "representativeIndex": 6,
+      "representativeIndex": 80,
       "memberIndices": [
-        6
+        80
       ],
-      "score": 19.923076923076923,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
+      "score": 20,
+      "category": "culture",
+      "rationale": "The pony herd gathering for charity reflects community engagement and support for local services."
     },
     {
-      "representativeIndex": 9,
+      "representativeIndex": 13,
       "memberIndices": [
-        9
+        13
       ],
-      "score": 19.884615384615383,
+      "score": 19.8375,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -685,27 +773,37 @@
       "memberIndices": [
         16
       ],
-      "score": 19.794871794871796,
+      "score": 19.8,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 17,
+      "representativeIndex": 25,
       "memberIndices": [
-        17
+        25
       ],
-      "score": 19.78205128205128,
+      "score": 19.6875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 23,
+      "representativeIndex": 26,
       "memberIndices": [
-        23
+        26
       ],
-      "score": 19.705128205128204,
+      "score": 19.675,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 27,
+      "memberIndices": [
+        27
+      ],
+      "score": 19.6625,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -715,17 +813,7 @@
       "memberIndices": [
         28
       ],
-      "score": 19.641025641025642,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 30,
-      "memberIndices": [
-        30
-      ],
-      "score": 19.615384615384617,
+      "score": 19.65,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -735,7 +823,17 @@
       "memberIndices": [
         32
       ],
-      "score": 19.58974358974359,
+      "score": 19.6,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 34,
+      "memberIndices": [
+        34
+      ],
+      "score": 19.575,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -745,7 +843,7 @@
       "memberIndices": [
         36
       ],
-      "score": 19.53846153846154,
+      "score": 19.55,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -755,7 +853,37 @@
       "memberIndices": [
         37
       ],
-      "score": 19.525641025641026,
+      "score": 19.5375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38
+      ],
+      "score": 19.525,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 40,
+      "memberIndices": [
+        40
+      ],
+      "score": 19.5,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 42,
+      "memberIndices": [
+        42
+      ],
+      "score": 19.475,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -765,7 +893,7 @@
       "memberIndices": [
         43
       ],
-      "score": 19.44871794871795,
+      "score": 19.4625,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -775,7 +903,17 @@
       "memberIndices": [
         44
       ],
-      "score": 19.435897435897434,
+      "score": 19.45,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 19.4375,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -785,7 +923,7 @@
       "memberIndices": [
         48
       ],
-      "score": 19.384615384615383,
+      "score": 19.4,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -795,7 +933,7 @@
       "memberIndices": [
         49
       ],
-      "score": 19.371794871794872,
+      "score": 19.3875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -805,7 +943,17 @@
       "memberIndices": [
         50
       ],
-      "score": 19.358974358974358,
+      "score": 19.375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 51,
+      "memberIndices": [
+        51
+      ],
+      "score": 19.3625,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -815,7 +963,7 @@
       "memberIndices": [
         52
       ],
-      "score": 19.333333333333332,
+      "score": 19.35,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -825,37 +973,7 @@
       "memberIndices": [
         53
       ],
-      "score": 19.32051282051282,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 54,
-      "memberIndices": [
-        54
-      ],
-      "score": 19.307692307692307,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 55,
-      "memberIndices": [
-        55
-      ],
-      "score": 19.294871794871796,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 56,
-      "memberIndices": [
-        56
-      ],
-      "score": 19.28205128205128,
+      "score": 19.3375,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -865,7 +983,7 @@
       "memberIndices": [
         57
       ],
-      "score": 19.26923076923077,
+      "score": 19.2875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -875,17 +993,37 @@
       "memberIndices": [
         58
       ],
-      "score": 19.256410256410255,
+      "score": 19.275,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 61,
+      "representativeIndex": 59,
       "memberIndices": [
-        61
+        59
       ],
-      "score": 19.21794871794872,
+      "score": 19.2625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60
+      ],
+      "score": 19.25,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 19.2125,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -895,27 +1033,37 @@
       "memberIndices": [
         64
       ],
-      "score": 19.17948717948718,
+      "score": 19.2,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 68,
+      "representativeIndex": 65,
       "memberIndices": [
-        68
+        65
       ],
-      "score": 19.128205128205128,
+      "score": 19.1875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 69,
+      "representativeIndex": 66,
       "memberIndices": [
-        69
+        66
       ],
-      "score": 19.115384615384617,
+      "score": 19.175,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 67,
+      "memberIndices": [
+        67
+      ],
+      "score": 19.1625,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -925,7 +1073,7 @@
       "memberIndices": [
         71
       ],
-      "score": 19.08974358974359,
+      "score": 19.1125,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -935,17 +1083,7 @@
       "memberIndices": [
         73
       ],
-      "score": 19.064102564102566,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 75,
-      "memberIndices": [
-        75
-      ],
-      "score": 19.03846153846154,
+      "score": 19.0875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -955,7 +1093,7 @@
       "memberIndices": [
         76
       ],
-      "score": 19.025641025641026,
+      "score": 19.05,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -968,14 +1106,14 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 12354,
+      "latencyMs": 13695,
       "usage": {
-        "inputTokens": 7131,
-        "outputTokens": 1015,
-        "totalTokens": 8146
+        "inputTokens": 7450,
+        "outputTokens": 1215,
+        "totalTokens": 8665
       },
-      "estimatedCostUsd": 0.0016786499999999998,
-      "returnedCount": 20,
+      "estimatedCostUsd": 0.0018465,
+      "returnedCount": 28,
       "acceptedCount": 30
     },
     {
@@ -984,13 +1122,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 10639,
+      "latencyMs": 17387,
       "usage": {
-        "inputTokens": 1214,
-        "outputTokens": 1063,
-        "totalTokens": 2277
+        "inputTokens": 1355,
+        "outputTokens": 1336,
+        "totalTokens": 2691
       },
-      "estimatedCostUsd": 0.0008198999999999999,
+      "estimatedCostUsd": 0.00100485,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1000,13 +1138,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 12897,
+      "latencyMs": 13859,
       "usage": {
-        "inputTokens": 1117,
-        "outputTokens": 1193,
-        "totalTokens": 2310
+        "inputTokens": 1052,
+        "outputTokens": 1113,
+        "totalTokens": 2165
       },
-      "estimatedCostUsd": 0.0008833499999999999,
+      "estimatedCostUsd": 0.0008255999999999999,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1016,13 +1154,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 17148,
+      "latencyMs": 15157,
       "usage": {
-        "inputTokens": 873,
-        "outputTokens": 1207,
-        "totalTokens": 2080
+        "inputTokens": 779,
+        "outputTokens": 1051,
+        "totalTokens": 1830
       },
-      "estimatedCostUsd": 0.0008551499999999998,
+      "estimatedCostUsd": 0.0007474500000000001,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1032,13 +1170,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 25611,
+      "latencyMs": 24934,
       "usage": {
-        "inputTokens": 1824,
-        "outputTokens": 2568,
-        "totalTokens": 4392
+        "inputTokens": 2150,
+        "outputTokens": 2960,
+        "totalTokens": 5110
       },
-      "estimatedCostUsd": 0.0018143999999999999,
+      "estimatedCostUsd": 0.0020985,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1048,13 +1186,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 30968,
+      "latencyMs": 16266,
       "usage": {
-        "inputTokens": 1782,
-        "outputTokens": 3015,
-        "totalTokens": 4797
+        "inputTokens": 1694,
+        "outputTokens": 2027,
+        "totalTokens": 3721
       },
-      "estimatedCostUsd": 0.0020763,
+      "estimatedCostUsd": 0.0014703,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1064,25 +1202,25 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 23481,
+      "latencyMs": 21812,
       "usage": {
-        "inputTokens": 1612,
-        "outputTokens": 2730,
-        "totalTokens": 4342
+        "inputTokens": 1412,
+        "outputTokens": 2562,
+        "totalTokens": 3974
       },
-      "estimatedCostUsd": 0.0018798,
+      "estimatedCostUsd": 0.001749,
       "returnedCount": 10,
       "acceptedCount": 10
     }
   ],
-  "generatedAt": "2026-10-18T06:04:07.750Z",
+  "generatedAt": "2026-10-18T18:03:56.042Z",
   "cost": {
     "currency": "USD",
-    "estimatedTotalUsd": 0.01000755,
+    "estimatedTotalUsd": 0.0097422,
     "complete": true,
-    "inputTokens": 15553,
-    "outputTokens": 12791,
-    "totalTokens": 28344,
+    "inputTokens": 15892,
+    "outputTokens": 12264,
+    "totalTokens": 28156,
     "inputUsdPerMillion": 0.15,
     "outputUsdPerMillion": 0.6
   },
@@ -1091,154 +1229,154 @@
       "storyCount": 30,
       "stories": [
         {
-          "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "At least 19 dead in stampede at Kolkata Hindu festival"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "St Petersburg under attack from Ukrainian drone swarm"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "A wave of homemade, synthetic drugs sweeps US and deepens crisis"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Deaths, injuries after fire at Alberta military base: Canada minister"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/cwg5jvnqv28go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Two damselfly species return to restored woodland"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/ckx2dgl087lzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Corby metal pollution may harm people, says study"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
+          "link": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
           "source": "New York Times",
-          "title_en": "Singing, Dancing and Getting Dumped by A.I. on Korean TV"
+          "title_en": "Fire at Canadian Forces Base Wainwright Kills 4 and Injures Dozens"
         },
         {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Fears grow in DRC as former President Joseph Kabila joins rebellion"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings",
-          "source": "The Guardian",
-          "title_en": "Two people, including child, killed after person drives through soccer game in Kansas"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Albanian police fire rubber bullets as protests against Rama escalate"
-        },
-        {
-          "link": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
-          "source": "The Block",
-          "title_en": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/10/17/world/middleeast/egypt-president-el-sisi-term-limits-2030.html",
+          "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
           "source": "New York Times",
-          "title_en": "Egypt’s President Says He Will Leave Office in 2030"
+          "title_en": "Unrest Mars Day of Protest in France as Student Movement Turns National"
         },
         {
-          "link": "https://www.euronews.com/video/2026/10/18/latest-news-bulletin-october-18th-2026-morning",
-          "source": "Euronews",
-          "title_en": "Latest news bulletin | October 18th, 2026 – Morning"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "UK police rule out probe into Palestine Action post by PM adviser’s wife"
-        },
-        {
-          "link": "https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action",
+          "link": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
           "source": "The Guardian",
-          "title_en": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action"
+          "title_en": "US Ambassador to Israel Calls West Bank Settler Attack on American Photojournalist ‘Terror’"
         },
         {
-          "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
+          "link": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
           "source": "The Guardian",
-          "title_en": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina"
+          "title_en": "Zelenskyy Thanks Trump for Resumed Intelligence Sharing After US Starlink ‘Message’"
         },
         {
-          "link": "https://www.aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Search continues for 11 missing after boat sank off Mexico’s Baja coast"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Buildings burn as French protests go into the night"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Trump waives several Russia sanctions as row with Zelensky intensifies"
-        },
-        {
-          "link": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-rdf",
+          "link": "https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "title_en": "'No Kings' rallies push early voting ahead of US midterm elections"
+          "title_en": "Saudi Arabia Sends Skyscraper Employees Home Amid Houthi Threats"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "European diplomats attacked by Israeli settlers in West Bank"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Residents Recount Drone Strikes in Ethiopia’s Northern Tigray Region"
         },
         {
-          "link": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
-          "source": "New York Times",
-          "title_en": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting",
+          "link": "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths",
           "source": "The Guardian",
-          "title_en": "New York City police seek suspect in fatal subway station shooting"
+          "title_en": "Six-Year-Old Among Two Dead After Kansas Woman Drives Through Soccer Game"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html",
+          "source": "New York Times",
+          "title_en": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows"
+        },
+        {
+          "link": "https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Meloni Backs Police After Cost-of-Living Protests Turn Violent in Italian Cities"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html",
+          "source": "New York Times",
+          "title_en": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Trump endorses Netanyahu in Israeli legislative elections"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
+          "source": "New York Times",
+          "title_en": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073",
+          "source": "The Guardian",
+          "title_en": "Flydubai captain describes blocking axe blows as co-pilot attacked him"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html",
+          "source": "New York Times",
+          "title_en": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall."
+        },
+        {
+          "link": "https://www.euronews.com/video/2026/10/18/latest-news-bulletin-october-18th-2026-evening",
+          "source": "Euronews",
+          "title_en": "Latest news bulletin | October 18th, 2026 – Evening"
+        },
+        {
+          "link": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
+          "source": "The Block",
+          "title_en": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "title_en": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat"
+          "title_en": "Fuel leak spreads more than two miles along River Taff"
         },
         {
-          "link": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
-          "source": "NPR",
-          "title_en": "Student protests widen into greater social unrest in France"
+          "link": "https://www.theguardian.com/politics/2026/oct/18/greens-zack-polanski-application-zionism-racist-no-state-right-to-exist",
+          "source": "The Guardian",
+          "title_en": "Zack Polanski says application of Zionism is racist and no state has right to exist"
         },
         {
-          "link": "https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal",
-          "source": "NPR",
-          "title_en": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal"
+          "link": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Paris left reeling as student-led protests turn chaotic"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "What help can Egypt offer Saudi Arabia in the war against the Houthis?"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
+          "source": "New York Times",
+          "title_en": "In India, the Scion of a Political Dynasty Tries to Seize His Moment"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/18/science/the-new-science-of-stuttering.html",
+          "source": "New York Times",
+          "title_en": "The New Science of Stuttering"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html",
+          "source": "New York Times",
+          "title_en": "Oklahoma Families Faced the Hottest Summer Ever and an Electricity Crisis"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins"
+        },
+        {
+          "link": "https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Is Germany's eight-hour workday under threat?"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cly8q2rryejo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Free clear-up has big engagement on social media"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cqe9lx01ynj8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Pony herd gathering raises money for air ambulance"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
+          "source": "New York Times",
+          "title_en": "Pope Leo Addresses the Faithful a Day After Leaving the Hospital"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "French mayor attacked by settlers during occupied West Bank olive harvest"
         }
       ]
     },
@@ -1246,59 +1384,59 @@
       "storyCount": 10,
       "stories": [
         {
-          "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "At least 19 dead in stampede at Kolkata Hindu festival"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "St Petersburg under attack from Ukrainian drone swarm"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "A wave of homemade, synthetic drugs sweeps US and deepens crisis"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Deaths, injuries after fire at Alberta military base: Canada minister"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/cwg5jvnqv28go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Two damselfly species return to restored woodland"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/ckx2dgl087lzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Corby metal pollution may harm people, says study"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
+          "link": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
           "source": "New York Times",
-          "title_en": "Singing, Dancing and Getting Dumped by A.I. on Korean TV"
+          "title_en": "Fire at Canadian Forces Base Wainwright Kills 4 and Injures Dozens"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+          "source": "New York Times",
+          "title_en": "Unrest Mars Day of Protest in France as Student Movement Turns National"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
+          "source": "The Guardian",
+          "title_en": "US Ambassador to Israel Calls West Bank Settler Attack on American Photojournalist ‘Terror’"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
+          "source": "The Guardian",
+          "title_en": "Zelenskyy Thanks Trump for Resumed Intelligence Sharing After US Starlink ‘Message’"
+        },
+        {
+          "link": "https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Saudi Arabia Sends Skyscraper Employees Home Amid Houthi Threats"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Residents Recount Drone Strikes in Ethiopia’s Northern Tigray Region"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths",
+          "source": "The Guardian",
+          "title_en": "Six-Year-Old Among Two Dead After Kansas Woman Drives Through Soccer Game"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html",
+          "source": "New York Times",
+          "title_en": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows"
+        },
+        {
+          "link": "https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Meloni Backs Police After Cost-of-Living Protests Turn Violent in Italian Cities"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html",
+          "source": "New York Times",
+          "title_en": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them"
         }
       ],
       "contentHashes": {
-        "ru": "64675a508512cd4ec10a29ba8ccb7686d5b9e562dae82d738c79c9fa16be23e9",
-        "en": "7ad4bb3c97dfda69e318c0c695fd052f62811f5267feff3ddc5a5fb0d155b16c"
+        "ru": "f82c46b92643ce7e1fbc5fb85b981a08e869e09a22248b4ca94ad7ba21369186",
+        "en": "063dc687101dcb27bb1433874acc68c1b7108874bd236d94fcd519566148af4e"
       }
     }
   }
