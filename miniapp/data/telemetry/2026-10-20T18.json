@@ -1,0 +1,1361 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.96249361111111,
+  "poolSize": 154,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/science/ketamine-fda-spravato-ketafree.html"
+    },
+    {
+      "index": 2,
+      "title": "Heading to France? Amid Recent Unrest, Here’s What to Know",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html"
+    },
+    {
+      "index": 3,
+      "title": "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships"
+    },
+    {
+      "index": 4,
+      "title": "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – Europe live",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates"
+    },
+    {
+      "index": 5,
+      "title": "Why Zelensky Took the Gloves Off This Time With Trump",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html"
+    },
+    {
+      "index": 6,
+      "title": "Baby who died from meningitis may have been saved if tested sooner, inquest finds",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/oct/20/baby-who-died-from-meningitis-may-have-been-saved-if-tested-sooner-inquest-finds"
+    },
+    {
+      "index": 7,
+      "title": "178 Years After Banning Slavery, France Scraps ‘Code Noir’ Rules That Governed It",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/france-senate-code-noir-slavery.html"
+    },
+    {
+      "index": 8,
+      "title": "France's Macron begins state visit to Qatar as part of wider Gulf tour",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/10/20/frances-macron-begins-state-visit-to-qatar-as-part-of-wider-gulf-tour"
+    },
+    {
+      "index": 9,
+      "title": "UK government to make Jackdaw gas field announcement",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 10,
+      "title": "Republicans push back on Donald Trump’s wavering support for Ukraine",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/20/republicans-push-back-trump-ukraine-russia"
+    },
+    {
+      "index": 11,
+      "title": "Kenya confirms ninth Ebola case amid concerns about regional spread",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss"
+    },
+    {
+      "index": 12,
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 13,
+      "title": "Ex-student alleging sexual assault felt ‘unsupported’ by Cornell president",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/20/cornell-student-alleging-sexual-assault-letter"
+    },
+    {
+      "index": 14,
+      "title": "As Macron visits Gulf, can France forge its own energy-for-security future?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss"
+    },
+    {
+      "index": 15,
+      "title": "House Democrat accuses Rubio and Trump of ‘lying’ about Ukraine intelligence as president continues campaigning – US politics live",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates"
+    },
+    {
+      "index": 16,
+      "title": "Tommy Robinson threatened to make families of Mail journalists ‘famous’, court hears",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/20/tommy-robinson-threatened-families-mail-journalists-famous-court-hears"
+    },
+    {
+      "index": 17,
+      "title": "‘Superficial damp squib’: Covid inquiry recommendations fail to impress bereaved families",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/20/covid-inquiry-recommendations-fail-to-impress-bereaved-families"
+    },
+    {
+      "index": 18,
+      "title": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430"
+    },
+    {
+      "index": 19,
+      "title": "North Korean workers treated as 'slaves' at Russian drone factory, says new report",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 20,
+      "title": "How does language affect how we think?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/doha-debates/2026/10/20/how-does-language-affect-how-we-think?traffic_source=rss"
+    },
+    {
+      "index": 21,
+      "title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html"
+    },
+    {
+      "index": 22,
+      "title": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss"
+    },
+    {
+      "index": 23,
+      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 24,
+      "title": "Ben-Gvir mocks Gaza destruction in AI-generated video",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ben-gvir-mocks-gaza-destruction-in-ai-generated-video?traffic_source=rss"
+    },
+    {
+      "index": 25,
+      "title": "‘Too big to not fail’: Google outage exposes UK reliance on a handful of cloud providers",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption"
+    },
+    {
+      "index": 26,
+      "title": "Why are French police so violent? Their job is to protect the state, not the people",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/20/france-culture-violent-policing-protests-riots"
+    },
+    {
+      "index": 27,
+      "title": "Start-Up Claims to Use A.I.-Created Viruses to Treat a Patient",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html"
+    },
+    {
+      "index": 28,
+      "title": "Great white shark leaps from water and photobombs California beachgoers",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/20/great-white-shark-photobomb-california"
+    },
+    {
+      "index": 29,
+      "title": "NatWest cracks down on 13,000 staff attending office two days a month",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/oct/20/natwest-staff-back-two-days-a-week-policy"
+    },
+    {
+      "index": 30,
+      "title": "New EU plan for Arctic warily eyes influence of Russia, US",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 31,
+      "title": "IRGC mines set tankers ablaze as Tehran threatens expanded attacks",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/10/20/irgc-mines-set-tankers-ablaze-as-tehran-threatens-expanded-attacks"
+    },
+    {
+      "index": 32,
+      "title": "Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/turkiye-moves-to-ratify-mecca-joint-defence-agreement?traffic_source=rss"
+    },
+    {
+      "index": 33,
+      "title": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss"
+    },
+    {
+      "index": 34,
+      "title": "Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html"
+    },
+    {
+      "index": 35,
+      "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414"
+    },
+    {
+      "index": 36,
+      "title": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html"
+    },
+    {
+      "index": 37,
+      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum"
+    },
+    {
+      "index": 38,
+      "title": "Is Cyprus becoming Israel’s backyard?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_is-cyprus-becoming-israels-backyard-201026?traffic_source=rss"
+    },
+    {
+      "index": 39,
+      "title": "Knicks Ticket Prices Are Soaring After Last Season’s Championship",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/business/knicks-tickets.html"
+    },
+    {
+      "index": 40,
+      "title": "Qatar says only negotiations can resolve regional tensions",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss"
+    },
+    {
+      "index": 41,
+      "title": "OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421"
+    },
+    {
+      "index": 42,
+      "title": "Investors in Anticipation Over Musk’s Next Big SpaceX Deal",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html"
+    },
+    {
+      "index": 43,
+      "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
+    },
+    {
+      "index": 44,
+      "title": "Ferry catches fire near Indonesian port, all passengers rescued",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ferry-catches-fire-near-indonesian-port-all-passengers-rescued?traffic_source=rss"
+    },
+    {
+      "index": 45,
+      "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel"
+    },
+    {
+      "index": 46,
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 47,
+      "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html"
+    },
+    {
+      "index": 48,
+      "title": "Trump official claims record-breaking 300,000 visas were revoked",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/trump-official-claims-record-breaking-300000-visas-were-revoked?traffic_source=rss"
+    },
+    {
+      "index": 49,
+      "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss"
+    },
+    {
+      "index": 50,
+      "title": "Trendy LA neighborhood’s war over wild coyote erupts after child attacked",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/20/atwater-village-coyote-attacks-los-angeles"
+    },
+    {
+      "index": 51,
+      "title": "Latest news bulletin | October 20th, 2026 – Evening",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/10/20/latest-news-bulletin-october-20th-2026-evening"
+    },
+    {
+      "index": 52,
+      "title": "PSG vs Barcelona LIVE: Champions League",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/20/psg-vs-barcelona-live-champions-league?traffic_source=rss"
+    },
+    {
+      "index": 53,
+      "title": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406"
+    },
+    {
+      "index": 54,
+      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 55,
+      "title": "‘You have to sacrifice’: Trump voters stay loyal as US midterms approach",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach?traffic_source=rss"
+    },
+    {
+      "index": 56,
+      "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 57,
+      "title": "‘Not getting involved’: US Vice President refuses to endorse Netanyahu",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu?traffic_source=rss"
+    },
+    {
+      "index": 58,
+      "title": "France plans 'massive' weekend police surge amid protests",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/france-plans-massive-weekend-police-surge-amid-protests/live-79707186?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 59,
+      "title": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff"
+    },
+    {
+      "index": 60,
+      "title": "Germany news: Hackers release AfD party emails",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/germany-news-hackers-release-afd-party-emails/live-79709090?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 61,
+      "title": "Google says services recovering after cloud outage hits UK banks and websites",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 62,
+      "title": "Qatar revamped its entire defence system in six hours, intelligence chief reveals",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/10/20/qatar-revamped-its-entire-defence-system-in-six-hours-intelligence-chief-reveals"
+    },
+    {
+      "index": 63,
+      "title": "Trump Announces $8 Billion Plan to Cover Farm Losses",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html"
+    },
+    {
+      "index": 64,
+      "title": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html"
+    },
+    {
+      "index": 65,
+      "title": "Eastern Libya parliament approves 2019 maritime deal with Turkiye",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss"
+    },
+    {
+      "index": 66,
+      "title": "Trump Tariffs on Canada Spark Latest Lawsuit Over Trade Powers",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/business/trump-tariffs-canada-lawsuit.html"
+    },
+    {
+      "index": 67,
+      "title": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 68,
+      "title": "Who are the women powering India's youth-led protests?",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 69,
+      "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss"
+    },
+    {
+      "index": 70,
+      "title": "14 Dead After Gold Mine Collapses in Colombia",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/world/americas/colombia-gold-mine-collapse.html"
+    },
+    {
+      "index": 71,
+      "title": "Union attacks NatWest plans to get workers back to the office",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 72,
+      "title": "Five Salvadoran Soldiers Missing in Haiti After Ambush",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html"
+    },
+    {
+      "index": 73,
+      "title": "Heavy rain causes widespread flooding in France’s Marseille",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/10/20/heavy-rain-causes-widespread-flooding-in-frances-marseille"
+    },
+    {
+      "index": 74,
+      "title": "Alberta rejects separation referendum: What’s next for Canadian province?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss"
+    },
+    {
+      "index": 75,
+      "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss"
+    },
+    {
+      "index": 76,
+      "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326"
+    },
+    {
+      "index": 77,
+      "title": "Yemeni City of Taiz Running Out of Essentials as Houthis Close in",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html"
+    },
+    {
+      "index": 78,
+      "title": "Satirical AI video of Paris protests mirrors real-life tourist experiences",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss"
+    },
+    {
+      "index": 79,
+      "title": "A ‘Doom Loop’ Threatens France as Populism Confronts Markets",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html"
+    },
+    {
+      "index": 80,
+      "title": "'Tinubu Must Go!': Nigeria's northern protests test limits of political dissent",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/tinubu-must-go-nigeria-s-northern-protests-test-limits-of-political-dissent/a-79713785?maca=en-rss-en-all-1573-rdf"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        4,
+        10,
+        12,
+        22
+      ],
+      "score": 95,
+      "category": "conflict",
+      "rationale": "The escalation of Russian attacks on Ukrainian shipping and the resulting NATO response highlight a critical moment in the ongoing conflict."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2,
+        21,
+        26,
+        47,
+        58
+      ],
+      "score": 90,
+      "category": "society",
+      "rationale": "Widespread protests in France over affordability and public education reflect deep societal unrest and governmental challenges."
+    },
+    {
+      "representativeIndex": 7,
+      "memberIndices": [
+        7,
+        36,
+        37,
+        74
+      ],
+      "score": 85,
+      "category": "law",
+      "rationale": "The repeal of the 'Code Noir' in France marks a significant legal and cultural shift in addressing historical injustices."
+    },
+    {
+      "representativeIndex": 11,
+      "memberIndices": [
+        11,
+        69,
+        77
+      ],
+      "score": 80,
+      "category": "health",
+      "rationale": "The confirmation of Ebola cases in Kenya raises urgent public health concerns amid fears of regional spread."
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63,
+        66
+      ],
+      "score": 75,
+      "category": "economy",
+      "rationale": "Trump's $8 billion plan to cover farm losses addresses significant economic challenges faced by farmers amid rising diesel prices."
+    },
+    {
+      "representativeIndex": 19,
+      "memberIndices": [
+        19,
+        49
+      ],
+      "score": 70,
+      "category": "world",
+      "rationale": "The exploitation of North Korean workers in Russia underscores ongoing human rights abuses amid geopolitical tensions."
+    },
+    {
+      "representativeIndex": 8,
+      "memberIndices": [
+        8,
+        14,
+        33
+      ],
+      "score": 65,
+      "category": "economy",
+      "rationale": "Macron's energy deals in the Gulf are crucial for addressing France's rising fuel prices and securing energy stability."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        27
+      ],
+      "score": 60,
+      "category": "science",
+      "rationale": "The rush to market ketamine medicines represents a significant development in the treatment of mental health conditions."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5,
+        15
+      ],
+      "score": 55,
+      "category": "politics",
+      "rationale": "Zelensky's strategic communication with Trump reflects the complex dynamics of U.S.-Ukraine relations amid ongoing conflict."
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70,
+        54
+      ],
+      "score": 45,
+      "category": "disaster",
+      "rationale": "The collapse of a gold mine in Colombia illustrates the dangers associated with unregulated mining operations."
+    },
+    {
+      "representativeIndex": 43,
+      "memberIndices": [
+        43,
+        46
+      ],
+      "score": 40,
+      "category": "society",
+      "rationale": "The deployment of troops in Milan amid protests reflects the government's response to civil unrest and public safety concerns."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18,
+        35
+      ],
+      "score": 35,
+      "category": "technology",
+      "rationale": "The rise of Bitcoin yield platforms indicates a growing interest in cryptocurrency investment and financial innovation."
+    },
+    {
+      "representativeIndex": 50,
+      "memberIndices": [
+        50,
+        78
+      ],
+      "score": 30,
+      "category": "society",
+      "rationale": "The conflict over a wild coyote in Los Angeles highlights the tensions between urban wildlife and community safety."
+    },
+    {
+      "representativeIndex": 62,
+      "memberIndices": [
+        62,
+        40
+      ],
+      "score": 25,
+      "category": "world",
+      "rationale": "Qatar's rapid defense system overhaul reflects the shifting security landscape in the Middle East."
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55,
+        57
+      ],
+      "score": 20,
+      "category": "politics",
+      "rationale": "The loyalty of Trump voters amid rising economic pain illustrates the complexities of political allegiance in challenging times."
+    },
+    {
+      "representativeIndex": 72,
+      "memberIndices": [
+        72
+      ],
+      "score": 15,
+      "category": "conflict",
+      "rationale": "The ambush of Salvadoran soldiers in Haiti underscores the ongoing violence and instability in the region."
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38
+      ],
+      "score": 10,
+      "category": "world",
+      "rationale": "The economic ties between Cyprus and Israel highlight the geopolitical shifts in the Eastern Mediterranean."
+    },
+    {
+      "representativeIndex": 30,
+      "memberIndices": [
+        30,
+        34
+      ],
+      "score": 5,
+      "category": "world",
+      "rationale": "The EU's Arctic strategy reflects its efforts to navigate complex geopolitical interests in the region."
+    },
+    {
+      "representativeIndex": 56,
+      "memberIndices": [
+        56,
+        71
+      ],
+      "score": 3,
+      "category": "economy",
+      "rationale": "The job cuts at Paddy Power due to increased betting taxes illustrate the impact of regulatory changes on businesses."
+    },
+    {
+      "representativeIndex": 39,
+      "memberIndices": [
+        39,
+        52
+      ],
+      "score": 1,
+      "category": "sport",
+      "rationale": "The soaring ticket prices for Knicks games post-championship reflect the intersection of sports and economic trends."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6
+      ],
+      "score": 19.925,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 9,
+      "memberIndices": [
+        9
+      ],
+      "score": 19.8875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 13,
+      "memberIndices": [
+        13
+      ],
+      "score": 19.8375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 16,
+      "memberIndices": [
+        16
+      ],
+      "score": 19.8,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        17
+      ],
+      "score": 19.7875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 20,
+      "memberIndices": [
+        20
+      ],
+      "score": 19.75,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 24,
+      "memberIndices": [
+        24
+      ],
+      "score": 19.7,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 25,
+      "memberIndices": [
+        25
+      ],
+      "score": 19.6875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 28,
+      "memberIndices": [
+        28
+      ],
+      "score": 19.65,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 29,
+      "memberIndices": [
+        29
+      ],
+      "score": 19.6375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 31,
+      "memberIndices": [
+        31
+      ],
+      "score": 19.6125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32
+      ],
+      "score": 19.6,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 41,
+      "memberIndices": [
+        41
+      ],
+      "score": 19.4875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 42,
+      "memberIndices": [
+        42
+      ],
+      "score": 19.475,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 44,
+      "memberIndices": [
+        44
+      ],
+      "score": 19.45,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 19.4375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 48,
+      "memberIndices": [
+        48
+      ],
+      "score": 19.4,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 51,
+      "memberIndices": [
+        51
+      ],
+      "score": 19.3625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 59,
+      "memberIndices": [
+        59
+      ],
+      "score": 19.2625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60
+      ],
+      "score": 19.25,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 61,
+      "memberIndices": [
+        61
+      ],
+      "score": 19.2375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64
+      ],
+      "score": 19.2,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.1875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 67,
+      "memberIndices": [
+        67
+      ],
+      "score": 19.1625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 68,
+      "memberIndices": [
+        68
+      ],
+      "score": 19.15,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 73,
+      "memberIndices": [
+        73
+      ],
+      "score": 19.0875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 75,
+      "memberIndices": [
+        75
+      ],
+      "score": 19.0625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76
+      ],
+      "score": 19.05,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 19.0125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 19,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 11258,
+      "usage": {
+        "inputTokens": 7433,
+        "outputTokens": 929,
+        "totalTokens": 8362
+      },
+      "estimatedCostUsd": 0.00167235,
+      "returnedCount": 21,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 12018,
+      "usage": {
+        "inputTokens": 1228,
+        "outputTokens": 1064,
+        "totalTokens": 2292
+      },
+      "estimatedCostUsd": 0.0008225999999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 14568,
+      "usage": {
+        "inputTokens": 1372,
+        "outputTokens": 1198,
+        "totalTokens": 2570
+      },
+      "estimatedCostUsd": 0.0009245999999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 10248,
+      "usage": {
+        "inputTokens": 1035,
+        "outputTokens": 1038,
+        "totalTokens": 2073
+      },
+      "estimatedCostUsd": 0.00077805,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 21464,
+      "usage": {
+        "inputTokens": 1847,
+        "outputTokens": 2517,
+        "totalTokens": 4364
+      },
+      "estimatedCostUsd": 0.00178725,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 30943,
+      "usage": {
+        "inputTokens": 2054,
+        "outputTokens": 3046,
+        "totalTokens": 5100
+      },
+      "estimatedCostUsd": 0.0021357,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 23932,
+      "usage": {
+        "inputTokens": 1585,
+        "outputTokens": 2694,
+        "totalTokens": 4279
+      },
+      "estimatedCostUsd": 0.00185415,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-10-20T18:04:01.753Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.009974700000000001,
+    "complete": true,
+    "inputTokens": 16554,
+    "outputTokens": 12486,
+    "totalTokens": 29040,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships",
+          "source": "The Guardian",
+          "title_en": "Nato increases Black Sea deployment amid escalating deadly Russian attacks"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html",
+          "source": "New York Times",
+          "title_en": "Heading to France? Amid Recent Unrest, Here’s What to Know"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/20/france-senate-code-noir-slavery.html",
+          "source": "New York Times",
+          "title_en": "178 Years After Banning Slavery, France Scraps ‘Code Noir’ Rules That Governed It"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Kenya confirms ninth Ebola case amid concerns about regional spread"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html",
+          "source": "New York Times",
+          "title_en": "Trump Announces $8 Billion Plan to Cover Farm Losses"
+        },
+        {
+          "link": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "North Korean workers treated as 'slaves' at Russian drone factory, says new report"
+        },
+        {
+          "link": "https://www.euronews.com/2026/10/20/frances-macron-begins-state-visit-to-qatar-as-part-of-wider-gulf-tour",
+          "source": "Euronews",
+          "title_en": "France's Macron begins state visit to Qatar as part of wider Gulf tour"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/20/science/ketamine-fda-spravato-ketafree.html",
+          "source": "New York Times",
+          "title_en": "Why Drug Companies Are Rushing to Market Ketamine Medicines"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
+          "source": "New York Times",
+          "title_en": "Why Zelensky Took the Gloves Off This Time With Trump"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/20/world/americas/colombia-gold-mine-collapse.html",
+          "source": "New York Times",
+          "title_en": "14 Dead After Gold Mine Collapses in Colombia"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+          "source": "The Guardian",
+          "title_en": "Italy to deploy 500 troops to Milan after days of protests and looting"
+        },
+        {
+          "link": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
+          "source": "The Block",
+          "title_en": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/oct/20/atwater-village-coyote-attacks-los-angeles",
+          "source": "The Guardian",
+          "title_en": "Trendy LA neighborhood’s war over wild coyote erupts after child attacked"
+        },
+        {
+          "link": "https://www.euronews.com/2026/10/20/qatar-revamped-its-entire-defence-system-in-six-hours-intelligence-chief-reveals",
+          "source": "Euronews",
+          "title_en": "Qatar revamped its entire defence system in six hours, intelligence chief reveals"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "‘You have to sacrifice’: Trump voters stay loyal as US midterms approach"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/oct/20/baby-who-died-from-meningitis-may-have-been-saved-if-tested-sooner-inquest-finds",
+          "source": "The Guardian",
+          "title_en": "Baby who died from meningitis may have been saved if tested sooner, inquest finds"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "UK government to make Jackdaw gas field announcement"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/oct/20/cornell-student-alleging-sexual-assault-letter",
+          "source": "The Guardian",
+          "title_en": "Ex-student alleging sexual assault felt ‘unsupported’ by Cornell president"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/oct/20/tommy-robinson-threatened-families-mail-journalists-famous-court-hears",
+          "source": "The Guardian",
+          "title_en": "Tommy Robinson threatened to make families of Mail journalists ‘famous’, court hears"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/oct/20/covid-inquiry-recommendations-fail-to-impress-bereaved-families",
+          "source": "The Guardian",
+          "title_en": "‘Superficial damp squib’: Covid inquiry recommendations fail to impress bereaved families"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/doha-debates/2026/10/20/how-does-language-affect-how-we-think?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "How does language affect how we think?"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "'Great result for Canada', says Carney as Alberta votes to reject separatism"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ben-gvir-mocks-gaza-destruction-in-ai-generated-video?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Ben-Gvir mocks Gaza destruction in AI-generated video"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption",
+          "source": "The Guardian",
+          "title_en": "‘Too big to not fail’: Google outage exposes UK reliance on a handful of cloud providers"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/oct/20/great-white-shark-photobomb-california",
+          "source": "The Guardian",
+          "title_en": "Great white shark leaps from water and photobombs California beachgoers"
+        },
+        {
+          "link": "https://www.theguardian.com/business/2026/oct/20/natwest-staff-back-two-days-a-week-policy",
+          "source": "The Guardian",
+          "title_en": "NatWest cracks down on 13,000 staff attending office two days a month"
+        },
+        {
+          "link": "https://www.euronews.com/2026/10/20/irgc-mines-set-tankers-ablaze-as-tehran-threatens-expanded-attacks",
+          "source": "Euronews",
+          "title_en": "IRGC mines set tankers ablaze as Tehran threatens expanded attacks"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/20/turkiye-moves-to-ratify-mecca-joint-defence-agreement?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia"
+        },
+        {
+          "link": "https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421",
+          "source": "The Block",
+          "title_en": "OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html",
+          "source": "New York Times",
+          "title_en": "Investors in Anticipation Over Musk’s Next Big SpaceX Deal"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships",
+          "source": "The Guardian",
+          "title_en": "Nato increases Black Sea deployment amid escalating deadly Russian attacks"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html",
+          "source": "New York Times",
+          "title_en": "Heading to France? Amid Recent Unrest, Here’s What to Know"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/20/france-senate-code-noir-slavery.html",
+          "source": "New York Times",
+          "title_en": "178 Years After Banning Slavery, France Scraps ‘Code Noir’ Rules That Governed It"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Kenya confirms ninth Ebola case amid concerns about regional spread"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html",
+          "source": "New York Times",
+          "title_en": "Trump Announces $8 Billion Plan to Cover Farm Losses"
+        },
+        {
+          "link": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "North Korean workers treated as 'slaves' at Russian drone factory, says new report"
+        },
+        {
+          "link": "https://www.euronews.com/2026/10/20/frances-macron-begins-state-visit-to-qatar-as-part-of-wider-gulf-tour",
+          "source": "Euronews",
+          "title_en": "France's Macron begins state visit to Qatar as part of wider Gulf tour"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/20/science/ketamine-fda-spravato-ketafree.html",
+          "source": "New York Times",
+          "title_en": "Why Drug Companies Are Rushing to Market Ketamine Medicines"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
+          "source": "New York Times",
+          "title_en": "Why Zelensky Took the Gloves Off This Time With Trump"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/20/world/americas/colombia-gold-mine-collapse.html",
+          "source": "New York Times",
+          "title_en": "14 Dead After Gold Mine Collapses in Colombia"
+        }
+      ],
+      "contentHashes": {
+        "ru": "053b8297a160c2bda75ad9fe69c7647b88d8a46ec41414038f547cce97b1d9c7",
+        "en": "36956d65cb7f3c69b72e0ab519cffb633cfe10ea7baec333cdb26c671080e507"
+      }
+    }
+  }
+}
