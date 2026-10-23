@@ -1,431 +1,491 @@
 {
-  "generatedAt": "2026-10-22T18:11:51.836Z",
-  "date": "2026-10-22",
-  "slot": "evening",
-  "periodHours": 11.930159722222223,
+  "generatedAt": "2026-10-23T06:06:49.638Z",
+  "date": "2026-10-23",
+  "slot": "morning",
+  "periodHours": 11.826644444444444,
   "intro": {
     "ru": "Главные мировые события за последние несколько часов — 30 коротких новостей.",
     "en": "The latest major world events in 30 concise stories."
   },
   "stories": [
     {
-      "link": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
-      "source": "The Guardian",
+      "link": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
+      "source": "New York Times",
       "title": {
-        "ru": "Россия обстреливает Киев ракетами через несколько часов после согласия возобновить переговоры с Украиной",
-        "en": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine"
+        "ru": "Мощное землетрясение в Тибете унесло жизни как минимум 16 человек",
+        "en": "Powerful Earthquake in Tibet Kills at Least 16"
       },
       "summary": {
-        "ru": "Россия нанесла массированный ракетный удар по Киеву, убив как минимум двоих человек и ранив 22, включая четырех детей. Это произошло всего через несколько часов после того, как Путин согласился возобновить переговоры с Украиной.",
-        "en": "Russia carried out a massive missile attack on Kyiv, killing at least two people and wounding 22, including four children, just hours after Putin agreed to resume talks with Ukraine."
+        "ru": "В результате землетрясения магнитудой 7.0 пострадали десятки людей, более 300 домов были разрушены, сообщают государственные СМИ.",
+        "en": "A 7.0-magnitude earthquake injured dozens and toppled over 300 homes, state media reported."
+      },
+      "category": {
+        "ru": "Катастрофа",
+        "en": "Disaster"
+      },
+      "longBody": {
+        "ru": "В Тибете произошло мощное землетрясение магнитудой 7.0, которое унесло жизни как минимум 16 человек. По сообщениям государственных СМИ, десятки людей получили травмы, а более 300 домов были разрушены. Это землетрясение вызвало панику среди местных жителей, которые в спешке покидали свои дома в холодную ночь.\n\nСитуация в регионе остается напряженной, так как спасательные службы работают над оценкой ущерба и оказанием помощи пострадавшим. Местные власти призывают жителей соблюдать осторожность и следить за возможными повторными толчками. Ожидается, что количество жертв может возрасти по мере поступления новых данных о пострадавших.",
+        "en": "A powerful 7.0-magnitude earthquake struck Tibet, resulting in the deaths of at least 16 people. State media reported that dozens were injured and over 300 homes were toppled. The quake sent residents fleeing into the cold night air in panic.\n\nThe situation in the region remains tense as rescue services work to assess the damage and provide assistance to those affected. Local authorities are urging residents to exercise caution and remain vigilant for potential aftershocks. The death toll may rise as new information about the injured comes in."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Moshchnoe-zemletryasenie-v-Tibete-uneslo-zhizni-kak-minimum-16-chelovek-10-23",
+        "en": "https://telegra.ph/Powerful-Earthquake-in-Tibet-Kills-at-Least-16-10-23-2"
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Гонка вооружений в Корее усиливается на фоне альянса с Россией",
+        "en": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance"
+      },
+      "summary": {
+        "ru": "Редкая эскалация в этом месяце продемонстрировала нарастающие арсеналы, которые накапливают обе Кореи на самой охраняемой границе мира.",
+        "en": "A rare escalation this month revealed the increasing arsenals both Koreas are building along the world's most fortified border."
       },
       "category": {
         "ru": "Конфликт",
         "en": "Conflict"
       },
       "longBody": {
-        "ru": "Россия осуществила массированный ракетный удар по Киеву, в результате которого погибли как минимум два человека и 22 получили ранения, включая четырех детей. Этот нападение произошло всего через несколько часов после того, как президент Владимир Путин заявил о готовности возобновить переговоры с Украиной. \n\nАтака была направлена на ключевые объекты, включая мост через реку Днепр, жилые дома и энергетическую инфраструктуру. Эксперты отмечают, что Россия пытается разрушить энергетические ресурсы Украины перед наступлением зимы, что может усугубить гуманитарную ситуацию в стране.\n\nДанный инцидент подчеркивает нестабильность в регионе и сложность мирных переговоров, которые, как надеются, могут привести к прекращению боевых действий.",
-        "en": "Russia carried out a massive missile attack on Kyiv, killing at least two people and wounding 22, including four children. This assault occurred just hours after President Vladimir Putin expressed readiness to resume talks with Ukraine. \n\nThe attack targeted key sites, including the southern bridge over the Dnipro River, civilian houses, and energy infrastructure. Experts note that Russia is attempting to destroy Ukraine's energy resources ahead of winter, which could exacerbate the humanitarian situation in the country.\n\nThis incident highlights the instability in the region and the challenges of peace negotiations, which are hoped to lead to an end to hostilities."
+        "ru": "В этом месяце на Корейском полуострове произошла редкая эскалация напряженности, которая продемонстрировала нарастающие арсеналы, накапливаемые обеими Кореями. Эти события происходят на самой охраняемой границе мира, где обе стороны продолжают усиливать свои военные возможности.\n\nСитуация остается сложной, и международное сообщество внимательно следит за развитием событий. Увеличение военных запасов обеих стран вызывает опасения по поводу возможного конфликта и дальнейшей дестабилизации региона. Эксперты подчеркивают необходимость диалога для снижения напряженности и предотвращения эскалации конфликта.",
+        "en": "This month, a rare escalation on the Korean Peninsula revealed the increasing arsenals both Koreas are building along the world's most fortified border. These developments have raised concerns about the potential for conflict and further destabilization in the region.\n\nThe situation remains complex, and the international community is closely monitoring the events. The buildup of military capabilities by both sides raises fears of a possible confrontation. Experts emphasize the need for dialogue to de-escalate tensions and prevent conflict."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Rossiya-obstrelivaet-Kiev-raketami-cherez-neskolko-chasov-posle-soglasiya-vozobnovit-peregovory-s-Ukrainoj-10-22",
-        "en": "https://telegra.ph/Russia-bombards-Kyiv-with-missiles-hours-after-agreeing-to-resume-talks-with-Ukraine-10-22"
+        "ru": "https://telegra.ph/Gonka-vooruzhenij-v-Koree-usilivaetsya-na-fone-alyansa-s-Rossiej-10-23",
+        "en": "https://telegra.ph/Arms-Race-Intensifies-in-Korea-as-the-North-Is-Emboldened-by-Russia-Alliance-10-23-2"
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Эпидемия Эболы в Африке достигает самого широкого распространения",
-        "en": "Ebola Outbreak in Africa Reaches Widest Expansion Ever"
-      },
-      "summary": {
-        "ru": "Здравоохранительные органы срочно ищут ответы о происхождении нового случая, выявленного в Нигерии, первом в этой стране Западной Африки. ",
-        "en": "Health officials are urgently seeking answers about the origins of a newly identified case in Nigeria, the first in that West African nation."
-      },
-      "category": {
-        "ru": "Здоровье",
-        "en": "Health"
-      },
-      "longBody": {
-        "ru": "Здравоохранительные органы в Нигерии срочно ищут ответы о происхождении нового случая вируса Эбола, который был выявлен в этой стране, став первым зарегистрированным случаем в Западной Африке. \n\nСпециалисты работают над тем, чтобы отследить возможные источники заражения и предотвратить дальнейшее распространение вируса. Власти призывают население соблюдать меры предосторожности и быть внимательными к симптомам болезни. \n\nЭта ситуация вызывает тревогу среди общественности и медицинских работников, так как вспышки Эбола могут иметь серьезные последствия для здоровья населения и системы здравоохранения в регионе.",
-        "en": "Health officials in Nigeria are urgently seeking answers about the origins of a newly identified case of Ebola, marking the first registered case in West Africa. \n\nExperts are working to trace potential sources of infection and prevent further spread of the virus. Authorities are urging the public to adhere to safety measures and be vigilant for symptoms of the disease. \n\nThis situation raises concerns among the public and healthcare workers, as Ebola outbreaks can have serious implications for public health and healthcare systems in the region."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/EHpidemiya-EHboly-v-Afrike-dostigaet-samogo-shirokogo-rasprostraneniya-10-22",
-        "en": "https://telegra.ph/Ebola-Outbreak-in-Africa-Reaches-Widest-Expansion-Ever-10-22"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/economy/2026/10/22/rising-costs-and-tight-budgets-strain-americans-ahead-of-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Растущие расходы и ограниченные бюджеты испытывают американцев перед промежуточными выборами",
-        "en": "Rising costs and tight budgets strain Americans ahead of midterm elections"
-      },
-      "summary": {
-        "ru": "Растущие расходы заставляют американских работников совмещать несколько работ, так как финансовая безопасность становится все более недостижимой. ",
-        "en": "Rising costs leave US workers juggling multiple jobs as financial security becomes increasingly elusive."
-      },
-      "category": {
-        "ru": "Экономика",
-        "en": "Economy"
-      },
-      "longBody": {
-        "ru": "Растущие расходы в США заставляют работников совмещать несколько работ, так как финансовая безопасность становится все более недостижимой. \n\nМногие американцы сталкиваются с трудностями в обеспечении своих базовых потребностей, что приводит к необходимости искать дополнительные источники дохода. Экономическая ситуация усугубляется ростом цен на жилье и услуги, что создает дополнительные финансовые нагрузки на домохозяйства. \n\nВ условиях таких вызовов работники ищут способы адаптироваться, но это также поднимает вопросы о будущем финансовой стабильности и благосостояния населения.",
-        "en": "Rising costs in the U.S. are forcing workers to juggle multiple jobs as financial security becomes increasingly elusive. \n\nMany Americans are struggling to meet their basic needs, leading to the necessity of seeking additional sources of income. The economic situation is compounded by rising housing and service costs, creating further financial burdens on households. \n\nIn the face of these challenges, workers are looking for ways to adapt, but this also raises questions about the future of financial stability and the well-being of the population."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Rastushchie-rashody-i-ogranichennye-byudzhety-ispytyvayut-amerikancev-pered-promezhutochnymi-vyborami-10-22",
-        "en": "https://telegra.ph/Rising-costs-and-tight-budgets-strain-Americans-ahead-of-midterm-elections-10-22"
-      }
-    },
-    {
-      "link": "https://www.dw.com/en/france-s-macron-says-illegitimate-protests-will-be-banned-in-coming-days/a-79735137?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "title": {
-        "ru": "Макрон заявляет, что «незаконные» протесты будут запрещены в ближайшие дни",
-        "en": "France's Macron says 'illegitimate' protests will be banned in coming days"
-      },
-      "summary": {
-        "ru": "Президент Франции Эммануэль Макрон пообещал запретить несанкционированные протесты после насилия и грабежей во Франции. Власти готовятся к новым протестам на фоне растущего недовольства по поводу общественных услуг и стоимости жизни.",
-        "en": "French President Emmanuel Macron vowed to ban unauthorized protests after violence and looting rocked France. Authorities are bracing for more protests amid growing anger over public services and the cost of living."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "Президент Франции Эммануэль Макрон пообещал запретить несанкционированные протесты после того, как страна столкнулась с насилием и грабежами. \n\nВласти готовятся к новым протестам на фоне растущего недовольства по поводу общественных услуг и стоимости жизни. Макрон заявил, что такие действия будут рассматриваться как «незаконные», и призвал к порядку. \n\nЭти меры вызывают обеспокоенность среди правозащитников, которые предупреждают о возможных последствиях для свободы собраний и выражения мнений в стране.",
-        "en": "French President Emmanuel Macron vowed to ban unauthorized protests after the country experienced violence and looting. \n\nAuthorities are bracing for more protests amid growing anger over public services and the cost of living. Macron stated that such actions would be deemed 'illegitimate' and called for order. \n\nThese measures raise concerns among human rights advocates, who warn of potential implications for the freedom of assembly and expression in the country."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Makron-zayavlyaet-chto-nezakonnye-protesty-budut-zapreshcheny-v-blizhajshie-dni-10-22",
-        "en": "https://telegra.ph/Frances-Macron-says-illegitimate-protests-will-be-banned-in-coming-days-10-22"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Международный уголовный суд, находящийся под санкциями США, получает высшую награду ЕС по правам человека",
-        "en": "US-sanctioned ICC wins top EU human rights award"
-      },
-      "summary": {
-        "ru": "ЕС наградил Международный уголовный суд его высшей наградой за права человека. ",
-        "en": "The EU has awarded the International Criminal Court its top human rights award."
-      },
-      "category": {
-        "ru": "Право",
-        "en": "Law"
-      },
-      "longBody": {
-        "ru": "Европейский Союз наградил Международный уголовный суд его высшей наградой за права человека. \n\nЭта награда подчеркивает важность работы суда в области защиты прав человека и справедливости на международной арене. Международный уголовный суд продолжает свою миссию по привлечению к ответственности тех, кто совершает тяжкие преступления. \n\nНаграда также служит напоминанием о необходимости поддержки международных механизмов правосудия в условиях глобальных вызовов.",
-        "en": "The European Union has awarded the International Criminal Court its top human rights award. \n\nThis award highlights the importance of the court's work in the field of human rights protection and justice on the international stage. The International Criminal Court continues its mission to hold accountable those who commit serious crimes. \n\nThe award also serves as a reminder of the need to support international justice mechanisms in the face of global challenges."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Mezhdunarodnyj-ugolovnyj-sud-nahodyashchijsya-pod-sankciyami-SSHA-poluchaet-vysshuyu-nagradu-ES-po-pravam-cheloveka-10-22",
-        "en": "https://telegra.ph/US-sanctioned-ICC-wins-top-EU-human-rights-award-10-22"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Искусственный интеллект и его опасности внедрены в промежуточные выборы",
-        "en": "A.I. and Its Dangers Are Embedded In the Midterm Elections"
-      },
-      "summary": {
-        "ru": "Промежуточные выборы стали первыми выборами, в которых искусственный интеллект интегрирован во все основные платформы социальных медиа. Усилия по смягчению его вреда неравномерны.",
-        "en": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven."
-      },
-      "category": {
-        "ru": "Технологии",
-        "en": "Technology"
-      },
-      "longBody": {
-        "ru": "Промежуточные выборы в США стали первыми выборами, в которых искусственный интеллект интегрирован во все основные платформы социальных медиа. \n\nЭто вызывает опасения по поводу возможного влияния ИИ на выборный процесс и распространение дезинформации. Усилия по смягчению вреда от ИИ неравномерны, что может привести к различным последствиям для избирателей. \n\nЭксперты подчеркивают необходимость более строгого контроля и регулирования использования технологий в политических кампаниях.",
-        "en": "The midterm elections in the U.S. are the first elections in which artificial intelligence is integrated into every major social media platform. \n\nThis raises concerns about the potential impact of AI on the electoral process and the spread of misinformation. Efforts to mitigate the harms of AI are uneven, which could lead to varying consequences for voters. \n\nExperts emphasize the need for stricter oversight and regulation of technology use in political campaigns."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Iskusstvennyj-intellekt-i-ego-opasnosti-vnedreny-v-promezhutochnye-vybory-10-22",
-        "en": "https://telegra.ph/AI-and-Its-Dangers-Are-Embedded-In-the-Midterm-Elections-10-22-2"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
+      "link": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
       "source": "The Guardian",
       "title": {
-        "ru": "Энди Бернхэм обещает, что Великобритания достигнет цели по нулевым выбросам, несмотря на одобрение газового месторождения Джекдоу",
-        "en": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval"
+        "ru": "Летняя жара убила «поразительные» 50 000 человек в европейских городах, предупреждают ученые",
+        "en": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn"
       },
       "summary": {
-        "ru": "Премьер-министр пообещал, что его правительство будет бороться с климатическим кризисом, несмотря на одобрение газового месторождения Джекдоу. Он заявил, что не одобрит новые лицензии на добычу в Северном море.",
-        "en": "The prime minister pledged his government’s commitment to address the climate crisis after the approval of the Jackdaw gasfield, stating he would not approve any new North Sea licenses."
+        "ru": "По данным новых исследований, жара убила рекордные 50 000 человек в европейских городах этим летом, причем климатические изменения стали причиной двух из каждых трех смертей.",
+        "en": "New research suggests heat killed a record 50,000 people in European cities this summer, with climate breakdown blamed for two in every three deaths."
       },
       "category": {
         "ru": "Климат",
         "en": "Climate"
       },
       "longBody": {
-        "ru": "Премьер-министр Великобритании пообещал, что его правительство будет активно бороться с климатическим кризисом, несмотря на недавнее одобрение газового месторождения Джекдоу. \n\nОн заявил, что не будет одобрять новые лицензии на добычу в Северном море и что его правительство стремится достичь цели по углеродной нейтральности к 2050 году. \n\nЭти заявления подчеркивают приверженность правительства к устойчивому развитию и защите окружающей среды, несмотря на давление со стороны энергетического сектора.",
-        "en": "The Prime Minister of the UK pledged that his government would actively combat the climate crisis despite the recent approval of the Jackdaw gasfield. \n\nHe stated that he would not approve any new North Sea licenses and that his government is committed to achieving net-zero targets by 2050. \n\nThese statements underscore the government's commitment to sustainable development and environmental protection, despite pressure from the energy sector."
+        "ru": "По данным новых исследований, жара этого лета убила рекордные 50 000 человек в европейских городах. Ученые утверждают, что климатические изменения стали причиной двух из каждых трех смертей, связанных с жарой. Наибольшее количество жертв было зафиксировано в Мальте, Италии и Венгрии.\n\nСитуация усугубляется проблемами со здоровьем, одиночеством и бедностью, которые увеличивают уязвимость населения в условиях экстремальной жары. В период с июня по август морги и похоронные дома были переполнены телами, что подчеркивает серьезность этой климатической катастрофы.",
+        "en": "New research suggests that heat killed a record 50,000 people in European cities this summer, with climate breakdown blamed for two in every three deaths. The highest rates of mortality were recorded in Malta, Italy, and Hungary.\n\nThe situation is exacerbated by health issues, loneliness, and poverty, which increase vulnerability during extreme heat. From June to August, morgues and funeral homes were filled with bodies, highlighting the severity of this climate crisis."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/EHndi-Bernhehm-obeshchaet-chto-Velikobritaniya-dostignet-celi-po-nulevym-vybrosam-nesmotrya-na-odobrenie-gazovogo-mestorozhdeniy-10-22",
-        "en": "https://telegra.ph/Andy-Burnham-vows-UK-will-hit-net-zero-target-despite-Jackdaw-gasfield-approval-10-22"
+        "ru": "https://telegra.ph/Letnyaya-zhara-ubila-porazitelnye-50-000-chelovek-v-evropejskih-gorodah-preduprezhdayut-uchenye-10-23",
+        "en": "https://telegra.ph/Heat-killed-staggering-50000-people-in-Europes-cities-this-summer-scientists-warn-10-23"
       }
     },
     {
-      "link": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Почему студенческое движение протеста бросает вызов 12-летнему правлению Вучича в Сербии",
-        "en": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia"
-      },
-      "summary": {
-        "ru": "После двух лет студенческих протестов сербы голосуют в воскресенье на выборах, которые могут свергнуть правящую партию. ",
-        "en": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "После двух лет студенческих протестов в Сербии, граждане готовятся голосовать на выборах, которые могут привести к свержению правящей партии. \n\nСтуденты, выступающие против коррупции и недостатков в системе образования, надеются, что их усилия приведут к изменениям на политической арене. Эти выборы могут стать важным моментом для страны, стремящейся к демократическим реформам. \n\nОбострение политической ситуации также подчеркивает необходимость диалога между правительством и молодежью, чтобы учесть их требования и ожидания.",
-        "en": "After two years of student protests in Serbia, citizens are preparing to vote in elections that could lead to the downfall of the ruling party. \n\nStudents advocating against corruption and deficiencies in the education system hope their efforts will bring about changes in the political landscape. These elections could mark a significant moment for a country striving for democratic reforms. \n\nThe escalating political situation also highlights the need for dialogue between the government and youth to address their demands and expectations."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Pochemu-studencheskoe-dvizhenie-protesta-brosaet-vyzov-12-letnemu-pravleniyu-Vuchicha-v-Serbii-10-22",
-        "en": "https://telegra.ph/Why-a-student-protest-movement-is-challenging-12-years-of-Vučić-rule-in-Serbia-10-22"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "ФИФА объявляет, что США примут первый Кубок мира среди женских клубов в 2028 году",
-        "en": "FIFA announces USA to host first Women’s Club World Cup in 2028"
+        "ru": "Тысячи протестуют по всей Польше за доступ к бесплатным и легальным абортам",
+        "en": "Thousands protest across Poland for access to free and legal abortions"
       },
       "summary": {
-        "ru": "ФИФА проведет первый Кубок мира среди женских клубов с участием 16 лучших команд футбола в США в 2028 году. ",
-        "en": "FIFA to stage inaugural Women's Club World Cup, with 16 of football's top teams, in the United States in 2028."
+        "ru": "Демонстранты собрались в шестую годовщину почти тотального запрета абортов, введенного высшим судом Польши.",
+        "en": "Demonstrators gathered on the sixth anniversary of a near-total abortion ban imposed by Poland's highest court."
       },
       "category": {
-        "ru": "Спорт",
-        "en": "Sport"
+        "ru": "Здоровье",
+        "en": "Health"
       },
       "longBody": {
-        "ru": "ФИФА объявила о проведении первого Кубка мира среди женских клубов в 2028 году в США, в котором примут участие 16 лучших команд футбольного мира. \n\nЭто событие станет важным шагом в развитии женского футбола и привлечении внимания к этому виду спорта. Ожидается, что турнир поможет повысить интерес к женскому футболу и поддержит его дальнейшее развитие на международной арене. \n\nФИФА продолжает свои усилия по продвижению равенства и инклюзивности в спорте, и этот турнир станет важным шагом в этом направлении.",
-        "en": "FIFA announced that it will host the inaugural Women's Club World Cup in 2028 in the United States, featuring 16 of football's top teams. \n\nThis event will be an important step in the development of women's football and in drawing attention to the sport. The tournament is expected to help boost interest in women's football and support its further development on the international stage. \n\nFIFA continues its efforts to promote equality and inclusivity in sports, and this tournament will be a significant step in that direction."
+        "ru": "Демонстранты собрались в Польше в шестую годовщину почти тотального запрета абортов, введенного высшим судом страны. Протесты отражают недовольство общества и стремление к изменению законодательства в области репродуктивных прав.\n\nУчастники акций требуют доступа к безопасным и легальным абортам, подчеркивая важность прав женщин на собственное тело. Эти протесты стали частью более широкого движения за права человека и социальную справедливость в стране.",
+        "en": "Demonstrators gathered in Poland on the sixth anniversary of a near-total abortion ban imposed by the country's highest court. The protests reflect public discontent and a desire for changes in reproductive rights legislation.\n\nParticipants in the rallies are demanding access to safe and legal abortions, emphasizing the importance of women's rights over their own bodies. These protests are part of a broader movement for human rights and social justice in the country."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/FIFA-obyavlyaet-chto-SSHA-primut-pervyj-Kubok-mira-sredi-zhenskih-klubov-v-2028-godu-10-22",
-        "en": "https://telegra.ph/FIFA-announces-USA-to-host-first-Womens-Club-World-Cup-in-2028-10-22"
+        "ru": "https://telegra.ph/Tysyachi-protestuyut-po-vsej-Polshe-za-dostup-k-besplatnym-i-legalnym-abortam-10-23",
+        "en": "https://telegra.ph/Thousands-protest-across-Poland-for-access-to-free-and-legal-abortions-10-23"
       }
     },
     {
-      "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+      "link": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia",
       "source": "The Guardian",
       "title": {
-        "ru": "Тодд Бланш не исключает вмешательства Минюста в процесс сертификации результатов выборов в штатах – новости политики США в прямом эфире",
-        "en": "Todd Blanche fails to rule out DoJ weighing in on states’ election results certifying process – US politics live"
+        "ru": "Пятничный брифинг: Как группа студентов без лидера бросает вызов власти в Сербии",
+        "en": "Friday briefing: How a leaderless student group is challenging power in Serbia"
       },
       "summary": {
-        "ru": "Генеральный прокурор заявил, что «есть сценарии, которые мы все можем придумать», когда его спросили, будет ли Минюст вмешиваться, чтобы остановить сертификацию выборов штатами. ",
-        "en": "The attorney general said ‘there’s scenarios we could all come up with’ when asked if DoJ would intercede to stop states from certifying election."
+        "ru": "Сформированная из-за гнева вокруг катастрофы на станции Нови-Сад, Студенческий список Сербии проводит протесты на выборах в рамках беспрецедентной кампании.",
+        "en": "Born from the fury surrounding the Novi Sad station collapse, Serbia’s Student List is taking its protests to the elections in an unprecedented grassroots campaign."
       },
       "category": {
         "ru": "Политика",
         "en": "Politics"
       },
       "longBody": {
-        "ru": "Генеральный прокурор США заявил, что существуют сценарии, при которых Министерство юстиции может вмешаться, чтобы остановить сертификацию выборов штатами. \n\nЭто заявление вызвало обеспокоенность среди наблюдателей, так как оно поднимает вопросы о независимости выборного процесса. Обсуждение таких сценариев происходит на фоне предстоящих промежуточных выборов и растущих опасений по поводу возможных манипуляций с результатами голосования. \n\nЭксперты призывают к прозрачности и соблюдению законности в процессе сертификации выборов, чтобы обеспечить доверие к демократическим институтам.",
-        "en": "The U.S. Attorney General stated that there are scenarios in which the Department of Justice could intervene to stop states from certifying elections. \n\nThis statement raised concerns among observers as it brings into question the independence of the electoral process. The discussion of such scenarios comes amid the upcoming midterm elections and growing fears about potential manipulation of voting results. \n\nExperts are calling for transparency and adherence to legality in the election certification process to ensure trust in democratic institutions."
+        "ru": "В Сербии сформировалась новая политическая сила, известная как Студенческий список, которая возникла в ответ на гнев по поводу катастрофы на станции Нови-Сад. Эта группа проводит протесты и участвует в выборах в рамках беспрецедентной кампании.\n\nМолодежные протесты в Сербии становятся все более заметными на фоне социальных и экономических проблем, таких как высокая стоимость жизни и недоступное жилье. Студенческий список представляет собой важное политическое движение, которое стремится изменить существующий порядок и привлечь внимание к проблемам молодежи.",
+        "en": "In Serbia, a new political force known as the Student List has emerged in response to the outrage surrounding the Novi Sad station collapse. This group is conducting protests and participating in elections as part of an unprecedented campaign.\n\nYouth-led protests in Serbia are becoming increasingly visible against the backdrop of social and economic issues, such as high living costs and unaffordable housing. The Student List represents a significant political movement aiming to change the status quo and draw attention to youth issues."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Todd-Blansh-ne-isklyuchaet-vmeshatelstva-Minyusta-v-process-sertifikacii-rezultatov-vyborov-v-shtatah--novosti-politiki-SSHA-v-p-10-22",
-        "en": "https://telegra.ph/Todd-Blanche-fails-to-rule-out-DoJ-weighing-in-on-states-election-results-certifying-process--US-politics-live-10-22"
+        "ru": "https://telegra.ph/Pyatnichnyj-brifing-Kak-gruppa-studentov-bez-lidera-brosaet-vyzov-vlasti-v-Serbii-10-23",
+        "en": "https://telegra.ph/Friday-briefing-How-a-leaderless-student-group-is-challenging-power-in-Serbia-10-23"
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-      "source": "New York Times",
+      "link": "https://www.theguardian.com/business/2026/oct/23/jim-chalmers-hard-choices-economy-inflation-unemployment",
+      "source": "The Guardian",
       "title": {
-        "ru": "Путин приближается к призу: восстановление связей с США, не уступая ничего",
-        "en": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing"
+        "ru": "Джим Чалмерс сталкивается с миром трудных выборов, где решение одной проблемы усугубляет другую",
+        "en": "Jim Chalmers faces a world of hard choices where the solution to one problem makes the other worse"
       },
       "summary": {
-        "ru": "Россия стремится отделить войну в Украине от возможных бизнес-сделок и дипломатии с США. Эти усилия, похоже, начинают приносить плоды.",
-        "en": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working."
+        "ru": "Высокая инфляция, низкий рост и растущая безработица добавляются к беспокойствам федерального казначея.",
+        "en": "High inflation, low growth, and rising unemployment are added to the federal treasurer’s wall of worries."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Экономика",
+        "en": "Economy"
       },
       "longBody": {
-        "ru": "Россия стремится отделить войну в Украине от возможных бизнес-сделок и дипломатии с Соединенными Штатами. Эти усилия, похоже, начинают приносить плоды, так как Москва пытается улучшить свои отношения с Вашингтоном, не отказываясь от своих позиций по Украине.\n\nВ последние месяцы российские официальные лица активно работают над тем, чтобы создать впечатление, что конфликт в Украине не должен мешать развитию двусторонних отношений с США. Это включает в себя попытки наладить экономические связи и обсудить вопросы, которые могут быть выгодны обеим сторонам.\n\nНесмотря на продолжающуюся войну, Россия надеется, что такие шаги помогут смягчить международную изоляцию и открыть новые возможности для сотрудничества с американскими партнерами.",
-        "en": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working as Moscow attempts to improve its relations with Washington without conceding its stance on Ukraine.\n\nIn recent months, Russian officials have been actively working to create the impression that the conflict in Ukraine should not hinder the development of bilateral relations with the U.S. This includes efforts to establish economic ties and discuss issues that may be mutually beneficial.\n\nDespite the ongoing war, Russia hopes that such steps will help alleviate international isolation and open new opportunities for cooperation with American partners."
+        "ru": "Федеральный казначей Джим Чалмерс сталкивается с множеством сложных экономических вызовов, включая высокую инфляцию, низкий рост и растущую безработицу. Эти факторы добавляют беспокойства к его уже и без того сложной ситуации.\n\nВ своей недавней речи Чалмерс выразил надежду на то, что экономика станет \"немного лучше\" через год. Однако накануне обновления бюджета в декабре его сотрудники уже начали снижать прогнозы роста и увеличивать ожидания по безработице, что подчеркивает серьезность текущих экономических условий.",
+        "en": "Federal Treasurer Jim Chalmers is facing a multitude of complex economic challenges, including high inflation, low growth, and rising unemployment. These factors add to his already difficult situation.\n\nIn a recent speech, Chalmers offered scant encouragement that the economy would be \"a bit better\" in a year's time. However, ahead of December's budget update, his officials have already begun downgrading growth forecasts and raising unemployment expectations, highlighting the severity of current economic conditions."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Dzhim-CHalmers-stalkivaetsya-s-mirom-trudnyh-vyborov-gde-reshenie-odnoj-problemy-usugublyaet-druguyu-10-23",
+        "en": "https://telegra.ph/Jim-Chalmers-faces-a-world-of-hard-choices-where-the-solution-to-one-problem-makes-the-other-worse-10-23"
       }
     },
     {
-      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
+      "link": "https://www.euronews.com/2026/10/23/drones-ai-and-cybersecurity-on-display-as-milipol-qatar-brings-together-firms-from-33-coun",
+      "source": "Euronews",
       "title": {
-        "ru": "Meta заключила сделку, чтобы Марк Цукерберг не покидал Калифорнию из-за налога на богатство",
-        "en": "Meta Strikes Deal to Stop Mark Zuckerberg Leaving California Over Billionaire Tax"
+        "ru": "Дроны, ИИ и кибербезопасность на выставке Milipol Qatar, где собрались компании из 33 стран",
+        "en": "Drones, AI and cybersecurity on display as Milipol Qatar brings together firms from 33 countries"
       },
       "summary": {
-        "ru": "Глава Meta заявил, что покинет штат из-за налога на богатство, который еще не вступил в силу.",
-        "en": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
+        "ru": "Около 280 компаний из 33 стран собрались на Milipol Qatar, демонстрируя дроны, роботов и системы ИИ.",
+        "en": "Around 280 companies from 33 countries gathered at Milipol Qatar, showcasing drones, robots, and AI systems."
       },
       "category": {
         "ru": "Технологии",
         "en": "Technology"
       },
       "longBody": {
-        "ru": "Глава Meta, Марк Цукерберг, заявил, что покинет Калифорнию из-за нового налога на богатство, который еще не вступил в силу. Это заявление вызвало широкий резонанс и обсуждение среди бизнес-сообщества.\n\nХотя налог пока не реализован, его потенциальное введение уже заставляет некоторых предпринимателей задуматься о своем будущем в штате. Цукерберг, как один из самых известных бизнесменов, поднимает важные вопросы о налоговой политике и ее влиянии на бизнес-климат в Калифорнии.\n\nСитуация подчеркивает растущие опасения среди богатых жителей о том, как новые налоговые меры могут повлиять на их финансовое положение и решение оставаться в штате.",
-        "en": "Meta CEO Mark Zuckerberg has stated that he would leave California over a wealth tax that has not yet come into force. This announcement has sparked significant discussion and concern within the business community.\n\nAlthough the tax is not yet implemented, its potential introduction is already prompting some entrepreneurs to reconsider their future in the state. Zuckerberg, as one of the most prominent business figures, raises important questions about tax policy and its impact on the business climate in California.\n\nThe situation highlights growing concerns among wealthy residents about how new tax measures could affect their financial standing and decisions to remain in the state."
+        "ru": "На выставке Milipol Qatar собрались около 280 компаний из 33 стран, демонстрируя дроны, роботов и системы искусственного интеллекта. Участники обсуждали изменяющиеся потребности в области безопасности и способы защиты жизненно важных услуг от кибератак и чрезвычайных ситуаций.\n\nВыставка стала площадкой для обмена опытом и идеями о том, как современные технологии могут помочь в обеспечении безопасности. Ожидается, что такие мероприятия будут способствовать развитию международного сотрудничества в области безопасности и технологий.",
+        "en": "Around 280 companies from 33 countries gathered at Milipol Qatar, showcasing drones, robots, and AI systems. Exhibitors discussed changing security needs and how to protect essential services from cyberattacks and emergencies.\n\nThe exhibition served as a platform for sharing experiences and ideas on how modern technology can aid in security efforts. Such events are expected to foster international cooperation in security and technology."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Drony-II-i-kiberbezopasnost-na-vystavke-Milipol-Qatar-gde-sobralis-kompanii-iz-33-stran-10-23",
+        "en": "https://telegra.ph/Drones-AI-and-cybersecurity-on-display-as-Milipol-Qatar-brings-together-firms-from-33-countries-10-23"
       }
     },
     {
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss",
-      "source": "Al Jazeera",
+      "link": "https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
       "title": {
-        "ru": "Облавы на дом Илхан Омара и нападение на Хейнса: рост насилия против чиновников",
-        "en": "Ilhan Omar Home Raid, Haines Attack: Inside Rise in Violence on Officials"
+        "ru": "Аренда в Лондоне - 'Я плачу £2000 за одну спальню'",
+        "en": "Renting in London - 'I pay £2,000 for one bedroom'"
       },
       "summary": {
-        "ru": "Дом конгрессвумен Илхан Омара был обыскан; австралийский депутат Хелен Хейнс потеряла обе ноги в результате нападения.",
-        "en": "US Congresswoman Ilhan Omar's home raided; Australian MP Helen Haines loses both legs following an attack."
+        "ru": "Мы спрашиваем людей в столице, сколько они платят за свои дома.",
+        "en": "We ask people in the capital how much they pay for their homes."
       },
       "category": {
         "ru": "Общество",
         "en": "Society"
       },
       "longBody": {
-        "ru": "Дом конгрессвумен Илхан Омара был обыскан в ходе расследования, что подчеркивает растущую напряженность и насилие в отношении государственных служащих. Этот инцидент стал частью более широкой проблемы, связанной с угрозами и нападениями на политиков в США.\n\nВ то же время, в Австралии депутат Хелен Хейнс потеряла обе ноги в результате нападения, что также подчеркивает опасности, с которыми сталкиваются избранные представители. Эти события вызывают серьезные опасения по поводу безопасности политиков и их возможности выполнять свои обязанности.\n\nОбострение насилия против должностных лиц требует внимания и действий со стороны правоохранительных органов и общества в целом.",
-        "en": "U.S. Congresswoman Ilhan Omar's home was raided as part of an investigation, highlighting the rising tension and violence against public officials. This incident is part of a broader issue related to threats and attacks on politicians in the U.S.\n\nAt the same time, in Australia, MP Helen Haines lost both legs following an attack, which also underscores the dangers faced by elected representatives. These events raise serious concerns about the safety of politicians and their ability to carry out their duties.\n\nThe escalation of violence against officials calls for attention and action from law enforcement and society as a whole."
+        "ru": "В Лондоне мы спрашиваем людей о том, сколько они платят за свои дома. Один из респондентов сообщил, что арендует однокомнатную квартиру за £2000, что подчеркивает высокие цены на жилье в столице.\n\nСитуация с арендой в Лондоне продолжает вызывать беспокойство, так как многие жители сталкиваются с трудностями в поиске доступного жилья. Эти разговоры поднимают важные вопросы о доступности жилья и качестве жизни в мегаполисе.",
+        "en": "In London, we are asking people how much they pay for their homes. One respondent reported paying £2,000 for a one-bedroom apartment, highlighting the high rental prices in the capital.\n\nThe rental situation in London continues to raise concerns as many residents struggle to find affordable housing. These conversations bring to light important issues regarding housing affordability and quality of life in the metropolis."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Arenda-v-Londone---YA-plachu-2000-za-odnu-spalnyu-10-23",
+        "en": "https://telegra.ph/Renting-in-London---I-pay-2000-for-one-bedroom-10-23-3"
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "С приближением тайфуна Чампи мэры Тайваня делают ставку на популярный выходной",
-        "en": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off"
-      },
-      "summary": {
-        "ru": "Один эксперт заявил, что вероятность объявления мэром о закрытии работы и школ из-за тайфуна увеличивается на 31 процент в выборный год.",
-        "en": "One expert said the likelihood that a mayor announces closure of work and school because of a typhoon increases 31 percent during an election year."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "С приближением тайфуна Чемпи, мэры Тайваня рассматривают возможность объявления выходного дня, чтобы обеспечить безопасность граждан. Один из экспертов отметил, что вероятность таких решений возрастает на 31 процент в выборный год.\n\nЭто наблюдение подчеркивает, как политические обстоятельства могут влиять на решения местных властей в условиях природных катастроф. Мэры, стремящиеся заручиться поддержкой избирателей, могут использовать такие объявления как способ продемонстрировать свою заботу о безопасности населения.\n\nОбсуждение возможных закрытий работы и школ в связи с тайфуном также отражает необходимость готовности к экстренным ситуациям и эффективного управления в условиях кризиса.",
-        "en": "As Typhoon Champi approaches, Taiwan’s mayors are considering the possibility of declaring a day off to ensure public safety. One expert noted that the likelihood of such decisions increases by 31 percent during an election year.\n\nThis observation underscores how political circumstances can influence local authorities' decisions in the face of natural disasters. Mayors, eager to gain voter support, may use such announcements as a way to demonstrate their concern for public safety.\n\nThe discussion of potential closures of work and schools due to the typhoon also reflects the need for preparedness for emergencies and effective management in crisis situations."
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/10/21/climate/disaster-aid-politics-trump-north-carolina.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Трамп связывает помощь при бедствиях с голосами в разгар предвыборной борьбы",
-        "en": "Trump Ties Disaster Aid to Votes as Midterm Fight Heats Up"
-      },
-      "summary": {
-        "ru": "Президент Трамп и вице-президент Дж.Д. Вэнс предлагают деньги FEMA штатам, пострадавшим от бедствий, на недавних предвыборных митингах.",
-        "en": "President Trump and Vice President JD Vance have dangled FEMA money to disaster-struck states during recent campaign rallies."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Президент Трамп и вице-президент Дж.Д. Вэнс используют возможность предвыборных митингов, чтобы предложить финансовую помощь от FEMA штатам, пострадавшим от бедствий. Это связывает помощь с политической поддержкой, что вызывает различные мнения среди экспертов и общественности.\n\nТакой подход может быть воспринят как попытка манипуляции, где помощь предоставляется в обмен на голоса. Это поднимает вопросы о этике использования федеральных средств в предвыборных кампаниях и о том, как это может повлиять на восприятие правительственной помощи.\n\nСитуация также подчеркивает важность поддержки пострадавших от бедствий и необходимость сбалансированного подхода к распределению ресурсов в условиях политической борьбы.",
-        "en": "President Trump and Vice President JD Vance are using recent campaign rallies to dangle FEMA money to disaster-struck states. This ties aid to political support, eliciting mixed opinions among experts and the public.\n\nSuch an approach may be seen as an attempt at manipulation, where assistance is offered in exchange for votes. This raises ethical questions about the use of federal funds in election campaigns and how it may affect perceptions of government aid.\n\nThe situation also highlights the importance of supporting those affected by disasters and the need for a balanced approach to resource allocation in the midst of political struggles."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Ежедневник Иерусалима: избиение кота израильским солдатом стало вирусным",
-        "en": "Jerusalem Daily: Israeli Soldier Abusing Cat Goes Viral"
+        "ru": "Учения с гранатами спровоцировали смертельный пожар на военной базе Канады, сообщает армия",
+        "en": "Grenade exercise sparked deadly fire at Canada military base, army says"
       },
       "summary": {
-        "ru": "Видео, на котором израильский солдат бросает кота через забор, стало вирусным в интернете.",
-        "en": "A video of an Israeli soldier throwing a cat over a fence has gone viral online."
+        "ru": "Сильный ветер разнес огонь по военной базе в Уэйнрайте, унеся жизни четырех солдат и ранив десятки других.",
+        "en": "High winds spread the blaze across the army base in Wainwright, killing four soldiers and injuring dozens more."
+      },
+      "category": {
+        "ru": "Право",
+        "en": "Law"
+      },
+      "longBody": {
+        "ru": "На военной базе в Уэйнрайте произошел сильный пожар, вызванный сильным ветром, который унес жизни четырех солдат и ранил десятки других. Это трагическое происшествие подчеркивает опасности, с которыми сталкиваются военнослужащие в условиях учений и тренировок.\n\nВоенные власти проводят расследование, чтобы выяснить причины инцидента и оценить последствия. Безопасность на военных базах остается приоритетом, и подобные трагедии подчеркивают необходимость строгих мер предосторожности.",
+        "en": "A severe fire broke out at the army base in Wainwright, sparked by high winds, resulting in the deaths of four soldiers and injuring dozens more. This tragic incident highlights the dangers faced by military personnel during exercises and training.\n\nMilitary authorities are conducting an investigation to determine the causes of the incident and assess its consequences. Safety on military bases remains a priority, and such tragedies underscore the need for strict precautionary measures."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Ucheniya-s-granatami-sprovocirovali-smertelnyj-pozhar-na-voennoj-baze-Kanady-soobshchaet-armiya-10-23",
+        "en": "https://telegra.ph/Grenade-exercise-sparked-deadly-fire-at-Canada-military-base-army-says-10-23"
+      }
+    },
+    {
+      "link": "https://www.euronews.com/video/2026/10/23/latest-news-bulletin-october-23rd-2026-morning",
+      "source": "Euronews",
+      "title": {
+        "ru": "Последние новости | 23 октября 2026 года – Утро",
+        "en": "Latest news bulletin | October 23rd, 2026 – Morning"
+      },
+      "summary": {
+        "ru": "Узнайте о самых важных событиях из Европы и за ее пределами 23 октября 2026 года.",
+        "en": "Catch up with the most important stories from around Europe and beyond this October 23rd, 2026."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "В интернете стало вирусным видео, на котором израильский солдат бросает кота через забор. Этот инцидент вызвал широкий общественный резонанс и осуждение со стороны защитников животных.\n\nМногие пользователи социальных сетей выразили возмущение по поводу жестокого обращения с животными, что подчеркивает растущую чувствительность общества к вопросам защиты прав животных. Общественные организации призывают к расследованию и привлечению виновных к ответственности.\n\nТакой инцидент также поднимает вопросы о поведении военнослужащих и их ответственности в отношении гражданских лиц и животных в зонах конфликта.",
-        "en": "A video of an Israeli soldier throwing a cat over a fence has gone viral online. This incident has sparked significant public outcry and condemnation from animal rights advocates.\n\nMany social media users have expressed outrage over the cruel treatment of animals, highlighting society's growing sensitivity to animal rights issues. Advocacy groups are calling for an investigation and accountability for those involved.\n\nThis incident also raises questions about the behavior of military personnel and their responsibilities towards civilians and animals in conflict zones."
+        "ru": "23 октября 2026 года в Европе и за ее пределами произошло множество значительных событий. В этом выпуске новостей мы расскажем о самых важных новостях, включая политические, экономические и культурные события, которые формируют текущую повестку дня.\n\nСледите за последними новостями, чтобы быть в курсе ключевых событий и изменений, происходящих как в Европе, так и за ее пределами.",
+        "en": "On October 23, 2026, numerous significant events occurred across Europe and beyond. In this news bulletin, we will cover the most important stories, including political, economic, and cultural events shaping the current agenda.\n\nStay tuned for the latest news to keep up with key developments and changes happening both in Europe and beyond."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Poslednie-novosti--23-oktyabrya-2026-goda--Utro-10-23",
+        "en": "https://telegra.ph/Latest-news-bulletin--October-23rd-2026--Morning-10-23"
       }
     },
     {
-      "link": "https://www.theguardian.com/uk-news/2026/oct/22/tommy-robinson-tells-court-he-had-photos-taken-of-journalists-homes-to-pressure-them",
+      "link": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "title": {
+        "ru": "Система Starshield Маска «вернулась» в Украину, говорит Трамп",
+        "en": "Musk's Starshield system 'back' in Ukraine, says Trump"
+      },
+      "summary": {
+        "ru": "Трамп заявил, что не хочет комментировать, кто призывал ограничить Starshield для Украины, но что Маск \"вернул это\".",
+        "en": "Trump stated he did not want to comment on who called for capping Starshield for Ukraine, but that Musk had \"put it back.\""
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Дональд Трамп заявил, что не хочет комментировать, кто именно призывал ограничить систему Starshield для Украины. Однако он отметил, что Илон Маск \"вернул это\". Это заявление Трампа поднимает вопросы о доступе Украины к важным технологиям в условиях продолжающегося конфликта с Россией.\n\nТрамп, как бывший президент, продолжает активно участвовать в политических дебатах, касающихся внешней политики США. Его слова о Starshield могут свидетельствовать о том, что он поддерживает восстановление доступа Украины к спутниковым технологиям, которые могут оказать значительное влияние на ведение войны.\n\nТаким образом, ситуация вокруг Starshield остается напряженной, и дальнейшие действия Маска и правительства США могут оказать влияние на ход конфликта в Украине.",
+        "en": "Donald Trump stated that he did not want to comment on who called for capping the Starshield system for Ukraine. However, he noted that Elon Musk had \"put it back.\" This statement raises questions about Ukraine's access to crucial technologies amid the ongoing conflict with Russia.\n\nTrump, as a former president, continues to actively engage in political debates concerning U.S. foreign policy. His remarks about Starshield may indicate support for restoring Ukraine's access to satellite technologies that could significantly impact the conduct of the war.\n\nThus, the situation surrounding Starshield remains tense, and further actions by Musk and the U.S. government could influence the course of the conflict in Ukraine."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Предупреждение о сильном дожде, так как шторм Остин охватывает Шотландию",
+        "en": "Heavy rain warning as Storm Austen sweeps across Scotland"
+      },
+      "summary": {
+        "ru": "Метеорологическая служба выпустила желтое предупреждение о дожде по всей Шотландии в пятницу, за которым последует предупреждение о ветре в субботу.",
+        "en": "The Met Office has issued a yellow warning for rain across Scotland on Friday, followed by a wind warning on Saturday."
+      },
+      "category": {
+        "ru": "Катастрофа",
+        "en": "Disaster"
+      },
+      "longBody": {
+        "ru": "Метеорологическая служба Великобритании выпустила желтое предупреждение о дожде по всей Шотландии на пятницу. Это предупреждение связано с приближающимся штормом Остин, который ожидается в регионе.\n\nПосле дождя в субботу ожидается предупреждение о сильном ветре, что может привести к ухудшению погодных условий. Жителям рекомендуется быть осторожными и следить за обновлениями от метеорологов.\n\nШторм Остин может вызвать значительные неудобства, включая возможные задержки в транспорте и другие проблемы, связанные с плохой погодой.",
+        "en": "The Met Office has issued a yellow warning for rain across Scotland on Friday. This warning is associated with the approaching Storm Austen, which is expected to impact the region.\n\nFollowing the rain, a wind warning is anticipated for Saturday, which may lead to worsening weather conditions. Residents are advised to exercise caution and stay updated with information from meteorologists.\n\nStorm Austen could cause significant disruptions, including potential transport delays and other issues related to adverse weather."
+      }
+    },
+    {
+      "link": "https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "title": {
+        "ru": "Стыдное имя? Как мы живем с именами, которые нам не нравятся",
+        "en": "Embarrassing name? How we live with names we don't like"
+      },
+      "summary": {
+        "ru": "Имена важны для нашей идентичности, но что происходит, когда имя становится объектом насмешек? Исследования показывают негативные жизненные последствия, но некоторые учатся принимать неудачные имена.",
+        "en": "Names are central to our identity, so what happens when that name is a source of ridicule? Research points to negative life outcomes, but some people learn to embrace unfortunate names."
+      },
+      "category": {
+        "ru": "Культура",
+        "en": "Culture"
+      },
+      "longBody": {
+        "ru": "Имена играют важную роль в формировании нашей идентичности, но что происходит, когда имя становится объектом насмешек? Исследования показывают, что такие ситуации могут приводить к негативным последствиям в жизни людей.\n\nНекоторые люди, однако, учатся принимать свои неудачные имена и находят в этом способ справиться с насмешками. Это может стать частью их личной истории и идентичности.\n\nТаким образом, вопрос о том, как мы воспринимаем свои имена, остается актуальным, и важно понимать, как это может влиять на наше восприятие себя и окружающих.",
+        "en": "Names are important for shaping our identity, but what happens when a name becomes a source of ridicule? Research indicates that such situations can lead to negative life outcomes for individuals.\n\nHowever, some people learn to embrace their unfortunate names and find ways to cope with the ridicule. This can become part of their personal story and identity.\n\nThus, the question of how we perceive our names remains relevant, and it is important to understand how this can impact our self-perception and the way we are viewed by others."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Голубая планета III: Момент, когда осьминог избегает смерти после неудачной охоты",
+        "en": "Blue Planet III: Moment octopus escapes death after hunt gone wrong"
+      },
+      "summary": {
+        "ru": "Этот эпизод является частью последнего сезона «Голубой планеты» от сэра Дэвида Аттенборо.",
+        "en": "The sequence is part of the latest Blue Planet series from Sir David Attenborough."
+      },
+      "category": {
+        "ru": "Культура",
+        "en": "Culture"
+      },
+      "longBody": {
+        "ru": "Эпизод, в котором осьминог избегает смерти после неудачной охоты, является частью последнего сезона документального сериала «Голубая планета» от сэра Дэвида Аттенборо. Этот момент подчеркивает удивительные способности морских существ к выживанию.\n\nСериал продолжает привлекать внимание зрителей к красоте и уязвимости океанической экосистемы, демонстрируя как захватывающие, так и драматические моменты из жизни морских обитателей.\n\nРабота Аттенборо в этом проекте продолжает вдохновлять людей на защиту океанов и их обитателей, подчеркивая важность сохранения морской среды.",
+        "en": "The sequence in which an octopus escapes death after a failed hunt is part of the latest season of the documentary series Blue Planet from Sir David Attenborough. This moment highlights the remarkable survival abilities of marine creatures.\n\nThe series continues to draw viewers' attention to the beauty and vulnerability of the oceanic ecosystem, showcasing both captivating and dramatic moments from the lives of marine inhabitants.\n\nAttenborough's work in this project continues to inspire people to protect the oceans and their inhabitants, emphasizing the importance of preserving the marine environment."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/uk-news/2026/oct/23/mod-wes-streeting-legal-battle-gay-veterans",
       "source": "The Guardian",
       "title": {
-        "ru": "Томми Робинсон заявил в суде, что фотографировал дома журналистов, чтобы оказать на них давление",
-        "en": "Tommy Robinson Tells Court He Had Photos Taken of Journalists’ Homes to Pressure Them"
+        "ru": "Министерство обороны ищет внесудебное разрешение в битве за компенсацию с гей-ветеранами",
+        "en": "MoD seeks out-of-court resolution over compensation battle with gay veterans"
       },
       "summary": {
-        "ru": "Активист правого толка заявил, что использовал частных детективов для отслеживания журналистов, но отрицал намерение запугивать их.",
-        "en": "Far-right activist Tommy Robinson has told his harassment trial that he used private investigators to track down journalists but denies trying to intimidate them."
+        "ru": "Министр Уэст Стритинг заявил, что Министерство обороны ведет переговоры в связи с юридическим вызовом от ЛГБТ-персонала, вынужденного покинуть армию.",
+        "en": "West Streeting says MoD in talks amid legal challenge by LGBT staff forced out of military."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Активист правого толка Томми Робинсон заявил в суде, что использовал частных детективов для отслеживания журналистов, но отрицал намерение запугивать их. Его показания касаются его действий в отношении журналистов, которые освещали его предполагаемую роль в беспорядках 2024 года.\n\nРобинсон, чье настоящее имя Стивен Яксли-Леннон, утверждает, что фотографии домов журналистов были сделаны для оказания давления на них. Однако он отверг обвинения в запугивании, что создает сложную правовую ситуацию.\n\nДело Робинсона поднимает важные вопросы о свободе прессы, безопасности журналистов и границах активизма в современном обществе.",
-        "en": "Far-right activist Tommy Robinson has told his harassment trial that he used private investigators to track down journalists but denies trying to intimidate them. His testimony relates to his actions towards journalists who reported on his alleged role in the 2024 riots.\n\nRobinson, whose real name is Stephen Yaxley-Lennon, claims that photographs of journalists' homes were taken to put pressure on them. However, he rejected allegations of intimidation, creating a complex legal situation.\n\nRobinson's case raises important questions about press freedom, journalist safety, and the boundaries of activism in contemporary society."
+        "ru": "Министр Уэст Стритинг сообщил, что Министерство обороны Великобритании ведет переговоры в связи с юридическим вызовом от ЛГБТ-персонала, который был вынужден покинуть армию. Этот случай касается компенсации для ветеранов, которые были уволены из-за своей сексуальной ориентации.\n\nСитуация подчеркивает важность обсуждения прав ЛГБТ-сообщества в вооруженных силах и необходимость пересмотра правил, которые могут препятствовать получению компенсации.\n\nМинистерство обороны стремится найти решение вне суда, что может стать важным шагом к улучшению положения ветеранов и признанию их прав.",
+        "en": "West Streeting stated that the Ministry of Defence is in talks amid a legal challenge by LGBT staff forced out of the military. This case concerns compensation for veterans who were dismissed due to their sexuality.\n\nThe situation highlights the importance of discussing the rights of the LGBT community within the armed forces and the need to review rules that may hinder compensation claims.\n\nThe Ministry of Defence is seeking an out-of-court resolution, which could be an important step toward improving the situation for veterans and recognizing their rights."
       }
     },
     {
-      "link": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
+      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
+      "source": "New York Times",
       "title": {
-        "ru": "Инфлюенсер 'Looksmaxxing' Клавикулар не признал себя виновным в обвинении в изнасиловании",
-        "en": "'Looksmaxxing' Influencer Clavicular Pleads Not Guilty to Rape Charge"
+        "ru": "Гади Эйзенкот не может быть более непохожим на Нетаньяху. Может ли он победить его?",
+        "en": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?"
       },
       "summary": {
-        "ru": "Инфлюенсер, настоящее имя которого Брейден Питерс, обвиняется в сексуальном насилии над 17-летней девушкой в 2025 году.",
-        "en": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025."
+        "ru": "Г-н Эйзенкот, бывший военный начальник, возглавляющий опросы, называет израильского премьер-министра «антилидером».",
+        "en": "Mr. Eisenkot, an ex-military chief leading in the polls, calls the Israeli prime minister an “anti-leader.”"
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Инфлюенсер, известный под псевдонимом 'Looksmaxxing', настоящее имя Брейден Питерс, обвиняется в сексуальном насилии над 17-летней девушкой в 2025 году. Это обвинение стало предметом общественного обсуждения и обеспокоенности по поводу безопасности молодежи в социальных сетях.\n\nДело привлекло внимание к проблемам, связанным с влиянием инфлюенсеров на молодежь и необходимостью защиты уязвимых групп. Обвинения против Питерса поднимают вопросы о том, как социальные платформы могут способствовать или препятствовать подобным инцидентам.\n\nОбщество ожидает дальнейших разбирательств и реакции со стороны правоохранительных органов на эти серьезные обвинения.",
-        "en": "The influencer known as 'Looksmaxxing', whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025. This accusation has become a topic of public discussion and concern regarding the safety of youth on social media.\n\nThe case has drawn attention to issues related to the influence of influencers on young people and the need to protect vulnerable groups. The allegations against Peters raise questions about how social platforms can either facilitate or prevent such incidents.\n\nThe public is awaiting further proceedings and responses from law enforcement regarding these serious allegations."
+        "ru": "Гади Эйзенкот, бывший военный начальник, который сейчас возглавляет опросы, назвал израильского премьер-министра Биньямина Нетаньяху «антилидером». Это заявление подчеркивает контраст между стилем кампании Эйзенкота и подходом Нетаньяху.\n\nЭйзенкот, как кандидат, стремится привлечь внимание избирателей к своей программе и видению будущего Израиля. Однако его сдержанный стиль ведения кампании вызывает беспокойство у некоторых сторонников.\n\nВ преддверии выборов Эйзенкоту предстоит преодолеть множество вызовов, чтобы подтвердить свои позиции и добиться успеха на выборах.",
+        "en": "Gadi Eisenkot, an ex-military chief currently leading in the polls, referred to Israeli Prime Minister Benjamin Netanyahu as an “anti-leader.” This statement highlights the contrast between Eisenkot's campaign style and Netanyahu's approach.\n\nEisenkot, as a candidate, aims to draw voters' attention to his platform and vision for Israel's future. However, his low-key campaigning style raises concerns among some supporters.\n\nAs elections approach, Eisenkot faces numerous challenges in solidifying his positions and achieving success at the polls."
       }
     },
     {
-      "link": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
+      "link": "https://www.theguardian.com/politics/audio/2026/oct/23/us-midterm-elections-donald-trump-your-questions-answered-podcast",
+      "source": "The Guardian",
       "title": {
-        "ru": "«Унизительно» и «абсурдно»: реакция на рекламу согласия бабушек и дедушек об объятиях",
-        "en": "'Demeaning' and 'Absurd': The Backlash Against a Hugging Grandparents Consent Ad"
+        "ru": "Что будет делать Трамп, если он проиграет в ноябре? Ваши вопросы – ответы в подкасте",
+        "en": "What will Trump do if he loses in November? Your questions answered – podcast"
       },
       "summary": {
-        "ru": "Джим О'Каллаган описал видео как «неуместное и унизительное для бабушек и дедушек».",
-        "en": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents.\""
+        "ru": "Примет ли Дональд Трамп «синюю волну», если она произойдет? Ответы на эти и другие вопросы в подкасте.",
+        "en": "Will Donald Trump accept a ‘blue wave’ if it happens? Answers to these questions and more in the podcast."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Джим О'Каллаган описал рекламное видео о согласии бабушек и дедушек как «неуместное и унизительное». Это заявление вызвало общественное обсуждение о том, как такие материалы могут восприниматься различными поколениями.\n\nКритика рекламы подчеркивает важность уважения к пожилым людям и необходимости более чуткого подхода к созданию контента, который касается чувствительных тем. Общественные деятели призывают к более внимательному отношению к тому, как изображаются бабушки и дедушки в медиа.\n\nЭтот инцидент также поднимает вопросы о том, как реклама может влиять на общественное восприятие и стереотипы о пожилых людях.",
-        "en": "Jim O'Callaghan described a consent advertisement featuring grandparents as \"inappropriate and demeaning.\" This statement has sparked public discussion about how such materials can be perceived by different generations.\n\nThe criticism of the advertisement highlights the importance of respecting elderly individuals and the need for a more sensitive approach to creating content that addresses sensitive topics. Public figures are calling for greater care in how grandparents are portrayed in media.\n\nThis incident also raises questions about how advertising can influence public perception and stereotypes about older people."
+        "ru": "В новом подкасте обсуждаются вопросы, которые волнуют избирателей, включая то, примет ли Дональд Трамп «синюю волну», если она произойдет. Это важный момент в контексте предстоящих выборов и политической ситуации в США.\n\nПодкаст отвечает на вопросы о том, изменилось ли отношение молодежи к центристской политике и сможет ли США восстановить свой имидж на мировой арене. Эти темы вызывают большой интерес и обсуждение среди слушателей.\n\nОбсуждение таких вопросов может помочь избирателям лучше понять политическую динамику и возможные последствия выборов.",
+        "en": "The new podcast addresses questions that concern voters, including whether Donald Trump will accept a 'blue wave' if it happens. This is a significant point in the context of the upcoming elections and the political situation in the U.S.\n\nThe podcast answers questions about whether young people have turned away from centrist politics and if the U.S. can restore its image on the world stage. These topics generate considerable interest and discussion among listeners.\n\nDiscussing such questions may help voters better understand the political dynamics and potential consequences of the elections."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/australia-news/2026/oct/23/nationals-leader-matt-canavan-lower-house-capricornia-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Лидер Национальной партии Мэтт Кэнаван рассматривает переход в нижнюю палату, поскольку социолог предупреждает о возможном крахе One Nation",
+        "en": "Nationals leader Matt Canavan eyes move to lower house as pollster warns of One Nation wipeout"
+      },
+      "summary": {
+        "ru": "Мишель Лэндри объявила, что не будет снова баллотироваться на своем округе в Квинсленде на следующих выборах.",
+        "en": "Michelle Landry announces she will not recontest her Queensland seat of Capricornia at the next election."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Лидер Национальной партии Мэтт Кэнавэн рассматривает возможность перехода в нижнюю палату парламента после того, как его коллега Мишель Лэндри объявила, что не будет снова баллотироваться на выборах в округе Каприкорния в Квинсленде.\n\nПо словам ведущего социолога, у Кэнавэна есть «ноль процентов» шансов сохранить свое место в Сенате, если текущие опросы сохранятся. Это создает давление на него, чтобы искать новые возможности для политической карьеры.\n\nСитуация в Национальной партии может измениться в свете этих событий, и Кэнавэну предстоит принять важные решения в ближайшее время.",
+        "en": "Nationals leader Matt Canavan is considering a move to the lower house after his colleague Michelle Landry announced she would not recontest her Queensland seat of Capricornia at the next election.\n\nAccording to a leading pollster, Canavan has a “zero percent” chance of holding his Senate seat if current polling trends remain unchanged. This puts pressure on him to seek new opportunities for his political career.\n\nThe situation within the Nationals party may shift in light of these developments, and Canavan will need to make important decisions in the near future."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/australia-news/2026/oct/23/alan-jones-trial-mother-of-alleged-victim-ntwnfb",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Мать искала совета у Алана Джонса после предполагаемого непристойного нападения на ее сына, слышит суд",
+        "en": "Mother sought advice from Alan Jones after broadcaster’s alleged indecent assault of her son, court hears"
+      },
+      "summary": {
+        "ru": "Мать самого младшего предполагаемого жертвы Алана Джонса продолжала искать совета у ведущего после предполагаемого нападения на подростка.",
+        "en": "The mother of the youngest alleged victim of Alan Jones continued to seek advice from the broadcaster after the teenager was allegedly indecently assaulted."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Судебные слушания раскрыли, что мать самого младшего предполагаемого жертвы Алана Джонса продолжала искать совета у ведущего после того, как ее сын, подросток, якобы стал жертвой непристойного нападения. Это вызывает вопросы о том, как жертвы и их семьи справляются с травмой и ищут поддержку.\n\nСудебный процесс против Джонса продолжается, и он не признает себя виновным по 21 обвинению в непристойном нападении и сексуальном прикосновении. Дело привлекает внимание общественности и поднимает важные вопросы о безопасности и защите детей.\n\nСитуация вокруг этого дела продолжает развиваться, и многие следят за его ходом, ожидая справедливости для жертв.",
+        "en": "Court hearings revealed that the mother of the youngest alleged victim of Alan Jones continued to seek advice from the broadcaster after her son, a teenager, was allegedly indecently assaulted. This raises questions about how victims and their families cope with trauma and seek support.\n\nThe trial against Jones is ongoing, and he has pleaded not guilty to 21 charges of indecent assault and sexual touching. The case draws public attention and raises important issues regarding the safety and protection of children.\n\nThe situation surrounding this case continues to evolve, and many are watching its progress, awaiting justice for the victims."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Илхан Омар планирует переехать из своего дома в Вашингтоне после рейда федеральных агентов",
+        "en": "Ilhan Omar plans to move out of her Washington DC home after federal raid"
+      },
+      "summary": {
+        "ru": "Федеральные агенты провели обыск в доме конгрессвумен на прошлой неделе в рамках расследования предполагаемого иммиграционного мошенничества.",
+        "en": "US federal agents raided the congresswoman’s home last week as part of an investigation into alleged immigration fraud."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Конгрессвумен Илхан Омар планирует покинуть свой дом в Вашингтоне после того, как федеральные агенты провели обыск в рамках расследования предполагаемого иммиграционного мошенничества. Этот инцидент поднимает вопросы о правовых и этических аспектах работы политиков.\n\nОмар оказалась в центре внимания после того, как ее дом был обыскан, что может повлиять на ее политическую карьеру и общественный имидж. Она сталкивается с серьезными обвинениями, которые требуют внимания и ответов.\n\nСитуация вокруг Омар продолжает развиваться, и многие следят за ее действиями и возможными последствиями для ее будущего в политике.",
+        "en": "Congresswoman Ilhan Omar plans to move out of her Washington DC home after federal agents raided her residence as part of an investigation into alleged immigration fraud. This incident raises questions about the legal and ethical aspects of politicians' conduct.\n\nOmar has come under scrutiny following the raid on her home, which could impact her political career and public image. She faces serious allegations that require attention and responses.\n\nThe situation surrounding Omar continues to develop, and many are watching her actions and the potential consequences for her future in politics."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/10/23/will-ice-agents-play-a-role-in-the-2026-us-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Будут ли агенты ICE играть роль на промежуточных выборах в США в 2026 году?",
+        "en": "Will ICE agents play a role in the 2026 US midterm elections?"
+      },
+      "summary": {
+        "ru": "Правозащитные группы обеспокоены тем, что агентство, стоящее в центре иммиграционной политики Трампа, может повлиять на результаты голосования в день выборов.",
+        "en": "Rights groups are worried the agency at the heart of Trump's immigration crackdown could sway the vote on election day."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Правозащитные группы выражают обеспокоенность по поводу возможного влияния иммиграционного агентства ICE на результаты выборов в 2026 году. Агентство, которое стало центральным элементом иммиграционной политики администрации Трампа, может оказать давление на голосование в день выборов.\n\nАктивисты утверждают, что действия ICE могут создать атмосферу страха среди иммигрантов, что в свою очередь может снизить явку избирателей. Это вызывает серьезные опасения, поскольку выборы могут быть решающими для будущего иммиграционной политики в стране.\n\nВ условиях растущей поляризации в обществе, правозащитные организации призывают к более прозрачным и справедливым выборам, где каждый голос будет услышан, независимо от иммиграционного статуса.",
+        "en": "Rights groups are expressing concern about the potential influence of the ICE agency on the outcomes of the 2026 elections. The agency, which has become a central element of Trump's immigration policy, could exert pressure on voting on election day.\n\nActivists argue that ICE's actions may create an atmosphere of fear among immigrants, which in turn could lower voter turnout. This raises serious concerns as the elections could be pivotal for the future of immigration policy in the country.\n\nIn the context of growing polarization in society, rights organizations are calling for more transparent and fair elections, where every vote will be heard, regardless of immigration status."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/australia-news/2026/oct/23/beau-lamarre-condon-allegedly-confessed-to-friend-murder-trial-court-ntwnfb",
+      "source": "The Guardian",
+      "title": {
+        "ru": "‘Я убивал людей’: Боу Ламарр-Кондон якобы признался другу и попросил помочь убрать ‘беспорядок’, заявил суд",
+        "en": "‘I’ve killed people’: Beau Lamarre-Condon allegedly confessed to friend and asked for help cleaning ‘mess’, court told"
+      },
+      "summary": {
+        "ru": "Друг сообщил присяжным, что Ламарр-Кондон признался в убийстве двух мужчин, рассказывая о «вне телесном опыте», прежде чем попытаться представить это как шутку.",
+        "en": "A friend told the jury Lamarre-Condon allegedly confessed to killing two men, describing it as an “out-of-body experience”, before attempting to play it off as a joke."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "На судебном заседании друг Боу Ламарра-Кондона сообщил присяжным, что тот якобы признался в убийстве двух мужчин. Он описал это как \"вне телесный опыт\", прежде чем попытаться представить свои слова как шутку.\n\nЛамарр-Кондон, которому 31 год, обвиняется в убийстве пары Джесси Бaird и Люка Дэвиса с использованием служебного оружия в доме Бейрда в Паддингтоне. Свидетель рассказал, что Ламарр-Кондон сказал ему, что \"я застрелил первого в голову, а второго через дверь\".\n\nДело привлекло внимание общественности, и суд продолжает рассматривать доказательства, чтобы установить истинные обстоятельства произошедшего.",
+        "en": "During a court session, a friend of Beau Lamarre-Condon told the jury that he allegedly confessed to killing two men. He described it as an \"out-of-body experience\" before attempting to downplay his remarks as a joke.\n\nLamarre-Condon, 31, is accused of fatally shooting couple Jesse Baird and Luke Davies using his service weapon in Baird's Paddington home. The witness recounted that Lamarre-Condon told him, \"I shot the first one through the head and the second one through the door.\"\n\nThe case has garnered public attention, and the court continues to review evidence to establish the true circumstances surrounding the incident."
       }
     },
     {
@@ -433,10 +493,10 @@
       "source": "BBC",
       "title": {
         "ru": "Трамп обязан ответить на вопросы под присягой в иске против BBC",
-        "en": "Trump Ordered to Answer Questions Under Oath in BBC Lawsuit"
+        "en": "Trump ordered to answer questions under oath in BBC lawsuit"
       },
       "summary": {
-        "ru": "Трамп подает в суд на BBC из-за эпизода Panorama, который смонтировал две разные части его речи, произнесенной в 2021 году.",
+        "ru": "Трамп подал в суд на BBC из-за эпизода Panorama, который смонтировал две разные части его речи, произнесенной в 2021 году.",
         "en": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
       },
       "category": {
@@ -444,208 +504,148 @@
         "en": "World"
       },
       "longBody": {
-        "ru": "Трамп подает в суд на BBC из-за эпизода Panorama, который смонтировал две разные части его речи, произнесенной в 2021 году. Это дело поднимает важные вопросы о свободе слова и ответственности СМИ за точность представления информации.\n\nОбвинения Трампа касаются манипуляций с его словами, что может повлиять на общественное восприятие и его политическую карьеру. Это также подчеркивает растущие разногласия между политиками и медиа в условиях современного информационного ландшафта.\n\nСудебное разбирательство может иметь серьезные последствия для отношений между политиками и журналистами, а также для доверия общественности к средствам массовой информации.",
-        "en": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021. This case raises important questions about free speech and media accountability for the accuracy of information presentation.\n\nTrump's allegations concern manipulation of his words, which could impact public perception and his political career. This also highlights the growing tensions between politicians and the media in the current information landscape.\n\nThe legal proceedings could have significant implications for the relationship between politicians and journalists, as well as for public trust in the media."
+        "ru": "Дональд Трамп подал в суд на BBC из-за эпизода программы Panorama, который смонтировал две разные части его речи, произнесенной в 2021 году. Он утверждает, что это искажает его слова и вводит в заблуждение общественность.\n\nСудебный процесс подчеркивает напряженные отношения между Трампом и СМИ, особенно в отношении освещения его деятельности и высказываний. Трамп настаивает на том, что его слова были вырваны из контекста, что может негативно сказаться на его репутации.\n\nЭто дело может иметь значительные последствия для свободы слова и журналистики, если суд решит в пользу Трампа, что может повлиять на то, как СМИ представляют политиков в будущем.",
+        "en": "Donald Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021. He claims that this distorts his words and misleads the public.\n\nThe lawsuit highlights the tense relationship between Trump and the media, particularly regarding the coverage of his actions and statements. Trump insists that his words were taken out of context, which could negatively impact his reputation.\n\nThis case could have significant implications for freedom of speech and journalism, as a ruling in favor of Trump might influence how the media presents politicians in the future."
       }
     },
     {
-      "link": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "title": {
-        "ru": "Премьер-министр Канады Марк Карни посещает Турцию для укрепления торговых связей",
-        "en": "Canada's Mark Carney visits Turkey to boost trade ties"
-      },
-      "summary": {
-        "ru": "Это первый двусторонний визит канадского премьер-министра в Турцию. Канада и Турция повысили свои отношения до уровня «стратегического партнерства», стремясь диверсифицировать торговлю за пределами США.",
-        "en": "This is the first bilateral visit by a Canadian prime minister to Turkey. Canada and Turkey upgraded their relations to a 'strategic partnership' as Canada seeks to diversify trade beyond the US."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Канадский премьер-министр Марк Карни совершил свой первый двусторонний визит в Турцию, что стало важным шагом в укреплении отношений между двумя странами. В ходе визита Канада и Турция объявили о повышении уровня своих отношений до \"стратегического партнерства\". Это решение направлено на диверсификацию торговли и уменьшение зависимости от Соединенных Штатов.\n\nСтратегическое партнерство предполагает более тесное сотрудничество в различных областях, включая экономику, безопасность и культурные обмены. Ожидается, что это сотрудничество приведет к увеличению объемов торговли и инвестициям между двумя странами. Визит Карни также подчеркивает растущий интерес Канады к расширению своих торговых связей на международной арене.\n\nТаким образом, этот визит может стать основой для будущих экономических и политических инициатив, которые будут способствовать укреплению двусторонних отношений между Канадой и Турцией.",
-        "en": "Canadian Prime Minister Mark Carney has made his first bilateral visit to Turkey, marking a significant step in strengthening relations between the two countries. During the visit, Canada and Turkey announced the elevation of their relationship to a 'strategic partnership.' This decision aims to diversify trade and reduce dependence on the United States.\n\nThe strategic partnership is expected to foster closer cooperation in various areas, including economics, security, and cultural exchanges. It is anticipated that this collaboration will lead to increased trade volumes and investments between the two nations. Carney's visit also highlights Canada's growing interest in expanding its trade ties on the international stage.\n\nThus, this visit could lay the groundwork for future economic and political initiatives that will enhance bilateral relations between Canada and Turkey."
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Лула говорит, что соперника следует дисквалифицировать из-за предполагаемого вмешательства Meta перед выборами в Бразилии",
-        "en": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote"
-      },
-      "summary": {
-        "ru": "Бразильский президент обвиняет технологическую компанию в поддержке Флавио Болсонару, что она отрицает. Обвинения касаются вмешательства в предвыборный процесс.",
-        "en": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies. The allegations concern interference in the electoral process."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Президент Бразилии Луис Инасиу Лула да Силва обвинил технологическую компанию Meta в поддержке его соперника Флавио Болсонару. Эти обвинения касаются предполагаемого вмешательства в предвыборный процесс, что Meta решительно отрицает. Лула утверждает, что действия компании могут оказать влияние на исход выборов.\n\nОбвинения Лулы подчеркивают напряженность в предвыборной обстановке в Бразилии, где конкуренция между кандидатами становится все более жесткой. Meta, в свою очередь, заявила, что не вмешивается в выборы и что ее платформа предназначена для обеспечения свободного обмена мнениями.\n\nДанная ситуация вызывает обеспокоенность по поводу роли социальных медиа в политических процессах и возможного влияния крупных технологических компаний на демократические выборы.",
-        "en": "Brazilian President Luiz Inácio Lula da Silva has accused the tech company Meta of favoring his rival Flávio Bolsonaro. These allegations concern supposed interference in the electoral process, which Meta firmly denies. Lula claims that the company's actions could influence the outcome of the elections.\n\nLula's accusations highlight the tension in Brazil's electoral landscape, where competition between candidates is becoming increasingly fierce. Meta, for its part, stated that it does not interfere in elections and that its platform is intended to facilitate free exchange of opinions.\n\nThis situation raises concerns about the role of social media in political processes and the potential influence of large tech companies on democratic elections."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/23/embattled-qld-mininster-amanda-camm-quits-crisafulli-frontbench-citing-health-and-safety-reasons",
       "source": "The Guardian",
       "title": {
-        "ru": "Вопросы читателей: Что дальше для Франции после уикенда с беспорядками?",
-        "en": "Reader Q&A: What’s next for France after a weekend of riots?"
+        "ru": "Министр Квинсленда Аманда Кэмм уходит с поста в правительстве Криссафулли по причинам здоровья и безопасности",
+        "en": "Embattled Queensland minister Amanda Camm quits Crisafulli frontbench citing health and safety reasons"
       },
       "summary": {
-        "ru": "В пятницу, 23 октября, колумнисты Guardian по Европе ответят на вопросы читателей о беспорядках и протестах во Франции. За последние недели произошло множество протестов и беспорядков, в результате которых было арестовано более 2300 человек.",
-        "en": "On Friday, October 23, Guardian Europe columnists will answer readers' questions about the riots and protests in France. In recent weeks, numerous protests and riots have led to over 2,300 arrests."
+        "ru": "Кэмм подала в отставку после месяцев давления из-за ее работы в системе безопасности детей штата, сославшись на атаку Хелен Хейнс как на причину своего ухода.",
+        "en": "Camm resigned following months of pressure over her handling of the state’s child safety system, citing Helen Haines' attack as the reason for her departure."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "В пятницу, 23 октября, колоннисты Guardian по Европе ответят на вопросы читателей о беспорядках и протестах, которые происходят во Франции. За последние недели в стране произошло множество протестов и беспорядков, в результате которых было арестовано более 2300 человек. Эти события стали следствием недовольства населения различными социальными и экономическими проблемами.\n\nПротесты сопровождались насилием, в том числе поджогами и разграблением магазинов. Обострение ситуации привело к тому, что власти начали принимать меры для восстановления порядка. Вопросы о причинах и последствиях этих беспорядков остаются актуальными для французского общества.\n\nВ ходе обсуждения колоннисты постараются проанализировать текущую ситуацию и предложить возможные пути решения проблемы, а также обсудить, как эти события могут повлиять на будущее Франции.",
-        "en": "On Friday, October 23, Guardian Europe columnists will answer readers' questions about the riots and protests occurring in France. In recent weeks, numerous protests and riots have taken place in the country, leading to over 2,300 arrests. These events stem from public dissatisfaction with various social and economic issues.\n\nThe protests have been marked by violence, including arson and looting of shops. The escalation of the situation has prompted authorities to take measures to restore order. Questions about the causes and consequences of these riots remain relevant for French society.\n\nDuring the discussion, the columnists will attempt to analyze the current situation and suggest possible solutions to the problem, as well as discuss how these events may impact France's future."
+        "ru": "Министр Квинсленда Аманда Кэмм подала в отставку после месяцев давления по поводу ее работы в системе безопасности детей штата. Она сослалась на атаку Хелен Хейнс как на причину своего ухода.\n\nКэмм столкнулась с критикой за недостаточную эффективность в управлении системой безопасности детей, что привело к общественному недовольству. Ее отставка подчеркивает важность ответственности государственных служащих за их действия и решения.\n\nКэмм заявила, что решение уйти было \"только ее собственным\", что может указывать на внутренние конфликты в правительстве и необходимость пересмотра подходов к вопросам безопасности детей.",
+        "en": "Queensland Minister Amanda Camm resigned following months of pressure over her handling of the state’s child safety system. She cited Helen Haines' attack as the reason for her departure.\n\nCamm faced criticism for her perceived ineffectiveness in managing the child safety system, leading to public discontent. Her resignation underscores the importance of accountability for public officials regarding their actions and decisions.\n\nCamm stated that the decision to step down was \"mine alone,\" which may indicate internal conflicts within the government and the need to reassess approaches to child safety issues."
       }
     },
     {
-      "link": "https://www.theguardian.com/uk-news/2026/oct/22/russell-brand-raped-woman-even-though-she-screamed-in-pain-court-hears",
+      "link": "https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation",
       "source": "The Guardian",
       "title": {
-        "ru": "Суд слышит, что Рассел Брэнд изнасиловал женщину, хотя она кричала от боли",
-        "en": "Russell Brand raped woman even though she screamed in pain, court hears"
+        "ru": "Министерство юстиции начало уголовное расследование против Кори Левандовски",
+        "en": "Department of Justice opens criminal investigation into Corey Lewandowski"
       },
       "summary": {
-        "ru": "Женщина рассказала матери, что Рассел Брэнд изнасиловал её и «не остановился, даже когда она кричала от боли». Суд также услышал, что она говорила коллеге о том, что сильно кровоточит.",
-        "en": "A woman told her mother that Russell Brand had raped her and 'didn’t stop even when she screamed out in pain.' The court also heard she told a colleague she was 'bleeding everywhere'."
+        "ru": "Бывший советник Трампа Кори Левандовски находится под уголовным расследованием из-за обвинений в том, что он извлекал выгоду из своей роли в правительстве США.",
+        "en": "Ex-Trump adviser Corey Lewandowski is under criminal investigation over allegations he profited off his role in the US government."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "В суде было озвучено свидетельство женщины, которая утверждает, что Рассел Брэнд изнасиловал её, не останавливаясь даже когда она кричала от боли. Женщина рассказала своей матери о случившемся и сообщила коллеге, что сильно кровоточит. Эти показания стали частью судебного разбирательства, в котором рассматриваются серьезные обвинения против Брэнда.\n\nСудебный процесс привлек большое внимание общественности, так как дело касается вопросов сексуального насилия и прав женщин. Обвинения против Брэнда вызывают широкий общественный резонанс и поднимают важные темы о согласии и насилии в обществе.\n\nСуд продолжает рассматривать дело, и ожидается, что оно станет предметом обсуждения в СМИ и среди общественности в ближайшие недели.",
-        "en": "In court, testimony was presented from a woman who claims that Russell Brand raped her, 'not stopping even when she screamed out in pain.' The woman told her mother about the incident and informed a colleague that she was 'bleeding everywhere.' These statements have become part of the legal proceedings examining serious allegations against Brand.\n\nThe trial has attracted significant public attention, as it concerns issues of sexual violence and women's rights. The accusations against Brand have sparked widespread public outcry and raise important topics regarding consent and violence in society.\n\nThe court continues to hear the case, and it is expected to remain a subject of discussion in the media and among the public in the coming weeks."
+        "ru": "Кори Левандовски, бывший советник Дональда Трампа, находится под уголовным расследованием из-за обвинений в том, что он извлекал выгоду из своей роли в правительстве США. Это расследование началось после уголовной рекомендации от внутреннего контролера в Министерстве внутренней безопасности.\n\nЛевандовски, который ранее занимал должность старшего помощника в Министерстве внутренней безопасности, обвиняется в том, что использовал свои связи и влияние для личной выгоды. Это дело привлекло внимание к вопросам этики и прозрачности в правительственных структурах.\n\nРасследование может иметь серьезные последствия для Левандовски и его будущей карьеры, а также для репутации администрации Трампа в целом.",
+        "en": "Corey Lewandowski, a former adviser to Donald Trump, is under criminal investigation over allegations that he profited off his role in the US government. This investigation was initiated following a criminal referral from the internal watchdog at the Department of Homeland Security.\n\nLewandowski, who previously served as a top aide at the Department of Homeland Security, is accused of using his connections and influence for personal gain. This case has drawn attention to issues of ethics and transparency within government structures.\n\nThe investigation could have serious implications for Lewandowski's future career, as well as for the overall reputation of the Trump administration."
       }
     },
     {
-      "link": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-test-denied",
-      "source": "The Guardian",
-      "title": {
-        "ru": "CDC отказывает в одобрении теста на корь с высоким объемом, ссылаясь на «другие приоритеты»",
-        "en": "CDC denies approval for high-volume measles test, citing ‘other priorities’"
-      },
-      "summary": {
-        "ru": "Здравоохранительные органы Калифорнии, Орегона, Вашингтона и Гавайев обратились в CDC с просьбой пересмотреть решение. CDC отклонил запрос, сославшись на «другие конкурирующие приоритеты».",
-        "en": "Health officials from California, Oregon, Washington, and Hawaii asked the CDC to reconsider its decision. The CDC denied the request, citing 'other competing priorities'."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Здравоохранительные органы Калифорнии, Орегона, Вашингтона и Гавайев обратились в Центр по контролю и профилактике заболеваний США с просьбой пересмотреть решение о недопущении нового теста на корь. CDC отклонил этот запрос, сославшись на \"другие конкурирующие приоритеты\". Это решение вызвало критику со стороны местных властей, которые считают, что новый тест мог бы улучшить диагностику и контроль за заболеванием.\n\nМестные чиновники подчеркивают важность быстрого и эффективного тестирования на корь, особенно в свете недавних вспышек заболевания. Они призывают CDC пересмотреть свое решение и уделить больше внимания вопросам общественного здравоохранения.\n\nДанная ситуация поднимает вопросы о приоритетах CDC и о том, как они могут повлиять на здоровье населения в разных штатах.",
-        "en": "Health officials from California, Oregon, Washington, and Hawaii have reached out to the U.S. Centers for Disease Control and Prevention to request a reconsideration of the decision not to approve a new measles test. The CDC denied this request, citing 'other competing priorities.' This decision has drawn criticism from local authorities, who believe that the new test could improve diagnosis and control of the disease.\n\nLocal officials emphasize the importance of rapid and effective measles testing, especially in light of recent outbreaks. They are urging the CDC to reconsider its decision and pay more attention to public health issues.\n\nThis situation raises questions about the priorities of the CDC and how they may impact public health across different states."
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "«Это отвратительно»: Эми Актон отвечает на нападение в рекламе противника с участием её матери",
-        "en": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother"
-      },
-      "summary": {
-        "ru": "Её соперник-республиканец Вивек Рамасвами транслирует рекламу с участием её матери, чья жизнь была омрачена обвинениями в сексуальном насилии.",
-        "en": "Her Republican opponent Vivek Ramaswamy is airing an ad featuring her mother, whose life was marred by allegations of sexual abuse."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Эми Эктон, кандидат на выборах в Огайо, ответила на атаку своего соперника-республиканца Вивека Рамасвами, который транслирует рекламу с участием её матери. В рекламе упоминается, что жизнь её матери была омрачена обвинениями в сексуальном насилии. Эктон назвала эту рекламу \"подлой\" и выразила недовольство по поводу использования личных трагедий в политической борьбе.\n\nДанная ситуация поднимает важные вопросы о том, как кандидаты используют личные истории и трагедии своих оппонентов в предвыборной кампании. Эктон призывает к более этичному подходу в политике и к уважению к личной жизни людей.\n\nАтака Рамасвами на Эктон может оказать влияние на ход выборов, так как такие методы часто вызывают сильные реакции избирателей.",
-        "en": "Amy Acton, a candidate in the Ohio elections, has responded to an attack from her Republican opponent Vivek Ramaswamy, who is airing an ad featuring her mother. The ad mentions that her mother's life was marred by allegations of sexual abuse. Acton described the ad as 'despicable' and expressed discontent over the use of personal tragedies in political campaigning.\n\nThis situation raises important questions about how candidates utilize personal stories and tragedies of their opponents in election campaigns. Acton calls for a more ethical approach to politics and respect for individuals' privacy.\n\nRamaswamy's attack on Acton may influence the course of the elections, as such tactics often provoke strong reactions from voters."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Раскрыто: миллиардер-донор Реформа был в бизнесе с фондом, связанным с иранским режимом",
-        "en": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime"
-      },
-      "summary": {
-        "ru": "Партнёрство Сасана Гандехари с религиозным фондом вызывает вопросы о его прошлых делах с режимом, подвергшимся критике Нигелем Фараджем.",
-        "en": "Sasan Ghandehari’s partnership with a religious foundation raises questions about his past dealings with the regime criticized by Nigel Farage."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Сасан Гандехари, миллиардер и донор партии Reform UK, оказался в центре скандала из-за своего партнерства с религиозным фондом, связанным с иранским режимом. Это сотрудничество вызывает вопросы о его прошлых делах с режимом, который подвергся критике со стороны Нигела Фаража. Гандехари стал известен в Великобритании после того, как пообещал пожертвовать миллионы фунтов на поддержку Reform UK.\n\nОбсуждение его связей с иранским фондом поднимает вопросы о прозрачности и этике в политическом финансировании. Критики утверждают, что такие связи могут подорвать доверие к политическим партиям и их донорам.\n\nДанная ситуация может оказать влияние на репутацию Reform UK и вызвать дополнительные вопросы о финансировании политических кампаний в стране.",
-        "en": "Sasan Ghandehari, a billionaire donor to Reform UK, has come under scrutiny due to his partnership with a religious foundation linked to the Iranian regime. This collaboration raises questions about his past dealings with the regime, which has been criticized by Nigel Farage. Ghandehari gained prominence in the UK after pledging to donate millions to support Reform UK.\n\nThe discussion of his ties to the Iranian foundation raises issues of transparency and ethics in political financing. Critics argue that such connections could undermine trust in political parties and their donors.\n\nThis situation may impact the reputation of Reform UK and raise further questions about the funding of political campaigns in the country."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Албанские законодатели дрались в парламенте, пока уличные протесты продолжаются",
-        "en": "Albanian lawmakers scuffle in parliament as street protests continue"
+        "ru": "Редкие беспорядки вспыхнули в столице Туниса, полиция столкнулась с протестующими",
+        "en": "Rare unrest flares in Tunisian capital as police clash with protesters"
       },
       "summary": {
-        "ru": "Албанские законодатели дрались в парламенте, бросая предметы друг в друга и вырывая микрофоны с парт.",
-        "en": "Albanian lawmakers have scuffled in parliament, throwing objects at one another and ripping microphones from desks."
+        "ru": "Протесты в нескольких городах совпадают с углубляющимся экономическим, социальным и политическим кризисом в Тунисе.",
+        "en": "Protests in several cities coincide with a deepening economic, social and political crisis in Tunisia."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "В албанском парламенте произошла драка между законодателями, которые бросали предметы друг в друга и вырывали микрофоны с парт. Этот инцидент произошел на фоне продолжающихся уличных протестов, которые охватили страну. Протестующие выражают недовольство действиями правительства и требуют изменений.\n\nСтычки в парламенте подчеркивают нарастающее напряжение между политическими партиями и отражают обострение политической ситуации в Албании. Законодатели не смогли сохранить спокойствие, что привело к хаосу в зале заседаний.\n\nДанные события показывают, как протестное движение влияет на политическую атмосферу в стране и поднимают вопросы о стабильности правительства.",
-        "en": "In the Albanian parliament, lawmakers have scuffled, throwing objects at one another and ripping microphones from desks. This incident occurred amid ongoing street protests that have swept the country. Protesters are expressing dissatisfaction with the government's actions and demanding change.\n\nThe clashes in parliament highlight the growing tension between political parties and reflect the escalating political situation in Albania. Lawmakers were unable to maintain decorum, leading to chaos in the chamber.\n\nThese events demonstrate how the protest movement is influencing the political atmosphere in the country and raise questions about the stability of the government."
+        "ru": "В Тунисе вспыхнули редкие протесты, когда полиция столкнулась с демонстрантами в нескольких городах. Эти события совпадают с углубляющимся экономическим, социальным и политическим кризисом в стране.\n\nПротесты отражают недовольство граждан по поводу ухудшающейся экономической ситуации и отсутствия эффективных решений со стороны правительства. Участники требуют изменений и более прозрачного управления.\n\nПравительство Туниса сталкивается с серьезными вызовами, и эти протесты могут стать сигналом о необходимости реформ и пересмотра текущей политики.",
+        "en": "Rare unrest has flared in Tunisia as police clashed with protesters in several cities. These events coincide with a deepening economic, social, and political crisis in the country.\n\nThe protests reflect citizens' dissatisfaction with the deteriorating economic situation and the lack of effective solutions from the government. Participants are demanding change and more transparent governance.\n\nThe Tunisian government is facing serious challenges, and these protests may signal the need for reforms and a reassessment of current policies."
       }
     },
     {
-      "link": "https://www.euronews.com/2026/10/22/judge-orders-trump-to-sit-for-a-deposition-in-his-bbc-defamation-lawsuit-by-december-11",
-      "source": "Euronews",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss",
+      "source": "Al Jazeera",
       "title": {
-        "ru": "Судья приказывает Трампу дать показания по делу о клевете против BBC до 11 декабря",
-        "en": "Judge orders Trump to sit for a deposition in his BBC defamation lawsuit by December 11"
+        "ru": "Тибет потрясен землетрясением магнитудой 7.0",
+        "en": "Tibet rocked by 7.0-magnitude earthquake"
       },
       "summary": {
-        "ru": "BBC обвиняет Трампа в попытке отложить свои показания до января 2027 года.",
-        "en": "The BBC has accused Trump of seeking to postpone his deposition until January 2027."
+        "ru": "Тибет потрясен землетрясением магнитудой 7.0.",
+        "en": "Tibet rocked by 7.0-magnitude earthquake."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Судья постановил, что Дональд Трамп должен дать показания по делу о клевете, поданному против него BBC, до 11 декабря. BBC обвиняет Трампа в попытке отложить свои показания до января 2027 года, что вызывает вопросы о его намерениях и о том, как он будет реагировать на обвинения.\n\nДанное дело привлекло внимание общественности, так как оно касается вопросов свободы слова и ответственности за публичные заявления. Ожидается, что показания Трампа будут иметь важное значение для дальнейшего хода дела.\n\nСудебный процесс продолжает развиваться, и многие следят за тем, как он повлияет на репутацию Трампа и его политическую карьеру.",
-        "en": "A judge has ordered Donald Trump to sit for a deposition in his defamation lawsuit against the BBC by December 11. The BBC has accused Trump of seeking to postpone his deposition until January 2027, raising questions about his intentions and how he will respond to the allegations.\n\nThis case has garnered public attention as it concerns issues of free speech and accountability for public statements. Trump's testimony is expected to be significant for the further proceedings of the case.\n\nThe legal process continues to unfold, and many are watching how it will impact Trump's reputation and political career."
+        "ru": "Тибет был потрясен землетрясением магнитудой 7.0, которое вызвало значительное беспокойство среди местных жителей и властей. Событие произошло в регионе, известном своей сейсмической активностью.\n\nМестные службы экстренной помощи начали оценку ущерба и оказание помощи пострадавшим. Власти призывают жителей соблюдать осторожность и следить за возможными повторными толчками.\n\nЗемлетрясение подчеркивает необходимость готовности к стихийным бедствиям в сейсмоопасных регионах, таких как Тибет, где подобные события могут иметь серьезные последствия для населения.",
+        "en": "Tibet was rocked by a 7.0-magnitude earthquake, causing significant concern among local residents and authorities. The event occurred in a region known for its seismic activity.\n\nLocal emergency services have begun assessing damage and providing assistance to those affected. Authorities are urging residents to exercise caution and remain alert for potential aftershocks.\n\nThe earthquake highlights the need for disaster preparedness in seismically active regions like Tibet, where such events can have serious consequences for the population."
       }
     },
     {
-      "link": "https://www.theguardian.com/world/2026/oct/22/downing-street-us-envoy-witkoff-putin-humanitarian",
-      "source": "The Guardian",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/uk-conservative-party-leader-responds-to-al-jazeera-investigation?traffic_source=rss",
+      "source": "Al Jazeera",
       "title": {
-        "ru": "Даунинг-стрит отвергает описание Уиткоффа Путина как «гуманитария»",
-        "en": "Downing Street rejects Witkoff’s description of Putin as a ‘humanitarian’"
+        "ru": "Лидер Консервативной партии Великобритании отвечает на расследование Al Jazeera",
+        "en": "UK Conservative Party leader responds to Al Jazeera investigation"
       },
       "summary": {
-        "ru": "Даунинг-стрит заявляет, что российский президент «убил тысячи людей, как невинных украинцев, так и своих собственных».",
-        "en": "Downing Street has rejected the description of Vladimir Putin as a 'humanitarian,' stating he 'has killed thousands of people, both innocent Ukrainians and his own people.'"
+        "ru": "Депутат Консервативной партии Великобритании заявил, что партия не одобряет поведение бывшего члена, раскрытого в расследовании Al Jazeera.",
+        "en": "UK Conservative Party MP says the party does not condone former member's conduct, revealed in Al Jazeera investigation."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Даунинг-стрит отверг описание Владимира Путина как \"гуманитария\", сделанное главой переговорной группы Дональда Трампа по Украине Стивом Уиткоффом. Представитель Даунинг-стрита заявил, что российский президент \"убил тысячи людей, как невинных украинцев, так и своих собственных\". Это заявление подчеркивает жесткую позицию Великобритании в отношении России и её действий в Украине.\n\nОтказ от такого описания Путина также отражает обеспокоенность британских властей по поводу гуманитарной ситуации в Украине и последствий российской агрессии. Великобритания продолжает поддерживать Украину в её борьбе против вторжения и осуждает действия России на международной арене.\n\nДанная ситуация поднимает вопросы о международной политике и о том, как различные страны реагируют на конфликты и гуманитарные кризисы.",
-        "en": "Downing Street has rejected the description of Vladimir Putin as a 'humanitarian' made by Donald Trump's chief negotiator on the Ukraine war, Steve Witkoff. A spokesperson for Downing Street stated that the Russian president 'has killed thousands of people, both innocent Ukrainians and his own people.' This statement underscores the UK's firm stance on Russia and its actions in Ukraine.\n\nThe rejection of such a characterization of Putin also reflects the concerns of British authorities regarding the humanitarian situation in Ukraine and the consequences of Russian aggression. The UK continues to support Ukraine in its struggle against the invasion and condemns Russia's actions on the international stage.\n\nThis situation raises questions about international politics and how different countries respond to conflicts and humanitarian crises."
+        "ru": "Депутат Консервативной партии Великобритании заявил, что партия не одобряет поведение бывшего члена, раскрытого в расследовании Al Jazeera. Это заявление сделано на фоне растущих вопросов о прозрачности и этике внутри партии.\n\nРасследование выявило проблемы, связанные с поведением некоторых членов партии, что вызвало общественное недовольство. Партия стремится дистанцироваться от этих обвинений и подтвердить свои ценности.\n\nЭто заявление может иметь последствия для внутренней политики Консервативной партии и ее имиджа в глазах избирателей.",
+        "en": "A UK Conservative Party MP stated that the party does not condone the conduct of a former member revealed in an Al Jazeera investigation. This statement comes amid growing concerns about transparency and ethics within the party.\n\nThe investigation uncovered issues related to the behavior of some party members, leading to public discontent. The party aims to distance itself from these allegations and reaffirm its values.\n\nThis statement could have implications for the internal politics of the Conservative Party and its image in the eyes of voters."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Почти все мелководные коралловые рифы теперь под угрозой исчезновения, предупреждает исследование",
+        "en": "Almost all shallow-water coral reefs now face extinction risk, study warns"
+      },
+      "summary": {
+        "ru": "Мировая организация по охране дикой природы классифицировала 96 процентов оцененных коралловых рифов как «критически угрожаемые».",
+        "en": "World authority on threatened wildlife classifies 96 percent of assessed coral reef systems as 'critically endangered'."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Мировая организация по охране дикой природы классифицировала 96 процентов оцененных коралловых рифов как \"критически угрожаемые\". Это тревожное открытие подчеркивает серьезность угроз, с которыми сталкиваются морские экосистемы.\n\nИсследования показывают, что изменение климата, загрязнение и другие факторы оказывают разрушительное воздействие на коралловые рифы по всему миру. Защитники окружающей среды призывают к немедленным действиям для сохранения этих важных экосистем.\n\nСохранение коралловых рифов имеет критическое значение не только для морской жизни, но и для людей, которые зависят от них для средств к существованию и защиты побережья.",
+        "en": "The world authority on threatened wildlife has classified 96 percent of assessed coral reef systems as 'critically endangered'. This alarming finding underscores the severity of the threats facing marine ecosystems.\n\nResearch shows that climate change, pollution, and other factors are having a devastating impact on coral reefs worldwide. Environmental advocates are calling for immediate action to preserve these vital ecosystems.\n\nConserving coral reefs is critical not only for marine life but also for people who depend on them for livelihoods and coastal protection."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Наблюдение и 'постоянная паранойя': западные дипломаты рассказывают BBC о жизни в военном Москве",
+        "en": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow"
+      },
+      "summary": {
+        "ru": "Официальные лица сравнивают работу в России с момента полномасштабного вторжения в Украину с эпохой холодной войны.",
+        "en": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Западные дипломаты рассказали BBC о жизни в Москве во время войны, сравнив ее с эпохой холодной войны. Они описали постоянный надзор и \"паранойю\", с которой сталкиваются иностранные официальные лица в условиях текущей политической обстановки.\n\nПо их словам, работа в России с момента полномасштабного вторжения в Украину стала значительно сложнее, с увеличением контроля и ограничений на свободу передвижения. Дипломаты отмечают, что такая атмосфера создает трудности для выполнения их обязанностей.\n\nЭти свидетельства подчеркивают изменения в международных отношениях и вызовы, с которыми сталкиваются дипломаты в условиях глобальной нестабильности.",
+        "en": "Western diplomats have told the BBC about life in Moscow during wartime, comparing it to the Cold War era. They described constant surveillance and \"paranoia\" faced by foreign officials amid the current political climate.\n\nAccording to them, working in Russia since its full-scale invasion of Ukraine has become significantly more challenging, with increased scrutiny and restrictions on freedom of movement. Diplomats note that such an atmosphere creates difficulties in carrying out their duties.\n\nThese testimonies highlight changes in international relations and the challenges diplomats face in a climate of global instability."
       }
     }
   ]
