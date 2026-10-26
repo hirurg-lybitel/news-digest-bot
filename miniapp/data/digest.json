@@ -1,542 +1,478 @@
 {
-  "generatedAt": "2026-10-25T18:03:47.353Z",
-  "date": "2026-10-25",
-  "slot": "evening",
-  "periodHours": 11.956160555555556,
+  "generatedAt": "2026-10-26T06:04:18.191Z",
+  "date": "2026-10-26",
+  "slot": "morning",
+  "periodHours": 11.960959444444445,
   "intro": {
     "ru": "Главные мировые события за последние несколько часов — 30 коротких новостей.",
     "en": "The latest major world events in 30 concise stories."
   },
   "stories": [
     {
-      "link": "https://www.euronews.com/video/2026/10/25/brazil-long-queues-and-river-journeys-mark-decisive-presidential-vote",
-      "source": "Euronews",
-      "title": {
-        "ru": "Бразилия: длинные очереди и речные путешествия на решающем президентском голосовании",
-        "en": "Brazil: long queues and river journeys mark decisive presidential vote"
-      },
-      "summary": {
-        "ru": "Бразильцы пришли на выборы, чтобы выбрать между Лукой и Флавио Болсонару. Из каноэ в Амазонии до длинных очередей в Рио, избиратели пришли на президентский второй тур.",
-        "en": "Brazilians headed to the polls to choose between Lula and Flávio Bolsonaro. From canoe journeys in the Amazon to long queues in Rio, voters turned out for the presidential runoff."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "Бразильцы вышли на выборы, чтобы выбрать между Луисом Инасиу Лулой да Силвой и Флавио Болсонару. Избиратели проявили активность, преодолевая длинные очереди в крупных городах, таких как Рио-де-Жанейро, и даже отправляясь в каноэ по рекам Амазонии, чтобы добраться до избирательных участков.\n\nВторой тур президентских выборов стал важным событием для страны, где политическая борьба между левыми и правыми силами достигла своего пика. На улицах Бразилии можно было увидеть различные символы поддержки, включая куклы Лулы в столице, что подчеркивало напряженность и ожидания среди избирателей.\n\nЭти выборы являются решающими для будущего Бразилии, и результаты могут оказать значительное влияние на внутреннюю и внешнюю политику страны.",
-        "en": "Brazilians headed to the polls to choose between Luiz Inácio Lula da Silva and Flávio Bolsonaro. Voters showed strong turnout, overcoming long queues in major cities like Rio de Janeiro and even traveling by canoe along Amazon rivers to reach polling stations.\n\nThe presidential runoff has become a significant event for the country, where the political struggle between left and right has reached its peak. The streets of Brazil were filled with various symbols of support, including Lula dolls in the capital, highlighting the tension and expectations among voters.\n\nThese elections are crucial for Brazil's future, and the outcomes could have a significant impact on the country's domestic and foreign policies."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Braziliya-dlinnye-ocheredi-i-rechnye-puteshestviya-na-reshayushchem-prezidentskom-golosovanii-10-25",
-        "en": "https://telegra.ph/Brazil-long-queues-and-river-journeys-mark-decisive-presidential-vote-10-25"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Семь убитых в Газе в результате атак Израиля на университетский кампус и другие объекты",
-        "en": "Seven killed in Gaza as Israel targets university campus and other sites"
-      },
-      "summary": {
-        "ru": "Израильский авиаудар убил троих охранников в одном из двух нападений на Исламский университет в Газе. ",
-        "en": "Israeli air strike killed three security guards in one of two attacks on the Islamic University in Gaza City."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
-      },
-      "longBody": {
-        "ru": "Израильские авиаудары по Газе привели к гибели троих охранников в результате двух атак на Исламский университет в Газе. Эти события подчеркивают продолжающееся насилие в регионе и напряженность между Израилем и палестинскими группами.\n\nАтаки на университет стали частью более широких военных действий, которые продолжаются в этом районе, вызывая обеспокоенность международного сообщества. Местные жители выражают страх и тревогу по поводу безопасности в условиях постоянных конфликтов.\n\nСитуация в Газе остается критической, и дальнейшие эскалации насилия могут привести к еще более серьезным последствиям для гражданского населения.",
-        "en": "Israeli air strikes in Gaza resulted in the deaths of three security guards during two attacks on the Islamic University in Gaza City. These events highlight the ongoing violence in the region and the tensions between Israel and Palestinian groups.\n\nThe attacks on the university are part of a broader military campaign that continues in the area, raising concerns within the international community. Local residents express fear and anxiety regarding their safety amid the ongoing conflicts.\n\nThe situation in Gaza remains critical, and further escalations of violence could lead to even more severe consequences for the civilian population."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Sem-ubityh-v-Gaze-v-rezultate-atak-Izrailya-na-universitetskij-kampus-i-drugie-obekty-10-25",
-        "en": "https://telegra.ph/Seven-killed-in-Gaza-as-Israel-targets-university-campus-and-other-sites-10-25"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "День после возобновления уличных столкновений во Франции: облегчение и тревога",
-        "en": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix"
-      },
-      "summary": {
-        "ru": "Хотя полиция сдерживала вандализм, большое количество протестующих и напряженная политика Франции указывают на возможное нарастание беспорядков.",
-        "en": "While police kept a lid on vandalism, the huge number of protesters and France’s fraught politics suggest unrest could grow."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "Во Франции, после возобновления уличных столкновений, смешиваются чувства облегчения и тревоги. Хотя полиция смогла сдержать вандализм, большое количество протестующих и напряженная политическая обстановка в стране указывают на возможность роста беспорядков.\n\nПротесты, охватившие страну, отражают недовольство граждан по поводу различных социальных и политических вопросов. Участники требуют изменений и более справедливого подхода со стороны властей.\n\nФранция сталкивается с вызовами, которые могут привести к дальнейшим волнениям, и власти должны будут найти способы справиться с нарастающим недовольством среди населения.",
-        "en": "In France, following renewed street clashes, relief and anxiety are mixing. While police managed to keep vandalism in check, the large number of protesters and the tense political climate suggest that unrest could grow.\n\nThe protests sweeping the country reflect citizens' dissatisfaction with various social and political issues. Participants are demanding change and a more equitable approach from the authorities.\n\nFrance is facing challenges that could lead to further unrest, and authorities will need to find ways to address the growing discontent among the population."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Den-posle-vozobnovleniya-ulichnyh-stolknovenij-vo-Francii-oblegchenie-i-trevoga-10-25",
-        "en": "https://telegra.ph/A-Day-After-Renewed-Street-Clashes-in-France-Relief-and-Anxiety-Mix-10-25"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Мария Корина Мачадо возвращается в Венесуэлу",
-        "en": "María Corina Machado Returns to Venezuela"
-      },
-      "summary": {
-        "ru": "После почти 10 месяцев в изгнании, г-жа Мачадо, лауреат Нобелевской премии и лидер венесуэльской оппозиции, вернулась, чтобы бросить вызов лидерам, которые ее отстранили.",
-        "en": "After nearly 10 months in exile, Ms. Machado, the Nobel laureate and leader of Venezuela’s opposition, returned to challenge leaders who have sidelined her."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "Мария Корина Мачадо, лауреат Нобелевской премии и лидер венесуэльской оппозиции, вернулась в Венесуэлу после почти 10 месяцев в изгнании. Ее возвращение стало значимым шагом в политической борьбе против лидеров, которые ее отстранили от власти.\n\nМачадо намерена бросить вызов действующим властям и призвать к проведению новых выборов, что подчеркивает ее решимость продолжать борьбу за демократию в стране. Ее возвращение также привлекло внимание как местных, так и международных наблюдателей.\n\nСитуация в Венесуэле остается напряженной, и действия Мачадо могут повлиять на дальнейшее развитие политической ситуации в стране.",
-        "en": "María Corina Machado, a Nobel laureate and leader of Venezuela’s opposition, has returned to Venezuela after nearly 10 months in exile. Her return marks a significant step in the political struggle against leaders who have sidelined her from power.\n\nMachado aims to challenge the current authorities and call for new elections, highlighting her determination to continue the fight for democracy in the country. Her return has also drawn attention from both local and international observers.\n\nThe situation in Venezuela remains tense, and Machado's actions could influence the further development of the political landscape in the country."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Mariya-Korina-Machado-vozvrashchaetsya-v-Venesuehlu-10-25",
-        "en": "https://telegra.ph/María-Corina-Machado-Returns-to-Venezuela-10-25-2"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Приостановка тарифов Трампа вызывает недовольство у некоторых американских скотоводов и увеличивает импорт бразильской говядины",
-        "en": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports"
-      },
-      "summary": {
-        "ru": "Как раз когда американский скот выходил на рынок, действия Трампа добавили неопределенности в уже нестабильную отрасль.",
-        "en": "Just as American cattle went to market, Trump's action added unease to an industry already facing uncertainty."
-      },
-      "category": {
-        "ru": "Экономика",
-        "en": "Economy"
-      },
-      "longBody": {
-        "ru": "Действия президента Трампа по приостановке тарифов вызвали недовольство среди американских скотоводов и добавили неопределенности в уже нестабильную отрасль. Это произошло в тот момент, когда американский скот выходил на рынок, что усугубило существующие проблемы в сельском хозяйстве.\n\nМестные фермеры выражают опасения по поводу последствий таких решений, которые могут повлиять на их доходы и конкурентоспособность. В то же время, это открывает двери для увеличения импорта говядины из Бразилии, что также вызывает обеспокоенность среди американских производителей.\n\nСитуация в аграрном секторе требует внимательного анализа, так как изменения в тарифной политике могут иметь долгосрочные последствия для всей отрасли.",
-        "en": "President Trump's actions to pause tariffs have angered some U.S. ranchers and added uncertainty to an already unstable industry. This comes at a time when American cattle were entering the market, exacerbating existing challenges in agriculture.\n\nLocal farmers express concerns about the implications of such decisions, which may affect their incomes and competitiveness. At the same time, this opens the door for increased beef imports from Brazil, raising alarms among American producers.\n\nThe situation in the agricultural sector requires careful analysis, as changes in tariff policy could have long-term consequences for the entire industry."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Priostanovka-tarifov-Trampa-vyzyvaet-nedovolstvo-u-nekotoryh-amerikanskih-skotovodov-i-uvelichivaet-import-brazilskoj-govyadiny-10-25",
-        "en": "https://telegra.ph/Trumps-tariff-pause-angers-some-US-ranchers-boosts-Brazilian-beef-imports-10-25"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Саудовская Аравия вновь открывает аэропорт в Эр-Рияде, несмотря на угрозы Хуситов",
-        "en": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes"
-      },
-      "summary": {
-        "ru": "Хуситы, поддерживаемое Ираном йеменское ополчение, запустили несколько смертоносных атак на аэропорт в этом месяце.",
-        "en": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
-      },
-      "longBody": {
-        "ru": "Аэропорт в Эр-Рияде вновь открылся, несмотря на угрозы со стороны хуситов, поддерживаемого Ираном йеменского ополчения, которые уже запустили несколько смертоносных атак на этот объект в этом месяце. Эти события подчеркивают продолжающуюся напряженность в регионе и угрозу безопасности для гражданских объектов.\n\nХуситы продолжают свои атаки, что вызывает обеспокоенность у властей Саудовской Аравии и международного сообщества. Безопасность аэропорта остается под пристальным вниманием, так как он играет ключевую роль в транспортной инфраструктуре страны.\n\nСитуация в регионе требует внимания, так как дальнейшие нападения могут привести к эскалации конфликта и ухудшению гуманитарной ситуации.",
-        "en": "Riyadh Airport has reopened despite threats from the Houthis, an Iran-backed Yemeni militia, which have launched several deadly attacks on the facility this month. These events highlight the ongoing tensions in the region and the security threat to civilian infrastructure.\n\nThe Houthis continue their assaults, raising concerns for the Saudi authorities and the international community. The security of the airport remains under close scrutiny, as it plays a key role in the country's transportation infrastructure.\n\nThe situation in the region requires attention, as further attacks could lead to an escalation of conflict and worsen the humanitarian situation."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Saudovskaya-Araviya-vnov-otkryvaet-aehroport-v-EHr-Riyade-nesmotrya-na-ugrozy-Husitov-10-25",
-        "en": "https://telegra.ph/Saudi-Arabia-Reopens-Riyadh-Airport-Even-as-Houthis-Threaten-Further-Strikes-10-25"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
+      "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
       "source": "The Guardian",
       "title": {
-        "ru": "Один погиб и 82 000 объектов без электроэнергии из-за шторма Боэло в Великобритании",
-        "en": "One dead and 82,000 properties without power as Storm Boelo batters UK"
+        "ru": "Бразилия: Болсонару невозможно признать результаты выборов после исторической победы Лулы",
+        "en": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win"
       },
       "summary": {
-        "ru": "60-летний мужчина погиб от упавшего дерева в Шотландии, в то время как более 82 000 объектов остались без электроэнергии из-за шторма Боэло.",
-        "en": "A 60-year-old man has been killed by a falling tree and more than 82,000 properties have been left without power as Storm Boelo continues to batter the UK."
-      },
-      "category": {
-        "ru": "Катастрофа",
-        "en": "Disaster"
-      },
-      "longBody": {
-        "ru": "Шторм Боэло продолжает наносить ущерб Великобритании, унося жизни и оставляя десятки тысяч людей без электроэнергии. В результате падения дерева в Шотландии погиб 60-летний мужчина, что подчеркивает серьезность погодных условий.\n\nБолее 82 000 объектов остались без электричества, и власти работают над восстановлением нормального электроснабжения. Шторм стал вторым по счету за короткий промежуток времени, что вызывает беспокойство у местных жителей и властей.\n\nСитуация в стране остается напряженной, и ожидаются дальнейшие ухудшения погодных условий, что может привести к дополнительным проблемам для населения.",
-        "en": "Storm Boelo continues to wreak havoc in the UK, claiming lives and leaving tens of thousands without power. A 60-year-old man was killed by a falling tree in Scotland, highlighting the severity of the weather conditions.\n\nMore than 82,000 properties have been left without electricity, and authorities are working to restore normal power supply. The storm is the second named storm in a short period, raising concerns among local residents and officials.\n\nThe situation in the country remains tense, with further adverse weather conditions expected, which could lead to additional challenges for the population."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Odin-pogib-i-82-000-obektov-bez-ehlektroehnergii-iz-za-shtorma-Boehlo-v-Velikobritanii-10-25",
-        "en": "https://telegra.ph/One-dead-and-82000-properties-without-power-as-Storm-Boelo-batters-UK-10-25"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Предупреждение ООН: «разрыв возможностей» в ИИ может углубить глобальное неравенство",
-        "en": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns"
-      },
-      "summary": {
-        "ru": "Заместитель генерального секретаря ИКТ-агентства ООН говорит, что неравный доступ к ИИ может оставить бедные страны позади.",
-        "en": "The deputy secretary-general of UN's ICT agency says unequal access to AI means poorer nations may be left behind."
-      },
-      "category": {
-        "ru": "Технологии",
-        "en": "Technology"
-      },
-      "longBody": {
-        "ru": "Заместитель генерального секретаря ИКТ-агентства ООН предупреждает о том, что неравный доступ к искусственному интеллекту может углубить глобальное неравенство. По его словам, бедные страны могут оказаться в невыгодном положении в условиях быстро развивающихся технологий.\n\nЭто заявление подчеркивает необходимость создания более справедливых условий для доступа к новым технологиям, чтобы все страны могли воспользоваться преимуществами, которые они предлагают. Неравенство в доступе к ИИ может привести к еще большему разрыву между развитыми и развивающимися странами.\n\nМировое сообщество должно обратить внимание на эти проблемы, чтобы предотвратить дальнейшее углубление неравенства в будущем.",
-        "en": "The deputy secretary-general of the UN's ICT agency warns that unequal access to artificial intelligence could deepen global inequality. He stated that poorer nations may be left behind in the face of rapidly advancing technologies.\n\nThis statement highlights the need for creating more equitable conditions for access to new technologies so that all countries can benefit from the advantages they offer. Inequality in access to AI could lead to an even greater divide between developed and developing nations.\n\nThe global community must pay attention to these issues to prevent further deepening of inequality in the future."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Preduprezhdenie-OON-razryv-vozmozhnostej-v-II-mozhet-uglubit-globalnoe-neravenstvo-10-25",
-        "en": "https://telegra.ph/AIs-opportunity-divide-could-deepen-global-inequality-UN-official-warns-10-25"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Двенадцать раненых, в том числе шесть несовершеннолетних, в стрельбе рядом с университетом во Флориде",
-        "en": "Twelve injured, including six juveniles, in shooting near Florida university"
-      },
-      "summary": {
-        "ru": "Стрельба рядом с университетом во Флориде оставила 11 человек с огнестрельными ранениями, полиция работает над идентификацией «ответственных».",
-        "en": "A shooting near a Florida university campus has left 11 people with gunshot wounds, and police are working to identify ‘those responsible’."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "Стрельба рядом с университетом во Флориде привела к тому, что 11 человек получили огнестрельные ранения, включая шестерых несовершеннолетних. Полиция работает над идентификацией «ответственных» за инцидент, который произошел на домашнем празднике.\n\nСтрельба произошла в Таллахасси, недалеко от кампуса Университета сельскохозяйственных и механических наук Флориды. Местные власти выражают обеспокоенность по поводу безопасности и призывают к более строгим мерам по предотвращению насилия.\n\nСитуация в регионе требует внимания, так как подобные инциденты подчеркивают необходимость решения проблемы насилия с применением оружия в обществе.",
-        "en": "A shooting near a Florida university campus has left 11 people with gunshot wounds, including six juveniles. Police are working to identify 'those responsible' for the incident, which occurred during a homecoming party.\n\nThe shooting took place in Tallahassee, near the Florida Agricultural and Mechanical University campus. Local authorities express concern over safety and are calling for stricter measures to prevent violence.\n\nThe situation in the region requires attention, as such incidents highlight the need to address the issue of gun violence in society."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Dvenadcat-ranenyh-v-tom-chisle-shest-nesovershennoletnih-v-strelbe-ryadom-s-universitetom-vo-Floride-10-25",
-        "en": "https://telegra.ph/Twelve-injured-including-six-juveniles-in-shooting-near-Florida-university-10-25"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Сербия голосует, так как студенческий блок бросает вызов многолетнему лидеру Вучичу",
-        "en": "Serbia votes as student-led bloc challenges longtime leader Vucic"
-      },
-      "summary": {
-        "ru": "Сербы пришли на выборы в парламент, которые могут положить конец многолетнему правлению Александра Вучича.",
-        "en": "Serbians turn out in huge numbers for a parliamentary election that could end Aleksandar Vucic’s longstanding reign."
+        "ru": "Левый президент Луиз Инасиу Лула да Силва победил ультраправого сенатора и был избран президентом Бразилии на четвертый непоследовательный срок. Судебные органы приказали восстановить 100% автобусного флота и арестовать секретаря муниципального транспорта Пабло Соуза по подозрению в нарушении выборного законодательства.",
+        "en": "Leftist president Luiz Inácio Lula da Silva defeated far-right senator and was elected president of Brazil for a fourth non-consecutive term. The electoral court ordered the immediate restoration of 100% of the bus fleet and the arrest of the municipal transport secretary on suspicion of an electoral offence."
       },
       "category": {
         "ru": "Политика",
         "en": "Politics"
       },
       "longBody": {
-        "ru": "Сербы пришли на выборы в парламент, которые могут положить конец многолетнему правлению Александра Вучича. Участие избирателей было значительным, что свидетельствует о растущем недовольстве среди населения.\n\nЭти выборы стали важным моментом для страны, так как оппозиция, возглавляемая студенческим движением, бросает вызов действующей власти. Результаты выборов могут оказать значительное влияние на будущее политическое направление Сербии.\n\nСитуация в стране остается напряженной, и многие ожидают, что результаты выборов приведут к изменениям в политическом ландшафте.",
-        "en": "Serbians turned out in huge numbers for a parliamentary election that could end Aleksandar Vucic’s longstanding reign. Voter participation was significant, indicating growing discontent among the population.\n\nThese elections have become a crucial moment for the country, as the opposition, led by a student movement, challenges the current government. The election results could have a significant impact on Serbia's future political direction.\n\nThe situation in the country remains tense, and many are anticipating that the election outcomes will lead to changes in the political landscape."
+        "ru": "Левый президент Луиз Инасиу Лула да Силва одержал победу над ультраправым сенатором Флавио Болсонару и был избран президентом Бразилии на четвертый непоследовательный срок. Эта победа стала значительным событием в политической жизни страны, отражая изменения в настроениях избирателей.\n\nВ то же время, судебные органы Бразилии распорядились о восстановлении 100% автобусного флота, что подчеркивает важность общественного транспорта в стране. Также был выдан ордер на арест секретаря муниципального транспорта Пабло Соуза по подозрению в нарушении выборного законодательства, однако его арест не был осуществлен из-за его нахождения за границей.\n\nЭти события подчеркивают напряженность в бразильской политике, где результаты выборов оспариваются, и реакция на них может иметь долгосрочные последствия для страны.",
+        "en": "Leftist president Luiz Inácio Lula da Silva defeated far-right senator Flávio Bolsonaro and was elected president of Brazil for a fourth non-consecutive term. This victory marks a significant moment in the country's political landscape, reflecting shifts in voter sentiment.\n\nAt the same time, Brazil's electoral court ordered the restoration of 100% of the bus fleet, highlighting the importance of public transport in the nation. An arrest warrant was also issued for municipal transport secretary Pablo Souza on suspicion of electoral offences, but his arrest could not be carried out due to his presence abroad.\n\nThese events underscore the tension in Brazilian politics, where election results are being contested, and the reactions to them may have long-term implications for the country."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Serbiya-golosuet-tak-kak-studencheskij-blok-brosaet-vyzov-mnogoletnemu-lideru-Vuchichu-10-25",
-        "en": "https://telegra.ph/Serbia-votes-as-student-led-bloc-challenges-longtime-leader-Vucic-10-25"
+        "ru": "https://telegra.ph/Braziliya-Bolsonaru-nevozmozhno-priznat-rezultaty-vyborov-posle-istoricheskoj-pobedy-Luly-10-26",
+        "en": "https://telegra.ph/Brazil-runoff-live-updates-Bolsonaro-says-it-is-impossible-to-concede-election-result-after-historic-Lula-win-10-26"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Александар Вучич, сербский лидер, свергнутый студентами",
+        "en": "Aleksandar Vucic, the Serbian leader brought down by students"
+      },
+      "summary": {
+        "ru": "Долгосрочный лидер Сербии признает поражение в результате протестного движения, возглавляемого студентами, на парламентских выборах.",
+        "en": "Serbia's longtime leader concedes defeat to a student-led protest movement in parliamentary elections."
+      },
+      "category": {
+        "ru": "Политика",
+        "en": "Politics"
+      },
+      "longBody": {
+        "ru": "Долгосрочный лидер Сербии Александрар Вучич признал свое поражение в результате протестного движения, возглавляемого студентами, на парламентских выборах. Это событие стало знаковым для страны, где молодежь активно участвует в политической жизни.\n\nПротестное движение, которое привело к этому результату, демонстрирует растущее недовольство среди граждан, особенно молодежи, по поводу текущего руководства и его политики. Вучич, который долгое время находился у власти, теперь сталкивается с новыми вызовами и требованиями со стороны общества.\n\nПобеда студентов на выборах может стать началом новых изменений в сербской политике и обществе, что вызывает надежды на более активное участие граждан в управлении страной.",
+        "en": "Serbia's longtime leader Aleksandar Vučić conceded defeat to a student-led protest movement in parliamentary elections. This event marks a significant moment for the country, where youth are increasingly engaging in political life.\n\nThe protest movement that led to this outcome reflects growing dissatisfaction among citizens, particularly the youth, regarding the current leadership and its policies. Vučić, who has been in power for a long time, now faces new challenges and demands from society.\n\nThe students' victory in the elections could signal the beginning of new changes in Serbian politics and society, raising hopes for more active citizen participation in the governance of the country."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Aleksandar-Vuchich-serbskij-lider-svergnutyj-studentami-10-26",
+        "en": "https://telegra.ph/Aleksandar-Vucic-the-Serbian-leader-brought-down-by-students-10-26"
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Израильтяне всех слоев общества сталкиваются с выборами страхов",
+        "en": "Israeli Jews Across the Spectrum Face an Election of Fears"
+      },
+      "summary": {
+        "ru": "Сторонники и противники премьер-министра Биньямина Нетаньяху выражают сильные опасения по поводу изоляции за границей, безопасности внутри страны и будущего идентичности Израиля.",
+        "en": "Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about isolation abroad, security at home, and the future of Israel’s identity."
+      },
+      "category": {
+        "ru": "Политика",
+        "en": "Politics"
+      },
+      "longBody": {
+        "ru": "Сторонники и противники премьер-министра Биньямина Нетаньяху выражают сильные опасения по поводу изоляции Израиля за границей, безопасности внутри страны и будущего идентичности нации. Эти вопросы становятся особенно актуальными на фоне предстоящих выборов.\n\nВ Израиле наблюдается глубокое разделение среди избирателей, что создает напряженность в обществе. Как сторонники, так и противники действующего премьер-министра обеспокоены тем, как результаты выборов могут повлиять на будущее страны и ее место на международной арене.\n\nЭти выборы могут стать решающими для определения направления политики Израиля и его внутренней стабильности, что вызывает широкий интерес как внутри страны, так и за ее пределами.",
+        "en": "Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about Israel's isolation abroad, security at home, and the future of the nation's identity. These issues are becoming particularly pressing in the lead-up to the upcoming elections.\n\nIsrael is experiencing deep divisions among voters, creating tension within society. Both supporters and opponents of the current prime minister are concerned about how the election results may impact the country's future and its position on the international stage.\n\nThese elections could be pivotal in determining the direction of Israeli policy and its internal stability, generating significant interest both within the country and beyond."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Izrailtyane-vseh-sloev-obshchestva-stalkivayutsya-s-vyborami-strahov-10-26",
+        "en": "https://telegra.ph/Israeli-Jews-Across-the-Spectrum-Face-an-Election-of-Fears-10-26-4"
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/10/25/world/modi-india-protests-brazil-election.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "План Моди по прекращению протестов в Индии",
+        "en": "Modi’s Plan to Stop India’s Protests"
+      },
+      "summary": {
+        "ru": "Индийский лидер, сталкивающийся с нестабильным молодежным восстанием, похоже, намеренно втягивает в борьбу политического соперника, которого он уже побеждал.",
+        "en": "The Indian leader, facing a volatile youth uprising, appears to be deliberately drawing into the fray a political rival he’s beaten before."
+      },
+      "category": {
+        "ru": "Политика",
+        "en": "Politics"
+      },
+      "longBody": {
+        "ru": "Индийский лидер, сталкивающийся с нестабильным молодежным восстанием, похоже, намеренно втягивает в борьбу политического соперника, которого он уже побеждал ранее. Это может быть стратегическим шагом для укрепления своей власти и подавления протестов.\n\nСитуация в стране остается напряженной, и протесты молодежи подчеркивают недовольство существующим режимом. Лидерство в условиях такого давления требует от правительства гибкости и способности к диалогу с оппонентами.\n\nДействия правительства могут оказать значительное влияние на политическую обстановку в Индии и на дальнейшее развитие протестного движения, что делает ситуацию особенно важной для наблюдателей.",
+        "en": "The Indian leader, facing a volatile youth uprising, appears to be deliberately drawing into the fray a political rival he has beaten before. This could be a strategic move to consolidate his power and suppress protests.\n\nThe situation in the country remains tense, and the youth protests highlight dissatisfaction with the current regime. Leadership in such a pressured environment requires the government to be flexible and capable of dialogue with opponents.\n\nThe government's actions could significantly impact the political landscape in India and the further development of the protest movement, making the situation particularly important for observers."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Plan-Modi-po-prekrashcheniyu-protestov-v-Indii-10-26",
+        "en": "https://telegra.ph/Modis-Plan-to-Stop-Indias-Protests-10-26"
       }
     },
     {
       "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "title": {
-        "ru": "Мужчина погиб под упавшим деревом во время шторма Боэло",
-        "en": "Man killed by falling tree as Storm Boelo brings more severe weather to UK"
+        "ru": "Два человека погибли от упавших деревьев, когда шторм Боэло оставил 90 000 домов без электричества",
+        "en": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power"
       },
       "summary": {
-        "ru": "Во время шторма Боэло в Великобритании мужчина погиб под упавшим деревом. Желтое предупреждение о ветре будет действовать до вечера воскресенья.",
-        "en": "A man was killed by a falling tree during Storm Boelo in the UK. An amber wind warning will remain in effect until Sunday evening."
+        "ru": "Предупреждение о сильном ветре теперь отменено после того, как сильная погода обрушилась на Великобританию.",
+        "en": "An amber wind warning has now expired after severe weather sweeps across the UK."
       },
       "category": {
         "ru": "Катастрофа",
         "en": "Disaster"
       },
       "longBody": {
-        "ru": "Во время шторма Боэло в Великобритании произошел трагический инцидент, в результате которого мужчина погиб под упавшим деревом. Это событие подчеркивает серьезность погодных условий, которые продолжают воздействовать на страну.\n\nЖелтое предупреждение о ветре будет действовать до вечера воскресенья, что указывает на необходимость осторожности для жителей и путешественников. Метеорологи предупреждают о сильных порывах ветра и возможных последствиях для инфраструктуры.\n\nШторм Боэло также затронул другие регионы Великобритании, вызывая перебои в электроснабжении и заторы на дорогах. Власти призывают граждан оставаться в безопасности и следить за обновлениями прогноза погоды.",
-        "en": "During Storm Boelo in the UK, a tragic incident occurred when a man was killed by a falling tree. This event highlights the severity of the weather conditions that continue to impact the country.\n\nAn amber wind warning will remain in effect until Sunday evening, indicating the need for caution among residents and travelers. Meteorologists are warning of strong gusts of wind and potential impacts on infrastructure.\n\nStorm Boelo has also affected other regions of the UK, causing power outages and traffic disruptions. Authorities are urging citizens to stay safe and monitor weather updates."
+        "ru": "Предупреждение о сильном ветре в Великобритании было отменено после того, как сильная погода обрушилась на страну, оставив 90,000 домов без электричества. Два человека погибли в результате падения деревьев, что подчеркивает опасности, связанные с экстремальными погодными условиями.\n\nСильные ветры и непогода стали причиной значительных разрушений и нарушений в повседневной жизни граждан. Власти продолжают работать над восстановлением электроснабжения и устранением последствий шторма.\n\nЭти события напоминают о важности готовности к экстремальным погодным условиям и необходимости эффективных мер реагирования со стороны служб спасения и местных властей.",
+        "en": "An amber wind warning has now expired after severe weather swept across the UK, leaving 90,000 properties without power. Two men were killed by falling trees, highlighting the dangers associated with extreme weather conditions.\n\nStrong winds and adverse weather have caused significant damage and disruptions to daily life for citizens. Authorities are continuing to work on restoring power and addressing the aftermath of the storm.\n\nThese events serve as a reminder of the importance of preparedness for extreme weather conditions and the need for effective response measures from emergency services and local authorities."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Dva-cheloveka-pogibli-ot-upavshih-derevev-kogda-shtorm-Boehlo-ostavil-90-000-domov-bez-ehlektrichestva-10-26",
+        "en": "https://telegra.ph/Two-men-killed-by-falling-trees-as-Storm-Boelo-leaves-90000-properties-without-power-10-26-2"
       }
     },
     {
-      "link": "https://www.euronews.com/video/2026/10/25/thousands-of-sheep-take-over-madrids-streets-for-transhumance-festival",
-      "source": "Euronews",
-      "title": {
-        "ru": "Тысячи овец захватили улицы Мадрида на фестивале траншуманс",
-        "en": "Thousands of sheep take over Madrid's streets for Transhumance Festival"
-      },
-      "summary": {
-        "ru": "Более 1400 овец и коз захватили улицы Мадрида в воскресенье на 33-м ежегодном фестивале траншуманс. В этом году маршрут изменился, чтобы избежать протестов против жилья.",
-        "en": "Over 1,400 sheep and goats took over Madrid's streets on Sunday at the 33rd annual Transhumance Festival. This year, the route changed to avoid a housing protest."
-      },
-      "category": {
-        "ru": "Культура",
-        "en": "Culture"
-      },
-      "longBody": {
-        "ru": "В воскресенье улицы Мадрида стали ареной для более чем 1400 овец и коз, которые приняли участие в 33-м ежегодном фестивале траншуманс. Это событие привлекло множество зрителей, которые наслаждались красочным зрелищем.\n\nВ этом году маршрут фестиваля был изменен, чтобы избежать протестов против жилья, что добавило дополнительный интерес к мероприятию. Траншуманс — это традиция, которая отмечает миграцию скота от летних пастбищ к зимним.\n\nФестиваль траншуманс подчеркивает важность сельского хозяйства и культурного наследия Испании, а также привлекает внимание к вопросам, связанным с городской жизнью и сельским населением.",
-        "en": "On Sunday, the streets of Madrid were taken over by over 1,400 sheep and goats participating in the 33rd annual Transhumance Festival. This event attracted numerous spectators who enjoyed the colorful spectacle.\n\nThis year, the route of the festival was changed to avoid a housing protest, adding an extra layer of interest to the event. Transhumance is a tradition that celebrates the migration of livestock from summer pastures to winter quarters.\n\nThe Transhumance Festival highlights the importance of agriculture and cultural heritage in Spain, while also drawing attention to issues related to urban life and rural communities."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Как война США и Израиля против Ирана вызывает хаос в Европе?",
-        "en": "How is the US-Israeli war on Iran causing havoc in Europe?"
+        "ru": "Нападавшие убили медсестру и ранили работника здравоохранения, реагировавшего на случай Эболы в ДРК",
+        "en": "Attackers kill nurse, injure health worker responding to DRC Ebola case"
       },
       "summary": {
-        "ru": "Растущие цены на энергию и протесты усиливают европейское сопротивление возобновленным атакам США и Израиля на Иран.",
-        "en": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Рост цен на энергию и массовые протесты усиливают сопротивление Европы к возобновленным атакам США и Израиля на Иран. Эти факторы создают напряженность в международных отношениях и вызывают обеспокоенность среди европейских стран.\n\nСитуация усугубляется экономическими последствиями, которые могут возникнуть в результате конфликта. Европейские правительства начинают пересматривать свои позиции в отношении вмешательства в дела Ирана, учитывая внутренние протесты и экономические трудности.\n\nПротесты также отражают растущее недовольство граждан по поводу внешней политики своих правительств и их участия в международных конфликтах, что может привести к дальнейшим изменениям в общественном мнении.",
-        "en": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran. These factors are creating tension in international relations and raising concerns among European nations.\n\nThe situation is exacerbated by the economic repercussions that may arise from the conflict. European governments are beginning to reassess their positions regarding intervention in Iran's affairs, considering domestic protests and economic hardships.\n\nThe protests also reflect growing public dissatisfaction with their governments' foreign policies and involvement in international conflicts, which could lead to further changes in public opinion."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Верхняя палата алжирского парламента одобрила развертывание войск в Нигер",
-        "en": "Algerian parliament’s upper house approves troop deployment to Niger"
-      },
-      "summary": {
-        "ru": "Голосование за отправку войск состоялось после недавнего оборонительного соглашения между двумя соседними странами.",
-        "en": "The vote to send forces comes after a recent defense pact between the two neighboring countries."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
-      },
-      "longBody": {
-        "ru": "Алжирский парламент одобрил развертывание войск в Нигер, что стало результатом недавнего оборонительного соглашения между двумя соседними странами. Это решение подчеркивает важность безопасности в регионе и необходимость сотрудничества между государствами.\n\nГолосование прошло на фоне растущей напряженности в Западной Африке, где многие страны сталкиваются с угрозами со стороны террористических группировок. Развертывание войск может быть частью более широкой стратегии по обеспечению стабильности и безопасности.\n\nОжидается, что это решение будет способствовать укреплению военного сотрудничества между Алжиром и Нигером, а также повысит уровень безопасности в регионе.",
-        "en": "The Algerian parliament has approved the deployment of troops to Niger, following a recent defense pact between the two neighboring countries. This decision underscores the importance of security in the region and the need for cooperation among states.\n\nThe vote comes amid rising tensions in West Africa, where many countries are facing threats from terrorist groups. The troop deployment may be part of a broader strategy to ensure stability and security.\n\nThis decision is expected to strengthen military cooperation between Algeria and Niger, as well as enhance security levels in the region."
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Использование ИИ полицией может усугубить дискриминацию, предупреждают исследователи",
-        "en": "Police using AI risks making discrimination worse, researchers warn"
-      },
-      "summary": {
-        "ru": "Инструменты ИИ учатся на предвзятых данных и могут углубить дискриминацию против меньшинств без надзора, утверждают исследователи.",
-        "en": "AI tools learn from biased records and may deepen discrimination against minorities without oversight, researchers say."
-      },
-      "category": {
-        "ru": "Технологии",
-        "en": "Technology"
-      },
-      "longBody": {
-        "ru": "Исследователи предупреждают, что использование инструментов искусственного интеллекта в полиции может усугубить дискриминацию против меньшинств. Эти инструменты обучаются на предвзятых данных, что может привести к систематическим ошибкам в правоприменении.\n\nОтсутствие надзора за использованием ИИ в правоохранительных органах вызывает серьезные опасения. Специалисты подчеркивают необходимость разработки этических стандартов и контроля за использованием технологий, чтобы предотвратить углубление существующих предвзятостей.\n\nДанная проблема требует внимания со стороны законодателей и общества, чтобы обеспечить справедливость и равенство в правоприменении.",
-        "en": "Researchers warn that the use of artificial intelligence tools in policing may deepen discrimination against minorities. These tools are trained on biased data, which can lead to systematic errors in law enforcement.\n\nThe lack of oversight in the use of AI by law enforcement raises serious concerns. Experts emphasize the need for ethical standards and regulation of technology use to prevent the exacerbation of existing biases.\n\nThis issue requires attention from lawmakers and society to ensure fairness and equality in law enforcement."
-      }
-    },
-    {
-      "link": "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-evening",
-      "source": "Euronews",
-      "title": {
-        "ru": "Последние новости | 25 октября 2026 года – Вечер",
-        "en": "Latest news bulletin | October 25th, 2026 – Evening"
-      },
-      "summary": {
-        "ru": "Узнайте о самых важных событиях из Европы и других регионов 25 октября 2026 года - последние новости, экстренные новости, мир, бизнес, развлечения, политика, культура, путешествия.",
-        "en": "Catch up with the most important stories from around Europe and beyond this October 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "25 октября 2026 года в Европе и других регионах произошло множество значительных событий. Вечерний выпуск новостей освещает последние новости, экстренные события, а также важные вопросы в области политики, бизнеса, культуры и путешествий.\n\nСреди ключевых тем — экономические изменения, политические события и культурные инициативы, которые формируют общественное мнение и влияют на жизнь граждан. Новости из разных уголков мира подчеркивают взаимосвязанность современных событий.\n\nЭтот выпуск новостей предоставляет зрителям возможность быть в курсе самых актуальных событий и тенденций, которые могут повлиять на их жизнь и общество в целом.",
-        "en": "On October 25th, 2026, numerous significant events occurred across Europe and beyond. The evening news bulletin covers the latest updates, breaking news, and important issues in politics, business, culture, and travel.\n\nAmong the key topics are economic changes, political events, and cultural initiatives that shape public opinion and impact citizens' lives. News from various corners of the world highlights the interconnectedness of contemporary events.\n\nThis news bulletin provides viewers with the opportunity to stay informed about the most relevant happenings and trends that may affect their lives and society as a whole."
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Засада на солдат Сальвадора обостряет антинаркотическую миссию Гаити",
-        "en": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission"
-      },
-      "summary": {
-        "ru": "Четыре солдата пропали без вести, и новая сила подавления банд в Гаити сталкивается с первым кризисом.",
-        "en": "With four soldiers missing, Haiti’s new Gang Suppression Force is facing its first crisis."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
-      },
-      "longBody": {
-        "ru": "В Гаити новая сила подавления банд сталкивается с первым кризисом после того, как четыре солдата пропали без вести. Это событие подчеркивает сложность ситуации в стране, где насилие и преступность остаются серьезными проблемами.\n\nСитуация усугубляется отсутствием ресурсов и поддержки для новой силы, что ставит под сомнение ее способность эффективно справляться с угрозами. Пропажа солдат может вызвать дополнительные волнения и протесты среди населения.\n\nГаити продолжает сталкиваться с вызовами в области безопасности, и это событие подчеркивает необходимость комплексного подхода к решению проблем, связанных с преступностью и насилием.",
-        "en": "In Haiti, the new Gang Suppression Force is facing its first crisis after four soldiers went missing. This event underscores the complexity of the situation in the country, where violence and crime remain serious issues.\n\nThe situation is exacerbated by a lack of resources and support for the new force, raising questions about its ability to effectively address threats. The disappearance of soldiers may provoke further unrest and protests among the population.\n\nHaiti continues to face challenges in security, and this event highlights the need for a comprehensive approach to addressing issues related to crime and violence."
-      }
-    },
-    {
-      "link": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "title": {
-        "ru": "Гарри Кейн: Золотой мяч для нападающего «Баварии»?",
-        "en": "Harry Kane: Ballon d’Or for Bayern Munich striker?"
-      },
-      "summary": {
-        "ru": "Нападающий «Баварии» Гарри Кейн является явным фаворитом на получение самого престижного индивидуального приза в футболе, который будет вручён в понедельник.",
-        "en": "Bayern Munich striker Harry Kane is the clear front-runner for football's most prestigious individual prize, which will be awarded on Monday."
-      },
-      "category": {
-        "ru": "Спорт",
-        "en": "Sport"
-      },
-      "longBody": {
-        "ru": "Нападающий «Баварии» Гарри Кейн является явным фаворитом на получение Золотого мяча, самого престижного индивидуального приза в футболе, который будет вручён в понедельник. Его выдающаяся игра в Бундеслиге привлекла внимание экспертов и фанатов.\n\nКейн продемонстрировал высокую форму, несмотря на некоторые трудности в лиге, и его достижения делают его сильным кандидатом на получение награды. Ожидается, что церемония вручения Золотого мяча вызовет большой интерес среди поклонников футбола.\n\nЭта награда подчеркивает важность индивидуальных достижений в командном спорте и может оказать влияние на карьеру игрока.",
-        "en": "Bayern Munich striker Harry Kane is the clear front-runner for football's most prestigious individual prize, the Ballon d'Or, which will be awarded on Monday. His outstanding performance in the Bundesliga has drawn attention from experts and fans alike.\n\nKane has shown high form despite some challenges in the league, making him a strong candidate for the award. The Ballon d'Or ceremony is expected to attract significant interest among football enthusiasts.\n\nThis award highlights the importance of individual achievements in team sports and may impact the player's career."
-      }
-    },
-    {
-      "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "title": {
-        "ru": "Уганда заявляет, что у нее нет активных случаев Эболы, но инфекции в Кении и Нигерии вызывают новое внимание",
-        "en": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny"
-      },
-      "summary": {
-        "ru": "Службы здравоохранения расследуют, пересекались ли пациенты с Эболой в аэропорту Уганды, так как противоречивые данные затуманивают источник одной инфекции.",
-        "en": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection."
+        "ru": "Атака на востоке ДР Конго является последней в серии нападений на работников здравоохранения и ответчиков на смертельный всплеск Эболы.",
+        "en": "The attack in eastern Dr Congo is the latest on health workers and responders to the deadly Ebola outbreak."
       },
       "category": {
         "ru": "Здоровье",
         "en": "Health"
       },
       "longBody": {
-        "ru": "Уганда заявляет, что в стране нет активных случаев Эболы, однако инфекции в Кении и Нигерии вызывают новое внимание к ситуации. Службы здравоохранения проводят расследование, чтобы выяснить, пересекались ли пациенты с Эболой в аэропорту Уганды.\n\nПротиворечивые данные затуманивают источник одной из инфекций, что вызывает обеспокоенность среди властей. Угандийские медицинские службы работают над тем, чтобы предотвратить распространение вируса и обеспечить безопасность населения.\n\nЭта ситуация подчеркивает важность международного сотрудничества в борьбе с инфекционными заболеваниями и необходимость бдительности в области общественного здоровья.",
-        "en": "Uganda states that there are no active Ebola cases in the country, but infections in Kenya and Nigeria are prompting fresh scrutiny of the situation. Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport.\n\nConflicting accounts are clouding the source of one infection, raising concerns among authorities. Ugandan health services are working to prevent the spread of the virus and ensure public safety.\n\nThis situation underscores the importance of international cooperation in combating infectious diseases and the need for vigilance in public health."
+        "ru": "Атака на востоке Демократической Республики Конго стала последней в серии нападений на работников здравоохранения и ответчиков на всплеск Эболы. Это событие подчеркивает опасности, с которыми сталкиваются медицинские работники в условиях эпидемии.\n\nРаботники здравоохранения продолжают рисковать своими жизнями, чтобы бороться с распространением вируса, несмотря на угрозы и насилие. Атаки на них ставят под угрозу не только их безопасность, но и усилия по контролю над эпидемией.\n\nЭти инциденты вызывают обеспокоенность как на местном, так и на международном уровнях, подчеркивая необходимость защиты медицинских работников и обеспечения их безопасности в условиях кризиса.",
+        "en": "The attack in eastern Democratic Republic of Congo is the latest on health workers and responders to the Ebola outbreak. This incident highlights the dangers faced by medical personnel in the midst of an epidemic.\n\nHealth workers continue to risk their lives to combat the spread of the virus, despite threats and violence. Attacks on them jeopardize not only their safety but also efforts to control the outbreak.\n\nThese incidents raise concerns at both local and international levels, underscoring the need to protect medical workers and ensure their safety in crisis situations."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Napadavshie-ubili-medsestru-i-ranili-rabotnika-zdravoohraneniya-reagirovavshego-na-sluchaj-EHboly-v-DRK-10-26",
+        "en": "https://telegra.ph/Attackers-kill-nurse-injure-health-worker-responding-to-DRC-Ebola-case-10-26"
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/10/25/business/media/bill-owens-60-minutes-emerson-collective.html",
-      "source": "New York Times",
+      "link": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
+      "source": "Al Jazeera",
       "title": {
-        "ru": "Бывший руководитель «60 минут» присоединится к стартапу видеожурналистики",
-        "en": "Former ‘60 Minutes’ Boss to Join Video Journalism Start-Up"
+        "ru": "Политическая элита Китая собирается на обсуждение дисциплины Коммунистической партии",
+        "en": "China’s political elite gather for talks on Communist Party discipline"
       },
       "summary": {
-        "ru": "Билл Оуэнс, покинувший шоу после конфликта с руководством CBS, присоединяется к Newpress, который публикует работы создателей на YouTube.",
-        "en": "Bill Owens, who left the show after clashing with CBS executives, is joining Newpress, which publishes work from creators on YouTube."
+        "ru": "Четырехдневная встреча внимательно наблюдается для получения подсказок о направлении страны и будущем руководстве.",
+        "en": "The four-day meeting is being watched closely for clues as to the country's direction and future leadership."
+      },
+      "category": {
+        "ru": "Политика",
+        "en": "Politics"
+      },
+      "longBody": {
+        "ru": "Четырехдневная встреча политической элиты Китая привлекает внимание, поскольку на ней обсуждаются вопросы дисциплины Коммунистической партии. Это событие может дать подсказки о направлении страны и будущем руководстве.\n\nНаблюдатели внимательно следят за этой встречей, ожидая сигналов о возможных изменениях в политике и управлении. Дискуссии о дисциплине партии могут иметь значительное влияние на внутренние дела и международные отношения Китая.\n\nЭти обсуждения подчеркивают важность партийной дисциплины для стабильности и единства в стране, что является ключевым аспектом для будущего Китая.",
+        "en": "The four-day meeting of China's political elite is being watched closely as discussions focus on Communist Party discipline. This event may provide clues about the country's direction and future leadership.\n\nObservers are paying close attention to this meeting, anticipating signals regarding potential changes in policy and governance. Discussions on party discipline could have significant implications for China's domestic affairs and international relations.\n\nThese discussions underscore the importance of party discipline for stability and unity in the country, which is a key aspect for China's future."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Politicheskaya-ehlita-Kitaya-sobiraetsya-na-obsuzhdenie-discipliny-Kommunisticheskoj-partii-10-26",
+        "en": "https://telegra.ph/Chinas-political-elite-gather-for-talks-on-Communist-Party-discipline-10-26"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Первый слепой магистрат Гамбии испытывает систему, созданную для зрячих",
+        "en": "The Gambia’s first blind magistrate tests a system built for the sighted"
+      },
+      "summary": {
+        "ru": "На протяжении десяти лет Мухаммед Крубалли демонстрирует, что возможно и что еще нужно изменить.",
+        "en": "For a decade, Muhammed Krubally has shown what is possible and what still needs to change."
       },
       "category": {
         "ru": "Технологии",
         "en": "Technology"
       },
       "longBody": {
-        "ru": "Билл Оуэнс, покинувший шоу «60 минут» после конфликта с руководством CBS, присоединяется к Newpress, стартапу в области видеожурналистики. Это решение подчеркивает его стремление продолжать карьеру в медиа, несмотря на трудности в прошлом.\n\nNewpress, который публикует работы создателей на YouTube, предлагает платформу для независимых журналистов и контент-креаторов. Оуэнс надеется использовать свой опыт и знания для развития нового проекта и привлечения аудитории.\n\nЭто событие также отражает изменения в медиаиндустрии, где традиционные форматы уступают место новым формам журналистики и контента.",
-        "en": "Bill Owens, who left the show '60 Minutes' after clashing with CBS executives, is joining Newpress, a video journalism start-up. This decision underscores his desire to continue his media career despite past challenges.\n\nNewpress, which publishes work from creators on YouTube, offers a platform for independent journalists and content creators. Owens hopes to leverage his experience and knowledge to develop the new project and attract an audience.\n\nThis event also reflects changes in the media industry, where traditional formats are giving way to new forms of journalism and content."
+        "ru": "На протяжении десяти лет Мухаммед Крубалли демонстрирует, что возможно для людей с ограниченными возможностями в судебной системе Гамбии. Он стал первым слепым магистратом страны, что является важным шагом к инклюзии и равенству.\n\nКрубалли подчеркивает необходимость изменений в системе, чтобы обеспечить доступность и равные возможности для всех. Его работа вдохновляет других и показывает, что изменения возможны, если есть желание и поддержка.\n\nЭти достижения подчеркивают важность инклюзии в обществе и необходимость создания условий для людей с ограниченными возможностями, что является ключевым аспектом для развития Гамбии.",
+        "en": "For a decade, Muhammed Krubally has shown what is possible for people with disabilities within The Gambia's judicial system. He has become the country's first blind magistrate, marking an important step towards inclusion and equality.\n\nKrubally emphasizes the need for changes in the system to ensure accessibility and equal opportunities for all. His work inspires others and demonstrates that change is possible with desire and support.\n\nThese achievements highlight the importance of inclusion in society and the need to create conditions for people with disabilities, which is a key aspect for The Gambia's development."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Pervyj-slepoj-magistrat-Gambii-ispytyvaet-sistemu-sozdannuyu-dlya-zryachih-10-26",
+        "en": "https://telegra.ph/The-Gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted-10-26"
       }
     },
     {
-      "link": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Португальская полиция разгоняет протестный лагерь в Лиссабоне, арестовывая 25 человек",
-        "en": "Portuguese police clear Lisbon housing protest camp, arrest 25"
+        "ru": "Мир реагирует на победу Лулы на президентских выборах в Бразилии",
+        "en": "World reacts to Lula’s victory in Brazil’s presidential election"
       },
       "summary": {
-        "ru": "Полиция разогнала демонстрантов в ходе ночной операции, когда активисты требовали действий правительства по жилищному кризису.",
-        "en": "Officers baton-charged demonstrators in an overnight operation as activists demanded government action on the housing crisis."
+        "ru": "Международные лидеры и политики поздравляют бразильского президента с его переизбранием.",
+        "en": "International leaders and politicians congratulate the Brazilian president on his re-election."
       },
       "category": {
-        "ru": "Общество",
-        "en": "Society"
+        "ru": "Мир",
+        "en": "World"
       },
       "longBody": {
-        "ru": "Полиция Лиссабона провела ночную операцию по разгрому лагеря протестующих, которые выступали против жилищного кризиса в стране. В результате действий правоохранителей были задержаны 25 человек, а демонстранты столкнулись с жесткими мерами, включая применение дубинок. Активисты требовали от правительства более решительных действий для решения проблем с доступным жильем.",
-        "en": "Lisbon police conducted an overnight operation to dismantle a protest camp where demonstrators were voicing their concerns over the housing crisis in the country. The operation resulted in the arrest of 25 individuals, with officers employing baton charges against the protesters. Activists were calling for more decisive government action to address issues related to affordable housing."
+        "ru": "Международные лидеры и политики поздравляют бразильского президента Луиза Инасиу Лулу да Силву с его переизбранием. Это событие стало важным моментом для Бразилии и международного сообщества, отражая изменения в политическом ландшафте страны.\n\nПоздравления поступают из разных уголков мира, подчеркивая значимость Лулы как фигуры на международной арене. Его победа может иметь последствия для внешней политики Бразилии и ее отношений с другими странами.\n\nЭти поздравления также подчеркивают растущее внимание к вопросам демократии и прав человека в Бразилии, что может повлиять на дальнейшие действия нового правительства.",
+        "en": "International leaders and politicians congratulate Brazilian president Luiz Inácio Lula da Silva on his re-election. This event marks an important moment for Brazil and the international community, reflecting shifts in the country's political landscape.\n\nCongratulations are coming from various parts of the world, highlighting Lula's significance as a figure on the international stage. His victory may have implications for Brazil's foreign policy and its relations with other countries.\n\nThese congratulations also underscore the growing attention to issues of democracy and human rights in Brazil, which may influence the future actions of the new government."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Mir-reagiruet-na-pobedu-Luly-na-prezidentskih-vyborah-v-Brazilii-10-26",
+        "en": "https://telegra.ph/World-reacts-to-Lulas-victory-in-Brazils-presidential-election-10-26"
       }
     },
     {
-      "link": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
-      "source": "The Guardian",
+      "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+      "source": "Al Jazeera",
       "title": {
-        "ru": "Признаки указывают на то, что Томас Маркле-старший может быть «сексуальным преступником самого грубого рода», говорит министр Филиппин",
-        "en": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister"
+        "ru": "Военные США заявляют, что помогли государствам Персидского залива экспортировать 1,5 миллиарда баррелей нефти",
+        "en": "US military says it helped Gulf states export 1.5 billion barrels of oil"
       },
       "summary": {
-        "ru": "Форенсический анализ найденных изображений продолжается, в то время как отец Меган отрицает наличие изображений сексуального насилия над детьми.",
-        "en": "Forensic analysis of found images continues as Meghan’s father denies possessing child sexual abuse images."
+        "ru": "Центральное командование США сообщает, что более 3000 коммерческих судов прошли через Ормузский пролив с его поддержкой.",
+        "en": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support."
+      },
+      "category": {
+        "ru": "Экономика",
+        "en": "Economy"
+      },
+      "longBody": {
+        "ru": "Центральное командование США сообщает, что более 3000 коммерческих судов прошли через Ормузский пролив с его поддержкой. Это подчеркивает роль США в обеспечении безопасности морских путей в Персидском заливе.\n\nСитуация в регионе остается напряженной, и поддержка со стороны США важна для стабильности и безопасности торговли. Операции, проводимые Центральным командованием, направлены на защиту интересов и предотвращение конфликтов в стратегически важной области.\n\nЭти действия подчеркивают важность международного сотрудничества в обеспечении безопасности морских путей и поддержании стабильности в регионе.",
+        "en": "US Central Command reports that more than 3,000 commercial vessels have transited the Strait of Hormuz with its support. This underscores the role of the US in ensuring the security of maritime routes in the Persian Gulf.\n\nThe situation in the region remains tense, and US support is crucial for the stability and security of trade. Operations conducted by Central Command are aimed at protecting interests and preventing conflicts in this strategically important area.\n\nThese actions highlight the importance of international cooperation in ensuring the security of maritime routes and maintaining stability in the region."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Voennye-SSHA-zayavlyayut-chto-pomogli-gosudarstvam-Persidskogo-zaliva-ehksportirovat-15-milliarda-barrelej-nefti-10-26",
+        "en": "https://telegra.ph/US-military-says-it-helped-Gulf-states-export-15-billion-barrels-of-oil-10-26"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Трамп усиливает антимусульманскую риторику в резкой атаке на Эль-Сайеда",
+        "en": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed"
+      },
+      "summary": {
+        "ru": "Трамп вновь резко атаковал мусульман, на этот раз на демократического кандидата в Сенат Абдулла Эль-Сайеда.",
+        "en": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed."
       },
       "category": {
         "ru": "Право",
         "en": "Law"
       },
       "longBody": {
-        "ru": "Форенсический анализ изображений, найденных у отца Меган Маркл, продолжается, и по словам министра внутренних дел Филиппин, все указывает на то, что он может быть \"возможным сексуальным преступником самого грубого рода\". Отец Меган отрицает наличие у себя изображений сексуального насилия над детьми. Власти Филиппин исследуют цифровые изображения, которые предположительно были найдены в его бывшем доме.",
-        "en": "Forensic analysis of images found with Meghan Markle's father is ongoing, and according to the Philippine interior minister, all signs suggest he may be a 'possible sex offender of the grossest kind.' Meghan's father denies possessing any child sexual abuse images. Authorities in the Philippines are examining digital images allegedly discovered at his former residence."
+        "ru": "Президент США Дональд Трамп вновь обострил свою риторику против мусульман, на этот раз направив свои нападки на демократического кандидата в Сенат Абдулла Эль-Сайеда. Трамп, известный своими резкими высказываниями, продолжает использовать антимусульманские настроения в своей политической риторике, что вызывает критику со стороны многих.\n\nЭль-Сайед, который является мусульманином и представляет собой разнообразие в американской политике, стал мишенью для Трампа. Это нападение подчеркивает продолжающееся разделение в обществе и использование религиозной принадлежности в политических целях. Трамп, как всегда, не стесняется в выражениях, что вызывает обеспокоенность среди защитников прав человека и религиозной толерантности.\n\nТаким образом, данное событие еще раз поднимает вопросы о том, как политика может влиять на общественные настроения и как важна роль лидеров в формировании общественного мнения.",
+        "en": "US President Donald Trump has once again escalated his anti-Muslim rhetoric, this time targeting Democratic Senate candidate Abdul El-Sayed. Trump, known for his sharp remarks, continues to leverage anti-Muslim sentiments in his political discourse, drawing criticism from many quarters.\n\nEl-Sayed, who is a Muslim and represents diversity in American politics, has become a target for Trump. This attack highlights the ongoing divisions in society and the use of religious identity for political gain. Trump, as always, does not hold back in his expressions, raising concerns among human rights advocates and supporters of religious tolerance.\n\nThus, this event raises questions about how politics can influence public sentiment and the crucial role leaders play in shaping public opinion."
       }
     },
     {
-      "link": "https://www.bbc.co.uk/news/videos/cmrlyeekzldpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+      "source": "The Guardian",
       "title": {
-        "ru": "Когда погода успокоится после шторма Боэло?",
-        "en": "When will the weather settle after Storm Boelo?"
+        "ru": "Политика Австралии в прямом эфире: Зали Стеггалл обвиняет Ангуса Тейлора в отсутствии «чувства ситуации» в речи в честь Хейнса",
+        "en": "Australia politics live: Zali Steggall accuses Angus Taylor of not ‘reading the room’ in Haines tribute speech"
       },
       "summary": {
-        "ru": "Гиллиан Смарт представила прогноз погоды после худшего из шторма Боэло.",
-        "en": "Gillian Smart has the weather forecast after the worst of Storm Boelo."
+        "ru": "Независимый депутат Зали Стеггалл призвала к большему уважению в условиях разногласий, заявив, что слова имеют значение.",
+        "en": "Independent MP Zali Steggall has called for more respect in times of disagreement, stating that leadership and words matter."
+      },
+      "category": {
+        "ru": "Общество",
+        "en": "Society"
+      },
+      "longBody": {
+        "ru": "Независимый депутат Зали Стеггалл призвала к большему уважению в условиях разногласий, заявив, что слова имеют значение. В своем выступлении она отметила, что в текущей политической атмосфере важно сохранять цивилизованный диалог, даже когда мнения расходятся.\n\nСтеггалл подчеркнула, что социальные сети стали платформой для оскорблений и угроз, что подчеркивает необходимость в более уважительном общении. Она призвала к ответственности со стороны лидеров, утверждая, что их слова могут оказывать значительное влияние на общественное мнение и поведение.\n\nЭта инициатива Стеггалл может стать важным шагом в направлении улучшения политической культуры в Австралии, где разногласия часто приводят к конфликтам и недопониманию.",
+        "en": "Independent MP Zali Steggall has called for more respect in times of disagreement, stating that leadership and words matter. In her remarks, she emphasized the importance of maintaining civil discourse in the current political climate, even when opinions diverge.\n\nSteggall highlighted that social media has become a platform for abuse and threats, underscoring the need for more respectful communication. She urged leaders to be accountable, asserting that their words can significantly influence public opinion and behavior.\n\nSteggall's initiative could be an important step towards improving political culture in Australia, where disagreements often lead to conflict and misunderstanding."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Прогнозы на Золотой мяч 2026: Ямал, Мбаппе и Кейн – кто победит?",
+        "en": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?"
+      },
+      "summary": {
+        "ru": "Победитель Золотого мяча 2026 будет объявлен на гала-мероприятии в Лондоне в понедельник, впервые проходящем в Великобритании.",
+        "en": "The winner of the 2026 Ballon d'Or will be crowned at Monday's gala in London, the first time it has been held in Britain."
+      },
+      "category": {
+        "ru": "Спорт",
+        "en": "Sport"
+      },
+      "longBody": {
+        "ru": "Победитель Золотого мяча 2026 будет объявлен на гала-мероприятии в Лондоне в понедельник, что станет первым случаем, когда это событие пройдет в Великобритании. Ожидается, что на мероприятии соберутся лучшие футболисты мира, чтобы отметить достижения в спорте.\n\nСреди претендентов на награду выделяются такие звезды, как Ламине Ямал, Килиан Мбаппе и Гарри Кейн. Каждый из них продемонстрировал выдающиеся навыки и достижения в своих клубах и на международной арене, что делает выбор победителя особенно интересным.\n\nЭто событие привлекает внимание не только футбольных фанатов, но и широкой общественности, подчеркивая важность индивидуальных достижений в командном спорте.",
+        "en": "The winner of the 2026 Ballon d'Or will be crowned at Monday's gala in London, marking the first time this event has been held in Britain. The ceremony is expected to gather the world's top footballers to celebrate achievements in the sport.\n\nAmong the contenders for the award are stars like Lamine Yamal, Kylian Mbappé, and Harry Kane. Each has showcased outstanding skills and accomplishments in their clubs and on the international stage, making the selection of a winner particularly intriguing.\n\nThis event draws attention not only from football fans but also from the general public, highlighting the significance of individual achievements in team sports."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Социальное видео фиксирует момент, когда выборы в Бразилии изменились",
+        "en": "Social video captures moment Brazil’s election turned"
+      },
+      "summary": {
+        "ru": "Видео, снятое сторонниками кандидатов на президентских выборах в Бразилии, показывает момент, когда результаты начали меняться.",
+        "en": "Video shot by supporters of the candidates in Brazil’s presidential runoff show the moment the result began changing."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "После сильного шторма Боэло Гиллиан Смарт представила прогноз погоды, сообщив о том, что худшие последствия шторма уже позади. Тем не менее, ожидаются остаточные эффекты, и местным жителям рекомендуется оставаться осторожными. Прогноз погоды будет обновляться по мере улучшения ситуации.",
-        "en": "Following the severe impacts of Storm Boelo, Gillian Smart has provided a weather forecast indicating that the worst effects of the storm are now over. However, residual effects are expected, and local residents are advised to remain cautious. The weather forecast will be updated as conditions improve."
+        "ru": "Видео, снятое сторонниками кандидатов на президентских выборах в Бразилии, показывает момент, когда результаты начали меняться. Это событие произошло во время второго тура выборов, когда напряжение достигло своего пика.\n\nЗапись демонстрирует, как сторонники кандидатов реагировали на изменения в голосах, что подчеркивает эмоциональную атмосферу выборов. Такие моменты могут иметь значительное влияние на восприятие выборов и на политическую динамику в стране.\n\nЭто видео стало важным свидетельством того, как быстро могут меняться результаты и как это влияет на общественное мнение и политические настроения.",
+        "en": "Video shot by supporters of the candidates in Brazil’s presidential runoff shows the moment the result began changing. This event occurred during the second round of elections when the tension reached its peak.\n\nThe footage captures how supporters reacted to shifts in the vote, highlighting the emotional atmosphere of the elections. Such moments can significantly influence perceptions of the elections and the political dynamics in the country.\n\nThis video serves as an important testament to how quickly results can change and how this affects public opinion and political sentiments."
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/10/25/business/how-to-straddle-the-maga-divide.html",
+      "link": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Лейбористам призвали закрыть прогнозируемый дефицит в £400 млн в финансировании зарубежной помощи в 2027 году",
+        "en": "Labour urged to plug predicted £400m shortfall in overseas aid funding in 2027"
+      },
+      "summary": {
+        "ru": "Официальный прогноз указывает на дефицит менее 0,3% от национального дохода в обещанной официальной помощи.",
+        "en": "Official forecast indicates shortfall below 0.3% of national income in promised official development assistance."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Официальный прогноз указывает на дефицит менее 0,3% от национального дохода в обещанной официальной помощи Великобритании к 2027 году. Ожидается, что страна не достигнет своей цели по расходам на международную помощь, что вызывает обеспокоенность среди правозащитников и экспертов.\n\nПрогнозы показывают, что Великобритания может недополучить около 400 миллионов фунтов стерлингов, что ставит под угрозу выполнение обязательств перед развивающимися странами. Это может негативно сказаться на международной репутации страны и ее роли в глобальной помощи.\n\nТаким образом, правительство сталкивается с вызовом в обеспечении необходимого финансирования для поддержки международных инициатив и помощи тем, кто в ней нуждается.",
+        "en": "Official forecast indicates a shortfall below 0.3% of national income in promised official development assistance by 2027. The UK is expected to miss its target for international aid spending, raising concerns among human rights advocates and experts.\n\nForecasts suggest that the UK could fall short by around £400 million, jeopardizing its commitments to developing countries. This could negatively impact the country's international reputation and its role in global aid.\n\nThus, the government faces a challenge in securing the necessary funding to support international initiatives and aid those in need."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/world/2026/oct/26/young-britons-bayeux-tapestry-tickets-british-museum-hollywood-blockbusters",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Гобелен Байё становится хитом поп-культуры, так как молодежь охотнее идет на выставку, чем на топ-фильмы",
+        "en": "Bayeux tapestry becomes pop culture hit as young people more keen to see exhibition than top films"
+      },
+      "summary": {
+        "ru": "55% платежей держателей карт Monzo за билеты на выставку гобелена Байё пришлись на людей младше 35 лет.",
+        "en": "55% of cardholders’ British Museum payments for the tapestry tickets were by people under 35."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "55% платежей держателей карт Monzo за билеты на выставку гобелена Байё пришлись на людей младше 35 лет. Это свидетельствует о растущем интересе молодежи к культурным событиям, которые, возможно, ранее считались менее привлекательными.\n\nВыставка гобелена, возрастом более 1000 лет, привлекла внимание не только историков, но и молодежи, что подчеркивает изменение в восприятии искусства и культуры. В первый час продажи билетов на выставку было зафиксировано 14 100 фунтов стерлингов, что в 48 раз превышает обычные показатели.\n\nЭтот интерес молодежи к выставке может быть признаком того, что традиционные культурные мероприятия могут вновь стать актуальными в эпоху цифровых технологий и развлечений.",
+        "en": "55% of cardholders’ British Museum payments for the tapestry tickets were by people under 35. This indicates a growing interest among youth in cultural events that may have previously been considered less appealing.\n\nThe exhibition of the tapestry, over 1,000 years old, has captured the attention not only of historians but also of young people, highlighting a shift in the perception of art and culture. In the first hour of ticket sales for the exhibition, £14,100 was recorded, which is 48 times the usual figures.\n\nThis interest from the youth in the exhibition may signal that traditional cultural events can regain relevance in the age of digital technology and entertainment."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
       "source": "New York Times",
       "title": {
-        "ru": "Как преодолеть разрыв между сторонниками MAGA",
-        "en": "How to Straddle the MAGA Divide"
+        "ru": "Может ли Лула оказаться на грани поражения на выборах в Бразилии?",
+        "en": "Could Lula Be on the Brink of Defeat in Brazil’s Election?"
       },
       "summary": {
-        "ru": "Бет Уилкинсон — вашингтонский юрист, который успешно представляет как противников, так и сторонников администрации Трампа.",
-        "en": "Beth Wilkinson is a Washington lawyer who has thrived representing both the Trump administration’s enemies and allies."
+        "ru": "Президент Бразилии Луис Инасиу Лула да Силва, левый, совершил замечательное возвращение в воскресенье, выиграв переизбрание.",
+        "en": "Brazil’s President Luiz Inácio Lula da Silva, a leftist, staged a remarkable comeback on Sunday, winning re-election."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Бет Уилкинсон, вашингтонский юрист, успешно представляет интересы как противников, так и сторонников администрации Трампа. Ее способность работать с обеими сторонами конфликта вызывает интерес и вопросы о том, представляет ли она собой исчезающий тип адвоката в современном политическом климате. Уилкинсон продолжает оставаться значимой фигурой в юридическом сообществе Вашингтона.",
-        "en": "Beth Wilkinson, a Washington lawyer, has thrived in representing both the enemies and allies of the Trump administration. Her ability to navigate both sides of the political divide raises interest and questions about whether she represents a vanishing type of lawyer in today's political climate. Wilkinson remains a significant figure in Washington's legal community."
+        "ru": "Президент Бразилии Луис Инасиу Лула да Силва, левый, совершил замечательное возвращение в воскресенье, выиграв переизбрание. Его победа остановила правую волну, которая нарастала в стране, и стала значимым событием для бразильской политики.\n\nЛула, который уже занимал пост президента, смог заручиться поддержкой избирателей, несмотря на сложные экономические условия и политическую напряженность. Его переизбрание может означать продолжение его политики и программ, направленных на борьбу с бедностью и неравенством.\n\nЭто событие также подчеркивает важность выборов в Бразилии и их влияние на будущее страны, особенно в контексте глобальных вызовов и внутренней политики.",
+        "en": "Brazil’s President Luiz Inácio Lula da Silva, a leftist, staged a remarkable comeback on Sunday, winning re-election. His victory halted a right-wing wave that had been building in the country and marked a significant event in Brazilian politics.\n\nLula, who has previously held the presidency, managed to garner voter support despite challenging economic conditions and political tensions. His re-election may signify the continuation of his policies and programs aimed at combating poverty and inequality.\n\nThis event also underscores the importance of elections in Brazil and their impact on the country's future, especially in the context of global challenges and domestic politics."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Австралийский убийца проигрывает попытку есть Вегемит в тюрьме",
+        "en": "Australian murderer loses bid to eat Vegemite in prison"
+      },
+      "summary": {
+        "ru": "Андре Макини, который убил девелопера, утверждал, что это его право наслаждаться австралийской культурой.",
+        "en": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Андре Макини, который убил девелопера, утверждал, что это его право наслаждаться австралийской культурой, когда он подал заявку на разрешение есть Вегемит в тюрьме. Этот случай привлек внимание общественности и вызвал обсуждение о правах заключенных.\n\nМакини, осужденный за убийство, настаивает на том, что Вегемит является важной частью австралийской идентичности и культуры. Однако его просьба была отклонена, что подчеркивает ограничения, с которыми сталкиваются заключенные в отношении доступа к определенным продуктам.\n\nЭтот инцидент поднимает вопросы о том, как заключенные могут взаимодействовать с культурой и обществом, находясь в изоляции.",
+        "en": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture when he applied for permission to eat Vegemite in prison. This case has drawn public attention and sparked discussions about prisoners' rights.\n\nMcKechnie, convicted of murder, insists that Vegemite is an important part of Australian identity and culture. However, his request was denied, highlighting the restrictions faced by inmates regarding access to certain products.\n\nThis incident raises questions about how prisoners can engage with culture and society while in isolation."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Скрытая запись встречи в тюрьме между Боу Ламарре-Кондоном и другом была показана на суде по делу о двойном убийстве",
+        "en": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial"
+      },
+      "summary": {
+        "ru": "Запись зафиксировала, как Боу Ламарре-Кондон извинился перед другом, признав, что тот вовлечен из-за него.",
+        "en": "A covert recording captured Beau Lamarre-Condon apologizing to a friend, acknowledging ‘you’re involved because of me’."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Запись, сделанная в тюрьме, зафиксировала, как Боу Ламарре-Кондон извинился перед другом, признав, что тот вовлечен из-за него. Этот момент стал важным элементом в процессе двойного убийства, в котором Ламарре-Кондон обвиняется в убийстве пары.\n\nЗапись была представлена в суде, и она подчеркивает эмоциональную нагрузку дела, а также личные связи между обвиняемым и его окружением. Ламарре-Кондон, бывший полицейский, находится под следствием за использование своего служебного оружия в этом преступлении.\n\nЭтот случай привлекает внимание общественности и поднимает вопросы о правосудии и ответственности в системе уголовного правосудия.",
+        "en": "A covert recording captured Beau Lamarre-Condon apologizing to a friend, acknowledging ‘you’re involved because of me’. This moment became a significant element in the double murder trial in which Lamarre-Condon is accused of killing a couple.\n\nThe recording was presented in court, highlighting the emotional weight of the case and the personal connections between the accused and his circle. Lamarre-Condon, a former police officer, is under investigation for using his service weapon in this crime.\n\nThis case draws public attention and raises questions about justice and accountability within the criminal justice system."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Смотрите: Как президент Лула изменил ситуацию, чтобы победить Флавио Болсонару",
+        "en": "Watch: How President Lula turned it around to beat Flávio Bolsonaro"
+      },
+      "summary": {
+        "ru": "Левый президент Бразилии был избран на четвертый срок после узкой победы над правым Флавио Болсонару.",
+        "en": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Левый президент Бразилии был избран на четвертый срок после узкой победы над правым Флавио Болсонару. Это событие стало важным моментом в бразильской политике, подчеркивающим продолжающееся разделение между левыми и правыми силами в стране.\n\nЛула, который уже занимал пост президента, смог заручиться поддержкой избирателей, несмотря на сложные условия и политическую напряженность. Его переизбрание может означать продолжение его политики, направленной на социальные реформы и экономическое развитие.\n\nЭта победа также подчеркивает важность выборов в Бразилии и их влияние на будущее страны в условиях глобальных вызовов и внутренней политики.",
+        "en": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro. This event marks an important moment in Brazilian politics, highlighting the ongoing divide between left and right forces in the country.\n\nLula, who has previously held the presidency, managed to secure voter support despite challenging conditions and political tensions. His re-election may signify the continuation of his policies aimed at social reform and economic development.\n\nThis victory also underscores the importance of elections in Brazil and their impact on the country's future amid global challenges and domestic politics."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest",
+      "source": "New York Times",
+      "title": {
+        "ru": "Вот последние новости.",
+        "en": "Here’s the latest."
+      },
+      "summary": {
+        "ru": "",
+        "en": ""
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
       }
     },
     {
       "link": "https://www.nytimes.com/2026/10/25/business/media/caryle-murphy-dead.html",
       "source": "New York Times",
       "title": {
-        "ru": "Кэрил Мерфи скончалась. Она получила Пулитцеровскую премию за репортаж в Кувейте.",
+        "ru": "Умер Кэрил Мерфи. Она получила Пулитцеровскую премию за репортажи в Кувейте.",
         "en": "Caryle Murphy Has Died. She Earned a Pulitzer for Reporting in Kuwait."
       },
       "summary": {
-        "ru": "Журналистка Washington Post была одной из немногих западных репортеров в Кувейте в 1990 году, когда силы Саддама Хусейна вторглись.",
+        "ru": "Журналистка Washington Post, она была одной из немногих западных репортеров в Кувейте в 1990 году, когда силы Саддама Хусейна вторглись в страну.",
         "en": "A Washington Post journalist, she was one of the few Western reporters in Kuwait in 1990 when Saddam Hussein’s forces invaded."
       },
       "category": {
@@ -544,108 +480,156 @@
         "en": "World"
       },
       "longBody": {
-        "ru": "Кэрил Мерфи, журналистка Washington Post, скончалась. Она была одной из немногих западных репортеров в Кувейте в 1990 году, когда силы Саддама Хусейна вторглись в страну. Ее работа в условиях конфликта была отмечена наградой Пулитцера, что подчеркивает важность ее вклада в журналистику и освещение событий того времени.",
-        "en": "Caryle Murphy, a journalist with the Washington Post, has passed away. She was one of the few Western reporters in Kuwait in 1990 when Saddam Hussein's forces invaded the country. Her work in the midst of conflict earned her a Pulitzer Prize, highlighting the significance of her contributions to journalism and the coverage of events during that time."
+        "ru": "Кэрил Мерфи, журналистка Washington Post, скончалась, оставив за собой наследие, которое будет помнить не одно поколение. Она была одной из немногих западных репортеров, которые находились в Кувейте в 1990 году, когда силы Саддама Хусейна вторглись в страну. Её работа в это время была отмечена смелостью и преданностью журналистике.\n\nМерфи получила Пулитцеровскую премию за свои выдающиеся репортажи, которые освещали события войны и её последствия. Её вклад в журналистику был значительным, и она вдохновила многих молодых репортеров следовать её примеру. Кэрил оставила после себя не только профессиональное наследие, но и множество воспоминаний у тех, кто её знал.\n\nЕё смерть стала большой утратой для журналистского сообщества и всех, кто ценит правдивую и смелую журналистику.",
+        "en": "Caryle Murphy, a journalist for the Washington Post, has passed away, leaving behind a legacy that will be remembered for generations. She was one of the few Western reporters in Kuwait in 1990 when Saddam Hussein’s forces invaded the country. Her work during this time was marked by courage and dedication to journalism.\n\nMurphy earned a Pulitzer Prize for her outstanding reporting that covered the war and its aftermath. Her contribution to journalism was significant, inspiring many young reporters to follow in her footsteps. Caryle left not only a professional legacy but also countless memories for those who knew her.\n\nHer death is a great loss to the journalistic community and to all who value truthful and courageous reporting."
       }
     },
     {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "«Поколение правых» в Израиле может определить будущее Нетаньяху",
-        "en": "Israel’s ‘Generation Right’ could shape Netanyahu’s future"
-      },
-      "summary": {
-        "ru": "Глобальная тенденция показывает, что молодые люди политически склоняются к левым взглядам, но в Израиле они склоняются к правым.",
-        "en": "The global trend may show young people leaning politically to the left, but in Israel they’re leaning to the right."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Глобальная тенденция показывает, что молодые люди в большинстве стран склоняются к левым взглядам, однако в Израиле наблюдается обратная ситуация. Молодежь в стране начинает проявлять интерес к правым политическим идеям, что может оказать влияние на будущее политической сцены и на действия правительства Нетаньяху. Эта тенденция вызывает обсуждения о том, как она может изменить политический ландшафт Израиля.",
-        "en": "The global trend indicates that young people in most countries lean politically to the left; however, in Israel, the opposite is observed. The youth in the country are beginning to show interest in right-wing political ideas, which could impact the future political landscape and the actions of Netanyahu's government. This trend raises discussions about how it may alter Israel's political environment."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Барселона против Реала В ЖИВОМ: Эль Класико Ла Лиги",
-        "en": "Barcelona vs Real Madrid LIVE: La Liga El Clasico"
-      },
-      "summary": {
-        "ru": "Следите за обновлениями Эль Класико на Камп Ноу, включая подготовку, анализ и текстовые комментарии к игре.",
-        "en": "Follow updates from El Clasico at Camp Nou, including the build-up, analysis, and live text commentary of the game."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Следите за обновлениями Эль Класико на стадионе Камп Ноу, где встретятся Барселона и Реал Мадрид. В преддверии матча ожидаются обсуждения и анализ, а также текстовые комментарии в режиме реального времени. Это событие привлекает внимание болельщиков и экспертов, которые будут следить за каждым моментом игры.",
-        "en": "Follow updates from El Clasico at Camp Nou, where Barcelona will face Real Madrid. In the lead-up to the match, discussions and analysis are expected, along with live text commentary. This event draws the attention of fans and experts alike, who will be watching every moment of the game."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Иорданцы скорбят по жертвам смертельной атаки на церковь",
-        "en": "Jordanians mourn victims of deadly church attack"
-      },
-      "summary": {
-        "ru": "Иорданцы скорбят по жертвам смертельной атаки на церковь.",
-        "en": "Jordanians mourn victims of a deadly church attack."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Иорданцы выражают скорбь по жертвам смертельной атаки на церковь, которая потрясла страну. Эта трагедия вызвала широкий резонанс и обсуждения о безопасности религиозных мест в Иордании. Местные жители собираются, чтобы почтить память погибших и выразить поддержку пострадавшим.",
-        "en": "Jordanians are mourning the victims of a deadly church attack that has shocked the nation. This tragedy has sparked widespread resonance and discussions about the safety of religious sites in Jordan. Locals are gathering to honor the memory of the deceased and express support for the affected."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/film/2026/oct/25/ali-g-who-iz-i-stooge-joshua-loudermilk-sacha-baron-cohen",
+      "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
       "source": "The Guardian",
       "title": {
-        "ru": "«Он не собирается меня обмануть. Я его обману»: Али Джи: Кто я? актер говорит, что он был в курсе шутки, но не сказал Саше Барону Коэну",
-        "en": "‘He’s not going to punk me. I’ll trick him’: Ali G: Who Iz I? stooge says he was in on joke but didn’t tell Sacha Baron Cohen"
+        "ru": "Выборы в Бразилии 2026: Полные результаты второго тура, Лула одерживает победу над Флавио Болсонару.",
+        "en": "Brazil election 2026: Full second round results as Lula wins comeback against Flávio Bolsonaro."
       },
       "summary": {
-        "ru": "Джошуа Лаудермилк говорит, что подозрения возникли во время съемок, когда он увидел пистолет, похожий на носимый пластиковый зад.",
-        "en": "Joshua Loudermilk says suspicions first arose during filming when he saw a gun shaped like a wearable plastic bottom."
+        "ru": "После неожиданного поражения в первом туре, действующий президент Бразилии Луиз Инасиу Лула да Силва смог перевернуть выборы и выиграть второй тур.",
+        "en": "After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva, has turned the election around to win the runoff."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Джошуа Лаудермилк, один из участников нового фильма \"Ali G: Who Iz I?\", заявил, что он был в курсе шутки, но создатели не осознали этого. Его подозрения возникли во время съемок, когда он увидел пистолет, напоминающий пластиковый зад. Лаудермилк продолжает утверждать, что его участие было частью шутки, хотя фильм создал недоразумения.",
-        "en": "Joshua Loudermilk, one of the participants in the new film 'Ali G: Who Iz I?', stated that he was in on the joke, but the filmmakers did not realize this. His suspicions arose during filming when he saw a gun shaped like a wearable plastic bottom. Loudermilk continues to assert that his involvement was part of the joke, although the film has created misunderstandings."
+        "ru": "После неожиданного поражения в первом туре выборов, действующий президент Бразилии Луиз Инасиу Лула да Силва смог перевернуть ситуацию и одержать победу во втором туре. Этот результат стал важным моментом в политической жизни страны, где выборы проводятся исключительно на основе народного голосования.\n\nЛула, который ранее столкнулся с трудностями, теперь вновь занимает пост президента, что свидетельствует о его способности адаптироваться и преодолевать вызовы. Его победа в финальном голосовании подчеркивает поддержку, которую он продолжает получать от избирателей, несмотря на предыдущие неудачи.\n\nЭти выборы также привлекли внимание к важным вопросам, касающимся будущего Бразилии, и создают новые возможности для политических изменений в стране.",
+        "en": "After a shock defeat in the first round of elections, incumbent Brazilian president Luiz Inácio Lula da Silva has turned the situation around to win the runoff. This result marks an important moment in the country's political landscape, where elections are conducted purely by popular vote.\n\nLula, who previously faced challenges, is now back in the presidency, demonstrating his ability to adapt and overcome obstacles. His victory in the final vote underscores the support he continues to receive from voters despite earlier setbacks.\n\nThese elections have also drawn attention to critical issues concerning Brazil's future, creating new opportunities for political change in the country."
       }
     },
     {
-      "link": "https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
+      "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+      "source": "The Guardian",
       "title": {
-        "ru": "Протеиновые коктейли для подростков: хорошая или плохая идея?",
-        "en": "Protein shakes for teenagers: Good or bad idea?"
+        "ru": "«Дверь в ЕС открыта» — новому сербскому правительству сказали после того, как Вучич признал поражение на выборах.",
+        "en": "‘Door to EU is open’ new Serbian government told after Vučić concedes election."
       },
       "summary": {
-        "ru": "Протеиновые продукты рекламируются как способ наращивания мышц и похудения — и они очень популярны среди молодежи.",
-        "en": "Protein products are marketed as a way of building muscle and losing weight — and they're very popular with young people."
+        "ru": "Движение Студенческий список, по прогнозам, получит 141 место в новом парламенте, что значительно превышает необходимые 126 мест для большинства.",
+        "en": "Student List movement projected to have 141 seats in the new parliament, well clear of the 126 required for majority."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Протеиновые продукты становятся все более популярными среди молодежи, так как они рекламируются как способ наращивания мышц и похудения. Однако возникает вопрос, насколько они безопасны и полезны для подростков. Специалисты обсуждают, сколько белка действительно необходимо для здорового роста и развития, и как эти продукты влияют на здоровье детей.",
-        "en": "Protein products are becoming increasingly popular among young people as they are marketed as a means of building muscle and losing weight. However, questions arise regarding their safety and health benefits for teenagers. Experts are discussing how much protein is truly necessary for healthy growth and development, and how these products impact children's health."
+        "ru": "После того, как президент Сербии Александр Вучич признал поражение на выборах, новое правительство получило сигнал о том, что двери в Европейский Союз открыты. Движение Студенческий список, по прогнозам, получит 141 место в новом парламенте, что значительно превышает необходимые 126 мест для большинства.\n\nЭти выборы стали важным событием в политической жизни Сербии, с высокой явкой избирателей, что свидетельствует о растущем интересе граждан к политическим процессам. Прогнозируемая явка на уровне 60,8% является самой высокой с середины 2000-х годов.\n\nПобеда Студенческого списка может привести к значительным изменениям в политическом курсе страны и её отношениях с Европейским Союзом, что является важным шагом для Сербии на пути к интеграции в европейские структуры.",
+        "en": "After Serbian President Aleksandar Vučić conceded defeat in the elections, the new government received a message that the doors to the European Union are open. The Student List movement is projected to secure 141 seats in the new parliament, well clear of the 126 required for a majority.\n\nThese elections have been a significant event in Serbia's political life, with high voter turnout indicating a growing interest among citizens in political processes. The projected turnout of 60.8% is the highest since the mid-2000s.\n\nThe victory of the Student List could lead to substantial changes in the country's political direction and its relations with the European Union, marking an important step for Serbia on its path toward integration into European structures."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/a-corruption-scandal-involving-a-brazilian-supreme-court-justice-has-shaken-up-the-election",
+      "source": "New York Times",
+      "title": {
+        "ru": "Коррупционный скандал с судьей Верховного суда Бразилии потряс выборы.",
+        "en": "A corruption scandal involving a Brazilian Supreme Court justice has shaken up the election."
+      },
+      "summary": {
+        "ru": "",
+        "en": ""
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Тысячи протестуют в Праге против реформ финансирования общественных СМИ.",
+        "en": "Thousands protest in Prague against public media funding reforms."
+      },
+      "summary": {
+        "ru": "Демонстранты утверждают, что предложенные реформы премьер-министра Андрея Бабиша и его коалиции угрожают свободе прессы.",
+        "en": "Demonstrators allege Prime Minister Andrej Babis and his coalition's proposed reforms pose a threat to press freedom."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Тысячи людей вышли на улицы Праги, протестуя против предложенных реформ финансирования общественных СМИ, выдвинутых премьер-министром Андреем Бабишем и его коалицией. Демонстранты утверждают, что эти реформы угрожают свободе прессы и независимости журналистики в стране.\n\nПротесты стали ответом на опасения, что изменения в финансировании могут привести к снижению качества новостей и уменьшению разнообразия мнений в общественных медиа. Участники акции подчеркивают важность защиты свободной прессы как основополагающего элемента демократии.\n\nЭти события поднимают важные вопросы о роли СМИ в обществе и о том, как политические решения могут влиять на свободу слова и доступ к информации.",
+        "en": "Thousands of people took to the streets of Prague to protest against proposed reforms to public media funding put forth by Prime Minister Andrej Babis and his coalition. Demonstrators allege that these reforms pose a threat to press freedom and the independence of journalism in the country.\n\nThe protests are a response to concerns that changes in funding could lead to a decline in news quality and a reduction in the diversity of opinions in public media. Participants emphasize the importance of protecting a free press as a fundamental element of democracy.\n\nThese events raise important questions about the role of media in society and how political decisions can impact freedom of speech and access to information."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Выборы в Болгарии переходят во второй тур на фоне низкой явки избирателей.",
+        "en": "Bulgaria election heads to a run-off amid low voter turnout."
+      },
+      "summary": {
+        "ru": "Болгары теперь выберут между президентом Илианой Йотовой и бывшим исполняющим обязанности премьер-министром Андреем Гюровым на следующей неделе.",
+        "en": "Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Выборы в Болгарии теперь перейдут во второй тур, где избиратели будут выбирать между президентом Илианой Йотовой и бывшим исполняющим обязанности премьер-министром Андреем Гюровым. Эти выборы проходят на фоне низкой явки избирателей, что вызывает опасения относительно интереса граждан к политическим процессам.\n\nВторой тур выборов станет решающим для определения будущего страны и её политического курса. Кандидаты представляют разные подходы к управлению и развитию Болгарии, что делает выбор особенно важным для избирателей.\n\nОжидается, что результаты второго тура окажут значительное влияние на внутреннюю и внешнюю политику Болгарии, а также на её отношения с Европейским Союзом.",
+        "en": "The elections in Bulgaria will now head to a runoff, where voters will choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov. These elections are taking place against a backdrop of low voter turnout, raising concerns about citizens' interest in political processes.\n\nThe runoff will be decisive in determining the country's future and its political direction. The candidates represent different approaches to governance and development in Bulgaria, making the choice particularly important for voters.\n\nThe results of the runoff are expected to have a significant impact on Bulgaria's domestic and foreign policy, as well as its relations with the European Union."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-future-of-the-amazon-rainforest-could-depend-on-who-wins",
+      "source": "New York Times",
+      "title": {
+        "ru": "Будущее амазонских лесов может зависеть от того, кто победит.",
+        "en": "The future of the Amazon rainforest could depend on who wins."
+      },
+      "summary": {
+        "ru": "",
+        "en": ""
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/lula-has-accused-meta-of-helping-his-opponent",
+      "source": "New York Times",
+      "title": {
+        "ru": "Лула обвинил Meta в помощи своему противнику.",
+        "en": "Lula has accused Meta of helping his opponent."
+      },
+      "summary": {
+        "ru": "",
+        "en": ""
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      }
+    },
+    {
+      "link": "https://www.euronews.com/video/2026/10/25/serbia-crowds-celebrate-in-belgrade-after-vucic-admits-defeat",
+      "source": "Euronews",
+      "title": {
+        "ru": "Сербия: толпы празднуют в Белграде после признания Вучича в поражении.",
+        "en": "Serbia: crowds celebrate in Belgrade after Vučić admits defeat."
+      },
+      "summary": {
+        "ru": "Толпы праздновали в Белграде после того, как президент Александр Вучич признал поражение своей правящей партии на внеочередных парламентских выборах.",
+        "en": "Crowds celebrated in Belgrade after President Aleksandar Vučić conceded defeat for his ruling party in Serbia's snap parliamentary election."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Толпы людей праздновали в Белграде после того, как президент Александр Вучич признал поражение своей правящей партии на внеочередных парламентских выборах. Эти выборы стали кульминацией почти двух лет студенческих протестов, которые требовали политических изменений в стране.\n\nПразднования на улицах отражают желание граждан Сербии к переменам и новой политической реальности. Это событие стало знаковым моментом в политической истории страны, подчеркивающим важность участия молодежи в демократических процессах.\n\nПобеда оппозиции может привести к значительным изменениям в управлении и политическом курсе Сербии, открывая новые возможности для реформ и улучшения жизни граждан.",
+        "en": "Crowds celebrated in Belgrade after President Aleksandar Vučić conceded defeat for his ruling party in Serbia's snap parliamentary election. These elections culminated nearly two years of student-led protests demanding political change in the country.\n\nThe celebrations in the streets reflect the citizens' desire for change and a new political reality. This event marks a significant moment in the country's political history, highlighting the importance of youth participation in democratic processes.\n\nThe opposition's victory could lead to substantial changes in governance and Serbia's political direction, opening new opportunities for reforms and improving citizens' lives."
       }
     }
   ]
