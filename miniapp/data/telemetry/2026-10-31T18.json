@@ -1,0 +1,1363 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.894774166666666,
+  "poolSize": 88,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html"
+    },
+    {
+      "index": 2,
+      "title": "That Mummy for Sale on Facebook Could Make You Ill",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/science/mummy-sale-facebook-ill.html"
+    },
+    {
+      "index": 3,
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 4,
+      "title": "How Binance’s $6.3 Billion Hack Went Down",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html"
+    },
+    {
+      "index": 5,
+      "title": "Almost 50 arrested at protest against Palestine Action ban outside US embassy in London",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london"
+    },
+    {
+      "index": 6,
+      "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss"
+    },
+    {
+      "index": 7,
+      "title": "Live Updates: Hundreds of Thousands Join Another Round of Protests in France",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween"
+    },
+    {
+      "index": 8,
+      "title": "COP17 Biodiversity Talks in Yerevan, Armenia",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html"
+    },
+    {
+      "index": 9,
+      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html"
+    },
+    {
+      "index": 10,
+      "title": "Michigan Muslims helped elect Trump. Now their faith is under fire",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss"
+    },
+    {
+      "index": 11,
+      "title": "Brighton shock Man City, closing gap on Premier League leader to two points",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/brighton-shock-man-city-closing-gap-on-premier-league-leader-to-two-points?traffic_source=rss"
+    },
+    {
+      "index": 12,
+      "title": "How Trump Is Dismantling America’s Scientific Research Machine",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html"
+    },
+    {
+      "index": 13,
+      "title": "Jerusalem Daily: Who will form Israel’s next government?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss"
+    },
+    {
+      "index": 14,
+      "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates"
+    },
+    {
+      "index": 15,
+      "title": "Pakistan beat Sri Lanka as Zaman’s century turns thrilling tri-series final",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss"
+    },
+    {
+      "index": 16,
+      "title": "A cure for Trump? Why Democratic doctors are running in the 2026 midterms",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/longform/2026/10/31/a-cure-for-trump-why-democratic-doctors-are-running-in-the-2026-midterms?traffic_source=rss"
+    },
+    {
+      "index": 17,
+      "title": "Dakar Youth Olympics: Who gets to hold the flame?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/dakar-youth-olympics-who-gets-to-hold-the-flame?traffic_source=rss"
+    },
+    {
+      "index": 18,
+      "title": "Poland Deploys Riot Police in Standoff Over Country’s Top Court",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html"
+    },
+    {
+      "index": 19,
+      "title": "Flavio Bolsonaro says he may run again for Brazilian presidency",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/flavio-bolsonaro-says-he-may-run-again-for-brazilian-presidency?traffic_source=rss"
+    },
+    {
+      "index": 20,
+      "title": "Latest news bulletin | October 31st, 2026 – Evening",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-evening"
+    },
+    {
+      "index": 21,
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 22,
+      "title": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss"
+    },
+    {
+      "index": 23,
+      "title": "Here is the latest.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween"
+    },
+    {
+      "index": 24,
+      "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms"
+    },
+    {
+      "index": 25,
+      "title": "Gen Z protests sweep cities across Germany",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 26,
+      "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 27,
+      "title": "South Africa hammer Australia as Harmer takes career best bowling of 6-16",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss"
+    },
+    {
+      "index": 28,
+      "title": "F.D.A. Warns of Tractor Wheels Snack Bar Linked to Choking Hazard",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/well/family/fda-tractor-wheels-choking-hazard.html"
+    },
+    {
+      "index": 29,
+      "title": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251"
+    },
+    {
+      "index": 30,
+      "title": "Evacuees Arrive to Safety From Besieged Ukrainian City of Oleshky",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html"
+    },
+    {
+      "index": 31,
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 32,
+      "title": "UK charity shop profits plummet amid shift in secondhand clothes market",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/oct/31/profits-uk-charity-shops-oxfam-shift-secondhand-clothes-market"
+    },
+    {
+      "index": 33,
+      "title": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss"
+    },
+    {
+      "index": 34,
+      "title": "What Does Running the N.Y.C. Marathon Sound Like?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/video/business/100000011219428/what-does-running-the-nyc-marathon-sound-like.html"
+    },
+    {
+      "index": 35,
+      "title": "A world-first focus on long-term outcomes could transform UK government – or create new spending fights",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/oct/31/spending-plan-long-term-focus-uk-government"
+    },
+    {
+      "index": 36,
+      "title": "Ads accusing Republican candidates of protecting Epstein fill airwaves in final midterm push",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/31/political-ads-midterms-epstein-republican-candidate"
+    },
+    {
+      "index": 37,
+      "title": "Maurene Comey ruling offers hope of check on Trump’s assault on rule of law",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/31/maurene-comey-firing-ruling-legal-implications"
+    },
+    {
+      "index": 38,
+      "title": "The New Hot Job in Law Doesn’t Require a J.D.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html"
+    },
+    {
+      "index": 39,
+      "title": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html"
+    },
+    {
+      "index": 40,
+      "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss"
+    },
+    {
+      "index": 41,
+      "title": "Ethiopian PM puts ministers through military training",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 42,
+      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html"
+    },
+    {
+      "index": 43,
+      "title": "Syria considering entry into Mecca defence pact, says foreign minister",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss"
+    },
+    {
+      "index": 44,
+      "title": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html"
+    },
+    {
+      "index": 45,
+      "title": "In Australia, Halloween Means Spring, Sunshine and Skepticism",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/world/australia/australia-halloween-america-influence.html"
+    },
+    {
+      "index": 46,
+      "title": "Bute House protested by environmental campaigners",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 47,
+      "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss"
+    },
+    {
+      "index": 48,
+      "title": "Starmer says UK must get closer to Europe as US relationship changes",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump"
+    },
+    {
+      "index": 49,
+      "title": "UK police should not have let US force take over airbase trial, MoD documents show",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show"
+    },
+    {
+      "index": 50,
+      "title": "Chainalysis says hacker using ‘offensive agentic techniques’ accessed its customers’ names and emails",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244"
+    },
+    {
+      "index": 51,
+      "title": "What to Know About Fighting Between Ethiopia and Rebels in Tigray",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html"
+    },
+    {
+      "index": 52,
+      "title": "Burnham opens door to formal apology for Britain’s slave trade",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss"
+    },
+    {
+      "index": 53,
+      "title": "On the Norway-Russia border, the Sámi people face a growing divide",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss"
+    },
+    {
+      "index": 54,
+      "title": "French officials eye social media’s role in promoting unrest.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/french-officials-eye-social-medias-role-in-promoting-unrest"
+    },
+    {
+      "index": 55,
+      "title": "West Indies thrash Bangladesh by eight wickets in first Test in Mirpur",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/west-indies-bangladesh-first-test-eight-wickets-mirpur-series-lead?traffic_source=rss"
+    },
+    {
+      "index": 56,
+      "title": "Watch: Blood donors get a Halloween fright in Thailand",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 57,
+      "title": "Studios destroyed, traditions saved: Artists fight to save Sudan’s culture",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/10/31/studios-destroyed-traditions-saved-artists-fight-to-save-sudans-culture?traffic_source=rss"
+    },
+    {
+      "index": 58,
+      "title": "Alaska’s two ‘Dan Sullivans’: How common is ballot stacking, does it work?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/alaskas-two-dan-sullivans-how-common-is-ballot-stacking-does-it-work?traffic_source=rss"
+    },
+    {
+      "index": 59,
+      "title": "New Yemen fighting displaces 290,000, says UN, with pregnant women at risk",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk?traffic_source=rss"
+    },
+    {
+      "index": 60,
+      "title": "Fallon Sherrock pulls off shock defeat of world darts No 1 Luke Littler in live TV battle",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/sport/2026/oct/31/fallon-sherrock-shock-defeat-luke-littler-darts-live-tv-battle-netflix"
+    },
+    {
+      "index": 61,
+      "title": "Former rebel leader elected chief minister of Philippine Muslim region",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/former-rebel-leader-elected-chief-minister-of-philippine-muslim-region?traffic_source=rss"
+    },
+    {
+      "index": 62,
+      "title": "Paris steps up security as police patrol streets",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/paris-steps-up-security-as-police-patrol-streets?traffic_source=rss"
+    },
+    {
+      "index": 63,
+      "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss"
+    },
+    {
+      "index": 64,
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 65,
+      "title": "Aston Villa to sue ex-Liverpool star Carragher over ‘unacceptable insults’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/aston-villa-jamie-carragher-legal-action-sue-premier-league-football?traffic_source=rss"
+    },
+    {
+      "index": 66,
+      "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss"
+    },
+    {
+      "index": 67,
+      "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners"
+    },
+    {
+      "index": 68,
+      "title": "Why Are There Protests in France?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/article/france-student-protests-why.html"
+    },
+    {
+      "index": 69,
+      "title": "Germany news: Merkel calls for first female president",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 70,
+      "title": "Latest news bulletin | October 31st, 2026 – Midday",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-midday"
+    },
+    {
+      "index": 71,
+      "title": "Trump beware: US voters are concerned about government corruption",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/31/trump-government-corruption-midterms-voters"
+    },
+    {
+      "index": 72,
+      "title": "75 Years On, the National Ballet of Canada ‘Remains the Icon’",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/world/canada/national-ballet-canada-carney.html"
+    },
+    {
+      "index": 73,
+      "title": "Stage Fright",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/briefing/stage-fright.html"
+    },
+    {
+      "index": 74,
+      "title": "Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html"
+    },
+    {
+      "index": 75,
+      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 76,
+      "title": "Cost of living protests to spread to Germany and reignite in France on Halloween",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween"
+    },
+    {
+      "index": 77,
+      "title": "Pick Another Protein? Americans Still Want Beef, Despite the Price.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/business/beef-prices-protein.html"
+    },
+    {
+      "index": 78,
+      "title": "The U.S. Becomes a Global Hub for Horse Racing",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/business/breeders-cup-thoroughbreds-keeneland-saratoga-sales.html"
+    },
+    {
+      "index": 79,
+      "title": "Why Did So Many People File Early for Social Security Last Year?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/well/whats-behind-a-recent-spike-in-early-social-security-claims.html"
+    },
+    {
+      "index": 80,
+      "title": "In San Francisco’s A.I. Boom, a First Date Has Become an Interview",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        6,
+        3
+      ],
+      "score": 90,
+      "category": "conflict",
+      "rationale": "The potential involvement of Syria in a Saudi-led defense pact amidst ongoing conflict in Yemen highlights significant geopolitical tensions in the region."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4,
+        21,
+        50
+      ],
+      "score": 85,
+      "category": "technology",
+      "rationale": "The $6.3 billion hack of Binance represents a major incident in the cryptocurrency world, raising concerns about security and regulatory oversight."
+    },
+    {
+      "representativeIndex": 7,
+      "memberIndices": [
+        7,
+        22,
+        25
+      ],
+      "score": 80,
+      "category": "society",
+      "rationale": "The widespread protests in France reflect growing discontent among citizens regarding social issues, drawing significant public attention."
+    },
+    {
+      "representativeIndex": 31,
+      "memberIndices": [
+        31,
+        59
+      ],
+      "score": 75,
+      "category": "health",
+      "rationale": "The Ebola outbreak in DR Congo, with over 5,000 deaths, underscores the ongoing health crisis and the need for international attention and response."
+    },
+    {
+      "representativeIndex": 24,
+      "memberIndices": [
+        24,
+        36,
+        71
+      ],
+      "score": 70,
+      "category": "politics",
+      "rationale": "The surge in early voting for the US midterms indicates heightened political engagement and could significantly influence the election outcomes."
+    },
+    {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12,
+        38,
+        74
+      ],
+      "score": 65,
+      "category": "science",
+      "rationale": "The challenges facing America's scientific research system under current policies could have long-term implications for innovation and public health."
+    },
+    {
+      "representativeIndex": 44,
+      "memberIndices": [
+        44,
+        18,
+        40
+      ],
+      "score": 60,
+      "category": "politics",
+      "rationale": "The train disaster in Spain poses serious questions about government accountability and public safety, impacting the political landscape ahead of elections."
+    },
+    {
+      "representativeIndex": 10,
+      "memberIndices": [
+        10,
+        19,
+        61
+      ],
+      "score": 55,
+      "category": "society",
+      "rationale": "The political landscape in the US, particularly regarding the Muslim community's role, reflects broader societal issues of representation and discrimination."
+    },
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64,
+        42,
+        63
+      ],
+      "score": 50,
+      "category": "world",
+      "rationale": "The US sale of Patriot missiles to Ukraine is a critical development in the ongoing conflict with Russia, impacting international relations and military dynamics."
+    },
+    {
+      "representativeIndex": 11,
+      "memberIndices": [
+        11,
+        15,
+        27
+      ],
+      "score": 45,
+      "category": "sport",
+      "rationale": "The competitive nature of the Premier League, highlighted by Brighton's victory over Manchester City, showcases the excitement and unpredictability of top-tier football."
+    },
+    {
+      "representativeIndex": 8,
+      "memberIndices": [
+        8
+      ],
+      "score": 40,
+      "category": "climate",
+      "rationale": "The COP17 biodiversity talks in Armenia are crucial for global environmental commitments, though financial challenges remain a significant barrier."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5,
+        49
+      ],
+      "score": 35,
+      "category": "law",
+      "rationale": "The legal implications of police actions in the UK regarding US military jurisdiction raise important questions about justice and accountability."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2,
+        28,
+        56
+      ],
+      "score": 30,
+      "category": "health",
+      "rationale": "The health risks associated with the sale of mummified remains online highlight the intersection of public health and cultural practices."
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14,
+        68,
+        76
+      ],
+      "score": 25,
+      "category": "society",
+      "rationale": "The protests in Germany and France against rising living costs reflect a broader European discontent with economic conditions and government responses."
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 20,
+      "category": "politics",
+      "rationale": "Flavio Bolsonaro's potential run for presidency indicates ongoing political dynamics in Brazil, with implications for governance and policy direction.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46,
+        57
+      ],
+      "score": 15,
+      "category": "culture",
+      "rationale": "The Halloween-themed blood drive in Thailand represents a unique cultural adaptation of a global holiday, blending tradition with community health initiatives."
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        17
+      ],
+      "score": 10,
+      "category": "sport",
+      "rationale": "The Dakar Youth Olympics mark a significant cultural milestone for Africa, showcasing the continent's growing role in global sporting events."
+    },
+    {
+      "representativeIndex": 39,
+      "memberIndices": [
+        39,
+        54,
+        62
+      ],
+      "score": 5,
+      "category": "society",
+      "rationale": "Local efforts to protect Paris streets from rioters highlight community resilience amidst broader social unrest."
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70,
+        20
+      ],
+      "score": 0,
+      "category": "world",
+      "rationale": "General news updates provide a snapshot of ongoing global events but lack the immediacy or impact of more pressing stories."
+    },
+    {
+      "representativeIndex": 9,
+      "memberIndices": [
+        9
+      ],
+      "score": 19.8875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 13,
+      "memberIndices": [
+        13
+      ],
+      "score": 19.8375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 16,
+      "memberIndices": [
+        16
+      ],
+      "score": 19.8,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 26,
+      "memberIndices": [
+        26
+      ],
+      "score": 19.675,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 29,
+      "memberIndices": [
+        29
+      ],
+      "score": 19.6375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 30,
+      "memberIndices": [
+        30
+      ],
+      "score": 19.625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32
+      ],
+      "score": 19.6,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 33,
+      "memberIndices": [
+        33
+      ],
+      "score": 19.5875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 34,
+      "memberIndices": [
+        34
+      ],
+      "score": 19.575,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 35,
+      "memberIndices": [
+        35
+      ],
+      "score": 19.5625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 37,
+      "memberIndices": [
+        37
+      ],
+      "score": 19.5375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 41,
+      "memberIndices": [
+        41
+      ],
+      "score": 19.4875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 43,
+      "memberIndices": [
+        43
+      ],
+      "score": 19.4625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 19.4375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 47,
+      "memberIndices": [
+        47
+      ],
+      "score": 19.4125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 48,
+      "memberIndices": [
+        48
+      ],
+      "score": 19.4,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 51,
+      "memberIndices": [
+        51
+      ],
+      "score": 19.3625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 19.3125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 19.275,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60
+      ],
+      "score": 19.25,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.1875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 66,
+      "memberIndices": [
+        66
+      ],
+      "score": 19.175,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 67,
+      "memberIndices": [
+        67
+      ],
+      "score": 19.1625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 69,
+      "memberIndices": [
+        69
+      ],
+      "score": 19.1375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 72,
+      "memberIndices": [
+        72
+      ],
+      "score": 19.1,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 73,
+      "memberIndices": [
+        73
+      ],
+      "score": 19.0875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 75,
+      "memberIndices": [
+        75
+      ],
+      "score": 19.0625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 77,
+      "memberIndices": [
+        77
+      ],
+      "score": 19.0375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 78,
+      "memberIndices": [
+        78
+      ],
+      "score": 19.025,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 19.0125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 19,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 10284,
+      "usage": {
+        "inputTokens": 6929,
+        "outputTokens": 931,
+        "totalTokens": 7860
+      },
+      "estimatedCostUsd": 0.0015979499999999999,
+      "returnedCount": 19,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 13536,
+      "usage": {
+        "inputTokens": 1189,
+        "outputTokens": 1139,
+        "totalTokens": 2328
+      },
+      "estimatedCostUsd": 0.00086175,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 11203,
+      "usage": {
+        "inputTokens": 987,
+        "outputTokens": 1125,
+        "totalTokens": 2112
+      },
+      "estimatedCostUsd": 0.00082305,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 11348,
+      "usage": {
+        "inputTokens": 1093,
+        "outputTokens": 1108,
+        "totalTokens": 2201
+      },
+      "estimatedCostUsd": 0.00082875,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 27459,
+      "usage": {
+        "inputTokens": 1844,
+        "outputTokens": 2640,
+        "totalTokens": 4484
+      },
+      "estimatedCostUsd": 0.0018606,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 28758,
+      "usage": {
+        "inputTokens": 1665,
+        "outputTokens": 2514,
+        "totalTokens": 4179
+      },
+      "estimatedCostUsd": 0.0017581499999999998,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 29292,
+      "usage": {
+        "inputTokens": 1728,
+        "outputTokens": 3040,
+        "totalTokens": 4768
+      },
+      "estimatedCostUsd": 0.0020832,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-10-31T18:04:00.890Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.00981345,
+    "complete": true,
+    "inputTokens": 15435,
+    "outputTokens": 12497,
+    "totalTokens": 27932,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+          "source": "New York Times",
+          "title_en": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+          "source": "New York Times",
+          "title_en": "How Binance’s $6.3 Billion Hack Went Down"
+        },
+        {
+          "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
+          "source": "New York Times",
+          "title_en": "Live Updates: Hundreds of Thousands Join Another Round of Protests in France"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+          "source": "The Guardian",
+          "title_en": "More than 50m Americans cast ballots in early voting with three days to go before midterms"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
+          "source": "New York Times",
+          "title_en": "How Trump Is Dismantling America’s Scientific Research Machine"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
+          "source": "New York Times",
+          "title_en": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Michigan Muslims helped elect Trump. Now their faith is under fire"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "US approves sale of 500 Patriot missiles to Ukraine"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/2026/10/31/brighton-shock-man-city-closing-gap-on-premier-league-leader-to-two-points?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Brighton shock Man City, closing gap on Premier League leader to two points"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html",
+          "source": "New York Times",
+          "title_en": "COP17 Biodiversity Talks in Yerevan, Armenia"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
+          "source": "The Guardian",
+          "title_en": "Almost 50 arrested at protest against Palestine Action ban outside US embassy in London"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/science/mummy-sale-facebook-ill.html",
+          "source": "New York Times",
+          "title_en": "That Mummy for Sale on Facebook Could Make You Ill"
+        },
+        {
+          "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
+          "source": "The Guardian",
+          "title_en": "Protests under way in Germany and France as minister warns against use of Halloween masks"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Burnham opens door to formal apology for Britain’s slave trade"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
+          "source": "New York Times",
+          "title_en": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Jerusalem Daily: Who will form Israel’s next government?"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/longform/2026/10/31/a-cure-for-trump-why-democratic-doctors-are-running-in-the-2026-midterms?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "A cure for Trump? Why Democratic doctors are running in the 2026 midterms"
+        },
+        {
+          "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween",
+          "source": "New York Times",
+          "title_en": "Here is the latest."
+        },
+        {
+          "link": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory"
+        },
+        {
+          "link": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
+          "source": "The Block",
+          "title_en": "Hackers hijack a dozen DeFi websites, stealing about $138,000"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+          "source": "New York Times",
+          "title_en": "Evacuees arrive to safety from besieged Ukrainian city of Oleshky"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/oct/31/profits-uk-charity-shops-oxfam-shift-secondhand-clothes-market",
+          "source": "The Guardian",
+          "title_en": "UK charity shop profits plummet amid shift in secondhand clothes market"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick"
+        },
+        {
+          "link": "https://www.nytimes.com/video/business/100000011219428/what-does-running-the-nyc-marathon-sound-like.html",
+          "source": "New York Times",
+          "title_en": "What does running the N.Y.C. Marathon sound like?"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/2026/oct/31/spending-plan-long-term-focus-uk-government",
+          "source": "The Guardian",
+          "title_en": "A world-first focus on long-term outcomes could transform UK government"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/oct/31/maurene-comey-firing-ruling-legal-implications",
+          "source": "The Guardian",
+          "title_en": "Maurene Comey ruling offers hope of check on Trump’s assault on rule of law"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Ethiopian PM puts ministers through military training"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Syria considering entry into Mecca defence pact, says foreign minister"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/world/australia/australia-halloween-america-influence.html",
+          "source": "New York Times",
+          "title_en": "In Australia, Halloween means spring, sunshine and skepticism"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+          "source": "New York Times",
+          "title_en": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+          "source": "New York Times",
+          "title_en": "How Binance’s $6.3 Billion Hack Went Down"
+        },
+        {
+          "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
+          "source": "New York Times",
+          "title_en": "Live Updates: Hundreds of Thousands Join Another Round of Protests in France"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+          "source": "The Guardian",
+          "title_en": "More than 50m Americans cast ballots in early voting with three days to go before midterms"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
+          "source": "New York Times",
+          "title_en": "How Trump Is Dismantling America’s Scientific Research Machine"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
+          "source": "New York Times",
+          "title_en": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Michigan Muslims helped elect Trump. Now their faith is under fire"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "US approves sale of 500 Patriot missiles to Ukraine"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/2026/10/31/brighton-shock-man-city-closing-gap-on-premier-league-leader-to-two-points?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Brighton shock Man City, closing gap on Premier League leader to two points"
+        }
+      ],
+      "contentHashes": {
+        "ru": "75f17520a84dbb11a2a56259418755b7a57d08f2d4c0c1812ec7a69a4c31783e",
+        "en": "38a0e7d242c2e5210d3068d9908350b81b00f2b80b2392a505c0bdb8fe1896d9"
+      }
+    }
+  }
+}
