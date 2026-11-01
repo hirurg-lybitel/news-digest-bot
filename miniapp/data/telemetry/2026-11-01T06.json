@@ -1,0 +1,1167 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.956889444444444,
+  "poolSize": 70,
+  "candidateCount": 70,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "India news: Opposition holds major rally in Delhi over voter roll revisions",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 2,
+      "title": "What’s New at the Museum? Stargazing, Escape Rooms, Bachelorette Parties and More",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/30/arts/design/late-night-museums-young-people.html"
+    },
+    {
+      "index": 3,
+      "title": "‘Like Kashmir’: How a toxic marble dump yard became a tourist spot in India",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/like-kashmir-how-a-toxic-marble-dump-yard-became-a-tourist-spot-in-india?traffic_source=rss"
+    },
+    {
+      "index": 4,
+      "title": "Roger’s cynical gift basket for El-Sayed on his birthday",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/rogers-cynical-gift-basket-for-el-sayed-on-his-birthday?traffic_source=rss"
+    },
+    {
+      "index": 5,
+      "title": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss"
+    },
+    {
+      "index": 6,
+      "title": "France protests enter third week as police fire tear gas",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes?traffic_source=rss"
+    },
+    {
+      "index": 7,
+      "title": "Bolivia declares state of emergency over El Nino weather pattern",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/bolivia-declares-state-of-emergency-over-el-nino-weather-pattern?traffic_source=rss"
+    },
+    {
+      "index": 8,
+      "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/01/world/asia/hes-the-top-snake-catcher-and-business-is-booming-theres-just-one-problem.html"
+    },
+    {
+      "index": 9,
+      "title": "Thailand’s Most Famous Snake Catcher",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/video/world/asia/100000011244032/thailand-snake-catcher-bangkok.html"
+    },
+    {
+      "index": 10,
+      "title": "Korean Language Picks Up in Japan",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/01/world/asia/japan-slang-korean-language.html"
+    },
+    {
+      "index": 11,
+      "title": "Haley Stevens advised to stay away from Abdul El-Sayed campaign events to limit ‘distractions’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events"
+    },
+    {
+      "index": 12,
+      "title": "India’s Congress Party Plans Mass Protest in New Delhi",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html"
+    },
+    {
+      "index": 13,
+      "title": "Ukrainian evacuees from Russian-occupied Oleshky reunite with family",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family?traffic_source=rss"
+    },
+    {
+      "index": 14,
+      "title": "What we know about latest efforts to end US war on Iran",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss"
+    },
+    {
+      "index": 15,
+      "title": "India’s largest dam planned to counter China faces Indigenous revolt",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/indias-largest-dam-planned-to-counter-china-faces-indigenous-revolt?traffic_source=rss"
+    },
+    {
+      "index": 16,
+      "title": "The murder of Javits Frimpong, a bullied schoolboy in The Bronx",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/the-murder-of-javits-frimpong-a-bullied-schoolboy-in-the-bronx?traffic_source=rss"
+    },
+    {
+      "index": 17,
+      "title": "Trump grants visa to mother of Ghanaian boy killed in NYC — Mamdani",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/trump-grants-visa-to-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 18,
+      "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+    },
+    {
+      "index": 19,
+      "title": "FBI blames North Korea for record $6.3bn crypto heist from Binance",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss"
+    },
+    {
+      "index": 20,
+      "title": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss"
+    },
+    {
+      "index": 21,
+      "title": "Shops looted as German cost of living protests turn violent",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 22,
+      "title": "FBI says North Korea behind $6 billion Binance crypto theft",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 23,
+      "title": "Police clash with masked rioters after largely peaceful protests across France",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
+    },
+    {
+      "index": 24,
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 25,
+      "title": "Talarico draws a packed campus rally, but can he win over young voters?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss"
+    },
+    {
+      "index": 26,
+      "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
+    },
+    {
+      "index": 27,
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 28,
+      "title": "Polish president holds crisis talks in court standoff",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss"
+    },
+    {
+      "index": 29,
+      "title": "Gen Z-led protests in Germany turn violent",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss"
+    },
+    {
+      "index": 30,
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 31,
+      "title": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html"
+    },
+    {
+      "index": 32,
+      "title": "Iran war live: Tehran eyes 2-day Hormuz plan; Trump says talks ‘going fine’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss"
+    },
+    {
+      "index": 33,
+      "title": "ICE agent’s violent shove propels woman through the air",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss"
+    },
+    {
+      "index": 34,
+      "title": "Put Your A.I. Agents to Work with These 5 Killer Tasks",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html"
+    },
+    {
+      "index": 35,
+      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 36,
+      "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html"
+    },
+    {
+      "index": 37,
+      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html"
+    },
+    {
+      "index": 38,
+      "title": "Dutch authorities rescue 38 people adrift in rubber boat",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss"
+    },
+    {
+      "index": 39,
+      "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss"
+    },
+    {
+      "index": 40,
+      "title": "Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html"
+    },
+    {
+      "index": 41,
+      "title": "How Binance’s $6.3 Billion Hack Went Down",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html"
+    },
+    {
+      "index": 42,
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 43,
+      "title": "Palestine Action supporters arrested outside US embassy in London",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss"
+    },
+    {
+      "index": 44,
+      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 45,
+      "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html"
+    },
+    {
+      "index": 46,
+      "title": "‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html"
+    },
+    {
+      "index": 47,
+      "title": "Legal filing questions Trump’s claims of non-citizen voting in California",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss"
+    },
+    {
+      "index": 48,
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 49,
+      "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page"
+    },
+    {
+      "index": 50,
+      "title": "A new political era in the Southern Philippines",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-6020639/a-new-political-era-in-the-southern-philippines"
+    },
+    {
+      "index": 51,
+      "title": "Fiery confrontations between protestors and police in Albania",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss"
+    },
+    {
+      "index": 52,
+      "title": "AO3 Fan Fiction Site Is Hacked and Could Be Offline for Weeks",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html"
+    },
+    {
+      "index": 53,
+      "title": "Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html"
+    },
+    {
+      "index": 54,
+      "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss"
+    },
+    {
+      "index": 55,
+      "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss"
+    },
+    {
+      "index": 56,
+      "title": "Israel’s allegations of Qatari election interference rejected",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss"
+    },
+    {
+      "index": 57,
+      "title": "Man in Belfast charged with possessing explosives and firearms",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/31/man-belfast-charged-possessing-explosives-firearms"
+    },
+    {
+      "index": 58,
+      "title": "What is ranked-choice voting and how does it work in US elections?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/what-is-ranked-choice-voting-and-how-does-it-work-in-us-elections?traffic_source=rss"
+    },
+    {
+      "index": 59,
+      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html"
+    },
+    {
+      "index": 60,
+      "title": "Serbia after Vucic: The winners are losing patience",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 61,
+      "title": "Here is the latest.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween"
+    },
+    {
+      "index": 62,
+      "title": "France seethes again as youth-led protests sweep Europe",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe"
+    },
+    {
+      "index": 63,
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 64,
+      "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine"
+    },
+    {
+      "index": 65,
+      "title": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west"
+    },
+    {
+      "index": 66,
+      "title": "More than 290 arrested in France as some weekend protests turn violent",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 67,
+      "title": "Key takeaways from this week's political meeting in Beijing",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways"
+    },
+    {
+      "index": 68,
+      "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates"
+    },
+    {
+      "index": 69,
+      "title": "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london"
+    },
+    {
+      "index": 70,
+      "title": "Poland Deploys Riot Police in Standoff Over Country’s Top Court",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5,
+        14,
+        32
+      ],
+      "score": 90,
+      "category": "conflict",
+      "rationale": "The UN's demand for an investigation into the death of a staffer in Houthi custody highlights significant human rights concerns in Yemen."
+    },
+    {
+      "representativeIndex": 7,
+      "memberIndices": [
+        7,
+        12,
+        30
+      ],
+      "score": 85,
+      "category": "climate",
+      "rationale": "Bolivia's declaration of a state of emergency due to the El Nino weather pattern underscores the severe impact of climate change on vulnerable populations."
+    },
+    {
+      "representativeIndex": 21,
+      "memberIndices": [
+        21,
+        29,
+        66
+      ],
+      "score": 80,
+      "category": "society",
+      "rationale": "The violent protests in Germany over the cost of living reflect widespread social unrest and economic dissatisfaction across Europe."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18,
+        22,
+        40
+      ],
+      "score": 75,
+      "category": "technology",
+      "rationale": "The $6.3 billion hack of Binance, attributed to North Korean hackers, represents a significant threat to global cybersecurity and the cryptocurrency market.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 20,
+      "memberIndices": [
+        20,
+        48
+      ],
+      "score": 70,
+      "category": "politics",
+      "rationale": "The large-scale protests in Israel against Netanyahu's government indicate a critical moment in Israeli politics and public sentiment."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1
+      ],
+      "score": 65,
+      "category": "politics",
+      "rationale": "The opposition rally in India over voter roll revisions highlights ongoing political tensions and the fight for electoral integrity."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6,
+        23
+      ],
+      "score": 60,
+      "category": "conflict",
+      "rationale": "The ongoing protests in France, marked by clashes with police, reflect deep societal divisions and frustrations over living conditions."
+    },
+    {
+      "representativeIndex": 16,
+      "memberIndices": [
+        16,
+        39,
+        47
+      ],
+      "score": 55,
+      "category": "law",
+      "rationale": "The legal challenges faced by Trump regarding his lawsuit against the Wall Street Journal illustrate the intersection of law and politics in the U.S.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        10,
+        44
+      ],
+      "score": 50,
+      "category": "culture",
+      "rationale": "The transformation of a toxic marble dump into a tourist attraction raises important questions about environmental health and cultural tourism."
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46,
+        13,
+        64
+      ],
+      "score": 45,
+      "category": "conflict",
+      "rationale": "The evacuation of civilians from Oleshky amid ongoing conflict in Ukraine highlights the humanitarian crisis resulting from the war."
+    },
+    {
+      "representativeIndex": 31,
+      "memberIndices": [
+        31,
+        54
+      ],
+      "score": 40,
+      "category": "health",
+      "rationale": "The investigation into suspected Ebola cases in Nigeria underscores the ongoing public health challenges faced by the region."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4,
+        11,
+        26
+      ],
+      "score": 35,
+      "category": "politics",
+      "rationale": "The tensions within the Democratic party in the U.S. Senate race reflect broader issues of party unity and electoral strategy."
+    },
+    {
+      "representativeIndex": 15,
+      "memberIndices": [
+        15,
+        28,
+        70
+      ],
+      "score": 30,
+      "category": "law",
+      "rationale": "The standoff over Poland's constitutional court illustrates ongoing political struggles regarding judicial independence."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2,
+        8,
+        9
+      ],
+      "score": 25,
+      "category": "culture",
+      "rationale": "The rise of museums as social venues indicates changing cultural dynamics and the evolving role of public spaces."
+    },
+    {
+      "representativeIndex": 36,
+      "memberIndices": [
+        36,
+        41,
+        42
+      ],
+      "score": 20,
+      "category": "technology",
+      "rationale": "The implications of North Korean cybercrime on global financial systems highlight the vulnerabilities in the digital economy."
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38,
+        57,
+        69
+      ],
+      "score": 15,
+      "category": "disaster",
+      "rationale": "The rescue of migrants adrift in Dutch waters raises awareness of the ongoing migrant crisis and humanitarian efforts."
+    },
+    {
+      "representativeIndex": 62,
+      "memberIndices": [
+        62
+      ],
+      "score": 10,
+      "category": "society",
+      "rationale": "The protests across Europe, particularly in France, reflect a growing discontent with economic policies and governance."
+    },
+    {
+      "representativeIndex": 49,
+      "memberIndices": [
+        49,
+        50,
+        67
+      ],
+      "score": 5,
+      "category": "politics",
+      "rationale": "The G20 meeting in Atlanta highlights the ongoing global economic discussions and the challenges of international cooperation."
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55,
+        56
+      ],
+      "score": 3,
+      "category": "law",
+      "rationale": "The legal disputes surrounding Trump's plans for a triumphal arch illustrate the complexities of urban planning and governance."
+    },
+    {
+      "representativeIndex": 59,
+      "memberIndices": [
+        59,
+        60,
+        61
+      ],
+      "score": 2,
+      "category": "world",
+      "rationale": "Iran's geopolitical positioning amid U.S. and Israeli elections reflects the intricate dynamics of international relations."
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        17
+      ],
+      "score": 19.757142857142856,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 19,
+      "memberIndices": [
+        19
+      ],
+      "score": 19.728571428571428,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 24,
+      "memberIndices": [
+        24
+      ],
+      "score": 19.65714285714286,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 25,
+      "memberIndices": [
+        25
+      ],
+      "score": 19.642857142857142,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 27,
+      "memberIndices": [
+        27
+      ],
+      "score": 19.614285714285714,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 33,
+      "memberIndices": [
+        33
+      ],
+      "score": 19.52857142857143,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 34,
+      "memberIndices": [
+        34
+      ],
+      "score": 19.514285714285716,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 35,
+      "memberIndices": [
+        35
+      ],
+      "score": 19.5,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 37,
+      "memberIndices": [
+        37
+      ],
+      "score": 19.47142857142857,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 43,
+      "memberIndices": [
+        43
+      ],
+      "score": 19.385714285714286,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 19.357142857142858,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 51,
+      "memberIndices": [
+        51
+      ],
+      "score": 19.271428571428572,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 19.257142857142856,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.242857142857144,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 19.17142857142857,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 19.1,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.071428571428573,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 68,
+      "memberIndices": [
+        68
+      ],
+      "score": 19.02857142857143,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 9376,
+      "usage": {
+        "inputTokens": 6108,
+        "outputTokens": 988,
+        "totalTokens": 7096
+      },
+      "estimatedCostUsd": 0.001509,
+      "returnedCount": 21,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 12800,
+      "usage": {
+        "inputTokens": 1156,
+        "outputTokens": 1242,
+        "totalTokens": 2398
+      },
+      "estimatedCostUsd": 0.0009185999999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 11620,
+      "usage": {
+        "inputTokens": 943,
+        "outputTokens": 1199,
+        "totalTokens": 2142
+      },
+      "estimatedCostUsd": 0.0008608499999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 11144,
+      "usage": {
+        "inputTokens": 816,
+        "outputTokens": 1170,
+        "totalTokens": 1986
+      },
+      "estimatedCostUsd": 0.0008244,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 26045,
+      "usage": {
+        "inputTokens": 1868,
+        "outputTokens": 2891,
+        "totalTokens": 4759
+      },
+      "estimatedCostUsd": 0.0020147999999999998,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 11348,
+      "usage": {
+        "inputTokens": 1610,
+        "outputTokens": 1171,
+        "totalTokens": 2781
+      },
+      "estimatedCostUsd": 0.0009441,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 13935,
+      "usage": {
+        "inputTokens": 1539,
+        "outputTokens": 1564,
+        "totalTokens": 3103
+      },
+      "estimatedCostUsd": 0.00116925,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-11-01T06:03:29.236Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.008240999999999998,
+    "complete": true,
+    "inputTokens": 14040,
+    "outputTokens": 10225,
+    "totalTokens": 24265,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "UN demands investigation after staffer’s death in Houthi custody in Yemen"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/1/bolivia-declares-state-of-emergency-over-el-nino-weather-pattern?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Bolivia declares state of emergency over El Nino weather pattern"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Shops looted as German cost of living protests turn violent"
+        },
+        {
+          "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+          "source": "The Guardian",
+          "title_en": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu"
+        },
+        {
+          "link": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "India news: Opposition holds major rally in Delhi over voter roll revisions"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "France protests enter third week as police fire tear gas"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/the-murder-of-javits-frimpong-a-bullied-schoolboy-in-the-bronx?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "The murder of Javits Frimpong, a bullied schoolboy in The Bronx"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/1/like-kashmir-how-a-toxic-marble-dump-yard-became-a-tourist-spot-in-india?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "‘Like Kashmir’: How a toxic marble dump yard became a tourist spot in India"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html",
+          "source": "New York Times",
+          "title_en": "‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
+          "source": "New York Times",
+          "title_en": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/rogers-cynical-gift-basket-for-el-sayed-on-his-birthday?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Roger’s Cynical Gift Basket for El-Sayed on His Birthday"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/indias-largest-dam-planned-to-counter-china-faces-indigenous-revolt?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "India’s Largest Dam Planned to Counter China Faces Indigenous Revolt"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/30/arts/design/late-night-museums-young-people.html",
+          "source": "New York Times",
+          "title_en": "What’s New at the Museum? Stargazing, Escape Rooms, Bachelorette Parties and More"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+          "source": "New York Times",
+          "title_en": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist."
+        },
+        {
+          "link": "https://www.dw.com/en/trump-grants-visa-to-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Trump Grants Visa to Mother of Ghanaian Boy Killed in NYC — Mamdani"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "FBI Blames North Korea for Record $6.3bn Crypto Heist from Binance"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "These Firms You've Never Heard of Are Feeding Fears the AI Bubble Could Burst"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Talarico Draws a Packed Campus Rally, But Can He Win Over Young Voters?"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "How the Downfall of Serbia's Vučić Mirrored That of Hungary's Orbán"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "ICE Agent’s Violent Shove Propels Woman Through the Air"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html",
+          "source": "New York Times",
+          "title_en": "Put Your A.I. Agents to Work with These 5 Killer Tasks"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "I've Been Stuck on a Tiny Pacific Island for Years and Can't Get a Transit Visa to Fly Home"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
+          "source": "New York Times",
+          "title_en": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Palestine Action Supporters Arrested Outside US Embassy in London"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
+          "source": "New York Times",
+          "title_en": "Clashes Erupt Again in France, After Festive Start to Day of Protest"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Fiery Confrontations Between Protestors and Police in Albania"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
+          "source": "New York Times",
+          "title_en": "AO3 Fan Fiction Site Is Hacked and Could Be Offline for Weeks"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
+          "source": "New York Times",
+          "title_en": "Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/10/31/what-is-ranked-choice-voting-and-how-does-it-work-in-us-elections?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "What is Ranked-Choice Voting and How Does It Work in US Elections?"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "UN demands investigation after staffer’s death in Houthi custody in Yemen"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/1/bolivia-declares-state-of-emergency-over-el-nino-weather-pattern?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Bolivia declares state of emergency over El Nino weather pattern"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Shops looted as German cost of living protests turn violent"
+        },
+        {
+          "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+          "source": "The Guardian",
+          "title_en": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu"
+        },
+        {
+          "link": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "India news: Opposition holds major rally in Delhi over voter roll revisions"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "France protests enter third week as police fire tear gas"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/the-murder-of-javits-frimpong-a-bullied-schoolboy-in-the-bronx?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "The murder of Javits Frimpong, a bullied schoolboy in The Bronx"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/1/like-kashmir-how-a-toxic-marble-dump-yard-became-a-tourist-spot-in-india?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "‘Like Kashmir’: How a toxic marble dump yard became a tourist spot in India"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html",
+          "source": "New York Times",
+          "title_en": "‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories"
+        }
+      ],
+      "contentHashes": {
+        "ru": "50c965453c59edcaadfbc71f99a18d42ab59289a01f4771fa40f43e337d76bb7",
+        "en": "6fb85748bae491641868ec138361d7da3e472b5a6b1955b0b38b4e8dc8a8de38"
+      }
+    }
+  }
+}
