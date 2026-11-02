@@ -1,0 +1,1362 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 23.965488055555557,
+  "poolSize": 136,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "Trump rallies in Iowa and Kansas in final push as Democratic divisions shake up Michigan",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/02/trump-wraps-up-campaign-rallies-in-final-push-as-democratic-divisions-shake-up-michigan"
+    },
+    {
+      "index": 2,
+      "title": "A Lesson From Germany",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html"
+    },
+    {
+      "index": 3,
+      "title": "Counsellors and psychotherapists call for UK statutory regulation in ‘watershed moment’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/02/counsellors-psychotherapists-statutory-regulation-uk-professional-bodies"
+    },
+    {
+      "index": 4,
+      "title": "FIFA Quietly Paid Millions in Gianni Infantino’s Taxes",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html"
+    },
+    {
+      "index": 5,
+      "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html"
+    },
+    {
+      "index": 6,
+      "title": "Kimi Antonelli makes history as youngest F1 champion",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 7,
+      "title": "South Korea to pour billions into AI",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 8,
+      "title": "UK making up China policy ‘as it goes along’, MPs warn",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/nov/02/uk-making-up-china-policy-as-it-goes-along-mps"
+    },
+    {
+      "index": 9,
+      "title": "China’s Message to Its Rivals: You Need What We Make",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/02/world/asia/chinas-message-to-its-rivals-you-need-what-we-make.html"
+    },
+    {
+      "index": 10,
+      "title": "Kimi Antonelli becomes youngest F1 champion as Max Verstappen wins race",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/02/kimi-antonelli-becomes-youngest-f1-champion-as-max-verstappen-wins-race"
+    },
+    {
+      "index": 11,
+      "title": "Write-In Ralph: South Carolina Republicans challenge Trump’s Senate pick",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick?traffic_source=rss"
+    },
+    {
+      "index": 12,
+      "title": "Bulgaria has its first elected female president",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss"
+    },
+    {
+      "index": 13,
+      "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270"
+    },
+    {
+      "index": 14,
+      "title": "Trump leans into Islamophobia and conspiracy in last-ditch campaign rallies",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss"
+    },
+    {
+      "index": 15,
+      "title": "‘I want to slap you around a bit, too’: Victorian magistrate reprimanded over language in court",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/02/victorian-magistrate-reprimanded-over-language-in-court-ntwnfb"
+    },
+    {
+      "index": 16,
+      "title": "US midterms: What to know about independent voters and candidates",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-what-to-know-about-independent-voters-and-candidates?traffic_source=rss"
+    },
+    {
+      "index": 17,
+      "title": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss"
+    },
+    {
+      "index": 18,
+      "title": "Million-dollar fish caught by Darwin man ‘just fishing and talking’ at night with brother",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/02/million-dollar-fish-caught-by-darwin-man-just-fishing-and-talking-at-night-with-brother"
+    },
+    {
+      "index": 19,
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 20,
+      "title": "Muhammad Ali’s daughter and grandson endorse El-Sayed",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/muhammad-alis-daughter-and-grandson-endorse-el-sayed?traffic_source=rss"
+    },
+    {
+      "index": 21,
+      "title": "Ukraine, Russia report hacking attacks on emergency alert apps",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 22,
+      "title": "El-Sayed dismisses Stevens’ backing of Republican Senate candidate",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss"
+    },
+    {
+      "index": 23,
+      "title": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial"
+    },
+    {
+      "index": 24,
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 25,
+      "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss"
+    },
+    {
+      "index": 26,
+      "title": "After Tech Sell-Off, Investors Brace for More Market Volatility",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html"
+    },
+    {
+      "index": 27,
+      "title": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss"
+    },
+    {
+      "index": 28,
+      "title": "Trump invites Michigan Democrat Stevens to join the Republican Party",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss"
+    },
+    {
+      "index": 29,
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 30,
+      "title": "German police investigating after needles found in Halloween candy",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/german-police-investigating-after-needles-found-in-halloween-candy/a-79825051?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 31,
+      "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally"
+    },
+    {
+      "index": 32,
+      "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead"
+    },
+    {
+      "index": 33,
+      "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss"
+    },
+    {
+      "index": 34,
+      "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss"
+    },
+    {
+      "index": 35,
+      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 36,
+      "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html"
+    },
+    {
+      "index": 37,
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 38,
+      "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss"
+    },
+    {
+      "index": 39,
+      "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
+    },
+    {
+      "index": 40,
+      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss"
+    },
+    {
+      "index": 41,
+      "title": "Don't get caught out by new Buy Now Pay Later rules",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 42,
+      "title": "Nine people dead after Learjet crashes in Florida",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss"
+    },
+    {
+      "index": 43,
+      "title": "Why governors’ races are important in the 2026 US midterms",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss"
+    },
+    {
+      "index": 44,
+      "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss"
+    },
+    {
+      "index": 45,
+      "title": "Pauline Hanson and James Ashby rule out running against Nationals leader Matt Canavan in Capricornia",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb"
+    },
+    {
+      "index": 46,
+      "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai"
+    },
+    {
+      "index": 47,
+      "title": "High-ranking US Democratic senator suffers stroke",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss"
+    },
+    {
+      "index": 48,
+      "title": "This legendary board game could take decades to complete",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete"
+    },
+    {
+      "index": 49,
+      "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda"
+    },
+    {
+      "index": 50,
+      "title": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 51,
+      "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war"
+    },
+    {
+      "index": 52,
+      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss"
+    },
+    {
+      "index": 53,
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 54,
+      "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss"
+    },
+    {
+      "index": 55,
+      "title": "Thousands displaced from Hebron as Israel carries on siege",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss"
+    },
+    {
+      "index": 56,
+      "title": "All nine people aboard business jet that crashed in Florida have died",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida"
+    },
+    {
+      "index": 57,
+      "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss"
+    },
+    {
+      "index": 58,
+      "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss"
+    },
+    {
+      "index": 59,
+      "title": "Teenage violinist wins BBC Young Musician 2026, after first all-female final",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/music/2026/nov/01/bbc-young-musician-teenage-violinist-sofia-demetriades"
+    },
+    {
+      "index": 60,
+      "title": "Al Jazeera Director General hails 30 years of groundbreaking news",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss"
+    },
+    {
+      "index": 61,
+      "title": "Initial results indicate victory for Iotova in Bulgarian presidential vote",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss"
+    },
+    {
+      "index": 62,
+      "title": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 63,
+      "title": "Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan"
+    },
+    {
+      "index": 64,
+      "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html"
+    },
+    {
+      "index": 65,
+      "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature"
+    },
+    {
+      "index": 66,
+      "title": "Home secretary to make some migrants wait 10 years or more for right to settle in UK",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush"
+    },
+    {
+      "index": 67,
+      "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash"
+    },
+    {
+      "index": 68,
+      "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions"
+    },
+    {
+      "index": 69,
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 70,
+      "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre"
+    },
+    {
+      "index": 71,
+      "title": "Binance Reports $3.64 Billion in Outflows as It Resumes Normal Transactions",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html"
+    },
+    {
+      "index": 72,
+      "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257"
+    },
+    {
+      "index": 73,
+      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 74,
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 75,
+      "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz"
+    },
+    {
+      "index": 76,
+      "title": "Lindsay Clancy is back in court - where will her case go next?",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 77,
+      "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil"
+    },
+    {
+      "index": 78,
+      "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html"
+    },
+    {
+      "index": 79,
+      "title": "Serbia: Police chief arrested after election for abuse of office",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/serbia-police-chief-arrested-after-election-for-abuse-of-office/a-79823382?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 80,
+      "title": "Can Scientists Make Football Safer?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/10/28/science/cte-nfl-football-brain-safety.html"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 40,
+      "memberIndices": [
+        40,
+        21,
+        25,
+        29,
+        77
+      ],
+      "score": 95,
+      "category": "conflict",
+      "rationale": "The ongoing tensions and military actions in the Strait of Hormuz, coupled with the US-Iran negotiations, highlight significant geopolitical stakes."
+    },
+    {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12,
+        61,
+        49
+      ],
+      "score": 90,
+      "category": "politics",
+      "rationale": "Iliana Iotova's election as Bulgaria's first female president marks a historic milestone in the country's political landscape."
+    },
+    {
+      "representativeIndex": 19,
+      "memberIndices": [
+        19,
+        13,
+        68,
+        71
+      ],
+      "score": 85,
+      "category": "economy",
+      "rationale": "The record $6.3 billion hack of Binance has profound implications for the cryptocurrency market and investor confidence."
+    },
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        46
+      ],
+      "score": 80,
+      "category": "health",
+      "rationale": "The call for statutory regulation of psychotherapists in the UK represents a crucial step towards safeguarding mental health services."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6,
+        10,
+        17
+      ],
+      "score": 75,
+      "category": "sport",
+      "rationale": "Kimi Antonelli's achievement as the youngest F1 champion is a significant milestone in motorsport history."
+    },
+    {
+      "representativeIndex": 7,
+      "memberIndices": [
+        7,
+        70
+      ],
+      "score": 70,
+      "category": "technology",
+      "rationale": "South Korea's record-breaking investment in AI technology signals a major shift in global tech leadership."
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14,
+        31
+      ],
+      "score": 65,
+      "category": "society",
+      "rationale": "Trump's campaign rhetoric, including Islamophobia, reflects ongoing societal divisions and the impact of political discourse."
+    },
+    {
+      "representativeIndex": 33,
+      "memberIndices": [
+        33,
+        42,
+        56
+      ],
+      "score": 60,
+      "category": "disaster",
+      "rationale": "The tragic Florida business jet crash that killed nine people underscores the risks associated with private aviation."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        11,
+        28,
+        39
+      ],
+      "score": 55,
+      "category": "politics",
+      "rationale": "Trump's campaign efforts and the internal conflicts within the Democratic Party are pivotal in shaping the upcoming midterm elections."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4,
+        62
+      ],
+      "score": 50,
+      "category": "law",
+      "rationale": "FIFA's financial practices and transparency issues raise significant legal and ethical questions in sports governance."
+    },
+    {
+      "representativeIndex": 50,
+      "memberIndices": [
+        50,
+        41
+      ],
+      "score": 45,
+      "category": "economy",
+      "rationale": "The rising cost of living in the US is a pressing issue for voters, influencing their decisions in the midterm elections."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2,
+        9
+      ],
+      "score": 40,
+      "category": "world",
+      "rationale": "China's strategic economic maneuvers highlight its growing influence and the challenges faced by other nations in reducing dependency."
+    },
+    {
+      "representativeIndex": 8,
+      "memberIndices": [
+        8,
+        44
+      ],
+      "score": 35,
+      "category": "politics",
+      "rationale": "The UK's inconsistent policy towards China poses risks to national security and economic stability."
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38,
+        5
+      ],
+      "score": 30,
+      "category": "culture",
+      "rationale": "Bollywood's response to threats illustrates the intersection of celebrity culture and public safety in India."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18,
+        59
+      ],
+      "score": 25,
+      "category": "society",
+      "rationale": "The story of a fisherman winning a million-dollar prize highlights the intersection of luck and community in local culture."
+    },
+    {
+      "representativeIndex": 74,
+      "memberIndices": [
+        74,
+        37
+      ],
+      "score": 20,
+      "category": "society",
+      "rationale": "The increase in armed police patrols in Sydney reflects growing concerns over public safety and community trust."
+    },
+    {
+      "representativeIndex": 36,
+      "memberIndices": [
+        36,
+        73
+      ],
+      "score": 15,
+      "category": "science",
+      "rationale": "The discovery of a rare beetle after decades emphasizes the importance of biodiversity and conservation efforts."
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76
+      ],
+      "score": 10,
+      "category": "law",
+      "rationale": "The legal case against OpenAI regarding chatbot guidance raises important questions about accountability in AI technology.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64,
+        75
+      ],
+      "score": 5,
+      "category": "world",
+      "rationale": "Syria's potential alignment with Saudi Arabia amidst ongoing conflicts illustrates the complexities of Middle Eastern geopolitics."
+    },
+    {
+      "representativeIndex": 66,
+      "memberIndices": [
+        66
+      ],
+      "score": 0,
+      "category": "society",
+      "rationale": "New immigration policies in the UK could have long-term implications for labor markets and social cohesion."
+    },
+    {
+      "representativeIndex": 15,
+      "memberIndices": [
+        15
+      ],
+      "score": 19.8125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 16,
+      "memberIndices": [
+        16
+      ],
+      "score": 19.8,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 20,
+      "memberIndices": [
+        20
+      ],
+      "score": 19.75,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 22,
+      "memberIndices": [
+        22
+      ],
+      "score": 19.725,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 24,
+      "memberIndices": [
+        24
+      ],
+      "score": 19.7,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 26,
+      "memberIndices": [
+        26
+      ],
+      "score": 19.675,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 27,
+      "memberIndices": [
+        27
+      ],
+      "score": 19.6625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 30,
+      "memberIndices": [
+        30
+      ],
+      "score": 19.625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32
+      ],
+      "score": 19.6,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 34,
+      "memberIndices": [
+        34
+      ],
+      "score": 19.575,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 35,
+      "memberIndices": [
+        35
+      ],
+      "score": 19.5625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 43,
+      "memberIndices": [
+        43
+      ],
+      "score": 19.4625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 19.4375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 47,
+      "memberIndices": [
+        47
+      ],
+      "score": 19.4125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 48,
+      "memberIndices": [
+        48
+      ],
+      "score": 19.4,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 51,
+      "memberIndices": [
+        51
+      ],
+      "score": 19.3625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 19.35,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 54,
+      "memberIndices": [
+        54
+      ],
+      "score": 19.325,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 19.3125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 57,
+      "memberIndices": [
+        57
+      ],
+      "score": 19.2875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 19.275,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60
+      ],
+      "score": 19.25,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 19.2125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.1875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 67,
+      "memberIndices": [
+        67
+      ],
+      "score": 19.1625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 69,
+      "memberIndices": [
+        69
+      ],
+      "score": 19.1375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 72,
+      "memberIndices": [
+        72
+      ],
+      "score": 19.1,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 78,
+      "memberIndices": [
+        78
+      ],
+      "score": 19.025,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 19.0125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 19,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 29226,
+      "usage": {
+        "inputTokens": 7620,
+        "outputTokens": 899,
+        "totalTokens": 8519
+      },
+      "estimatedCostUsd": 0.0016824000000000001,
+      "returnedCount": 20,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 26262,
+      "usage": {
+        "inputTokens": 1175,
+        "outputTokens": 1182,
+        "totalTokens": 2357
+      },
+      "estimatedCostUsd": 0.00088545,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 113041,
+      "usage": {
+        "inputTokens": 1084,
+        "outputTokens": 1157,
+        "totalTokens": 2241
+      },
+      "estimatedCostUsd": 0.0008567999999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 31134,
+      "usage": {
+        "inputTokens": 1046,
+        "outputTokens": 1220,
+        "totalTokens": 2266
+      },
+      "estimatedCostUsd": 0.0008889,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 49161,
+      "usage": {
+        "inputTokens": 1893,
+        "outputTokens": 2972,
+        "totalTokens": 4865
+      },
+      "estimatedCostUsd": 0.0020671500000000002,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 121804,
+      "usage": {
+        "inputTokens": 1772,
+        "outputTokens": 2876,
+        "totalTokens": 4648
+      },
+      "estimatedCostUsd": 0.0019914,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 29055,
+      "usage": {
+        "inputTokens": 1726,
+        "outputTokens": 2744,
+        "totalTokens": 4470
+      },
+      "estimatedCostUsd": 0.0019052999999999997,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-11-02T06:08:31.614Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.0102774,
+    "complete": true,
+    "inputTokens": 16316,
+    "outputTokens": 13050,
+    "totalTokens": 29366,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Bulgaria has its first elected female president"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Binance users withdraw $3.6bn after record crypto hack"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/nov/02/counsellors-psychotherapists-statutory-regulation-uk-professional-bodies",
+          "source": "The Guardian",
+          "title_en": "Counsellors and psychotherapists call for UK statutory regulation in ‘watershed moment’"
+        },
+        {
+          "link": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Kimi Antonelli makes history as youngest F1 champion"
+        },
+        {
+          "link": "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "South Korea to pour billions into AI"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Trump leans into Islamophobia and conspiracy in last-ditch campaign rallies"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Nine die in ‘cataclysmic’ Florida business jet crash"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/02/trump-wraps-up-campaign-rallies-in-final-push-as-democratic-divisions-shake-up-michigan",
+          "source": "Euronews",
+          "title_en": "Trump rallies in Iowa and Kansas in final push as Democratic divisions shake up Michigan"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
+          "source": "New York Times",
+          "title_en": "FIFA Quietly Paid Millions in Gianni Infantino’s Taxes"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "‘I've had people eating cat food’: Rising cost of living top of mind for US voters"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
+          "source": "New York Times",
+          "title_en": "A Lesson From Germany"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/2026/nov/02/uk-making-up-china-policy-as-it-goes-along-mps",
+          "source": "The Guardian",
+          "title_en": "UK making up China policy ‘as it goes along’, MPs warn"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Bollywood star greets fans in bulletproof glass after bomb threat"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/02/million-dollar-fish-caught-by-darwin-man-just-fishing-and-talking-at-night-with-brother",
+          "source": "The Guardian",
+          "title_en": "Million-dollar fish caught by Darwin man ‘just fishing and talking’ at night with brother"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Armed police start patrols in Sydney after Bondi Beach attack"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/02/victorian-magistrate-reprimanded-over-language-in-court-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "‘I want to slap you around a bit, too’: Victorian magistrate reprimanded over language in court"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-what-to-know-about-independent-voters-and-candidates?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "US midterms: What to know about independent voters and candidates"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/muhammad-alis-daughter-and-grandson-endorse-el-sayed?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Muhammad Ali’s daughter and grandson endorse El-Sayed"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "El-Sayed dismisses Stevens’ backing of Republican Senate candidate"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial",
+          "source": "The Guardian",
+          "title_en": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html",
+          "source": "New York Times",
+          "title_en": "After Tech Sell-Off, Investors Brace for More Market Volatility"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city"
+        },
+        {
+          "link": "https://www.dw.com/en/german-police-investigating-after-needles-found-in-halloween-candy/a-79825051?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "German police investigating after needles found in Halloween candy"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead",
+          "source": "The Guardian",
+          "title_en": "Spain train crash: US, Japan and Canada citizens among dead, authorities say"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Israeli officials say results stand as Netanyahu claims election ‘stolen’"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Democrats have high hopes for midterms, but polls have let them down before"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Why governors’ races are important in the 2026 US midterms"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Pauline Hanson and James Ashby rule out running against Nationals leader Matt Canavan in Capricornia"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Bulgaria has its first elected female president"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Binance users withdraw $3.6bn after record crypto hack"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/nov/02/counsellors-psychotherapists-statutory-regulation-uk-professional-bodies",
+          "source": "The Guardian",
+          "title_en": "Counsellors and psychotherapists call for UK statutory regulation in ‘watershed moment’"
+        },
+        {
+          "link": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Kimi Antonelli makes history as youngest F1 champion"
+        },
+        {
+          "link": "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "South Korea to pour billions into AI"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Trump leans into Islamophobia and conspiracy in last-ditch campaign rallies"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Nine die in ‘cataclysmic’ Florida business jet crash"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/02/trump-wraps-up-campaign-rallies-in-final-push-as-democratic-divisions-shake-up-michigan",
+          "source": "Euronews",
+          "title_en": "Trump rallies in Iowa and Kansas in final push as Democratic divisions shake up Michigan"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
+          "source": "New York Times",
+          "title_en": "FIFA Quietly Paid Millions in Gianni Infantino’s Taxes"
+        }
+      ],
+      "contentHashes": {
+        "ru": "6ed44c6a6bb3bc19a0ebb257fc7bc810eb6b32e448037370c5388257e45d32c8",
+        "en": "de3fbfa881f81919d2f22a482614b1d7fced675063bfcdb274bf9c7515636d65"
+      }
+    }
+  }
+}
