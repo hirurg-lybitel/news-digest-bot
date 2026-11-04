@@ -1,0 +1,1393 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.952411388888889,
+  "poolSize": 143,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "French blood banks targeted by refrigerator cyberattack",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 2,
+      "title": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html"
+    },
+    {
+      "index": 3,
+      "title": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html"
+    },
+    {
+      "index": 4,
+      "title": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html"
+    },
+    {
+      "index": 5,
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 6,
+      "title": "CVS to Split Off Drugstore Business, Ending Its Bigger-Is-Better Era",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html"
+    },
+    {
+      "index": 7,
+      "title": "US midterm elections 2026 live updates: Vance blames Iran war for Republicans’ brutal midterms losses as Democrats retake Congress",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates"
+    },
+    {
+      "index": 8,
+      "title": "Letitia James appoints ex-prosecutor to lead Cornell sexual assault investigation",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/cornell-sexual-assault-prosecutor-jacqueline-kelly"
+    },
+    {
+      "index": 9,
+      "title": "Brazil: Santa Claus School celebrates graduation at Christ the Redeemer",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/04/brazil-santa-claus-school-celebrates-graduation-at-christ-the-redeemer"
+    },
+    {
+      "index": 10,
+      "title": "A Lawsuit Says the McRib Is Lacking Something You Might Expect It to Have",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/business/mcdonalds-mcrib-lawsuit.html"
+    },
+    {
+      "index": 11,
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 12,
+      "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss"
+    },
+    {
+      "index": 13,
+      "title": "Neo-Nazi NSU attacks exposed 15 years ago",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/neo-nazi-nsu-attacks-exposed-15-years-ago/a-79857781?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 14,
+      "title": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results"
+    },
+    {
+      "index": 15,
+      "title": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/jd-vance-iran-war-midterms-election"
+    },
+    {
+      "index": 16,
+      "title": "Palestinian citizens of Israel face intimidation after election success",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss"
+    },
+    {
+      "index": 17,
+      "title": "Mike Johnson says he will not pursue House minority leader role – reports",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/mike-johnson-house-leadership"
+    },
+    {
+      "index": 18,
+      "title": "Owono enduring ‘hardest days of my life’ after De Miguel death",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/4/owono-enduring-hardest-days-of-my-life-after-de-miguel-death?traffic_source=rss"
+    },
+    {
+      "index": 19,
+      "title": "The new Congress may struggle to push a progressive agenda",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/11/4/the-new-congress-may-struggle-to-push-a-progressive-agenda?traffic_source=rss"
+    },
+    {
+      "index": 20,
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 21,
+      "title": "Stocks Rise as Democrats Flip Control of Congress",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html"
+    },
+    {
+      "index": 22,
+      "title": "UK politics: Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news"
+    },
+    {
+      "index": 23,
+      "title": "The Southwest Is Parched. Can the Recent Floodwaters Quench It?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html"
+    },
+    {
+      "index": 24,
+      "title": "Latest news bulletin | November 4th, 2026 – Evening",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/04/latest-news-bulletin-november-4th-2026-evening"
+    },
+    {
+      "index": 25,
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 26,
+      "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880"
+    },
+    {
+      "index": 27,
+      "title": "UK: Police arrest Palestine Action supporters outside Supreme Court",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/04/uk-police-arrest-palestine-action-supporters-outside-supreme-court"
+    },
+    {
+      "index": 28,
+      "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93"
+    },
+    {
+      "index": 29,
+      "title": "An 80-Cent Plastic Pouch Is Saving Thousands of Women From Dying in Childbirth",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html"
+    },
+    {
+      "index": 30,
+      "title": "'Most difficult days of my life' for keeper Owono",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 31,
+      "title": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss"
+    },
+    {
+      "index": 32,
+      "title": "The young politicians with African roots making history in the US midterms",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 33,
+      "title": "British healthcare worker with Ebola to be evacuated from DRC to UK, document shows",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows"
+    },
+    {
+      "index": 34,
+      "title": "Ukraine: Police footage captures Russian strike on Komyshuvakha shelter",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/04/ukraine-police-footage-captures-russian-strike-on-komyshuvakha-shelter"
+    },
+    {
+      "index": 35,
+      "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878"
+    },
+    {
+      "index": 36,
+      "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html"
+    },
+    {
+      "index": 37,
+      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 38,
+      "title": "Drone Boat Maker Saildrone Wins Protest Over Navy Contract",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html"
+    },
+    {
+      "index": 39,
+      "title": "Ukrainian strikes kill three in Russia’s Belgorod region",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss"
+    },
+    {
+      "index": 40,
+      "title": "Israel's president begins consultations with parties after election deadlock",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 41,
+      "title": "Kosovo: Protests and outrage after a woman was killed despite repeatedly seeking assistance from the authorities",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/kosovo-protests-and-outrage-after-a-woman-was-killed-despite-repeatedly-seeking-assistance-from-the-authorities/a-79856726?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 42,
+      "title": "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html"
+    },
+    {
+      "index": 43,
+      "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
+    },
+    {
+      "index": 44,
+      "title": "Cambridge asks Post Office inquiry barrister to lead review into death of Jason Arday",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/04/cambridge-university-asks-barrister-to-lead-jason-arday-review"
+    },
+    {
+      "index": 45,
+      "title": "BBC attempts to reassure Jewish staff after ex-producer says she faced antisemitism",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/media/2026/nov/04/bbc-attempts-reassure-jewish-staff-antisemitism-rhodri-talfan-davies"
+    },
+    {
+      "index": 46,
+      "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 47,
+      "title": "Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss"
+    },
+    {
+      "index": 48,
+      "title": "Palestine Action activists used similar tactics to the suffragettes, court told",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/04/palestine-action-tactics-suffragettes-uk-supreme-court"
+    },
+    {
+      "index": 49,
+      "title": "Spain’s deadly train crashes have damaged public confidence in the system",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/04/spains-deadly-train-crashes-have-damaged-public-trust-in-the-system"
+    },
+    {
+      "index": 50,
+      "title": "Gold for Palestine: Meet junior karate champ Mariam Bsharat",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/gold-for-palestine-meet-junior-karate-champ-mariam-bsharat/a-79851806?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 51,
+      "title": "US markets rise as Democrats sweep midterm elections",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections?traffic_source=rss"
+    },
+    {
+      "index": 52,
+      "title": "Armenia sees 'totally new global role' for South Caucasus 'as a whole'",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/04/armenia-sees-totally-new-global-role-for-south-caucasus-as-a-whole"
+    },
+    {
+      "index": 53,
+      "title": "‘We are still red,’ Florida’s first Black governor upon win",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/we-are-still-red-floridas-first-black-governor-upon-win?traffic_source=rss"
+    },
+    {
+      "index": 54,
+      "title": "Secret police files released in Hungary, 37 years after fall of communism",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 55,
+      "title": "No regrets: Trump says Iran war justified despite polls drubbing",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss"
+    },
+    {
+      "index": 56,
+      "title": "The New York Times Adds 420,000 Digital Subscribers",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/business/media/new-york-times-earnings.html"
+    },
+    {
+      "index": 57,
+      "title": "Africa's shifting role in the global drug trade",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/africa-s-shifting-role-in-the-global-drug-trade/a-79847720?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 58,
+      "title": "Could a Viral Video Save Her Mom’s Chinese Restaurant?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html"
+    },
+    {
+      "index": 59,
+      "title": "Harry Potter films turns 25 ahead of new TV series' release",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/harry-potter-films-turns-25-ahead-of-new-tv-series-release/a-79856130?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 60,
+      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 61,
+      "title": "Iranian leaders welcome US midterms, but Trump may still attack",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss"
+    },
+    {
+      "index": 62,
+      "title": "What the Democrats' midterms win means for the US economy and Trump",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 63,
+      "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss"
+    },
+    {
+      "index": 64,
+      "title": "William Nordhaus Dies; Nobel Winner Influenced Climate Policy",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html"
+    },
+    {
+      "index": 65,
+      "title": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss"
+    },
+    {
+      "index": 66,
+      "title": "ANC faces anger over poor services as South Africans vote in local elections",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
+    },
+    {
+      "index": 67,
+      "title": "EU says Montenegro on track to become bloc's next member state by 2028",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/eu-says-montenegro-on-track-to-become-bloc-s-next-member-state-by-2028/a-79855011?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 68,
+      "title": "Trump loses control of Congress",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-loses-control-of-congress?traffic_source=rss"
+    },
+    {
+      "index": 69,
+      "title": "America’s Trade Deficit Remained Elevated in September",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html"
+    },
+    {
+      "index": 70,
+      "title": "Why is the western US still counting votes after election day?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-is-the-western-us-still-counting-votes-after-election-day?traffic_source=rss"
+    },
+    {
+      "index": 71,
+      "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss"
+    },
+    {
+      "index": 72,
+      "title": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war"
+    },
+    {
+      "index": 73,
+      "title": "Everything you need to know from the US midterm elections",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 74,
+      "title": "Endangered giant burrowing frog returns to wild after tadpoles rescued from ashes of black summer fires",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/05/giant-burrowing-frog-returns-to-wild-after-tadpoles-rescued-black-summer-fires-australia"
+    },
+    {
+      "index": 75,
+      "title": "Albanese government warned it’s ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai"
+    },
+    {
+      "index": 76,
+      "title": "Australia has an especially bad inflation problem. So why are we only middle-of-the pack on the misery index?",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/nov/05/australian-economy-inflation-cost-of-living-misery-index"
+    },
+    {
+      "index": 77,
+      "title": "‘Discontent and distrust’: annual social cohesion checkup shows exactly what’s making Australia angry",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb"
+    },
+    {
+      "index": 78,
+      "title": "Muslim Votes Matter softens anti-Labor stance ahead of Victorian election in bid to defeat One Nation in at-risk seats",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/05/muslim-votes-matter-softens-anti-labor-stance-victoria-election-one-nation-ntwnfb"
+    },
+    {
+      "index": 79,
+      "title": "How big is the Republican midterms loss, and is there a silver lining?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/how-big-is-the-republican-midterms-loss-and-is-there-a-silver-lining?traffic_source=rss"
+    },
+    {
+      "index": 80,
+      "title": "Spanish Transport Minister resigns over train crash disasters",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/spanish-transport-minister-resigns-over-train-crash-disasters?traffic_source=rss"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5,
+        34,
+        43
+      ],
+      "score": 95,
+      "category": "conflict",
+      "rationale": "The deadly Russian bombing in Ukraine, resulting in significant casualties, underscores the ongoing humanitarian crisis and conflict in the region."
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14,
+        7,
+        68
+      ],
+      "score": 90,
+      "category": "politics",
+      "rationale": "The Democratic Party's historic victories in the midterm elections represent a significant shift in U.S. political power and public sentiment against the Trump administration."
+    },
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        25,
+        61
+      ],
+      "score": 85,
+      "category": "economy",
+      "rationale": "The implications of Trump's electoral defeat on oil prices and U.S. foreign policy towards Iran highlight critical economic and geopolitical concerns."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        37
+      ],
+      "score": 80,
+      "category": "technology",
+      "rationale": "The cyberattack on French blood banks poses serious risks to public health and safety, emphasizing vulnerabilities in critical infrastructure."
+    },
+    {
+      "representativeIndex": 29,
+      "memberIndices": [
+        29,
+        33
+      ],
+      "score": 78,
+      "category": "health",
+      "rationale": "The introduction of a low-cost maternal drape that significantly reduces childbirth mortality rates represents a breakthrough in global health."
+    },
+    {
+      "representativeIndex": 20,
+      "memberIndices": [
+        20,
+        51
+      ],
+      "score": 75,
+      "category": "economy",
+      "rationale": "The potential for tariff relief following the Democratic wave in the midterms could have significant economic implications for U.S.-Canada trade relations."
+    },
+    {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12,
+        15,
+        16
+      ],
+      "score": 70,
+      "category": "politics",
+      "rationale": "The questioning of the Iran war's impact on the midterm elections reflects a critical shift in U.S. foreign policy discourse."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4,
+        46
+      ],
+      "score": 65,
+      "category": "economy",
+      "rationale": "The decline in Tesla and SpaceX stocks following electoral losses highlights the intersection of politics and market performance."
+    },
+    {
+      "representativeIndex": 11,
+      "memberIndices": [
+        11,
+        49
+      ],
+      "score": 60,
+      "category": "economy",
+      "rationale": "The looming collapse of Poundland signals broader economic challenges facing retailers in the UK."
+    },
+    {
+      "representativeIndex": 8,
+      "memberIndices": [
+        8,
+        44
+      ],
+      "score": 58,
+      "category": "law",
+      "rationale": "The appointment of a prosecutor to lead a sexual assault investigation at Cornell University underscores ongoing issues of campus safety and accountability."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18,
+        30
+      ],
+      "score": 55,
+      "category": "society",
+      "rationale": "The tragic death of a young athlete following a collision raises awareness about safety in sports and the emotional toll on teammates."
+    },
+    {
+      "representativeIndex": 19,
+      "memberIndices": [
+        19,
+        22
+      ],
+      "score": 53,
+      "category": "politics",
+      "rationale": "The anticipated struggle of the new Congress to push a progressive agenda reflects the complexities of U.S. governance post-midterms."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6,
+        35
+      ],
+      "score": 50,
+      "category": "economy",
+      "rationale": "CVS's decision to split its drugstore business marks a significant shift in corporate strategy amid changing healthcare landscapes."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2
+      ],
+      "score": 48,
+      "category": "society",
+      "rationale": "The mixed reactions to the midterm elections reveal deep societal divisions and the evolving political landscape in the U.S."
+    },
+    {
+      "representativeIndex": 9,
+      "memberIndices": [
+        9,
+        50
+      ],
+      "score": 45,
+      "category": "culture",
+      "rationale": "The graduation of Santas at Christ the Redeemer highlights cultural traditions and community celebrations in Brazil."
+    },
+    {
+      "representativeIndex": 13,
+      "memberIndices": [
+        13,
+        41
+      ],
+      "score": 40,
+      "category": "society",
+      "rationale": "The ongoing discussions about the National Socialist Underground's legacy reflect societal challenges in addressing historical injustices."
+    },
+    {
+      "representativeIndex": 36,
+      "memberIndices": [
+        36,
+        72
+      ],
+      "score": 38,
+      "category": "conflict",
+      "rationale": "Iran's calls for nuclear armament following the U.S. midterms signal escalating tensions in international relations."
+    },
+    {
+      "representativeIndex": 42,
+      "memberIndices": [
+        42,
+        40
+      ],
+      "score": 35,
+      "category": "politics",
+      "rationale": "Israel's political deadlock following elections illustrates the complexities of governance in a divided political landscape."
+    },
+    {
+      "representativeIndex": 39,
+      "memberIndices": [
+        39
+      ],
+      "score": 30,
+      "category": "conflict",
+      "rationale": "Ukrainian strikes in Russia's Belgorod region highlight the ongoing military confrontations and their implications for regional stability."
+    },
+    {
+      "representativeIndex": 71,
+      "memberIndices": [
+        71
+      ],
+      "score": 28,
+      "category": "conflict",
+      "rationale": "The claim of control over strategic regions in Yemen reflects the ongoing conflict and geopolitical struggles in the Middle East."
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70,
+        73
+      ],
+      "score": 25,
+      "category": "politics",
+      "rationale": "The ongoing vote counting in the western U.S. post-election illustrates the complexities and challenges of the electoral process."
+    },
+    {
+      "representativeIndex": 62,
+      "memberIndices": [
+        62,
+        55
+      ],
+      "score": 20,
+      "category": "economy",
+      "rationale": "The economic implications of the midterm elections and their impact on Trump's policies highlight the interconnectedness of politics and economics."
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38,
+        26
+      ],
+      "score": 15,
+      "category": "technology",
+      "rationale": "The ruling in favor of a small defense contractor underscores the challenges and complexities of government contracting processes."
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 10,
+      "category": "disaster",
+      "rationale": "The resignation of Spain's Transport Minister following train crash disasters reflects accountability in governance amid public safety concerns."
+    },
+    {
+      "representativeIndex": 10,
+      "memberIndices": [
+        10
+      ],
+      "score": 19.875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        17
+      ],
+      "score": 19.7875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 21,
+      "memberIndices": [
+        21
+      ],
+      "score": 19.7375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 24,
+      "memberIndices": [
+        24
+      ],
+      "score": 19.7,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 27,
+      "memberIndices": [
+        27
+      ],
+      "score": 19.6625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 28,
+      "memberIndices": [
+        28
+      ],
+      "score": 19.65,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 31,
+      "memberIndices": [
+        31
+      ],
+      "score": 19.6125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32
+      ],
+      "score": 19.6,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 19.4375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 47,
+      "memberIndices": [
+        47
+      ],
+      "score": 19.4125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 48,
+      "memberIndices": [
+        48
+      ],
+      "score": 19.4,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 19.35,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 54,
+      "memberIndices": [
+        54
+      ],
+      "score": 19.325,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 56,
+      "memberIndices": [
+        56
+      ],
+      "score": 19.3,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 57,
+      "memberIndices": [
+        57
+      ],
+      "score": 19.2875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 19.275,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 59,
+      "memberIndices": [
+        59
+      ],
+      "score": 19.2625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60
+      ],
+      "score": 19.25,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 19.2125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64
+      ],
+      "score": 19.2,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.1875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 66,
+      "memberIndices": [
+        66
+      ],
+      "score": 19.175,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 67,
+      "memberIndices": [
+        67
+      ],
+      "score": 19.1625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 69,
+      "memberIndices": [
+        69
+      ],
+      "score": 19.1375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 74,
+      "memberIndices": [
+        74
+      ],
+      "score": 19.075,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 75,
+      "memberIndices": [
+        75
+      ],
+      "score": 19.0625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76
+      ],
+      "score": 19.05,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 77,
+      "memberIndices": [
+        77
+      ],
+      "score": 19.0375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 78,
+      "memberIndices": [
+        78
+      ],
+      "score": 19.025,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 19.0125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 16687,
+      "usage": {
+        "inputTokens": 7626,
+        "outputTokens": 1112,
+        "totalTokens": 8738
+      },
+      "estimatedCostUsd": 0.0018111,
+      "returnedCount": 24,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 10486,
+      "usage": {
+        "inputTokens": 1202,
+        "outputTokens": 1186,
+        "totalTokens": 2388
+      },
+      "estimatedCostUsd": 0.0008918999999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 12185,
+      "usage": {
+        "inputTokens": 973,
+        "outputTokens": 1270,
+        "totalTokens": 2243
+      },
+      "estimatedCostUsd": 0.00090795,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 11043,
+      "usage": {
+        "inputTokens": 1028,
+        "outputTokens": 1032,
+        "totalTokens": 2060
+      },
+      "estimatedCostUsd": 0.0007733999999999998,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 36970,
+      "usage": {
+        "inputTokens": 1881,
+        "outputTokens": 2801,
+        "totalTokens": 4682
+      },
+      "estimatedCostUsd": 0.00196275,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 16766,
+      "usage": {
+        "inputTokens": 1792,
+        "outputTokens": 1411,
+        "totalTokens": 3203
+      },
+      "estimatedCostUsd": 0.0011154000000000001,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 29793,
+      "usage": {
+        "inputTokens": 1602,
+        "outputTokens": 2643,
+        "totalTokens": 4245
+      },
+      "estimatedCostUsd": 0.0018261,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-11-04T18:03:57.039Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.0092886,
+    "complete": true,
+    "inputTokens": 16104,
+    "outputTokens": 11455,
+    "totalTokens": 27559,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Ukraine says bodycam video shows deadly Russian double-tap bombing"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results",
+          "source": "The Guardian",
+          "title_en": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
+          "source": "New York Times",
+          "title_en": "What Trump’s Midterm Defeat Means for Iran and Oil Prices"
+        },
+        {
+          "link": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "French blood banks targeted by refrigerator cyberattack"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
+          "source": "New York Times",
+          "title_en": "An 80-Cent Plastic Pouch Is Saving Thousands of Women From Dying in Childbirth"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "US midterm results a 'victory' for Canadians hopeful of tariff relief"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Presidential hopeful Vance appears to question Iran war after polls debacle"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
+          "source": "New York Times",
+          "title_en": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Poundland owner in crunch talks as retailer's collapse looms"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/04/cornell-sexual-assault-prosecutor-jacqueline-kelly",
+          "source": "The Guardian",
+          "title_en": "Letitia James appoints ex-prosecutor to lead Cornell sexual assault investigation"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/2026/11/4/owono-enduring-hardest-days-of-my-life-after-de-miguel-death?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Owono enduring ‘hardest days of my life’ after De Miguel death"
+        },
+        {
+          "link": "https://www.aljazeera.com/opinions/2026/11/4/the-new-congress-may-struggle-to-push-a-progressive-agenda?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "The new Congress may struggle to push a progressive agenda"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
+          "source": "New York Times",
+          "title_en": "CVS to Split Off Drugstore Business, Ending Its Bigger-Is-Better Era"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
+          "source": "New York Times",
+          "title_en": "Candy and Smiles on MS NOW, and Some Regrets on Fox News"
+        },
+        {
+          "link": "https://www.euronews.com/video/2026/11/04/brazil-santa-claus-school-celebrates-graduation-at-christ-the-redeemer",
+          "source": "Euronews",
+          "title_en": "Brazil: Santa Claus School celebrates graduation at Christ the Redeemer"
+        },
+        {
+          "link": "https://www.dw.com/en/neo-nazi-nsu-attacks-exposed-15-years-ago/a-79857781?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Neo-Nazi NSU attacks exposed 15 years ago"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
+          "source": "New York Times",
+          "title_en": "More Iranians Call for Nuclear Weapons After War With U.S."
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
+          "source": "New York Times",
+          "title_en": "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Ukrainian strikes kill three in Russia’s Belgorod region"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Yemeni government forces claim control of strategic al-Jawf mountain range"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-is-the-western-us-still-counting-votes-after-election-day?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Why is the western US still counting votes after election day?"
+        },
+        {
+          "link": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "What the Democrats' midterms win means for the US economy and Trump"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/04/business/mcdonalds-mcrib-lawsuit.html",
+          "source": "New York Times",
+          "title_en": "A Lawsuit Says the McRib Is Lacking Something You Might Expect It to Have"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/04/mike-johnson-house-leadership",
+          "source": "The Guardian",
+          "title_en": "Mike Johnson says he will not pursue House minority leader role – reports"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+          "source": "New York Times",
+          "title_en": "Stocks Rise as Democrats Flip Control of Congress"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html",
+          "source": "New York Times",
+          "title_en": "The Southwest Is Parched. Can the Recent Floodwaters Quench It?"
+        },
+        {
+          "link": "https://www.euronews.com/video/2026/11/04/latest-news-bulletin-november-4th-2026-evening",
+          "source": "Euronews",
+          "title_en": "Latest news bulletin | November 4th, 2026 – Evening"
+        },
+        {
+          "link": "https://www.euronews.com/video/2026/11/04/uk-police-arrest-palestine-action-supporters-outside-supreme-court",
+          "source": "Euronews",
+          "title_en": "UK: Police arrest Palestine Action supporters outside Supreme Court"
+        },
+        {
+          "link": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
+          "source": "The Guardian",
+          "title_en": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93"
+        },
+        {
+          "link": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Photos: Iran marks US embassy takeover with rallies against US, Israel"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Ukraine says bodycam video shows deadly Russian double-tap bombing"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results",
+          "source": "The Guardian",
+          "title_en": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
+          "source": "New York Times",
+          "title_en": "What Trump’s Midterm Defeat Means for Iran and Oil Prices"
+        },
+        {
+          "link": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "French blood banks targeted by refrigerator cyberattack"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
+          "source": "New York Times",
+          "title_en": "An 80-Cent Plastic Pouch Is Saving Thousands of Women From Dying in Childbirth"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "US midterm results a 'victory' for Canadians hopeful of tariff relief"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Presidential hopeful Vance appears to question Iran war after polls debacle"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
+          "source": "New York Times",
+          "title_en": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Poundland owner in crunch talks as retailer's collapse looms"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/04/cornell-sexual-assault-prosecutor-jacqueline-kelly",
+          "source": "The Guardian",
+          "title_en": "Letitia James appoints ex-prosecutor to lead Cornell sexual assault investigation"
+        }
+      ],
+      "contentHashes": {
+        "ru": "63de15a2643f48a94bdf07dc8f2383673590d6cbe2a4beac852d38b0a74e86e3",
+        "en": "1c6568dab25ad1ad0e18dc060f98a737107cf167b8dc22202352305ac42d4557"
+      }
+    }
+  }
+}
