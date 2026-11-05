@@ -1,0 +1,1443 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.956333888888889,
+  "poolSize": 107,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "Why do sausage rolls and veterinary fees vary in price across London?",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 2,
+      "title": "Beau Lamarre-Condon trial live updates: accused double murderer gives evidence in high-profile case",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb"
+    },
+    {
+      "index": 3,
+      "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race"
+    },
+    {
+      "index": 4,
+      "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss"
+    },
+    {
+      "index": 5,
+      "title": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html"
+    },
+    {
+      "index": 6,
+      "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 more years",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 7,
+      "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
+    },
+    {
+      "index": 8,
+      "title": "Republican blame game begins as Democrat’s Mississippi lead grows – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates"
+    },
+    {
+      "index": 9,
+      "title": "A Trump Reckoning",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/world/us-midterms-trump-israel.html"
+    },
+    {
+      "index": 10,
+      "title": "‘Bring it on’: Pauline Hanson to appeal Mehreen Faruqi racial discrimination ruling in high court",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/05/pauline-hanson-to-appeal-mehreen-faruqi-racial-discrimination-ruling-high-court-ntwnfb"
+    },
+    {
+      "index": 11,
+      "title": "First, France Had Riots and Protests. Now It’s Bracing for a General Strike.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html"
+    },
+    {
+      "index": 12,
+      "title": "The New Zealand Election That Could ‘Flip the Table’",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html"
+    },
+    {
+      "index": 13,
+      "title": "Voters Are Turning Out in Droves to Cut Autocrats Down to Size",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/voters-are-turning-out-in-droves-to-cut-autocrats-down-to-size.html"
+    },
+    {
+      "index": 14,
+      "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy"
+    },
+    {
+      "index": 15,
+      "title": "Protesters to join nationwide march as France braces for day of strike action",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living"
+    },
+    {
+      "index": 16,
+      "title": "Historians say King Verica persuaded Rome to invade Britain. But could Verica actually have been a queen?",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king"
+    },
+    {
+      "index": 17,
+      "title": "The Pitt and ER are similar enough for Michael Crichton’s widow’s lawsuit to proceed, court rules",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/nov/05/tv-the-pitt-er-michael-crichton-widow-lawsuit-to-proceed"
+    },
+    {
+      "index": 18,
+      "title": "‘An insult to his culture’: Italian chef sacked for not putting pineapple on pizza loses bid to get job back",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/food/2026/nov/05/italian-chef-sacked-refusing-pineapple-on-pizza-australia-fair-work"
+    },
+    {
+      "index": 19,
+      "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss"
+    },
+    {
+      "index": 20,
+      "title": "NASA's Swift space telescope plunges back to Earth in fiery demise",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/nasa-s-swift-space-telescope-plunges-back-to-earth-in-fiery-demise/a-79859805?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 21,
+      "title": "Mamdani: ‘it’s morning again in America’ after blue wave",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss"
+    },
+    {
+      "index": 22,
+      "title": "The Digital Chamber calls Sherrod Brown’s win ‘most consequential unfavorable result’ for crypto",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371"
+    },
+    {
+      "index": 23,
+      "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz"
+    },
+    {
+      "index": 24,
+      "title": "Pound rises to its highest level since the Brexit referendum",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 25,
+      "title": "Brazilian airport torn apart by violent storm",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss"
+    },
+    {
+      "index": 26,
+      "title": "Paraguay bank collapses with half of population’s savings",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss"
+    },
+    {
+      "index": 27,
+      "title": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss"
+    },
+    {
+      "index": 28,
+      "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case"
+    },
+    {
+      "index": 29,
+      "title": "Crédit Mutuel Arkéa confirms cyberattack after ZachXBT flags $133M in suspected losses",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372"
+    },
+    {
+      "index": 30,
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 31,
+      "title": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html"
+    },
+    {
+      "index": 32,
+      "title": "World record 53 red cards shown in Brazil football match",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/world-record-53-red-cards-shown-in-brazil-football-match?traffic_source=rss"
+    },
+    {
+      "index": 33,
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 34,
+      "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss"
+    },
+    {
+      "index": 35,
+      "title": "The New York Times Adds 420,000 Digital Subscribers",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/business/media/new-york-times-earnings.html"
+    },
+    {
+      "index": 36,
+      "title": "Beau Lamarre-Condon tells double murder trial he suffered ‘daily bullying’ when working for NSW police",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb"
+    },
+    {
+      "index": 37,
+      "title": "What’s delaying the US Senate election results in Mississippi and Alaska?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss"
+    },
+    {
+      "index": 38,
+      "title": "David Jones goes into administration, with store closures expected and thousands of jobs at risk",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration"
+    },
+    {
+      "index": 39,
+      "title": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html"
+    },
+    {
+      "index": 40,
+      "title": "Trump has been humbled. Now what? - podcast",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/news/audio/2026/nov/05/trump-has-been-humbled-now-what-podcast"
+    },
+    {
+      "index": 41,
+      "title": "Former Israeli generals help Palestinian olive farmers",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss"
+    },
+    {
+      "index": 42,
+      "title": "Vote counting underway in critical South Africa elections",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/vote-counting-underway-in-critical-south-africa-elections?traffic_source=rss"
+    },
+    {
+      "index": 43,
+      "title": "El Salvador’s Bukele touts military intervention in Haiti",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss"
+    },
+    {
+      "index": 44,
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 45,
+      "title": "Election deniers lose races for governor in key US swing states",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss"
+    },
+    {
+      "index": 46,
+      "title": "Elon Musk’s nearly half a billion dollars in midterms spending was a flop",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis"
+    },
+    {
+      "index": 47,
+      "title": "Israel’s Herzog accepts vote results, opens talks on forming a government",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss"
+    },
+    {
+      "index": 48,
+      "title": "Australia's oldest department store David Jones folds after 188 years",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 49,
+      "title": "Hubert Aiwanger, prominent German politician, found dead in Berlin hotel",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel"
+    },
+    {
+      "index": 50,
+      "title": "Africa’s richest man launches mega oil tank farm in Namibia",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss"
+    },
+    {
+      "index": 51,
+      "title": "Ohio’s voters tell Republicans: don’t take us for granted",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss"
+    },
+    {
+      "index": 52,
+      "title": "How Trump’s Energy Policies Helped Trigger Midterm Rout",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html"
+    },
+    {
+      "index": 53,
+      "title": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html"
+    },
+    {
+      "index": 54,
+      "title": "Democrats won Congress. But can they deliver on their promises?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss"
+    },
+    {
+      "index": 55,
+      "title": "Historic firsts redraw US political map in 2026 midterm elections",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/historic-firsts-redraw-us-political-map-in-2026-midterm-elections?traffic_source=rss"
+    },
+    {
+      "index": 56,
+      "title": "Milburn review to call for jobs ’revolution’ for young people with disabilities",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets"
+    },
+    {
+      "index": 57,
+      "title": "Interest rates expected to rise for first time in over three years",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 58,
+      "title": "Iran war live: IRGC says two oil tankers and tugboat caught fire in Hormuz",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss"
+    },
+    {
+      "index": 59,
+      "title": "UK and Caribbean to begin ‘dialogue’ within next year after slavery reparations call",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean"
+    },
+    {
+      "index": 60,
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 61,
+      "title": "Who gets to vote in the US?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss"
+    },
+    {
+      "index": 62,
+      "title": "Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss"
+    },
+    {
+      "index": 63,
+      "title": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html"
+    },
+    {
+      "index": 64,
+      "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss"
+    },
+    {
+      "index": 65,
+      "title": "Trump blames Iran war for midterms losses",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss"
+    },
+    {
+      "index": 66,
+      "title": "Bob Dylan Meets With Pope Leo",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html"
+    },
+    {
+      "index": 67,
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 68,
+      "title": "Democrats take House and Senate from Republicans in US midterm rout",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 69,
+      "title": "Beverly Whipple Has Died. She Introduced the G-Spot to the Mainstream.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/science/beverly-whipple-g-spot-dead.html"
+    },
+    {
+      "index": 70,
+      "title": "White House Delays Hearing on Fed Governor",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/business/trump-lisa-cook-fed-governor.html"
+    },
+    {
+      "index": 71,
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 72,
+      "title": "Democratic Socialists of America see record wins in US midterm elections",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss"
+    },
+    {
+      "index": 73,
+      "title": "Trump Media’s Shares Fall to Record Low After Midterms",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html"
+    },
+    {
+      "index": 74,
+      "title": "Sudan factories struggle to restart after devastating wartime losses",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss"
+    },
+    {
+      "index": 75,
+      "title": "Spain: Madrid hosts 30th Ibero-American Summit with 22-nation bloc",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/04/spain-madrid-hosts-30th-ibero-american-summit-with-22-nation-bloc"
+    },
+    {
+      "index": 76,
+      "title": "For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html"
+    },
+    {
+      "index": 77,
+      "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362"
+    },
+    {
+      "index": 78,
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 79,
+      "title": "Stocks Rise as Democrats Flip Control of Congress",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html"
+    },
+    {
+      "index": 80,
+      "title": "John Frieda, Hair-Care Mogul Who Soothed Women’s Curls, Has Died",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/04/style/john-frieda-dead.html"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        8,
+        9,
+        68,
+        72
+      ],
+      "score": 95,
+      "category": "politics",
+      "rationale": "The 2026 US midterm elections marked a significant shift in political power, with Democrats gaining control of Congress, reflecting widespread voter discontent."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5,
+        6,
+        7,
+        27,
+        30
+      ],
+      "score": 90,
+      "category": "law",
+      "rationale": "Joshua Wong's sentencing under Hong Kong's national security law highlights the ongoing suppression of democracy in the region."
+    },
+    {
+      "representativeIndex": 19,
+      "memberIndices": [
+        19,
+        4,
+        47,
+        76
+      ],
+      "score": 85,
+      "category": "world",
+      "rationale": "The implications of the US midterm elections for international relations, particularly regarding Israel and Ukraine, are profound and far-reaching."
+    },
+    {
+      "representativeIndex": 26,
+      "memberIndices": [
+        26,
+        38,
+        48
+      ],
+      "score": 80,
+      "category": "economy",
+      "rationale": "The collapse of Ueno Bank in Paraguay has sparked widespread protests and highlights the fragility of financial systems in times of crisis."
+    },
+    {
+      "representativeIndex": 11,
+      "memberIndices": [
+        11,
+        15,
+        67
+      ],
+      "score": 75,
+      "category": "society",
+      "rationale": "France's nationwide protests and strikes against rising living costs reflect deep societal unrest and economic challenges faced by citizens."
+    },
+    {
+      "representativeIndex": 25,
+      "memberIndices": [
+        25,
+        60
+      ],
+      "score": 70,
+      "category": "disaster",
+      "rationale": "The violent storm that devastated Chapecó Airport in Brazil underscores the increasing severity of weather-related disasters."
+    },
+    {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12,
+        54
+      ],
+      "score": 65,
+      "category": "politics",
+      "rationale": "The dissatisfaction with major political parties in New Zealand indicates a potential shift in the political landscape as voters seek alternatives."
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14,
+        22,
+        77
+      ],
+      "score": 60,
+      "category": "economy",
+      "rationale": "The UK’s reliance on China for critical minerals poses significant risks to its economy and national security, prompting urgent calls for policy changes."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1
+      ],
+      "score": 55,
+      "category": "society",
+      "rationale": "The variation in prices for everyday services in London highlights socioeconomic disparities within urban environments."
+    },
+    {
+      "representativeIndex": 20,
+      "memberIndices": [
+        20
+      ],
+      "score": 50,
+      "category": "technology",
+      "rationale": "NASA's Swift space telescope's demise after two decades of service marks the end of an era in space observation."
+    },
+    {
+      "representativeIndex": 43,
+      "memberIndices": [
+        43
+      ],
+      "score": 45,
+      "category": "conflict",
+      "rationale": "El Salvador's military intervention in Haiti raises concerns about regional stability and the implications of foreign military presence."
+    },
+    {
+      "representativeIndex": 49,
+      "memberIndices": [
+        49
+      ],
+      "score": 40,
+      "category": "society",
+      "rationale": "The unexpected death of a prominent politician in Germany has sparked discussions about political stability and leadership in the region."
+    },
+    {
+      "representativeIndex": 62,
+      "memberIndices": [
+        62
+      ],
+      "score": 35,
+      "category": "world",
+      "rationale": "Ethiopia's expulsion of Sudanese diplomats signals escalating tensions in the Horn of Africa, affecting regional diplomacy."
+    },
+    {
+      "representativeIndex": 50,
+      "memberIndices": [
+        50
+      ],
+      "score": 25,
+      "category": "economy",
+      "rationale": "The launch of a mega oil tank farm in Namibia by Africa's richest man signifies a strategic move to bolster regional energy security."
+    },
+    {
+      "representativeIndex": 41,
+      "memberIndices": [
+        41
+      ],
+      "score": 20,
+      "category": "society",
+      "rationale": "The collaboration between former Israeli generals and Palestinian farmers reflects a rare instance of cross-border solidarity amid ongoing conflict."
+    },
+    {
+      "representativeIndex": 78,
+      "memberIndices": [
+        78
+      ],
+      "score": 15,
+      "category": "politics",
+      "rationale": "Elon Musk's significant financial losses in the midterms illustrate the unpredictable nature of political investments."
+    },
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64
+      ],
+      "score": 10,
+      "category": "conflict",
+      "rationale": "The burning of a banner depicting Trump and Netanyahu at a rally in Tehran underscores the ongoing tensions between the US and Iran."
+    },
+    {
+      "representativeIndex": 66,
+      "memberIndices": [
+        66
+      ],
+      "score": 5,
+      "category": "culture",
+      "rationale": "Bob Dylan's meeting with Pope Leo highlights the intersection of culture and faith in contemporary discourse."
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 2,
+      "category": "culture",
+      "rationale": "The passing of hair-care mogul John Frieda marks the end of an influential era in beauty and personal care."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2
+      ],
+      "score": 19.975,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 10,
+      "memberIndices": [
+        10
+      ],
+      "score": 19.875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 13,
+      "memberIndices": [
+        13
+      ],
+      "score": 19.8375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 16,
+      "memberIndices": [
+        16
+      ],
+      "score": 19.8,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        17
+      ],
+      "score": 19.7875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18
+      ],
+      "score": 19.775,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 21,
+      "memberIndices": [
+        21
+      ],
+      "score": 19.7375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 24,
+      "memberIndices": [
+        24
+      ],
+      "score": 19.7,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 28,
+      "memberIndices": [
+        28
+      ],
+      "score": 19.65,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 29,
+      "memberIndices": [
+        29
+      ],
+      "score": 19.6375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 31,
+      "memberIndices": [
+        31
+      ],
+      "score": 19.6125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32
+      ],
+      "score": 19.6,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 33,
+      "memberIndices": [
+        33
+      ],
+      "score": 19.5875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 34,
+      "memberIndices": [
+        34
+      ],
+      "score": 19.575,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 35,
+      "memberIndices": [
+        35
+      ],
+      "score": 19.5625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 36,
+      "memberIndices": [
+        36
+      ],
+      "score": 19.55,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 37,
+      "memberIndices": [
+        37
+      ],
+      "score": 19.5375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 39,
+      "memberIndices": [
+        39
+      ],
+      "score": 19.5125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 40,
+      "memberIndices": [
+        40
+      ],
+      "score": 19.5,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 42,
+      "memberIndices": [
+        42
+      ],
+      "score": 19.475,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 44,
+      "memberIndices": [
+        44
+      ],
+      "score": 19.45,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 19.4375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46
+      ],
+      "score": 19.425,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 51,
+      "memberIndices": [
+        51
+      ],
+      "score": 19.3625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 19.35,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 19.3125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 56,
+      "memberIndices": [
+        56
+      ],
+      "score": 19.3,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 57,
+      "memberIndices": [
+        57
+      ],
+      "score": 19.2875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 19.275,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 59,
+      "memberIndices": [
+        59
+      ],
+      "score": 19.2625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 61,
+      "memberIndices": [
+        61
+      ],
+      "score": 19.2375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 19.2125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.1875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 69,
+      "memberIndices": [
+        69
+      ],
+      "score": 19.1375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70
+      ],
+      "score": 19.125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 71,
+      "memberIndices": [
+        71
+      ],
+      "score": 19.1125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 73,
+      "memberIndices": [
+        73
+      ],
+      "score": 19.0875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 74,
+      "memberIndices": [
+        74
+      ],
+      "score": 19.075,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 75,
+      "memberIndices": [
+        75
+      ],
+      "score": 19.0625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 19.0125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 11274,
+      "usage": {
+        "inputTokens": 7376,
+        "outputTokens": 922,
+        "totalTokens": 8298
+      },
+      "estimatedCostUsd": 0.0016596,
+      "returnedCount": 20,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 14598,
+      "usage": {
+        "inputTokens": 1289,
+        "outputTokens": 1225,
+        "totalTokens": 2514
+      },
+      "estimatedCostUsd": 0.00092835,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 14850,
+      "usage": {
+        "inputTokens": 1178,
+        "outputTokens": 1222,
+        "totalTokens": 2400
+      },
+      "estimatedCostUsd": 0.0009098999999999998,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 15839,
+      "usage": {
+        "inputTokens": 1105,
+        "outputTokens": 1315,
+        "totalTokens": 2420
+      },
+      "estimatedCostUsd": 0.00095475,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 24840,
+      "usage": {
+        "inputTokens": 2038,
+        "outputTokens": 2686,
+        "totalTokens": 4724
+      },
+      "estimatedCostUsd": 0.0019173,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 26660,
+      "usage": {
+        "inputTokens": 1881,
+        "outputTokens": 2778,
+        "totalTokens": 4659
+      },
+      "estimatedCostUsd": 0.0019489499999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 31269,
+      "usage": {
+        "inputTokens": 1923,
+        "outputTokens": 2782,
+        "totalTokens": 4705
+      },
+      "estimatedCostUsd": 0.00195765,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-11-05T06:04:06.231Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.010276500000000001,
+    "complete": true,
+    "inputTokens": 16790,
+    "outputTokens": 12930,
+    "totalTokens": 29720,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+          "source": "The Guardian",
+          "title_en": "US midterm elections 2026: Democrats eye historic upset in Mississippi Senate race"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
+          "source": "New York Times",
+          "title_en": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Paraguay bank collapses with half of population’s savings"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
+          "source": "New York Times",
+          "title_en": "First, France Had Riots and Protests. Now It’s Bracing for a General Strike."
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Brazilian airport torn apart by violent storm"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
+          "source": "New York Times",
+          "title_en": "The New Zealand Election That Could ‘Flip the Table’"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+          "source": "The Guardian",
+          "title_en": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Why do sausage rolls and veterinary fees vary in price across London?"
+        },
+        {
+          "link": "https://www.dw.com/en/nasa-s-swift-space-telescope-plunges-back-to-earth-in-fiery-demise/a-79859805?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "NASA's Swift space telescope plunges back to Earth in fiery demise"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Bukele touts military intervention in Haiti"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel",
+          "source": "The Guardian",
+          "title_en": "Hubert Aiwanger found dead in Berlin hotel"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Ethiopia expels 6 Sudan diplomats, orders closure of consulate"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Africa’s richest man launches mega oil tank farm in Namibia"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Former Israeli generals help Palestinian olive farmers"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Beau Lamarre-Condon trial updates: accused double murderer gives evidence"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/05/pauline-hanson-to-appeal-mehreen-faruqi-racial-discrimination-ruling-high-court-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Pauline Hanson to appeal racial discrimination ruling in high court"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/05/world/europe/voters-are-turning-out-in-droves-to-cut-autocrats-down-to-size.html",
+          "source": "New York Times",
+          "title_en": "Voters are turning out in droves to cut autocrats down to size"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king",
+          "source": "The Guardian",
+          "title_en": "Could Verica actually have been a queen?"
+        },
+        {
+          "link": "https://www.theguardian.com/tv-and-radio/2026/nov/05/tv-the-pitt-er-michael-crichton-widow-lawsuit-to-proceed",
+          "source": "The Guardian",
+          "title_en": "Court rules The Pitt and ER are similar enough for lawsuit to proceed"
+        },
+        {
+          "link": "https://www.theguardian.com/food/2026/nov/05/italian-chef-sacked-refusing-pineapple-on-pizza-australia-fair-work",
+          "source": "The Guardian",
+          "title_en": "Italian chef sacked for refusing to put pineapple on pizza"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Mamdani: ‘it’s morning again in America’ after blue wave"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+          "source": "The Guardian",
+          "title_en": "South Korea to expand naval operations closer to strait of Hormuz"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Pound rises to its highest level since the Brexit referendum"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+          "source": "The Guardian",
+          "title_en": "Hong Kong activist Joshua Wong sentenced to 10 years in prison in national security case"
+        },
+        {
+          "link": "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372",
+          "source": "The Block",
+          "title_en": "Crédit Mutuel Arkéa confirms cyberattack after $133M in suspected losses"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
+          "source": "New York Times",
+          "title_en": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/world-record-53-red-cards-shown-in-brazil-football-match?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "World record 53 red cards shown in Brazil football match"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Vance walks Trump tightrope with scathing election critique blaming Iran war"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+          "source": "The Guardian",
+          "title_en": "US midterm elections 2026: Democrats eye historic upset in Mississippi Senate race"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
+          "source": "New York Times",
+          "title_en": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Paraguay bank collapses with half of population’s savings"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
+          "source": "New York Times",
+          "title_en": "First, France Had Riots and Protests. Now It’s Bracing for a General Strike."
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Brazilian airport torn apart by violent storm"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
+          "source": "New York Times",
+          "title_en": "The New Zealand Election That Could ‘Flip the Table’"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+          "source": "The Guardian",
+          "title_en": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Why do sausage rolls and veterinary fees vary in price across London?"
+        },
+        {
+          "link": "https://www.dw.com/en/nasa-s-swift-space-telescope-plunges-back-to-earth-in-fiery-demise/a-79859805?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "NASA's Swift space telescope plunges back to Earth in fiery demise"
+        }
+      ],
+      "contentHashes": {
+        "ru": "27726f95aec50c867555c6bf302408b12bea5c756c121942cea8b6632f7e8689",
+        "en": "ab00c5a033883f4d97fea91c0cbce7fc7b38022a29546dd1ee3423ffc8dd2ab3"
+      }
+    }
+  }
+}
