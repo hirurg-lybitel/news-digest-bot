@@ -1,0 +1,1398 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.931109166666667,
+  "poolSize": 98,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
+    },
+    {
+      "index": 2,
+      "title": "Houthis report 25 killed in Yemen strikes",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss"
+    },
+    {
+      "index": 3,
+      "title": "A ‘Chaotic Race’ for the World’s Top Diplomat",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html"
+    },
+    {
+      "index": 4,
+      "title": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+    },
+    {
+      "index": 5,
+      "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss"
+    },
+    {
+      "index": 6,
+      "title": "Ousted Paraguayan president appears before prosecutors",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse"
+    },
+    {
+      "index": 7,
+      "title": "Jerusalem Daily: Heavy rains flood Gaza",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss"
+    },
+    {
+      "index": 8,
+      "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html"
+    },
+    {
+      "index": 9,
+      "title": "Latest news bulletin | November 7th, 2026 – Evening",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-evening"
+    },
+    {
+      "index": 10,
+      "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights"
+    },
+    {
+      "index": 11,
+      "title": "Valencia vs Real Madrid LIVE: La Liga",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss"
+    },
+    {
+      "index": 12,
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 13,
+      "title": "Gunman Opens Fire in Krakow, Killing at Least 5, Polish Police Say",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html"
+    },
+    {
+      "index": 14,
+      "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984"
+    },
+    {
+      "index": 15,
+      "title": "Three teenagers arrested after 17-year-old injured in Gloucester sword attack",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured"
+    },
+    {
+      "index": 16,
+      "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html"
+    },
+    {
+      "index": 17,
+      "title": "Israel builds 90km network of military roads across southern Lebanon",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss"
+    },
+    {
+      "index": 18,
+      "title": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 19,
+      "title": "Guatemalan lawmaker and three police officers killed in armed attack",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss"
+    },
+    {
+      "index": 20,
+      "title": "Hundreds march in Pau, France against high living costs",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss"
+    },
+    {
+      "index": 21,
+      "title": "Five killed and at least 10 injured in Krakow shooting",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss"
+    },
+    {
+      "index": 22,
+      "title": "No clear winner after tight New Zealand general election",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 23,
+      "title": "At least 6 killed in shooting in Polish city of Krakow, police say",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 24,
+      "title": "Iran’s IRGC says building underground sites for weapons production, storage",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss"
+    },
+    {
+      "index": 25,
+      "title": "Trump’s new chief of staff Stephen Miller says he ‘saved America’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss"
+    },
+    {
+      "index": 26,
+      "title": "At least five people killed in shooting in Poland’s Krakow",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss"
+    },
+    {
+      "index": 27,
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 28,
+      "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty"
+    },
+    {
+      "index": 29,
+      "title": "Journalism and AI: Who owns the news?",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 30,
+      "title": "National Trust votes to seek banking partner more in tune with its environmental policies",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies"
+    },
+    {
+      "index": 31,
+      "title": "Vetting candidates is a tricky process but Reform can’t seem to get it right",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle"
+    },
+    {
+      "index": 32,
+      "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa"
+    },
+    {
+      "index": 33,
+      "title": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children"
+    },
+    {
+      "index": 34,
+      "title": "How Cardiologists’ High Hopes for Two Drugs Were Dashed",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html"
+    },
+    {
+      "index": 35,
+      "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 36,
+      "title": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss"
+    },
+    {
+      "index": 37,
+      "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss"
+    },
+    {
+      "index": 38,
+      "title": "Still on the President’s Agenda: Daylight Saving Time",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/science/donald-trump-daylight-saving-time.html"
+    },
+    {
+      "index": 39,
+      "title": "Lonnie Thompson Has Died. He Dodged Avalanches to Preserve Climate History.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/science/lonnie-thompson-dead.html"
+    },
+    {
+      "index": 40,
+      "title": "After victory in the midterms, what next for US Democrats?",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 41,
+      "title": "Italy's Meloni blames pro-Russian hackers for cyberattack on minister",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 42,
+      "title": "New Zealand’s prime minister says election is ‘too close to call’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss"
+    },
+    {
+      "index": 43,
+      "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss"
+    },
+    {
+      "index": 44,
+      "title": "Yemen: 22 killed in strike near Sanaa, Houthis say",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 45,
+      "title": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+    },
+    {
+      "index": 46,
+      "title": "‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss"
+    },
+    {
+      "index": 47,
+      "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss"
+    },
+    {
+      "index": 48,
+      "title": "Gaza displacement camps collapse under rainwater",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss"
+    },
+    {
+      "index": 49,
+      "title": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html"
+    },
+    {
+      "index": 50,
+      "title": "New Zealand election coalition talks will likely take weeks – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls"
+    },
+    {
+      "index": 51,
+      "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss"
+    },
+    {
+      "index": 52,
+      "title": "Al Jazeera tries out martial art wushu at Youth Olympics",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/al-jazeera-tries-out-martial-art-wushu-at-youth-olympics?traffic_source=rss"
+    },
+    {
+      "index": 53,
+      "title": "Heavy rains flood displacement camps across Gaza",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza?traffic_source=rss"
+    },
+    {
+      "index": 54,
+      "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+    },
+    {
+      "index": 55,
+      "title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms"
+    },
+    {
+      "index": 56,
+      "title": "Court rules against Home Office in asylum seeker kidnapping case",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office"
+    },
+    {
+      "index": 57,
+      "title": "Law Firms Have Malpractice Insurance. Should Their A.I. Agents?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html"
+    },
+    {
+      "index": 58,
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 59,
+      "title": "This Israeli Vows to Oust Netanyahu. Here’s How.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html"
+    },
+    {
+      "index": 60,
+      "title": "Pro-Russian hackers leak Italian foreign minister’s data on dark web",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss"
+    },
+    {
+      "index": 61,
+      "title": "Atletico Madrid vs Barcelona: La Liga – predictions, team news, lineups",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/7/atletico-madrid-barcelona-la-liga-prediction-team-news-lineups-preview?traffic_source=rss"
+    },
+    {
+      "index": 62,
+      "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss"
+    },
+    {
+      "index": 63,
+      "title": "Four things we learned this week about 2028 White House race",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 64,
+      "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss"
+    },
+    {
+      "index": 65,
+      "title": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html"
+    },
+    {
+      "index": 66,
+      "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study"
+    },
+    {
+      "index": 67,
+      "title": "Florida Republicans survived the ‘blue wave’, but find themselves on shaky ground",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/07/florida-republicans-midterm-elections"
+    },
+    {
+      "index": 68,
+      "title": "New Zealand election too close to call with over 95% of votes counted",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 69,
+      "title": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran"
+    },
+    {
+      "index": 70,
+      "title": "US offers $20 million reward and 'possible relocation' for information on 'Iran’s nuclear program'",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/07/us-offers-20-million-reward-and-possible-relocation-for-information-on-irans-nuclear-progr"
+    },
+    {
+      "index": 71,
+      "title": "Germany hopes to host world ice hockey championship — without Russia",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 72,
+      "title": "Latest news bulletin | November 7th, 2026 – Midday",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-midday"
+    },
+    {
+      "index": 73,
+      "title": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html"
+    },
+    {
+      "index": 74,
+      "title": "France braces for new round of Yellow Vest, student protests",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/france-braces-for-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 75,
+      "title": "Pedro Alliana sworn in as Paraguay president after Santiago Peña's impeachment",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment"
+    },
+    {
+      "index": 76,
+      "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html"
+    },
+    {
+      "index": 77,
+      "title": "Why Are There Protests in France?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/article/france-student-protests-why.html"
+    },
+    {
+      "index": 78,
+      "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html"
+    },
+    {
+      "index": 79,
+      "title": "Jeffrey Wigand, Who Blew the Whistle on Big Tobacco, Takes a Lot of Calls",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html"
+    },
+    {
+      "index": 80,
+      "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        4,
+        13,
+        21,
+        23
+      ],
+      "score": 95,
+      "category": "conflict",
+      "rationale": "The tragic mass shooting in Kraków, resulting in multiple fatalities and injuries, represents a significant public safety crisis in Poland."
+    },
+    {
+      "representativeIndex": 16,
+      "memberIndices": [
+        2,
+        16,
+        44
+      ],
+      "score": 90,
+      "category": "conflict",
+      "rationale": "The ongoing conflict in Yemen, highlighted by recent airstrikes causing numerous casualties, underscores the severe humanitarian crisis in the region."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6,
+        75
+      ],
+      "score": 85,
+      "category": "politics",
+      "rationale": "The impeachment of Paraguayan President Santiago Peña amid a banking crisis marks a pivotal moment in Paraguayan politics."
+    },
+    {
+      "representativeIndex": 22,
+      "memberIndices": [
+        22,
+        42,
+        45,
+        49
+      ],
+      "score": 80,
+      "category": "politics",
+      "rationale": "New Zealand's recent election results, showing no clear winner, indicate a significant political shift and potential instability."
+    },
+    {
+      "representativeIndex": 10,
+      "memberIndices": [
+        10,
+        30
+      ],
+      "score": 75,
+      "category": "society",
+      "rationale": "The closure of midwife-led maternity units in England raises critical concerns about women's rights and healthcare access."
+    },
+    {
+      "representativeIndex": 8,
+      "memberIndices": [
+        8,
+        74,
+        77
+      ],
+      "score": 70,
+      "category": "society",
+      "rationale": "The resurgence of protests in France against high living costs reflects widespread public discontent and social unrest."
+    },
+    {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12,
+        60
+      ],
+      "score": 65,
+      "category": "technology",
+      "rationale": "The cyberattack on Italy's foreign minister highlights the growing threat of cyber warfare and its implications for national security."
+    },
+    {
+      "representativeIndex": 39,
+      "memberIndices": [
+        39,
+        34
+      ],
+      "score": 60,
+      "category": "science",
+      "rationale": "The death of climate scientist Lonnie Thompson, who significantly contributed to climate research, marks a loss for environmental science."
+    },
+    {
+      "representativeIndex": 54,
+      "memberIndices": [
+        54,
+        58
+      ],
+      "score": 55,
+      "category": "disaster",
+      "rationale": "The damage to Ukraine's power infrastructure from Russian strikes amid ongoing conflict poses serious risks to civilian safety and energy security."
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14,
+        62
+      ],
+      "score": 50,
+      "category": "economy",
+      "rationale": "The significant outflow from Bitcoin ETFs signals potential instability in cryptocurrency markets, impacting investor confidence."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5,
+        19
+      ],
+      "score": 45,
+      "category": "conflict",
+      "rationale": "The story of a Lebanese footballer overcoming injuries from an Israeli strike highlights the personal impacts of ongoing regional conflicts."
+    },
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        40
+      ],
+      "score": 40,
+      "category": "politics",
+      "rationale": "The contest for the next U.N. Secretary-General reflects the complexities of international diplomacy and global governance."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18,
+        36
+      ],
+      "score": 35,
+      "category": "culture",
+      "rationale": "The large turnout for Pope Leo XIV's Mass in Uruguay showcases the enduring influence of religion in contemporary society."
+    },
+    {
+      "representativeIndex": 11,
+      "memberIndices": [
+        11,
+        61
+      ],
+      "score": 30,
+      "category": "sport",
+      "rationale": "The La Liga match between Valencia and Real Madrid draws significant public interest, reflecting the cultural importance of football."
+    },
+    {
+      "representativeIndex": 56,
+      "memberIndices": [
+        56,
+        70
+      ],
+      "score": 20,
+      "category": "law",
+      "rationale": "The court ruling against the Home Office in a trafficking case underscores ongoing legal challenges in the UK regarding asylum policies."
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38,
+        69
+      ],
+      "score": 15,
+      "category": "politics",
+      "rationale": "The ongoing discussions around Daylight Saving Time reflect broader societal debates about time management and public policy."
+    },
+    {
+      "representativeIndex": 66,
+      "memberIndices": [
+        66,
+        57
+      ],
+      "score": 10,
+      "category": "health",
+      "rationale": "New research linking chemicals in food packaging to health risks raises important questions about consumer safety."
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76
+      ],
+      "score": 5,
+      "category": "disaster",
+      "rationale": "The impact of bomb threats and cyberattacks in Europe illustrates the growing unease in everyday life due to security threats."
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 0,
+      "category": "economy",
+      "rationale": "The approval of Nvidia chips for Chinese firms raises concerns about national security and economic implications."
+    },
+    {
+      "representativeIndex": 7,
+      "memberIndices": [
+        7
+      ],
+      "score": 19.9125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 9,
+      "memberIndices": [
+        9
+      ],
+      "score": 19.8875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 15,
+      "memberIndices": [
+        15
+      ],
+      "score": 19.8125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        17
+      ],
+      "score": 19.7875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 20,
+      "memberIndices": [
+        20
+      ],
+      "score": 19.75,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 24,
+      "memberIndices": [
+        24
+      ],
+      "score": 19.7,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 25,
+      "memberIndices": [
+        25
+      ],
+      "score": 19.6875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 26,
+      "memberIndices": [
+        26
+      ],
+      "score": 19.675,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 27,
+      "memberIndices": [
+        27
+      ],
+      "score": 19.6625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 28,
+      "memberIndices": [
+        28
+      ],
+      "score": 19.65,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 29,
+      "memberIndices": [
+        29
+      ],
+      "score": 19.6375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 31,
+      "memberIndices": [
+        31
+      ],
+      "score": 19.6125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32
+      ],
+      "score": 19.6,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 33,
+      "memberIndices": [
+        33
+      ],
+      "score": 19.5875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 35,
+      "memberIndices": [
+        35
+      ],
+      "score": 19.5625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 37,
+      "memberIndices": [
+        37
+      ],
+      "score": 19.5375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 41,
+      "memberIndices": [
+        41
+      ],
+      "score": 19.4875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 43,
+      "memberIndices": [
+        43
+      ],
+      "score": 19.4625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46
+      ],
+      "score": 19.425,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 47,
+      "memberIndices": [
+        47
+      ],
+      "score": 19.4125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 48,
+      "memberIndices": [
+        48
+      ],
+      "score": 19.4,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 50,
+      "memberIndices": [
+        50
+      ],
+      "score": 19.375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 51,
+      "memberIndices": [
+        51
+      ],
+      "score": 19.3625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 19.35,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 19.3125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 59,
+      "memberIndices": [
+        59
+      ],
+      "score": 19.2625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 19.2125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64
+      ],
+      "score": 19.2,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.1875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 67,
+      "memberIndices": [
+        67
+      ],
+      "score": 19.1625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 68,
+      "memberIndices": [
+        68
+      ],
+      "score": 19.15,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 71,
+      "memberIndices": [
+        71
+      ],
+      "score": 19.1125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 72,
+      "memberIndices": [
+        72
+      ],
+      "score": 19.1,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 73,
+      "memberIndices": [
+        73
+      ],
+      "score": 19.0875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 78,
+      "memberIndices": [
+        78
+      ],
+      "score": 19.025,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 19.0125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 15738,
+      "usage": {
+        "inputTokens": 7347,
+        "outputTokens": 914,
+        "totalTokens": 8261
+      },
+      "estimatedCostUsd": 0.00165045,
+      "returnedCount": 20,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 25124,
+      "usage": {
+        "inputTokens": 1315,
+        "outputTokens": 1302,
+        "totalTokens": 2617
+      },
+      "estimatedCostUsd": 0.0009784499999999998,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 26669,
+      "usage": {
+        "inputTokens": 1015,
+        "outputTokens": 1135,
+        "totalTokens": 2150
+      },
+      "estimatedCostUsd": 0.00083325,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 15702,
+      "usage": {
+        "inputTokens": 1166,
+        "outputTokens": 1123,
+        "totalTokens": 2289
+      },
+      "estimatedCostUsd": 0.0008487,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 40064,
+      "usage": {
+        "inputTokens": 2129,
+        "outputTokens": 3047,
+        "totalTokens": 5176
+      },
+      "estimatedCostUsd": 0.0021475500000000002,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 32597,
+      "usage": {
+        "inputTokens": 1716,
+        "outputTokens": 2557,
+        "totalTokens": 4273
+      },
+      "estimatedCostUsd": 0.0017916,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 38542,
+      "usage": {
+        "inputTokens": 1799,
+        "outputTokens": 3093,
+        "totalTokens": 4892
+      },
+      "estimatedCostUsd": 0.00212565,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-11-07T18:04:58.280Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.01037565,
+    "complete": true,
+    "inputTokens": 16487,
+    "outputTokens": 13171,
+    "totalTokens": 29658,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+          "source": "The Guardian",
+          "title_en": "Kraków shooting latest updates: six killed and more than a dozen injured, police say"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+          "source": "New York Times",
+          "title_en": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War"
+        },
+        {
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+          "source": "NPR",
+          "title_en": "Ousted Paraguayan president appears before prosecutors"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "No clear winner after tight New Zealand general election"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+          "source": "The Guardian",
+          "title_en": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
+          "source": "New York Times",
+          "title_en": "Another Day of France’s Protests Unfurl During an Autumn of Discontent"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Italian foreign minister says hackers leaked his personal data"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/06/science/lonnie-thompson-dead.html",
+          "source": "New York Times",
+          "title_en": "Lonnie Thompson Has Died. He Dodged Avalanches to Preserve Climate History."
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+          "source": "The Guardian",
+          "title_en": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid"
+        },
+        {
+          "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+          "source": "The Block",
+          "title_en": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Lebanese footballer refuses to give up after injuries from Israeli strike"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
+          "source": "New York Times",
+          "title_en": "A ‘Chaotic Race’ for the World’s Top Diplomat"
+        },
+        {
+          "link": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Valencia vs Real Madrid LIVE: La Liga"
+        },
+        {
+          "link": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
+          "source": "The Guardian",
+          "title_en": "Court rules against Home Office in asylum seeker kidnapping case"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Jerusalem Daily: Heavy rains flood Gaza"
+        },
+        {
+          "link": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-evening",
+          "source": "Euronews",
+          "title_en": "Latest news bulletin | November 7th, 2026 – Evening"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
+          "source": "The Guardian",
+          "title_en": "Three teenagers arrested after 17-year-old injured in Gloucester sword attack"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Israel builds 90km network of military roads across southern Lebanon"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Hundreds march in Pau, France against high living costs"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Iran’s IRGC says building underground sites for weapons production, storage"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Trump’s new chief of staff Stephen Miller says he ‘saved America’"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "At least five people killed in shooting in Poland’s Krakow"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
+          "source": "The Guardian",
+          "title_en": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president"
+        },
+        {
+          "link": "https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Journalism and AI: Who owns the news?"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
+          "source": "The Guardian",
+          "title_en": "Vetting candidates is a tricky process but Reform can’t seem to get it right"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
+          "source": "The Guardian",
+          "title_en": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children",
+          "source": "The Guardian",
+          "title_en": "‘Life-changing’: parents welcome £10m UK play centre for disabled children"
+        },
+        {
+          "link": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+          "source": "The Guardian",
+          "title_en": "Kraków shooting latest updates: six killed and more than a dozen injured, police say"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+          "source": "New York Times",
+          "title_en": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War"
+        },
+        {
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+          "source": "NPR",
+          "title_en": "Ousted Paraguayan president appears before prosecutors"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "No clear winner after tight New Zealand general election"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+          "source": "The Guardian",
+          "title_en": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
+          "source": "New York Times",
+          "title_en": "Another Day of France’s Protests Unfurl During an Autumn of Discontent"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Italian foreign minister says hackers leaked his personal data"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/06/science/lonnie-thompson-dead.html",
+          "source": "New York Times",
+          "title_en": "Lonnie Thompson Has Died. He Dodged Avalanches to Preserve Climate History."
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+          "source": "The Guardian",
+          "title_en": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid"
+        },
+        {
+          "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+          "source": "The Block",
+          "title_en": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June"
+        }
+      ],
+      "contentHashes": {
+        "ru": "b12452cd2510a7dddb9240dbe056df8ff1e165bc951cdb8b58b68f22d04b916b",
+        "en": "5a3769070f4487a44b0bbca51c82fc32fe177f8a28374140b92f3d7d5828f03b"
+      }
+    }
+  }
+}
