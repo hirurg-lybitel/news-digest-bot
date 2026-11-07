@@ -1,707 +1,703 @@
 {
   "model": "gpt-4o-mini",
-  "periodHours": 11.948353888888889,
-  "poolSize": 170,
+  "periodHours": 11.930631111111111,
+  "poolSize": 95,
   "candidateCount": 80,
   "maxStories": 30,
   "telegramTopN": 10,
   "candidates": [
     {
       "index": 1,
+      "title": "President Herzog faces key choice as Israel struggles to form government",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss"
+    },
+    {
+      "index": 2,
+      "title": "Russia launches missile attack on Kyiv, injuring residents",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
+    },
+    {
+      "index": 3,
+      "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss"
+    },
+    {
+      "index": 4,
+      "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html"
+    },
+    {
+      "index": 5,
+      "title": "Another Day of Protests Is Planned in France’s Autumn of Discontent",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html"
+    },
+    {
+      "index": 6,
+      "title": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere"
+    },
+    {
+      "index": 7,
+      "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss"
+    },
+    {
+      "index": 8,
+      "title": "US asks China to uphold Busan trade deal commitments",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 9,
+      "title": "Los Angeles reacts to historic mayoral election",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss"
+    },
+    {
+      "index": 10,
+      "title": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss"
+    },
+    {
+      "index": 11,
+      "title": "Trump confirms new US strikes on Iran’s Qeshm Island",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss"
+    },
+    {
+      "index": 12,
+      "title": "Paraguay's President Santiago Peña impeached and arrested",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 13,
+      "title": "How the US midterm elections reflected resistance to data centres",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss"
+    },
+    {
+      "index": 14,
+      "title": "Cornell faculty declares 'no confidence' in university leadership",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/cornell-faculty-declares-no-confidence-in-university-leadership/a-79882895?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 15,
+      "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says"
+    },
+    {
+      "index": 16,
+      "title": "Democrats blast Trump’s decision to make Stephen Miller his chief of staff as president defends picking loyal ‘MVP’ - as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates"
+    },
+    {
+      "index": 17,
+      "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html"
+    },
+    {
+      "index": 18,
+      "title": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html"
+    },
+    {
+      "index": 19,
+      "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 20,
+      "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
+    },
+    {
+      "index": 21,
+      "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss"
+    },
+    {
+      "index": 22,
+      "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 23,
+      "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump"
+    },
+    {
+      "index": 24,
+      "title": "EU prosecutor office investigates fatal train crash in Spain",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss"
+    },
+    {
+      "index": 25,
+      "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html"
+    },
+    {
+      "index": 26,
+      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 27,
+      "title": "The young Somali woman changing how the world sees Mogadishu",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 28,
+      "title": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration"
+    },
+    {
+      "index": 29,
+      "title": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb"
+    },
+    {
+      "index": 30,
+      "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss"
+    },
+    {
+      "index": 31,
+      "title": "Man in custody after being found in vehicle near White House with guns",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump"
+    },
+    {
+      "index": 32,
+      "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss"
+    },
+    {
+      "index": 33,
+      "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss"
+    },
+    {
+      "index": 34,
+      "title": "Russell Brand suspected to have attacked at least 10 other women",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women"
+    },
+    {
+      "index": 35,
+      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss"
+    },
+    {
+      "index": 36,
+      "title": "New Zealanders head to polls on final day of voting",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss"
+    },
+    {
+      "index": 37,
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 38,
+      "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss"
+    },
+    {
+      "index": 39,
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 40,
+      "title": "Paraguay: President Santiago Pena under house arrest over bank crisis",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 41,
+      "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss"
+    },
+    {
+      "index": 42,
+      "title": "When a single vowel stands in the path to victory, the stakes could not be higher for these spelling bee champions",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/07/when-a-single-vowel-stands-in-the-path-to-victory-the-stakes-could-not-be-higher-for-these-spelling-bee-champions"
+    },
+    {
+      "index": 43,
+      "title": "US urges China to honour Busan trade deal commitments",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss"
+    },
+    {
+      "index": 44,
+      "title": "Pope Leo arrives in Uruguay at start of South America tour",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 45,
       "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
       "source": "New York Times",
       "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html"
     },
     {
-      "index": 2,
-      "title": "Iran war: Gulf tanker attacked, 1 seaferer killed",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 3,
-      "title": "Prince, the pope, and autumn 2026: purple is hot this season",
+      "index": 46,
+      "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/fashion/2026/nov/06/prince-pope-autumn-2026-purple-hot-this-season"
+      "link": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation"
     },
     {
-      "index": 4,
-      "title": "US midterm elections 2026 live: Democrats inch ahead in Mississippi Senate count; another Trump loyalist resigns from justice department",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates"
-    },
-    {
-      "index": 5,
-      "title": "How Paraguay’s Ueno collapse is only its latest banking crisis",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss"
-    },
-    {
-      "index": 6,
-      "title": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested"
-    },
-    {
-      "index": 7,
-      "title": "Trump will be blocked from putting ‘rightwinger’ on supreme court, Schumer says",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/06/trump-rightwing-supreme-court-justice"
-    },
-    {
-      "index": 8,
-      "title": "US city votes to divest from Israel",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss"
-    },
-    {
-      "index": 9,
-      "title": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html"
-    },
-    {
-      "index": 10,
-      "title": "Tanzania’s Opposition Leader Gets a Four-Year Sentence",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html"
-    },
-    {
-      "index": 11,
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 12,
-      "title": "Switzerland: Giant banner targets Big Tech outside data centre site",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/video/2026/11/06/switzerland-giant-banner-targets-big-tech-outside-data-centre-site"
-    },
-    {
-      "index": 13,
-      "title": "U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html"
-    },
-    {
-      "index": 14,
-      "title": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html"
-    },
-    {
-      "index": 15,
-      "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-    },
-    {
-      "index": 16,
-      "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html"
-    },
-    {
-      "index": 17,
-      "title": "Tesla to 'wind down' production of flop Cybertruck",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 18,
-      "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html"
-    },
-    {
-      "index": 19,
+      "index": 47,
       "title": "Strong Hiring Reinforces a Sturdy Job Market",
       "source": "New York Times",
       "link": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html"
     },
     {
-      "index": 20,
-      "title": "AI stocks climb after trillions wiped from market values",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+      "index": 48,
+      "title": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested"
     },
     {
-      "index": 21,
-      "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss"
-    },
-    {
-      "index": 22,
-      "title": "Latest news bulletin | November 6th, 2026 – Evening",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-evening"
-    },
-    {
-      "index": 23,
-      "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
+      "index": 49,
+      "title": "Susie Wiles, Trump’s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html"
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html"
     },
     {
-      "index": 24,
+      "index": 50,
       "title": "Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges",
       "source": "New York Times",
       "link": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html"
     },
     {
-      "index": 25,
-      "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss"
-    },
-    {
-      "index": 26,
-      "title": "Russell Brand rape conviction must be ‘wake-up call’, says culture secretary",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-conviction-must-be-wake-up-call-says-culture-secretary-lisa-nandy"
-    },
-    {
-      "index": 27,
-      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 28,
-      "title": "Burnham aims for ‘quite radical change’ in support for young people",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/politics/2026/nov/06/andy-burnham-quite-radical-change-young-people-support-benefits-neets"
-    },
-    {
-      "index": 29,
-      "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 30,
-      "title": "Here’s the latest.",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest"
-    },
-    {
-      "index": 31,
-      "title": "Foodbank to close after 16 years amid rising costs",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 32,
-      "title": "A really simple guide to climate change",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 33,
-      "title": "Taiwan to close representative office in Papua New Guinea, blames China",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss"
-    },
-    {
-      "index": 34,
-      "title": "What is the Paris Agreement and why does 1.5C matter?",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 35,
-      "title": "Spain: Vintage cars hit the streets of Almería for annual rally",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/video/2026/11/06/spain-vintage-cars-hit-the-streets-of-almeria-for-annual-rally"
-    },
-    {
-      "index": 36,
-      "title": "Data center protesters break into Microsoft site in Amsterdam",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 37,
-      "title": "Despite Russia impasse, Germany still hoping to host Men's Ice Hockey World Championship",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 38,
-      "title": "UK dairy farmers face further pressure as milk processor cuts prices",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/environment/2026/nov/06/uk-dairy-farmers-face-squeeze-as-milk-processor-cuts-prices"
-    },
-    {
-      "index": 39,
-      "title": "Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – as it happened",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
-    },
-    {
-      "index": 40,
-      "title": "What is net zero and is the UK on track to achieve it?",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 41,
-      "title": "Winter support for residents facing cost pressures",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 42,
-      "title": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu?traffic_source=rss"
-    },
-    {
-      "index": 43,
-      "title": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html"
-    },
-    {
-      "index": 44,
-      "title": "Could the US midterms burst the AI bubble?",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 45,
-      "title": "Four midterms takeaways for 2028 White House race",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 46,
-      "title": "What did the Republicans lose in the US midterms?",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/6/what-did-the-republicans-lose-in-the-us-midterms?traffic_source=rss"
-    },
-    {
-      "index": 47,
-      "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss"
-    },
-    {
-      "index": 48,
-      "title": "Meghan Markle's father reportedly arrested in Florida over alleged child porn possession",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/06/meghan-markles-father-reportedly-arrested-in-florida-over-alleged-child-porn-possession"
-    },
-    {
-      "index": 49,
-      "title": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
-      "source": "The Block",
-      "link": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907"
-    },
-    {
-      "index": 50,
-      "title": "What a Democratic Congress Could Mean for Science",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/06/science/science-democrats-congress-election.html"
-    },
-    {
       "index": 51,
-      "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss"
+      "title": "Biotech Firm Claims Some Credit for Groundbreaking Virus Research",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/science/radical-numerics-tabula-phage.html"
     },
     {
       "index": 52,
-      "title": "A.I. Was Supposed to Come for Our Jobs. So Far, Evidence Is Mixed.",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html"
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 53,
-      "title": "Germany: Small plane crashes onto A2 highway, killing 2",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/germany-small-plane-crashes-onto-a2-highway-killing-2/a-79878930?maca=en-rss-en-all-1573-rdf"
+      "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss"
     },
     {
       "index": 54,
+      "title": "Trump Appeals Dismissal of $10 Billion Libel Suit Against Wall Street Journal",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/business/media/trump-wall-street-journal.html"
+    },
+    {
+      "index": 55,
       "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
       "source": "The Guardian",
       "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
     },
     {
-      "index": 55,
-      "title": "Protesters break into Microsoft AI data centre site in Amsterdam",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss"
-    },
-    {
       "index": 56,
-      "title": "‘Clicky Ponting’ handed two-year suspension over cricket cheating scandal",
+      "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/11/6/clicky-ponting-handed-two-year-suspension-over-cricket-cheating-scandal?traffic_source=rss"
+      "link": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss"
     },
     {
       "index": 57,
-      "title": "Why is Denmark separating ‘Western’ and ‘non-Western’ citizens?",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/6/why-is-denmark-separating-western-and-non-western-citizens?traffic_source=rss"
+      "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft"
     },
     {
       "index": 58,
-      "title": "Iran delivers secret Khamenei message to Putin as Moscow pushes gas pipeline deal",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/06/iran-delivers-secret-khamenei-message-to-putin-as-moscow-pushes-gas-pipeline-deal"
+      "title": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html"
     },
     {
       "index": 59,
-      "title": "Republicans redrew this Texas district to win – it narrowly worked",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/republicans-redrew-this-texas-district-to-win-it-narrowly-worked?traffic_source=rss"
-    },
-    {
-      "index": 60,
-      "title": "Musk says Tesla to wind down polarising Cybertruck production as sales lag",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag?traffic_source=rss"
-    },
-    {
-      "index": 61,
-      "title": "Two dead after bus crashes in France, officials say",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 62,
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 63,
-      "title": "Fact check: Three viral Iran war posts debunked",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 64,
-      "title": "Wales scraps controversial Uganda tree-planting scheme",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cqm26m2l4p7eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 65,
-      "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 66,
-      "title": "New wave of bomb threats hit European airlines",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 67,
-      "title": "New bomb threats target European broadcasters, air traffic",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss"
-    },
-    {
-      "index": 68,
-      "title": "European air traffic is targeted by new threats after a week of hoaxes",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes"
-    },
-    {
-      "index": 69,
-      "title": "EU charges TikTok with failing to protect users’ mental health",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health"
-    },
-    {
-      "index": 70,
-      "title": "Claims of a Ukrainian ‘torture chamber’ went viral. What really happened?",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/6/claims-of-a-ukrainian-torture-chamber-went-viral-what-really-happened?traffic_source=rss"
-    },
-    {
-      "index": 71,
-      "title": "Baku real estate expo showcases Azerbaijan’s tech-driven urban future",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/06/baku-real-estate-expo-showcases-azerbaijans-tech-driven-urban-future"
-    },
-    {
-      "index": 72,
-      "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
-    },
-    {
-      "index": 73,
       "title": "Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread",
       "source": "New York Times",
       "link": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html"
     },
     {
-      "index": 74,
-      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "index": 60,
+      "title": "AI stocks climb after trillions wiped from market values",
       "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 61,
+      "title": "Protesters break into Microsoft data centre site in Amsterdam",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss"
+    },
+    {
+      "index": 62,
+      "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957"
+    },
+    {
+      "index": 63,
+      "title": "Tankers carrying Russian diesel to the US change course",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 64,
+      "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss"
+    },
+    {
+      "index": 65,
+      "title": "F.A.A. to Phase Out Floppy Disks in Air Traffic Control Towers",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html"
+    },
+    {
+      "index": 66,
+      "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties"
+    },
+    {
+      "index": 67,
+      "title": "Stephen Miller named by Trump as new White House chief of staff",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 68,
+      "title": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951"
+    },
+    {
+      "index": 69,
+      "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss"
+    },
+    {
+      "index": 70,
+      "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss"
+    },
+    {
+      "index": 71,
+      "title": "Ueno Bank scandal plunges Paraguay into political crisis",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 72,
+      "title": "Pope Leo XIV arrives in Uruguay starting 12-day Latin America tour",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss"
+    },
+    {
+      "index": 73,
+      "title": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html"
+    },
+    {
+      "index": 74,
+      "title": "How Farmers’ Frustration With Trump’s Policies Helped Democrats",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html"
     },
     {
       "index": 75,
-      "title": "Aave Labs buys Avon team in fixed-rate lending push",
-      "source": "The Block",
-      "link": "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901"
+      "title": "Russell Brand barrister reports himself to watchdog over clash with journalist",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist"
     },
     {
       "index": 76,
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss"
+      "title": "Trump appoints immigration hardliner Stephen Miller as new chief of staff",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/06/trump-appoints-immigration-hardliner-stephen-miller-as-new-chief-of-staff"
     },
     {
       "index": 77,
-      "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder"
+      "title": "These Newly Elected Lawmakers Know Something Trump Doesn’t: Science",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/science/scientists-election-congress.html"
     },
     {
       "index": 78,
-      "title": "Workers' rights 'second place' to economic growth",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/videos/cq369l9r634ro?at_medium=RSS&at_campaign=rss"
+      "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html"
     },
     {
       "index": 79,
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
+      "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies"
     },
     {
       "index": 80,
-      "title": "Kazakhstan’s growth to pick up in 2027 despite geopolitical tensions, IMF says",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/06/kazakhstans-growth-to-pick-up-in-2027-despite-geopolitical-tensions-imf-says"
+      "title": "In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html"
     }
   ],
   "clusters": [
     {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12,
+        20,
+        25,
+        40,
+        71
+      ],
+      "score": 95,
+      "category": "politics",
+      "rationale": "The impeachment and arrest of Paraguay's President Santiago Peña amid a banking crisis has significant implications for governance and public trust in the region."
+    },
+    {
       "representativeIndex": 2,
       "memberIndices": [
-        2
+        2,
+        11,
+        15,
+        35
+      ],
+      "score": 90,
+      "category": "conflict",
+      "rationale": "Russia's missile attacks on Kyiv represent a critical escalation in the ongoing conflict, impacting civilian safety and international relations."
+    },
+    {
+      "representativeIndex": 21,
+      "memberIndices": [
+        21,
+        22,
+        47
       ],
       "score": 85,
-      "category": "conflict",
-      "rationale": "The attack on a Gulf tanker amid rising tensions in the region highlights the escalating conflict involving Iran and its implications for global shipping security."
+      "category": "health",
+      "rationale": "The CDC's report of over 5,000 measles cases highlights a significant public health crisis, marking the highest number in 35 years."
     },
     {
       "representativeIndex": 5,
       "memberIndices": [
         5,
-        25
+        13,
+        41
       ],
       "score": 80,
-      "category": "economy",
-      "rationale": "Paraguay's banking crisis, marked by the collapse of a major bank, poses significant economic challenges for the country and its citizens."
-    },
-    {
-      "representativeIndex": 6,
-      "memberIndices": [
-        6,
-        48
-      ],
-      "score": 75,
       "category": "society",
-      "rationale": "The arrest of Meghan Markle's father on serious charges has drawn widespread media attention and public discourse on familial and societal issues.",
-      "repaired": true
+      "rationale": "The widespread protests in France reflect deep societal discontent and the potential for significant political change."
     },
     {
       "representativeIndex": 19,
       "memberIndices": [
-        19
+        19,
+        53
+      ],
+      "score": 75,
+      "category": "culture",
+      "rationale": "The mass wedding in Gaza symbolizes resilience and hope amidst ongoing conflict, showcasing cultural traditions in challenging times."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18,
+        36
       ],
       "score": 70,
       "category": "economy",
-      "rationale": "The U.S. job market's resilience amid economic pressures is crucial for understanding the broader economic landscape post-midterms."
-    },
-    {
-      "representativeIndex": 23,
-      "memberIndices": [
-        23
-      ],
-      "score": 70,
-      "category": "conflict",
-      "rationale": "The bombing of a Yemeni home by Saudi-led forces, resulting in civilian casualties, underscores the ongoing humanitarian crisis in Yemen."
+      "rationale": "New Zealand's election focuses on economic concerns, reflecting global trends of rising costs and public dissatisfaction."
     },
     {
       "representativeIndex": 10,
       "memberIndices": [
         10,
-        76
+        61
       ],
       "score": 65,
-      "category": "politics",
-      "rationale": "The sentencing of Tanzania's opposition leader reflects the political repression and challenges faced by dissenting voices in the country."
-    },
-    {
-      "representativeIndex": 1,
-      "memberIndices": [
-        1,
-        4,
-        7,
-        8,
-        21
-      ],
-      "score": 60,
-      "category": "politics",
-      "rationale": "The U.S. midterm elections have significant implications for the political landscape, particularly regarding the balance of power in Congress."
-    },
-    {
-      "representativeIndex": 12,
-      "memberIndices": [
-        12,
-        36
-      ],
-      "score": 55,
-      "category": "climate",
-      "rationale": "Protests against data centers highlight the growing concern over the environmental impact of technology companies amid climate change."
-    },
-    {
-      "representativeIndex": 29,
-      "memberIndices": [
-        29,
-        32,
-        40
-      ],
-      "score": 50,
-      "category": "climate",
-      "rationale": "The increasing frequency of extreme weather events due to climate change is a pressing global issue that affects millions."
-    },
-    {
-      "representativeIndex": 37,
-      "memberIndices": [
-        37
-      ],
-      "score": 50,
-      "category": "sport",
-      "rationale": "Germany's efforts to host the Men's Ice Hockey World Championship amid geopolitical tensions reflect the intersection of sports and international relations."
-    },
-    {
-      "representativeIndex": 62,
-      "memberIndices": [
-        62
-      ],
-      "score": 45,
-      "category": "law",
-      "rationale": "The legal challenges surrounding Trump's proposed construction highlight ongoing debates over governance and federal authority."
-    },
-    {
-      "representativeIndex": 69,
-      "memberIndices": [
-        69
-      ],
-      "score": 45,
       "category": "technology",
-      "rationale": "The EU's charges against TikTok for failing to protect users' mental health raise critical questions about the responsibilities of tech companies."
-    },
-    {
-      "representativeIndex": 72,
-      "memberIndices": [
-        72,
-        77,
-        79
-      ],
-      "score": 90,
-      "category": "society",
-      "rationale": "The sentencing of a cult leader for the murder of children is a shocking reminder of the dangers posed by extremist groups."
-    },
-    {
-      "representativeIndex": 51,
-      "memberIndices": [
-        51
-      ],
-      "score": 65,
-      "category": "conflict",
-      "rationale": "Military preparations for potential deployment in Ukraine signal ongoing geopolitical tensions and the international community's response."
-    },
-    {
-      "representativeIndex": 54,
-      "memberIndices": [
-        54
-      ],
-      "score": 60,
-      "category": "economy",
-      "rationale": "The global stock market's reaction to U.S. political developments reflects the interconnectedness of politics and economic stability."
-    },
-    {
-      "representativeIndex": 11,
-      "memberIndices": [
-        11
-      ],
-      "score": 50,
-      "category": "politics",
-      "rationale": "The ruling against an opposition candidate in Nigeria raises concerns about electoral fairness and democratic processes."
-    },
-    {
-      "representativeIndex": 13,
-      "memberIndices": [
-        13,
-        50
-      ],
-      "score": 55,
-      "category": "health",
-      "rationale": "Concerns over U.S. global health strategies highlight the importance of coordinated efforts in pandemic prevention."
-    },
-    {
-      "representativeIndex": 14,
-      "memberIndices": [
-        14,
-        15,
-        39
-      ],
-      "score": 70,
-      "category": "disaster",
-      "rationale": "The wave of bomb threats across Europe represents a significant security concern, disrupting travel and raising public anxiety."
-    },
-    {
-      "representativeIndex": 20,
-      "memberIndices": [
-        20,
-        44
-      ],
-      "score": 50,
-      "category": "economy",
-      "rationale": "The impact of the midterm elections on AI development and investor sentiment reflects broader economic concerns."
+      "rationale": "Protests against Microsoft's data center highlight growing concerns over environmental impacts and corporate responsibility in technology."
     },
     {
       "representativeIndex": 3,
       "memberIndices": [
         3
       ],
-      "score": 40,
-      "category": "culture",
-      "rationale": "Fashion trends, while less critical, reflect cultural shifts and societal values, showcasing the influence of pop culture."
+      "score": 60,
+      "category": "conflict",
+      "rationale": "The police operation in Haiti that resulted in the death of a gang leader is a significant moment in the ongoing struggle against gang violence."
     },
     {
-      "representativeIndex": 33,
+      "representativeIndex": 1,
       "memberIndices": [
-        33
+        1,
+        4,
+        66
+      ],
+      "score": 50,
+      "category": "politics",
+      "rationale": "Israel's political landscape remains unstable as President Herzog faces challenges in forming a government, impacting future governance."
+    },
+    {
+      "representativeIndex": 8,
+      "memberIndices": [
+        8,
+        43
       ],
       "score": 45,
-      "category": "world",
-      "rationale": "Taiwan's diplomatic actions amid tensions with China highlight the ongoing geopolitical struggles in the region."
+      "category": "economy",
+      "rationale": "The US's urging of China to uphold trade commitments reflects ongoing economic tensions that could affect global markets."
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14,
+        37
+      ],
+      "score": 40,
+      "category": "society",
+      "rationale": "Cornell faculty's no-confidence vote highlights issues of governance and accountability in academic institutions."
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 35,
+      "category": "law",
+      "rationale": "The sentencing of a cult leader for mass murder underscores the legal and moral implications of extreme religious practices."
+    },
+    {
+      "representativeIndex": 57,
+      "memberIndices": [
+        57
+      ],
+      "score": 30,
+      "category": "technology",
+      "rationale": "The arrest of individuals using AI for corporate fraud raises critical questions about technology's role in crime."
+    },
+    {
+      "representativeIndex": 34,
+      "memberIndices": [
+        34
+      ],
+      "score": 25,
+      "category": "society",
+      "rationale": "The allegations against Russell Brand reflect ongoing societal issues regarding accountability and the treatment of sexual assault victims."
+    },
+    {
+      "representativeIndex": 39,
+      "memberIndices": [
+        39,
+        46
+      ],
+      "score": 20,
+      "category": "politics",
+      "rationale": "Trump's appointment of Stephen Miller as chief of staff signals a continuation of hardline policies, impacting future political dynamics."
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76
+      ],
+      "score": 15,
+      "category": "politics",
+      "rationale": "The appointment of a controversial figure like Stephen Miller as chief of staff may exacerbate divisions within the Republican Party."
+    },
+    {
+      "representativeIndex": 78,
+      "memberIndices": [
+        78,
+        44
+      ],
+      "score": 10,
+      "category": "culture",
+      "rationale": "Pope Leo XIV's Latin America tour post-surgery highlights the intersection of health and cultural diplomacy."
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 5,
+      "category": "culture",
+      "rationale": "The death of filmmaker Sebastián Lelio marks a loss in the cultural landscape, impacting the film community."
     },
     {
       "representativeIndex": 80,
       "memberIndices": [
         80
       ],
-      "score": 50,
-      "category": "economy",
-      "rationale": "Kazakhstan's projected economic growth amid geopolitical tensions is significant for regional stability and investment."
+      "score": 0,
+      "category": "society",
+      "rationale": "The community's response to a terrorist attack reflects ongoing societal tensions and the impact of far-right rhetoric."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6
+      ],
+      "score": 19.925,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 7,
+      "memberIndices": [
+        7
+      ],
+      "score": 19.9125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
     },
     {
       "representativeIndex": 9,
@@ -734,21 +730,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 18,
+      "representativeIndex": 23,
       "memberIndices": [
-        18
+        23
       ],
-      "score": 19.775,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 22,
-      "memberIndices": [
-        22
-      ],
-      "score": 19.725,
+      "score": 19.7125,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -794,6 +780,16 @@
       "repaired": true
     },
     {
+      "representativeIndex": 29,
+      "memberIndices": [
+        29
+      ],
+      "score": 19.6375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
       "representativeIndex": 30,
       "memberIndices": [
         30
@@ -814,21 +810,21 @@
       "repaired": true
     },
     {
-      "representativeIndex": 34,
+      "representativeIndex": 32,
       "memberIndices": [
-        34
+        32
       ],
-      "score": 19.575,
+      "score": 19.6,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 35,
+      "representativeIndex": 33,
       "memberIndices": [
-        35
+        33
       ],
-      "score": 19.5625,
+      "score": 19.5875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -844,31 +840,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 41,
-      "memberIndices": [
-        41
-      ],
-      "score": 19.4875,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
       "representativeIndex": 42,
       "memberIndices": [
         42
       ],
       "score": 19.475,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 43,
-      "memberIndices": [
-        43
-      ],
-      "score": 19.4625,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -884,21 +860,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 46,
+      "representativeIndex": 48,
       "memberIndices": [
-        46
+        48
       ],
-      "score": 19.425,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 47,
-      "memberIndices": [
-        47
-      ],
-      "score": 19.4125,
+      "score": 19.4,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -914,6 +880,26 @@
       "repaired": true
     },
     {
+      "representativeIndex": 50,
+      "memberIndices": [
+        50
+      ],
+      "score": 19.375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 51,
+      "memberIndices": [
+        51
+      ],
+      "score": 19.3625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
       "representativeIndex": 52,
       "memberIndices": [
         52
@@ -924,11 +910,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 53,
+      "representativeIndex": 54,
       "memberIndices": [
-        53
+        54
       ],
-      "score": 19.3375,
+      "score": 19.325,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -954,26 +940,6 @@
       "repaired": true
     },
     {
-      "representativeIndex": 57,
-      "memberIndices": [
-        57
-      ],
-      "score": 19.2875,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 58,
-      "memberIndices": [
-        58
-      ],
-      "score": 19.275,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
       "representativeIndex": 59,
       "memberIndices": [
         59
@@ -994,11 +960,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 61,
+      "representativeIndex": 62,
       "memberIndices": [
-        61
+        62
       ],
-      "score": 19.2375,
+      "score": 19.225,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -1034,16 +1000,6 @@
       "repaired": true
     },
     {
-      "representativeIndex": 66,
-      "memberIndices": [
-        66
-      ],
-      "score": 19.175,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
       "representativeIndex": 67,
       "memberIndices": [
         67
@@ -1064,6 +1020,16 @@
       "repaired": true
     },
     {
+      "representativeIndex": 69,
+      "memberIndices": [
+        69
+      ],
+      "score": 19.1375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
       "representativeIndex": 70,
       "memberIndices": [
         70
@@ -1074,11 +1040,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 71,
+      "representativeIndex": 72,
       "memberIndices": [
-        71
+        72
       ],
-      "score": 19.1125,
+      "score": 19.1,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -1114,11 +1080,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 78,
+      "representativeIndex": 77,
       "memberIndices": [
-        78
+        77
       ],
-      "score": 19.025,
+      "score": 19.0375,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -1131,14 +1097,14 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 21475,
+      "latencyMs": 24714,
       "usage": {
-        "inputTokens": 7034,
-        "outputTokens": 983,
-        "totalTokens": 8017
+        "inputTokens": 7267,
+        "outputTokens": 897,
+        "totalTokens": 8164
       },
-      "estimatedCostUsd": 0.0016449,
-      "returnedCount": 22,
+      "estimatedCostUsd": 0.00162825,
+      "returnedCount": 20,
       "acceptedCount": 30
     },
     {
@@ -1147,13 +1113,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 18713,
+      "latencyMs": 17470,
       "usage": {
-        "inputTokens": 1182,
-        "outputTokens": 1219,
-        "totalTokens": 2401
+        "inputTokens": 1025,
+        "outputTokens": 1118,
+        "totalTokens": 2143
       },
-      "estimatedCostUsd": 0.0009086999999999999,
+      "estimatedCostUsd": 0.00082455,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1163,13 +1129,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 20476,
+      "latencyMs": 22533,
       "usage": {
-        "inputTokens": 960,
-        "outputTokens": 1277,
-        "totalTokens": 2237
+        "inputTokens": 1176,
+        "outputTokens": 1360,
+        "totalTokens": 2536
       },
-      "estimatedCostUsd": 0.0009101999999999999,
+      "estimatedCostUsd": 0.0009924,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1179,13 +1145,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 20588,
+      "latencyMs": 19859,
       "usage": {
-        "inputTokens": 1111,
-        "outputTokens": 1230,
-        "totalTokens": 2341
+        "inputTokens": 1109,
+        "outputTokens": 1234,
+        "totalTokens": 2343
       },
-      "estimatedCostUsd": 0.00090465,
+      "estimatedCostUsd": 0.00090675,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1195,13 +1161,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 45702,
+      "latencyMs": 46351,
       "usage": {
-        "inputTokens": 1937,
-        "outputTokens": 2679,
-        "totalTokens": 4616
+        "inputTokens": 1696,
+        "outputTokens": 2749,
+        "totalTokens": 4445
       },
-      "estimatedCostUsd": 0.0018979499999999998,
+      "estimatedCostUsd": 0.0019037999999999998,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1211,13 +1177,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 42990,
+      "latencyMs": 41640,
       "usage": {
-        "inputTokens": 1738,
-        "outputTokens": 2640,
-        "totalTokens": 4378
+        "inputTokens": 2052,
+        "outputTokens": 2886,
+        "totalTokens": 4938
       },
-      "estimatedCostUsd": 0.0018447000000000001,
+      "estimatedCostUsd": 0.0020394,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1227,25 +1193,25 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 50099,
+      "latencyMs": 48983,
       "usage": {
-        "inputTokens": 1905,
-        "outputTokens": 2627,
-        "totalTokens": 4532
+        "inputTokens": 1837,
+        "outputTokens": 2606,
+        "totalTokens": 4443
       },
-      "estimatedCostUsd": 0.00186195,
+      "estimatedCostUsd": 0.00183915,
       "returnedCount": 10,
       "acceptedCount": 10
     }
   ],
-  "generatedAt": "2026-11-06T18:05:23.878Z",
+  "generatedAt": "2026-11-07T06:05:24.177Z",
   "cost": {
     "currency": "USD",
-    "estimatedTotalUsd": 0.009973049999999999,
+    "estimatedTotalUsd": 0.010134299999999999,
     "complete": true,
-    "inputTokens": 15867,
-    "outputTokens": 12655,
-    "totalTokens": 28522,
+    "inputTokens": 16162,
+    "outputTokens": 12850,
+    "totalTokens": 29012,
     "inputUsdPerMillion": 0.15,
     "outputUsdPerMillion": 0.6
   },
@@ -1254,154 +1220,154 @@
       "storyCount": 30,
       "stories": [
         {
-          "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
-          "source": "The Guardian",
-          "title_en": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children"
+          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Paraguay's President Santiago Peña impeached and arrested"
         },
         {
-          "link": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "title_en": "Gulf tanker attacked, 1 seaferer killed"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "How Paraguay’s Ueno collapse is only its latest banking crisis"
+          "title_en": "Russia launches missile attack on Kyiv, injuring residents"
         },
         {
-          "link": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
-          "source": "The Guardian",
-          "title_en": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
-          "source": "New York Times",
-          "title_en": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html",
-          "source": "New York Times",
-          "title_en": "Strong Hiring Reinforces a Sturdy Job Market"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
-          "source": "New York Times",
-          "title_en": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html",
-          "source": "New York Times",
-          "title_en": "Tanzania’s Opposition Leader Gets a Four-Year Sentence"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "European troops prepare for possible post-ceasefire deployment to Ukraine"
+          "title_en": "CDC reports more than 5,000 measles cases, highest number in 35 years"
         },
         {
-          "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+          "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
           "source": "New York Times",
-          "title_en": "After Israel’s Election, Who Will Get the First Chance to Form a Government?"
+          "title_en": "Another Day of Protests Is Planned in France’s Autumn of Discontent"
         },
         {
-          "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
-          "source": "The Guardian",
-          "title_en": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph"
+          "link": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "One of the year's most prolific meteor showers to light up the night sky this weekend"
         },
         {
-          "link": "https://www.euronews.com/video/2026/11/06/switzerland-giant-banner-targets-big-tech-outside-data-centre-site",
-          "source": "Euronews",
-          "title_en": "Switzerland: Giant banner targets Big Tech outside data centre site"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html",
+          "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
           "source": "New York Times",
-          "title_en": "U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn"
+          "title_en": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Nigerian court rules opposition candidate cannot stand in elections"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "AI stocks climb after trillions wiped from market values"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "How climate change worsens heatwaves, droughts, wildfires and floods"
-        },
-        {
-          "link": "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "title_en": "Despite Russia impasse, Germany still hoping to host Men's Ice Hockey World Championship"
-        },
-        {
-          "link": "https://www.euronews.com/2026/11/06/kazakhstans-growth-to-pick-up-in-2027-despite-geopolitical-tensions-imf-says",
-          "source": "Euronews",
-          "title_en": "Kazakhstan’s growth to pick up in 2027 despite geopolitical tensions, IMF says"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Taiwan to close representative office in Papua New Guinea, blames China"
+          "title_en": "Protesters storm site of Microsoft’s planned Amsterdam data centre"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Judge blocks construction of Trump's massive arch after federal agency approval"
+          "link": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "‘One less gang leader’: Haiti’s prime minister celebrates police operation"
         },
         {
-          "link": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
-          "source": "The Guardian",
-          "title_en": "EU charges TikTok with failing to protect users’ mental health"
+          "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "President Herzog faces key choice as Israel struggles to form government"
         },
         {
-          "link": "https://www.theguardian.com/fashion/2026/nov/06/prince-pope-autumn-2026-purple-hot-this-season",
-          "source": "The Guardian",
-          "title_en": "Prince, the pope, and autumn 2026: purple is hot this season"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html",
-          "source": "New York Times",
-          "title_en": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
-          "source": "New York Times",
-          "title_en": "What to Know About the Bomb Threats Disrupting Flights in Europe"
-        },
-        {
-          "link": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf",
+          "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "title_en": "Tesla to 'wind down' production of flop Cybertruck"
+          "title_en": "US asks China to uphold Busan trade deal commitments"
         },
         {
-          "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
+          "link": "https://www.dw.com/en/cornell-faculty-declares-no-confidence-in-university-leadership/a-79882895?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Cornell faculty declares 'no confidence' in university leadership"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
           "source": "New York Times",
-          "title_en": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I."
+          "title_en": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder"
         },
         {
-          "link": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-evening",
-          "source": "Euronews",
-          "title_en": "Latest news bulletin | November 6th, 2026 – Evening"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
-          "source": "New York Times",
-          "title_en": "Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges"
-        },
-        {
-          "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-conviction-must-be-wake-up-call-says-culture-secretary-lisa-nandy",
+          "link": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
           "source": "The Guardian",
-          "title_en": "Russell Brand rape conviction must be ‘wake-up call’, says culture secretary"
+          "title_en": "Three men charged in US with using AI to impersonate CEOs and steal millions"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
+          "source": "The Guardian",
+          "title_en": "Russell Brand suspected to have attacked at least 10 other women"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "title_en": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide"
+          "title_en": "With Stephen Miller pick, Trump readies for a battle"
+        },
+        {
+          "link": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
+          "source": "The Guardian",
+          "title_en": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?"
+        },
+        {
+          "link": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "US Treasury sanctions eight Canadian money exchange firms over Iran ties"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Los Angeles reacts to historic mayoral election"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+          "source": "The Guardian",
+          "title_en": "Democrats blast Trump’s decision to make Stephen Miller his chief of staff"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
+          "source": "New York Times",
+          "title_en": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+          "source": "The Guardian",
+          "title_en": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "EU prosecutor office investigates fatal train crash in Spain"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "This man refused life-saving treatment because of his religion - days later the rules changed"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "The young Somali woman changing how the world sees Mogadishu"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
+          "source": "The Guardian",
+          "title_en": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Pope Leo XIV arrives for South American tour after cancer surgery"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump",
+          "source": "The Guardian",
+          "title_en": "Man in custody after being found in vehicle near White House with guns"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028"
         }
       ]
     },
@@ -1409,59 +1375,59 @@
       "storyCount": 10,
       "stories": [
         {
-          "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
-          "source": "The Guardian",
-          "title_en": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children"
+          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Paraguay's President Santiago Peña impeached and arrested"
         },
         {
-          "link": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-rdf",
+          "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Russia launches missile attack on Kyiv, injuring residents"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "CDC reports more than 5,000 measles cases, highest number in 35 years"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
+          "source": "New York Times",
+          "title_en": "Another Day of Protests Is Planned in France’s Autumn of Discontent"
+        },
+        {
+          "link": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "One of the year's most prolific meteor showers to light up the night sky this weekend"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
+          "source": "New York Times",
+          "title_en": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Protesters storm site of Microsoft’s planned Amsterdam data centre"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "‘One less gang leader’: Haiti’s prime minister celebrates police operation"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "President Herzog faces key choice as Israel struggles to form government"
+        },
+        {
+          "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "title_en": "Gulf tanker attacked, 1 seaferer killed"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "How Paraguay’s Ueno collapse is only its latest banking crisis"
-        },
-        {
-          "link": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
-          "source": "The Guardian",
-          "title_en": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
-          "source": "New York Times",
-          "title_en": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html",
-          "source": "New York Times",
-          "title_en": "Strong Hiring Reinforces a Sturdy Job Market"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
-          "source": "New York Times",
-          "title_en": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html",
-          "source": "New York Times",
-          "title_en": "Tanzania’s Opposition Leader Gets a Four-Year Sentence"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "European troops prepare for possible post-ceasefire deployment to Ukraine"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-          "source": "New York Times",
-          "title_en": "After Israel’s Election, Who Will Get the First Chance to Form a Government?"
+          "title_en": "US asks China to uphold Busan trade deal commitments"
         }
       ],
       "contentHashes": {
-        "ru": "e3f28e91ef3931e7f41ad6bf8294ba692568665097234e609bb71d113918ddee",
-        "en": "230e22dce23d48055063bedce07b808eead2a4c5d3a4848380ea35008fc6ae2b"
+        "ru": "17bea4688d5e51e7d558f0b8f4625bc1b9b16fb6271614dba724e1c1fd034909",
+        "en": "0aaefcc5d43e66ed7c27a3c4fb3ec9f00e28e9f878643fd587cb7a8ed1962a86"
       }
     }
   }
