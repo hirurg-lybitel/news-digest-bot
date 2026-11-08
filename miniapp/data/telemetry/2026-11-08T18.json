@@ -1,0 +1,1407 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.935509166666666,
+  "poolSize": 111,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 2,
+      "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration"
+    },
+    {
+      "index": 3,
+      "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
+    },
+    {
+      "index": 4,
+      "title": "Overcrowded car plunges into lake in Brazil, killing ten, including five children",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/08/overcrowded-car-plunges-into-lake-in-brazil-killing-ten-including-five-children"
+    },
+    {
+      "index": 5,
+      "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns"
+    },
+    {
+      "index": 6,
+      "title": "Collision of two trains in Egypt kills at least seven",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+    },
+    {
+      "index": 7,
+      "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html"
+    },
+    {
+      "index": 8,
+      "title": "Half of NHS trusts in England lack funds earmarked to cover maternity leave",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave"
+    },
+    {
+      "index": 9,
+      "title": "South Africa elections: ANC marks its worst-ever performance",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 10,
+      "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html"
+    },
+    {
+      "index": 11,
+      "title": "Trains Collide Near Cairo, Killing 4",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html"
+    },
+    {
+      "index": 12,
+      "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss"
+    },
+    {
+      "index": 13,
+      "title": "Erdoğan joins Aliyev for Azerbaijan’s Victory Day in Karabakh",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/08/erdogan-joins-aliyev-for-azerbaijans-victory-day-in-karabakh"
+    },
+    {
+      "index": 14,
+      "title": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/08/rosstat-hack-data-obtained-suggests-over-390000-russian-deaths-in-ukraine-war"
+    },
+    {
+      "index": 15,
+      "title": "How a Duck Named Olivia Helped Pass D.C.’s Foie Gras Ban",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html"
+    },
+    {
+      "index": 16,
+      "title": "Photos: Diwali celebrations light up India and its global diaspora",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss"
+    },
+    {
+      "index": 17,
+      "title": "Latest news bulletin | November 8th, 2026 – Evening",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-evening"
+    },
+    {
+      "index": 18,
+      "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss"
+    },
+    {
+      "index": 19,
+      "title": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss"
+    },
+    {
+      "index": 20,
+      "title": "Fan hospitalised after falling through stand at Norwegian football match",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss"
+    },
+    {
+      "index": 21,
+      "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html"
+    },
+    {
+      "index": 22,
+      "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss"
+    },
+    {
+      "index": 23,
+      "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim"
+    },
+    {
+      "index": 24,
+      "title": "Egypt train crash leaves several dead, many injured",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/egypt-train-crash-leaves-several-dead-many-injured/a-79892916?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 25,
+      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks"
+    },
+    {
+      "index": 26,
+      "title": "Met Office issues weather warning as UK conditions create ‘perfect recipe’ for fog",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/08/met-office-weather-warning-uk-fog"
+    },
+    {
+      "index": 27,
+      "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss"
+    },
+    {
+      "index": 28,
+      "title": "Four killed, 88 injured in train collision in Egypt",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss"
+    },
+    {
+      "index": 29,
+      "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina"
+    },
+    {
+      "index": 30,
+      "title": "Watch: Spectacular double waterspout forms off Italy's Capri island",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/08/watch-spectacular-double-waterspout-forms-off-italys-capri-island"
+    },
+    {
+      "index": 31,
+      "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss"
+    },
+    {
+      "index": 32,
+      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html"
+    },
+    {
+      "index": 33,
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 34,
+      "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022"
+    },
+    {
+      "index": 35,
+      "title": "At least four dead, 88 injured as two trains collide south of Cairo",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/08/at-least-four-dead-88-injured-as-two-trains-collide-south-of-cairo"
+    },
+    {
+      "index": 36,
+      "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss"
+    },
+    {
+      "index": 37,
+      "title": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html"
+    },
+    {
+      "index": 38,
+      "title": "‘No matter what, he doesn’t quit’: disabled wrestlers draw strength from ring alter egos",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/08/disabled-wrestlers-derry-foyle-rumble"
+    },
+    {
+      "index": 39,
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 40,
+      "title": "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss"
+    },
+    {
+      "index": 41,
+      "title": "Israel: Eisenkot officially tasked with forming a government",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 42,
+      "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault"
+    },
+    {
+      "index": 43,
+      "title": "Beef industry quietly squashes part of its own science curriculum after ranchers protest",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/environment/2026/nov/08/beef-industry-climate-impact-education"
+    },
+    {
+      "index": 44,
+      "title": "End of the ‘vomit comet’: Scillonian III sets sail on final voyage from Isles of Scilly",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/08/scillonian-iii-ship-final-voyage-isles-of-scilly-penzance-cornwall"
+    },
+    {
+      "index": 45,
+      "title": "Palestinian journalist Abed Abou Shhadeh released after 5 days in detention",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss"
+    },
+    {
+      "index": 46,
+      "title": "Inside the Nightclub Sheltering Haitians From Violent Gangs",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html"
+    },
+    {
+      "index": 47,
+      "title": "Two police officers hailed as heroes for confronting Kraków gunman",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland"
+    },
+    {
+      "index": 48,
+      "title": "Homes and temples glow across India to mark Diwali",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 49,
+      "title": "A ‘Chaotic Race’ for the World’s Top Diplomat",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html"
+    },
+    {
+      "index": 50,
+      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+    },
+    {
+      "index": 51,
+      "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss"
+    },
+    {
+      "index": 52,
+      "title": "Doctors Absorb the Stunning Failure of Two High-Profile Heart Drugs",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html"
+    },
+    {
+      "index": 53,
+      "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss"
+    },
+    {
+      "index": 54,
+      "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss"
+    },
+    {
+      "index": 55,
+      "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia"
+    },
+    {
+      "index": 56,
+      "title": "At least 21 killed after migrant boat sinks off Senegal",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 57,
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 58,
+      "title": "UK spent £100m on zombie Brexit border inspection posts",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods"
+    },
+    {
+      "index": 59,
+      "title": "At least 21 dead as small boat sinks off Senegal",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss"
+    },
+    {
+      "index": 60,
+      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss"
+    },
+    {
+      "index": 61,
+      "title": "Cop31 must deliver climate progress that people can see is real, host says",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says"
+    },
+    {
+      "index": 62,
+      "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html"
+    },
+    {
+      "index": 63,
+      "title": "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/cctv-captures-streets-shaking-as-5-7-magnitude-earthquake-hits-japan?traffic_source=rss"
+    },
+    {
+      "index": 64,
+      "title": "What to Know About the Mass Shooting in Krakow, Poland",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html"
+    },
+    {
+      "index": 65,
+      "title": "Could Iraq’s Kurdish region return to two separate administrations?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss"
+    },
+    {
+      "index": 66,
+      "title": "‘We feel the love’: Epstein survivors overwhelmed by messages of support at pop-up art exhibition",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/08/jeffrey-epstein-survivors-exhibition"
+    },
+    {
+      "index": 67,
+      "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations"
+    },
+    {
+      "index": 68,
+      "title": "Iran: US strikes ship after Hormuz blockade breach",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 69,
+      "title": "Egypt reopens Tripoli embassy after 12 years and raises concerns over Turkey-Libya maritime deal",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/08/egypt-reopens-tripoli-embassy-after-12-years-and-raises-concerns-over-turkey-libya-maritim"
+    },
+    {
+      "index": 70,
+      "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss"
+    },
+    {
+      "index": 71,
+      "title": "Egypt announces new Mediterranean gas field discovery estimated at 200 billion cubic feet",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/08/egypt-announces-new-mediterranean-gas-field-discovery-estimated-at-200-billion-cubic-feet"
+    },
+    {
+      "index": 72,
+      "title": "Dormice 'thrive' at National Trust site",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c50meerl8xp1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 73,
+      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss"
+    },
+    {
+      "index": 74,
+      "title": "South Africa’s ANC suffers setback in local elections",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss"
+    },
+    {
+      "index": 75,
+      "title": "Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms"
+    },
+    {
+      "index": 76,
+      "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester"
+    },
+    {
+      "index": 77,
+      "title": "Could UFC boss Dana White be next White House press secretary?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/could-ufc-boss-dana-white-be-next-white-house-press-secretary?traffic_source=rss"
+    },
+    {
+      "index": 78,
+      "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation"
+    },
+    {
+      "index": 79,
+      "title": "Top Astrophysicist Leaves U.S. After Trump Policies Affect Her Work",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html"
+    },
+    {
+      "index": 80,
+      "title": "Who’s who at Cop31: key players at the climate talks",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64,
+        1,
+        47,
+        78
+      ],
+      "score": 95,
+      "category": "conflict",
+      "rationale": "The mass shooting in Krakow resulted in multiple fatalities and injuries, highlighting significant concerns over public safety and far-right extremism."
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14,
+        73,
+        56
+      ],
+      "score": 90,
+      "category": "conflict",
+      "rationale": "The reported Russian casualties in Ukraine reflect the ongoing humanitarian crisis and the severe impact of the war on both sides."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6,
+        24,
+        27,
+        35
+      ],
+      "score": 85,
+      "category": "disaster",
+      "rationale": "The train collision in Egypt resulted in multiple deaths and injuries, emphasizing the urgent need for improvements in rail safety."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4,
+        9,
+        74
+      ],
+      "score": 80,
+      "category": "disaster",
+      "rationale": "The tragic accident in Brazil that killed ten people, including children, underscores the ongoing issues of road safety and vehicle overcrowding."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2,
+        75,
+        25
+      ],
+      "score": 75,
+      "category": "politics",
+      "rationale": "Trump's shift further to the right following the midterm elections signals a significant political realignment in the U.S. that could impact future governance."
+    },
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        12,
+        10,
+        41
+      ],
+      "score": 70,
+      "category": "politics",
+      "rationale": "Gadi Eisenkot's efforts to form a government in Israel amidst a historic political crisis highlight the challenges of governance in a deeply polarized society."
+    },
+    {
+      "representativeIndex": 8,
+      "memberIndices": [
+        8,
+        19,
+        43
+      ],
+      "score": 60,
+      "category": "society",
+      "rationale": "The lack of funding for maternity leave in NHS trusts raises serious concerns about healthcare equity and the support for working mothers."
+    },
+    {
+      "representativeIndex": 22,
+      "memberIndices": [
+        22
+      ],
+      "score": 55,
+      "category": "politics",
+      "rationale": "Eisenkot's warning about the state of democracy in Israel highlights the critical political challenges facing the nation."
+    },
+    {
+      "representativeIndex": 21,
+      "memberIndices": [
+        21
+      ],
+      "score": 50,
+      "category": "conflict",
+      "rationale": "The Houthi attack on Riyadh underscores the ongoing regional tensions and the threat to Saudi infrastructure."
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60,
+        69
+      ],
+      "score": 45,
+      "category": "politics",
+      "rationale": "Egypt's reopening of its embassy in Libya marks a significant diplomatic shift aimed at fostering stability in the region."
+    },
+    {
+      "representativeIndex": 37,
+      "memberIndices": [
+        37,
+        67
+      ],
+      "score": 40,
+      "category": "economy",
+      "rationale": "The impact of U.S. policies on fossil fuel pipeline projects raises concerns about environmental regulations and energy security."
+    },
+    {
+      "representativeIndex": 42,
+      "memberIndices": [
+        42,
+        57
+      ],
+      "score": 35,
+      "category": "law",
+      "rationale": "Russell Brand's conviction for serious crimes highlights ongoing issues of accountability and justice in the entertainment industry."
+    },
+    {
+      "representativeIndex": 11,
+      "memberIndices": [
+        11,
+        28
+      ],
+      "score": 30,
+      "category": "disaster",
+      "rationale": "The train crash in Egypt is part of a troubling trend of rail accidents that have plagued the country for years."
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70
+      ],
+      "score": 20,
+      "category": "conflict",
+      "rationale": "The investigation into the Krakow shooting as a potential act of terrorism raises significant concerns about public safety and extremism."
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38
+      ],
+      "score": 15,
+      "category": "society",
+      "rationale": "The youth movement in India advocating for accountability reflects a growing demand for political reform and engagement.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 54,
+      "memberIndices": [
+        54
+      ],
+      "score": 10,
+      "category": "sport",
+      "rationale": "Spain's victory in the Padel World Cup highlights the growing popularity of the sport on the global stage."
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32,
+        48
+      ],
+      "score": 5,
+      "category": "culture",
+      "rationale": "Diwali celebrations across India showcase the cultural richness and diversity of the festival."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18,
+        20
+      ],
+      "score": 3,
+      "category": "sport",
+      "rationale": "The La Liga match between Atletico Madrid and Barcelona draws significant attention from football fans."
+    },
+    {
+      "representativeIndex": 15,
+      "memberIndices": [
+        15
+      ],
+      "score": 2,
+      "category": "law",
+      "rationale": "The foie gras ban in D.C. reflects ongoing debates about animal rights and food ethics."
+    },
+    {
+      "representativeIndex": 30,
+      "memberIndices": [
+        30
+      ],
+      "score": 1,
+      "category": "culture",
+      "rationale": "The formation of a double waterspout off Capri is a rare natural phenomenon that captivates observers."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5
+      ],
+      "score": 19.9375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 7,
+      "memberIndices": [
+        7
+      ],
+      "score": 19.9125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 13,
+      "memberIndices": [
+        13
+      ],
+      "score": 19.8375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 16,
+      "memberIndices": [
+        16
+      ],
+      "score": 19.8,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        17
+      ],
+      "score": 19.7875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 26,
+      "memberIndices": [
+        26
+      ],
+      "score": 19.675,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 29,
+      "memberIndices": [
+        29
+      ],
+      "score": 19.6375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 31,
+      "memberIndices": [
+        31
+      ],
+      "score": 19.6125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 33,
+      "memberIndices": [
+        33
+      ],
+      "score": 19.5875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 34,
+      "memberIndices": [
+        34
+      ],
+      "score": 19.575,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 36,
+      "memberIndices": [
+        36
+      ],
+      "score": 19.55,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 39,
+      "memberIndices": [
+        39
+      ],
+      "score": 19.5125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 40,
+      "memberIndices": [
+        40
+      ],
+      "score": 19.5,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 44,
+      "memberIndices": [
+        44
+      ],
+      "score": 19.45,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 19.4375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46
+      ],
+      "score": 19.425,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 49,
+      "memberIndices": [
+        49
+      ],
+      "score": 19.3875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 50,
+      "memberIndices": [
+        50
+      ],
+      "score": 19.375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 51,
+      "memberIndices": [
+        51
+      ],
+      "score": 19.3625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 19.35,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 19.3125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 19.275,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 59,
+      "memberIndices": [
+        59
+      ],
+      "score": 19.2625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 61,
+      "memberIndices": [
+        61
+      ],
+      "score": 19.2375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 62,
+      "memberIndices": [
+        62
+      ],
+      "score": 19.225,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 19.2125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.1875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 66,
+      "memberIndices": [
+        66
+      ],
+      "score": 19.175,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 68,
+      "memberIndices": [
+        68
+      ],
+      "score": 19.15,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 71,
+      "memberIndices": [
+        71
+      ],
+      "score": 19.1125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 72,
+      "memberIndices": [
+        72
+      ],
+      "score": 19.1,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76
+      ],
+      "score": 19.05,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 77,
+      "memberIndices": [
+        77
+      ],
+      "score": 19.0375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 19.0125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 19,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 23021,
+      "usage": {
+        "inputTokens": 7734,
+        "outputTokens": 1019,
+        "totalTokens": 8753
+      },
+      "estimatedCostUsd": 0.0017715,
+      "returnedCount": 22,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 20331,
+      "usage": {
+        "inputTokens": 1399,
+        "outputTokens": 1305,
+        "totalTokens": 2704
+      },
+      "estimatedCostUsd": 0.00099285,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 18352,
+      "usage": {
+        "inputTokens": 1054,
+        "outputTokens": 1205,
+        "totalTokens": 2259
+      },
+      "estimatedCostUsd": 0.0008811,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 18857,
+      "usage": {
+        "inputTokens": 970,
+        "outputTokens": 1185,
+        "totalTokens": 2155
+      },
+      "estimatedCostUsd": 0.0008565,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 36260,
+      "usage": {
+        "inputTokens": 2214,
+        "outputTokens": 2709,
+        "totalTokens": 4923
+      },
+      "estimatedCostUsd": 0.0019574999999999996,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 36336,
+      "usage": {
+        "inputTokens": 1766,
+        "outputTokens": 2952,
+        "totalTokens": 4718
+      },
+      "estimatedCostUsd": 0.0020361,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 32013,
+      "usage": {
+        "inputTokens": 1624,
+        "outputTokens": 2683,
+        "totalTokens": 4307
+      },
+      "estimatedCostUsd": 0.0018533999999999998,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-11-08T18:04:49.211Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.01034895,
+    "complete": true,
+    "inputTokens": 16761,
+    "outputTokens": 13058,
+    "totalTokens": 29819,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+          "source": "New York Times",
+          "title_en": "What to Know About the Mass Shooting in Krakow, Poland"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/08/rosstat-hack-data-obtained-suggests-over-390000-russian-deaths-in-ukraine-war",
+          "source": "Euronews",
+          "title_en": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+          "source": "The Guardian",
+          "title_en": "Collision of two trains in Egypt kills at least seven"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/08/overcrowded-car-plunges-into-lake-in-brazil-killing-ten-including-five-children",
+          "source": "Euronews",
+          "title_en": "Overcrowded car plunges into lake in Brazil, killing ten, including five children"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+          "source": "The Guardian",
+          "title_en": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+          "source": "The Guardian",
+          "title_en": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave",
+          "source": "The Guardian",
+          "title_en": "Half of NHS trusts in England lack funds earmarked to cover maternity leave"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Israeli opposition leader warns of ‘point of no return’ for democracy"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+          "source": "New York Times",
+          "title_en": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
+          "source": "New York Times",
+          "title_en": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels"
+        },
+        {
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+          "source": "NPR",
+          "title_en": "Russell Brand to learn sentence after being found guilty of rape and sexual assault"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+          "source": "New York Times",
+          "title_en": "Trains Collide Near Cairo, Killing 4"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe"
+        },
+        {
+          "link": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+          "source": "The Guardian",
+          "title_en": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
+          "source": "New York Times",
+          "title_en": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/08/erdogan-joins-aliyev-for-azerbaijans-victory-day-in-karabakh",
+          "source": "Euronews",
+          "title_en": "Erdoğan joins Aliyev for Azerbaijan’s Victory Day in Karabakh"
+        },
+        {
+          "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Photos: Diwali celebrations light up India and its global diaspora"
+        },
+        {
+          "link": "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-evening",
+          "source": "Euronews",
+          "title_en": "Latest news bulletin | November 8th, 2026 – Evening"
+        },
+        {
+          "link": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
+          "source": "The Guardian",
+          "title_en": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/nov/08/met-office-weather-warning-uk-fog",
+          "source": "The Guardian",
+          "title_en": "Met Office issues weather warning for fog in the UK"
+        },
+        {
+          "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+          "source": "NPR",
+          "title_en": "After a successful trip to Uruguay, Pope Leo heads to Argentina"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Israeli forces release Palestinian journalist Abou Shhadeh"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Footage shows derailed carriages after fatal train crash in Egypt"
+        },
+        {
+          "link": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
+          "source": "The Block",
+          "title_en": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Egyptian embassy reopens in Libya for the first time in 12 years"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Government 'looking seriously' at banning under-16s from Vinted and eBay"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/nov/08/scillonian-iii-ship-final-voyage-isles-of-scilly-penzance-cornwall",
+          "source": "The Guardian",
+          "title_en": "End of the ‘vomit comet’: Scillonian III sets sail on final voyage from Isles of Scilly"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Palestinian journalist Abed Abou Shhadeh released after 5 days in detention"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+          "source": "New York Times",
+          "title_en": "What to Know About the Mass Shooting in Krakow, Poland"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/08/rosstat-hack-data-obtained-suggests-over-390000-russian-deaths-in-ukraine-war",
+          "source": "Euronews",
+          "title_en": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+          "source": "The Guardian",
+          "title_en": "Collision of two trains in Egypt kills at least seven"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/08/overcrowded-car-plunges-into-lake-in-brazil-killing-ten-including-five-children",
+          "source": "Euronews",
+          "title_en": "Overcrowded car plunges into lake in Brazil, killing ten, including five children"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+          "source": "The Guardian",
+          "title_en": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+          "source": "The Guardian",
+          "title_en": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave",
+          "source": "The Guardian",
+          "title_en": "Half of NHS trusts in England lack funds earmarked to cover maternity leave"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Israeli opposition leader warns of ‘point of no return’ for democracy"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+          "source": "New York Times",
+          "title_en": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya"
+        }
+      ],
+      "contentHashes": {
+        "ru": "473a528b985a6869a4ba832084412058fdbb54fcc0fcc4a65e48d1c57bbe0763",
+        "en": "d76f0fe6b39c44b41ff6cf5c63576b9f6b7269d79fe056f177c70204e7f0386a"
+      }
+    }
+  }
+}
