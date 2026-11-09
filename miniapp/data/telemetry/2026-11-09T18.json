@@ -1,0 +1,1473 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.931695,
+  "poolSize": 148,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html"
+    },
+    {
+      "index": 2,
+      "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html"
+    },
+    {
+      "index": 3,
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 4,
+      "title": "France accelerates minimum wage hike in bid to quell protest",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss"
+    },
+    {
+      "index": 5,
+      "title": "‘I know what it’s like to fight’- France’s most popular sportsman says he’s running for president",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election"
+    },
+    {
+      "index": 6,
+      "title": "$2 Billion Wasn’t Enough to Save Weil Gotshal",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html"
+    },
+    {
+      "index": 7,
+      "title": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assault",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault"
+    },
+    {
+      "index": 8,
+      "title": "Burnham warns that NHS will ‘struggle’ to cope if consultants don’t resume talks over pay – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news"
+    },
+    {
+      "index": 9,
+      "title": "Trump attempts to cast doubt on Democrats’ midterm election victory, questioning early vote numbers and ballot machines – live",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates"
+    },
+    {
+      "index": 10,
+      "title": "Israeli tourists spark outrage over video pushing tour guide into sea",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss"
+    },
+    {
+      "index": 11,
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 12,
+      "title": "What Is Congress’s Plan to Speed Up Energy Permits?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html"
+    },
+    {
+      "index": 13,
+      "title": "Only known handwritten final draft of MLK Jr’s I Have A Dream speech to be auctioned",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/09/mlk-dream-speech-auction"
+    },
+    {
+      "index": 14,
+      "title": "Russell Brand sentenced to more than 10 years for rape and sexual assault offences – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates"
+    },
+    {
+      "index": 15,
+      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 16,
+      "title": "Argentina: Pope Leo XIV receives warm welcome in Claypole",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-receives-warm-welcome-in-claypole"
+    },
+    {
+      "index": 17,
+      "title": "France blames Iran’s Revolutionary Guards for cyber-attacks on supermarket fridges",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+    },
+    {
+      "index": 18,
+      "title": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html"
+    },
+    {
+      "index": 19,
+      "title": "Latest news bulletin | November 9th, 2026 – Evening",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/09/latest-news-bulletin-november-9th-2026-evening"
+    },
+    {
+      "index": 20,
+      "title": "Labour’s Brexit red lines ready for ‘dignified retirement’, says their co-author",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/nov/09/labour-mp-brexit-red-lines-dignified-retirement"
+    },
+    {
+      "index": 21,
+      "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 22,
+      "title": "Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html"
+    },
+    {
+      "index": 23,
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 24,
+      "title": "How Did Greek Fire Work? And 6 Other Lost Inventions.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/09/science/lost-inventions-to-time-greek-fire-antikythera.html"
+    },
+    {
+      "index": 25,
+      "title": "Al Jazeera tries skateboarding at Youth Olympics",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/al-jazeera-tries-skateboarding-at-youth-olympics?traffic_source=rss"
+    },
+    {
+      "index": 26,
+      "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html"
+    },
+    {
+      "index": 27,
+      "title": "Poundland unable to buy new stock as fears over collapse grow",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 28,
+      "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk"
+    },
+    {
+      "index": 29,
+      "title": "French officials blame Iran for supermarket fridge hacking",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 30,
+      "title": "An Anti-Trump Protest. Police Threats. Inside a Rift in Diabetes Research.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/09/science/american-diabetes-association-turmoil.html"
+    },
+    {
+      "index": 31,
+      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 32,
+      "title": "France accuses Iran of cyberattack on supermarket fridges",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss"
+    },
+    {
+      "index": 33,
+      "title": "Norway dropped from junior hockey championship to make room for Russia",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/09/norway-dropped-from-junior-hockey-championship-to-make-room-for-russia"
+    },
+    {
+      "index": 34,
+      "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html"
+    },
+    {
+      "index": 35,
+      "title": "Russia: Independent Novaya Gazeta shuts its Moscow newsroom",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 36,
+      "title": "India’s demonetization: 10 years on, promises remain unfulfilled",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/india-s-demonetization-10-years-on-promises-remain-unfulfilled/a-79903331?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 37,
+      "title": "‘Black English’ and ‘Asian English’ should be census options, MPs say",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/09/black-english-asian-english-should-be-census-options-mps"
+    },
+    {
+      "index": 38,
+      "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss"
+    },
+    {
+      "index": 39,
+      "title": "Man uses excavator to destroy Chinese government building",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/man-uses-excavator-to-destroy-chinese-government-building?traffic_source=rss"
+    },
+    {
+      "index": 40,
+      "title": "StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464"
+    },
+    {
+      "index": 41,
+      "title": "Ice hockey: Norway says it's been kicked out of World Juniors in favor of Russia",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/ice-hockey-norway-says-it-s-been-kicked-out-of-world-juniors-in-favor-of-russia/a-79901844?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 42,
+      "title": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466"
+    },
+    {
+      "index": 43,
+      "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 44,
+      "title": "Nvidia shares slump amid investigation into CEO Jensen Huang",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss"
+    },
+    {
+      "index": 45,
+      "title": "Fake news in Africa: In an age of disinformation, who decides what's true?",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/fake-news-in-africa-in-an-age-of-disinformation-who-decides-what-s-true/a-79874039?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 46,
+      "title": "More than 50,000 displaced by deadly Ethiopia border clashes",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes?traffic_source=rss"
+    },
+    {
+      "index": 47,
+      "title": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440"
+    },
+    {
+      "index": 48,
+      "title": "Hardline Trump aide Stephen Miller takes over as White House chief of staff",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff"
+    },
+    {
+      "index": 49,
+      "title": "Polish prosecutors say ‘too early’ to tell if Kraków gunman was motivated by political ideology",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead"
+    },
+    {
+      "index": 50,
+      "title": "Turkey: Workers killed in Izmir steel plant blast",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/turkey-workers-killed-in-izmir-steel-plant-blast/a-79900748?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 51,
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 52,
+      "title": "Ethereum treasury Sharplink’s Q3 net income hits $751 million on unrealized ether gains",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459"
+    },
+    {
+      "index": 53,
+      "title": "French police officers on trial over beating of black man they accused of not wearing Covid mask",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid"
+    },
+    {
+      "index": 54,
+      "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss"
+    },
+    {
+      "index": 55,
+      "title": "Ukraine hits Russia’s second-largest refinery as fuel rationing spreads",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/09/ukraine-hits-russias-second-largest-refinery-as-fuel-rationing-spreads"
+    },
+    {
+      "index": 56,
+      "title": "Senegal human rights group demands government action after deadly sinking",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss"
+    },
+    {
+      "index": 57,
+      "title": "British comedian Russell Brand sentenced to 10 years and six months for rape, sexual assault",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/09/british-comedian-russell-brand-sentenced-to-10-years-and-six-months-for-rape-sexual-assaul"
+    },
+    {
+      "index": 58,
+      "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html"
+    },
+    {
+      "index": 59,
+      "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss"
+    },
+    {
+      "index": 60,
+      "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution"
+    },
+    {
+      "index": 61,
+      "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html"
+    },
+    {
+      "index": 62,
+      "title": "Los Angeles mayoral race points to growing sway of democratic socialists",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/los-angeles-mayoral-race-points-to-growing-sway-of-democratic-socialists?traffic_source=rss"
+    },
+    {
+      "index": 63,
+      "title": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/regulation/2026-11-09-river-markets-prediction-market-prime-brokerage-cftc-fcm-registration-436266"
+    },
+    {
+      "index": 64,
+      "title": "Medicare Advantage vs. Traditional Medicare, Explained",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html"
+    },
+    {
+      "index": 65,
+      "title": "Birds return to waterfowl park after oil vandalism",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 66,
+      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 67,
+      "title": "Strait of Hormuz still a source of leverage for Iran",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 68,
+      "title": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html"
+    },
+    {
+      "index": 69,
+      "title": "UK court hands comedian Russell Brand 10.5 years for rape, sexual assault",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss"
+    },
+    {
+      "index": 70,
+      "title": "Iran stands by demands to end the war as US ramps up military pressure",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss"
+    },
+    {
+      "index": 71,
+      "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced"
+    },
+    {
+      "index": 72,
+      "title": "Tom Lee’s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI ‘supercycle’",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219"
+    },
+    {
+      "index": 73,
+      "title": "Russell Brand sentenced to over 10 years in prison for rape and sexual assault convictions",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/russell-brand-sentenced-to-over-10-years-in-prison-for-rape-and-sexual-assault-convictions/a-79896124?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 74,
+      "title": "More than 100,000 sign petition for inquiry into UK role in Gaza genocide",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/more-than-100000-sign-petition-for-inquiry-into-uk-role-in-gaza-genocide?traffic_source=rss"
+    },
+    {
+      "index": 75,
+      "title": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi?traffic_source=rss"
+    },
+    {
+      "index": 76,
+      "title": "Joe Biden to limit White House memoir promotion due to advancing cancer",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/09/biden-presidency-memoir-promise-me-america-cancer"
+    },
+    {
+      "index": 77,
+      "title": "What ‘catastrophic’ South Africa local election results mean for ANC",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc?traffic_source=rss"
+    },
+    {
+      "index": 78,
+      "title": "Thames Water asks creditors for more time to help repay £20bn debt pile",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile"
+    },
+    {
+      "index": 79,
+      "title": "NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208"
+    },
+    {
+      "index": 80,
+      "title": "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2,
+        49,
+        80
+      ],
+      "score": 85,
+      "category": "conflict",
+      "rationale": "The mass shooting in Krakow has sparked significant political debate and concern over security in Poland."
+    },
+    {
+      "representativeIndex": 7,
+      "memberIndices": [
+        7,
+        14,
+        57,
+        71,
+        73
+      ],
+      "score": 80,
+      "category": "society",
+      "rationale": "Russell Brand's sentencing for multiple sexual assaults highlights ongoing issues of accountability and the #MeToo movement."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4,
+        8
+      ],
+      "score": 75,
+      "category": "politics",
+      "rationale": "The French government's response to protests through a minimum wage hike reflects significant political tensions ahead of elections."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18,
+        59
+      ],
+      "score": 70,
+      "category": "economy",
+      "rationale": "Falling oil prices due to hopes for peace between the U.S. and Iran have broad implications for global markets."
+    },
+    {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12,
+        22
+      ],
+      "score": 65,
+      "category": "politics",
+      "rationale": "Congress's plan to speed up energy permits could reshape environmental regulations and impact energy costs."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6,
+        44
+      ],
+      "score": 60,
+      "category": "economy",
+      "rationale": "The collapse of Weil Gotshal underscores the challenges facing traditional law firms in a rapidly changing legal landscape."
+    },
+    {
+      "representativeIndex": 15,
+      "memberIndices": [
+        15,
+        31,
+        46
+      ],
+      "score": 55,
+      "category": "conflict",
+      "rationale": "The plight of migrants crossing dangerous waters to Europe remains a critical humanitarian issue."
+    },
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        9
+      ],
+      "score": 50,
+      "category": "politics",
+      "rationale": "Trump's questioning of election integrity continues to stir political controversy and undermine trust in democratic processes."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5
+      ],
+      "score": 45,
+      "category": "politics",
+      "rationale": "Teddy Riner's presidential candidacy introduces a new dynamic to the French political landscape."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        28,
+        34,
+        51
+      ],
+      "score": 40,
+      "category": "technology",
+      "rationale": "The scandal surrounding Nvidia's CEO raises questions about corporate governance and national security in the tech industry."
+    },
+    {
+      "representativeIndex": 11,
+      "memberIndices": [
+        11
+      ],
+      "score": 35,
+      "category": "law",
+      "rationale": "The conviction of a civil servant for fraud highlights issues of accountability in public service."
+    },
+    {
+      "representativeIndex": 10,
+      "memberIndices": [
+        10
+      ],
+      "score": 30,
+      "category": "society",
+      "rationale": "The outrage over the incident involving Israeli tourists reflects broader tensions in international relations."
+    },
+    {
+      "representativeIndex": 36,
+      "memberIndices": [
+        36
+      ],
+      "score": 25,
+      "category": "economy",
+      "rationale": "The ongoing debate about India's demonetization continues to impact economic discussions and policy."
+    },
+    {
+      "representativeIndex": 19,
+      "memberIndices": [
+        19
+      ],
+      "score": 20,
+      "category": "world",
+      "rationale": "The latest news bulletin captures a snapshot of significant global events."
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38
+      ],
+      "score": 15,
+      "category": "politics",
+      "rationale": "The lack of evidence for foreign election meddling in Israel is a critical issue for national security."
+    },
+    {
+      "representativeIndex": 77,
+      "memberIndices": [
+        77
+      ],
+      "score": 10,
+      "category": "politics",
+      "rationale": "The ANC's electoral struggles signal a shift in South Africa's political landscape."
+    },
+    {
+      "representativeIndex": 13,
+      "memberIndices": [
+        13
+      ],
+      "score": 19.8375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 16,
+      "memberIndices": [
+        16
+      ],
+      "score": 19.8,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        17
+      ],
+      "score": 19.7875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 20,
+      "memberIndices": [
+        20
+      ],
+      "score": 19.75,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 21,
+      "memberIndices": [
+        21
+      ],
+      "score": 19.7375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 24,
+      "memberIndices": [
+        24
+      ],
+      "score": 19.7,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 25,
+      "memberIndices": [
+        25
+      ],
+      "score": 19.6875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 26,
+      "memberIndices": [
+        26
+      ],
+      "score": 19.675,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 27,
+      "memberIndices": [
+        27
+      ],
+      "score": 19.6625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 29,
+      "memberIndices": [
+        29
+      ],
+      "score": 19.6375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 30,
+      "memberIndices": [
+        30
+      ],
+      "score": 19.625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32
+      ],
+      "score": 19.6,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 33,
+      "memberIndices": [
+        33
+      ],
+      "score": 19.5875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 35,
+      "memberIndices": [
+        35
+      ],
+      "score": 19.5625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 37,
+      "memberIndices": [
+        37
+      ],
+      "score": 19.5375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 39,
+      "memberIndices": [
+        39
+      ],
+      "score": 19.5125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 40,
+      "memberIndices": [
+        40
+      ],
+      "score": 19.5,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 41,
+      "memberIndices": [
+        41
+      ],
+      "score": 19.4875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 42,
+      "memberIndices": [
+        42
+      ],
+      "score": 19.475,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 43,
+      "memberIndices": [
+        43
+      ],
+      "score": 19.4625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 19.4375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 47,
+      "memberIndices": [
+        47
+      ],
+      "score": 19.4125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 48,
+      "memberIndices": [
+        48
+      ],
+      "score": 19.4,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 50,
+      "memberIndices": [
+        50
+      ],
+      "score": 19.375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 19.35,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 54,
+      "memberIndices": [
+        54
+      ],
+      "score": 19.325,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 19.3125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 56,
+      "memberIndices": [
+        56
+      ],
+      "score": 19.3,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 19.275,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60
+      ],
+      "score": 19.25,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 61,
+      "memberIndices": [
+        61
+      ],
+      "score": 19.2375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 62,
+      "memberIndices": [
+        62
+      ],
+      "score": 19.225,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 19.2125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64
+      ],
+      "score": 19.2,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.1875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 66,
+      "memberIndices": [
+        66
+      ],
+      "score": 19.175,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 67,
+      "memberIndices": [
+        67
+      ],
+      "score": 19.1625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 68,
+      "memberIndices": [
+        68
+      ],
+      "score": 19.15,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 69,
+      "memberIndices": [
+        69
+      ],
+      "score": 19.1375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70
+      ],
+      "score": 19.125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 72,
+      "memberIndices": [
+        72
+      ],
+      "score": 19.1,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 74,
+      "memberIndices": [
+        74
+      ],
+      "score": 19.075,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 75,
+      "memberIndices": [
+        75
+      ],
+      "score": 19.0625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76
+      ],
+      "score": 19.05,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 78,
+      "memberIndices": [
+        78
+      ],
+      "score": 19.025,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 19.0125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 12635,
+      "usage": {
+        "inputTokens": 7298,
+        "outputTokens": 667,
+        "totalTokens": 7965
+      },
+      "estimatedCostUsd": 0.0014949000000000002,
+      "returnedCount": 16,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 15690,
+      "usage": {
+        "inputTokens": 1254,
+        "outputTokens": 1139,
+        "totalTokens": 2393
+      },
+      "estimatedCostUsd": 0.0008715,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 17010,
+      "usage": {
+        "inputTokens": 1077,
+        "outputTokens": 1180,
+        "totalTokens": 2257
+      },
+      "estimatedCostUsd": 0.00086955,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 18329,
+      "usage": {
+        "inputTokens": 888,
+        "outputTokens": 1181,
+        "totalTokens": 2069
+      },
+      "estimatedCostUsd": 0.0008418,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 35652,
+      "usage": {
+        "inputTokens": 1918,
+        "outputTokens": 2643,
+        "totalTokens": 4561
+      },
+      "estimatedCostUsd": 0.0018735,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 33564,
+      "usage": {
+        "inputTokens": 1783,
+        "outputTokens": 2626,
+        "totalTokens": 4409
+      },
+      "estimatedCostUsd": 0.00184305,
+      "returnedCount": 9,
+      "acceptedCount": 9
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 34715,
+      "usage": {
+        "inputTokens": 1615,
+        "outputTokens": 2684,
+        "totalTokens": 4299
+      },
+      "estimatedCostUsd": 0.00185265,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-11-09T18:04:45.408Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.009646950000000001,
+    "complete": true,
+    "inputTokens": 15833,
+    "outputTokens": 12120,
+    "totalTokens": 27953,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
+          "source": "New York Times",
+          "title_en": "Mass Killing in Poland Becomes Cause for a Political Fight"
+        },
+        {
+          "link": "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault",
+          "source": "The Guardian",
+          "title_en": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assault"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "France accelerates minimum wage hike in bid to quell protest"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+          "source": "New York Times",
+          "title_en": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html",
+          "source": "New York Times",
+          "title_en": "What Is Congress’s Plan to Speed Up Energy Permits?"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
+          "source": "New York Times",
+          "title_en": "$2 Billion Wasn’t Enough to Save Weil Gotshal"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Trump questions midterm elections integrity after previously accepting results"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
+          "source": "The Guardian",
+          "title_en": "‘I know what it’s like to fight’- France’s most popular sportsman says he’s running for president"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
+          "source": "New York Times",
+          "title_en": "A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Civil servant who secretly held five jobs found guilty of fraud"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Israeli tourists spark outrage over video pushing tour guide into sea"
+        },
+        {
+          "link": "https://www.dw.com/en/india-s-demonetization-10-years-on-promises-remain-unfulfilled/a-79903331?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "India’s demonetization: 10 years on, promises remain unfulfilled"
+        },
+        {
+          "link": "https://www.euronews.com/video/2026/11/09/latest-news-bulletin-november-9th-2026-evening",
+          "source": "Euronews",
+          "title_en": "Latest news bulletin | November 9th, 2026 – Evening"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/09/mlk-dream-speech-auction",
+          "source": "The Guardian",
+          "title_en": "Only known handwritten final draft of MLK Jr’s I Have A Dream speech to be auctioned"
+        },
+        {
+          "link": "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-receives-warm-welcome-in-claypole",
+          "source": "Euronews",
+          "title_en": "Argentina: Pope Leo XIV receives warm welcome in Claypole"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+          "source": "The Guardian",
+          "title_en": "France blames Iran’s Revolutionary Guards for cyber-attacks on supermarket fridges"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/2026/nov/09/labour-mp-brexit-red-lines-dignified-retirement",
+          "source": "The Guardian",
+          "title_en": "Labour’s Brexit red lines ready for ‘dignified retirement’, says their co-author"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Watch: Rare insight into France's drug gangs recruiting children to commit violence"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "France accuses Iran of supermarket fridge hacking"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/09/science/lost-inventions-to-time-greek-fire-antikythera.html",
+          "source": "New York Times",
+          "title_en": "How Did Greek Fire Work? And 6 Other Lost Inventions."
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/al-jazeera-tries-skateboarding-at-youth-olympics?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Al Jazeera tries skateboarding at Youth Olympics"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+          "source": "New York Times",
+          "title_en": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Poundland unable to buy new stock as fears over collapse grow"
+        },
+        {
+          "link": "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "French officials blame Iran for supermarket fridge hacking"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/09/science/american-diabetes-association-turmoil.html",
+          "source": "New York Times",
+          "title_en": "An Anti-Trump Protest. Police Threats. Inside a Rift in Diabetes Research."
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "France accuses Iran of cyberattack on supermarket fridges"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/09/norway-dropped-from-junior-hockey-championship-to-make-room-for-russia",
+          "source": "Euronews",
+          "title_en": "Norway dropped from junior hockey championship to make room for Russia"
+        },
+        {
+          "link": "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Russia: Independent Novaya Gazeta shuts its Moscow newsroom"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/nov/09/black-english-asian-english-should-be-census-options-mps",
+          "source": "The Guardian",
+          "title_en": "‘Black English’ and ‘Asian English’ should be census options, MPs say"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
+          "source": "New York Times",
+          "title_en": "Mass Killing in Poland Becomes Cause for a Political Fight"
+        },
+        {
+          "link": "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault",
+          "source": "The Guardian",
+          "title_en": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assault"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "France accelerates minimum wage hike in bid to quell protest"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+          "source": "New York Times",
+          "title_en": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html",
+          "source": "New York Times",
+          "title_en": "What Is Congress’s Plan to Speed Up Energy Permits?"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
+          "source": "New York Times",
+          "title_en": "$2 Billion Wasn’t Enough to Save Weil Gotshal"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Trump questions midterm elections integrity after previously accepting results"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
+          "source": "The Guardian",
+          "title_en": "‘I know what it’s like to fight’- France’s most popular sportsman says he’s running for president"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
+          "source": "New York Times",
+          "title_en": "A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed"
+        }
+      ],
+      "contentHashes": {
+        "ru": "b9c5d5a1f49ba4bc445790d671f3e10a83099a2a01a5e513344cdcf8c79b70f2",
+        "en": "769a5843f0f8dfbc048bf919be08cd1268174d5c6d9be51e12ea5888a7160aef"
+      }
+    }
+  }
+}
