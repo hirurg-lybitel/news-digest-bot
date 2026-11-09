@@ -1,0 +1,1405 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.94123861111111,
+  "poolSize": 89,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "Charity wants bee, bird and butterfly population boost",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 2,
+      "title": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues"
+    },
+    {
+      "index": 3,
+      "title": "Targeted by U.S., Armed Group Strikes Back in Colombia",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html"
+    },
+    {
+      "index": 4,
+      "title": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss"
+    },
+    {
+      "index": 5,
+      "title": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss"
+    },
+    {
+      "index": 6,
+      "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss"
+    },
+    {
+      "index": 7,
+      "title": "A joke or test? Why Trump floated UFC’s Dana White as his press secretary",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary?traffic_source=rss"
+    },
+    {
+      "index": 8,
+      "title": "Germans Miss Merkel, Their Old Chancellor, Though They Dislike Her Policies",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html"
+    },
+    {
+      "index": 9,
+      "title": "Burnham’s homelessness pledge to ‘get everyone in for Christmas’ in jeopardy",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/09/burnham-homelessness-pledge-rough-sleeping-england"
+    },
+    {
+      "index": 10,
+      "title": "Starbucks plans to hire 7,500 staff in major UK expansion plan",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/nov/09/starbucks-hire-7500-staff-uk-expansion-plan"
+    },
+    {
+      "index": 11,
+      "title": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb"
+    },
+    {
+      "index": 12,
+      "title": "Pope tells Argentina’s Milei leaders should know limits of power",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss"
+    },
+    {
+      "index": 13,
+      "title": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy following alleged affair",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/09/nvidia-investigates-whether-ceo-jensen-huang-was-targeted-by-chinese-spy-following-alleged"
+    },
+    {
+      "index": 14,
+      "title": "New Delhi blanketed in toxic smog after Diwali fireworks",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/new-delhi-blanketed-in-toxic-smog-after-diwali-fireworks?traffic_source=rss"
+    },
+    {
+      "index": 15,
+      "title": "G7 ministers meet as Europe seeks greater say in Ukraine peace talks",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 16,
+      "title": "Asian stock markets climb after earlier tech rout",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss"
+    },
+    {
+      "index": 17,
+      "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss"
+    },
+    {
+      "index": 18,
+      "title": "Trump tells 60 Minutes that deportation policy was ‘too tough’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration"
+    },
+    {
+      "index": 19,
+      "title": "Man accused of HungryPanda delivery rider’s stabbing murder yells and exposes himself in Melbourne court",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb"
+    },
+    {
+      "index": 20,
+      "title": "Mexico arrests alleged major leader of Jalisco cartel",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel?traffic_source=rss"
+    },
+    {
+      "index": 21,
+      "title": "Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047"
+    },
+    {
+      "index": 22,
+      "title": "‘Outrageous and racist’: premier responds to NSW One Nation candidate’s claim Australians are being ‘demographically replaced’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb"
+    },
+    {
+      "index": 23,
+      "title": "Trump defends Nvidia CEO amid Chinese spying allegations",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss"
+    },
+    {
+      "index": 24,
+      "title": "South Africa’s ANC suffers worst-ever local elections result",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss"
+    },
+    {
+      "index": 25,
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 26,
+      "title": "What is Zcash (ZEC)? How shielded transactions work",
+      "source": "The Block",
+      "link": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779"
+    },
+    {
+      "index": 27,
+      "title": "Moldova launches new power line to Romania to cut reliance on Russia",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss"
+    },
+    {
+      "index": 28,
+      "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss"
+    },
+    {
+      "index": 29,
+      "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
+    },
+    {
+      "index": 30,
+      "title": "‘I never executed Jesse Baird’: Beau Lamarre-Condon re-enacts shooting when giving evidence in NSW trial",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb"
+    },
+    {
+      "index": 31,
+      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html"
+    },
+    {
+      "index": 32,
+      "title": "Pope Leo urges Argentina's Milei to put people before the economy",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 33,
+      "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss"
+    },
+    {
+      "index": 34,
+      "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary"
+    },
+    {
+      "index": 35,
+      "title": "A glimmer of good news for Britain's sleepy dormouse",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 36,
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 37,
+      "title": "Maya Jama steps down as Love Island host after nine seasons",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/media/2026/nov/09/maya-jama-steps-down-as-love-island-host-after-nine-seasons"
+    },
+    {
+      "index": 38,
+      "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html"
+    },
+    {
+      "index": 39,
+      "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html"
+    },
+    {
+      "index": 40,
+      "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+    },
+    {
+      "index": 41,
+      "title": "India’s night lights up for Diwali",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss"
+    },
+    {
+      "index": 42,
+      "title": "What to Know About Nvidia’s Investigation of Its C.E.O.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/technology/nvidias-investigation-jensen-huang.html"
+    },
+    {
+      "index": 43,
+      "title": "Doing these things now will help you save money at Christmas",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 44,
+      "title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss"
+    },
+    {
+      "index": 45,
+      "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell"
+    },
+    {
+      "index": 46,
+      "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss"
+    },
+    {
+      "index": 47,
+      "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss"
+    },
+    {
+      "index": 48,
+      "title": "Mexican mayor found alive after hours-long abduction",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss"
+    },
+    {
+      "index": 49,
+      "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss"
+    },
+    {
+      "index": 50,
+      "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html"
+    },
+    {
+      "index": 51,
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 52,
+      "title": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html"
+    },
+    {
+      "index": 53,
+      "title": "Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034"
+    },
+    {
+      "index": 54,
+      "title": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 55,
+      "title": "Trains Collide Near Cairo, Killing 4",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html"
+    },
+    {
+      "index": 56,
+      "title": "How an Intern and a Biologist Rescued an Orphaned Walrus in Alaska",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/us/walrus-alaska-rescue.html"
+    },
+    {
+      "index": 57,
+      "title": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html"
+    },
+    {
+      "index": 58,
+      "title": "Medicare Advantage vs. Traditional Medicare, Explained",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html"
+    },
+    {
+      "index": 59,
+      "title": "Lopez double fires Barcelona to win at Atletico Madrid",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss"
+    },
+    {
+      "index": 60,
+      "title": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england"
+    },
+    {
+      "index": 61,
+      "title": "Top Astrophysicist Leaves U.S. After Trump Policies Affect Her Work",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html"
+    },
+    {
+      "index": 62,
+      "title": "Netherlands: Sea of red fills Amsterdam streets in Gaza protest",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest"
+    },
+    {
+      "index": 63,
+      "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss"
+    },
+    {
+      "index": 64,
+      "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss"
+    },
+    {
+      "index": 65,
+      "title": "Poland: Kraków mourns six victims as shooting site reopens",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/08/poland-krakow-mourns-six-victims-as-shooting-site-reopens"
+    },
+    {
+      "index": 66,
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 67,
+      "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications"
+    },
+    {
+      "index": 68,
+      "title": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis"
+    },
+    {
+      "index": 69,
+      "title": "Why Trump joked about having Dana White as his White House press secretary",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss"
+    },
+    {
+      "index": 70,
+      "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html"
+    },
+    {
+      "index": 71,
+      "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html"
+    },
+    {
+      "index": 72,
+      "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html"
+    },
+    {
+      "index": 73,
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 74,
+      "title": "Two police officers hailed as heroes for confronting Kraków gunman",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland"
+    },
+    {
+      "index": 75,
+      "title": "Disaster-Prone Communities Face Cuts and Slowdowns in Federal Help",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/06/climate/fema-grants-cuts-resilience.html"
+    },
+    {
+      "index": 76,
+      "title": "Deadly sand cliff collapses on displaced families in Gaza",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss"
+    },
+    {
+      "index": 77,
+      "title": "‘Seismic shift’: Native American women made significant gains in US midterms",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/08/native-american-women-midterm-elections"
+    },
+    {
+      "index": 78,
+      "title": "Pope Leo XIV ends his visit to Uruguay with a tribute to women before departing to Argentina",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/08/pope-leo-xiv-ends-his-visit-to-uruguay-with-a-tribute-to-women-before-departing-to-argenti"
+    },
+    {
+      "index": 79,
+      "title": "Iran: Trump says strikes unlikely if peace talks keep moving",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/iran-trump-says-strikes-unlikely-if-peace-talks-keep-moving/a-79894190?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 80,
+      "title": "Why Winning Big Matters",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/world/election-win-pete-hegseth-poland.html"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        20,
+        72
+      ],
+      "score": 90,
+      "category": "conflict",
+      "rationale": "The drone attack on a Colombian military base by the ELN highlights the ongoing violence and instability in the region, exacerbated by U.S. involvement."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4,
+        14,
+        31
+      ],
+      "score": 85,
+      "category": "health",
+      "rationale": "Severe air quality issues in New Delhi during Diwali pose significant health risks to millions, reflecting broader environmental challenges."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5,
+        76
+      ],
+      "score": 80,
+      "category": "disaster",
+      "rationale": "The flooding of displaced Palestinians in Gaza underscores the humanitarian crisis exacerbated by ongoing conflict and inadequate infrastructure."
+    },
+    {
+      "representativeIndex": 10,
+      "memberIndices": [
+        10,
+        16
+      ],
+      "score": 75,
+      "category": "economy",
+      "rationale": "Starbucks' plan to hire 7,500 staff in the UK signals a significant investment in youth employment amid economic challenges."
+    },
+    {
+      "representativeIndex": 15,
+      "memberIndices": [
+        15,
+        17,
+        79
+      ],
+      "score": 75,
+      "category": "politics",
+      "rationale": "The G7 meeting addressing Ukraine peace talks reflects the geopolitical tensions and the need for coordinated international responses."
+    },
+    {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12,
+        32,
+        50
+      ],
+      "score": 70,
+      "category": "politics",
+      "rationale": "Pope Leo XIV's address in Argentina emphasizes the intersection of faith and politics, urging leaders to prioritize social welfare amid austerity measures."
+    },
+    {
+      "representativeIndex": 24,
+      "memberIndices": [
+        24,
+        11
+      ],
+      "score": 70,
+      "category": "politics",
+      "rationale": "The ANC's poor election performance in South Africa signals a significant shift in political dynamics and public sentiment."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        35
+      ],
+      "score": 65,
+      "category": "climate",
+      "rationale": "The initiative to boost bee, bird, and butterfly populations reflects growing awareness and action towards biodiversity and climate issues."
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60,
+        9
+      ],
+      "score": 65,
+      "category": "health",
+      "rationale": "The NHS's initiative to support vulnerable patients this winter is crucial for public health amidst ongoing pressures on healthcare systems."
+    },
+    {
+      "representativeIndex": 62,
+      "memberIndices": [
+        62
+      ],
+      "score": 60,
+      "category": "society",
+      "rationale": "The large-scale protests in the Netherlands against the Gaza conflict highlight the rising public engagement and activism regarding international issues."
+    },
+    {
+      "representativeIndex": 13,
+      "memberIndices": [
+        13,
+        21,
+        40
+      ],
+      "score": 60,
+      "category": "technology",
+      "rationale": "The investigation into Nvidia CEO Jensen Huang's alleged ties to espionage raises significant concerns about corporate governance and national security."
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55,
+        28
+      ],
+      "score": 55,
+      "category": "disaster",
+      "rationale": "The tragic train collision in Egypt underscores ongoing safety issues within the country's transportation infrastructure."
+    },
+    {
+      "representativeIndex": 73,
+      "memberIndices": [
+        73
+      ],
+      "score": 55,
+      "category": "conflict",
+      "rationale": "The recent escalation of violence in Yemen, resulting in significant civilian casualties, highlights the dire humanitarian situation in the region.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 74,
+      "memberIndices": [
+        74,
+        57
+      ],
+      "score": 50,
+      "category": "society",
+      "rationale": "The response to the Krakow shooting reflects societal concerns over gun violence and public safety in Poland."
+    },
+    {
+      "representativeIndex": 19,
+      "memberIndices": [
+        19,
+        30
+      ],
+      "score": 50,
+      "category": "law",
+      "rationale": "The court appearance of a murder suspect in Melbourne raises important discussions about justice and public safety."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18,
+        34
+      ],
+      "score": 50,
+      "category": "politics",
+      "rationale": "Trump's acknowledgment of his previous policies indicates a potential shift in political strategy following electoral setbacks."
+    },
+    {
+      "representativeIndex": 36,
+      "memberIndices": [
+        36,
+        54
+      ],
+      "score": 50,
+      "category": "technology",
+      "rationale": "Nvidia's investigation into its CEO's personal conduct amidst espionage allegations raises critical questions about corporate ethics."
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46
+      ],
+      "score": 50,
+      "category": "politics",
+      "rationale": "Trump's comments on Iran negotiations reflect the complexities of U.S. foreign policy in a volatile region."
+    },
+    {
+      "representativeIndex": 8,
+      "memberIndices": [
+        8,
+        49
+      ],
+      "score": 45,
+      "category": "politics",
+      "rationale": "The public's mixed feelings about Angela Merkel's legacy illustrate the ongoing political discourse in Germany."
+    },
+    {
+      "representativeIndex": 37,
+      "memberIndices": [
+        37,
+        69
+      ],
+      "score": 45,
+      "category": "culture",
+      "rationale": "Maya Jama's departure from Love Island marks a significant change in a popular cultural phenomenon."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2
+      ],
+      "score": 40,
+      "category": "politics",
+      "rationale": "The internal struggles within the Australian Labor Party reflect broader challenges in governance and public perception."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6,
+        27
+      ],
+      "score": 40,
+      "category": "climate",
+      "rationale": "Turkey's push for electrification at COP31 highlights the global shift towards sustainable energy solutions."
+    },
+    {
+      "representativeIndex": 7,
+      "memberIndices": [
+        7
+      ],
+      "score": 19.9125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 22,
+      "memberIndices": [
+        22
+      ],
+      "score": 19.725,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 25,
+      "memberIndices": [
+        25
+      ],
+      "score": 19.6875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 26,
+      "memberIndices": [
+        26
+      ],
+      "score": 19.675,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 29,
+      "memberIndices": [
+        29
+      ],
+      "score": 19.6375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 33,
+      "memberIndices": [
+        33
+      ],
+      "score": 19.5875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38
+      ],
+      "score": 19.525,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 39,
+      "memberIndices": [
+        39
+      ],
+      "score": 19.5125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 41,
+      "memberIndices": [
+        41
+      ],
+      "score": 19.4875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 42,
+      "memberIndices": [
+        42
+      ],
+      "score": 19.475,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 43,
+      "memberIndices": [
+        43
+      ],
+      "score": 19.4625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 44,
+      "memberIndices": [
+        44
+      ],
+      "score": 19.45,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 19.4375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 47,
+      "memberIndices": [
+        47
+      ],
+      "score": 19.4125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 48,
+      "memberIndices": [
+        48
+      ],
+      "score": 19.4,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 51,
+      "memberIndices": [
+        51
+      ],
+      "score": 19.3625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 19.35,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 56,
+      "memberIndices": [
+        56
+      ],
+      "score": 19.3,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 19.275,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 59,
+      "memberIndices": [
+        59
+      ],
+      "score": 19.2625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 61,
+      "memberIndices": [
+        61
+      ],
+      "score": 19.2375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 19.2125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64
+      ],
+      "score": 19.2,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.1875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 66,
+      "memberIndices": [
+        66
+      ],
+      "score": 19.175,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 67,
+      "memberIndices": [
+        67
+      ],
+      "score": 19.1625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 68,
+      "memberIndices": [
+        68
+      ],
+      "score": 19.15,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70
+      ],
+      "score": 19.125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 71,
+      "memberIndices": [
+        71
+      ],
+      "score": 19.1125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 75,
+      "memberIndices": [
+        75
+      ],
+      "score": 19.0625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 77,
+      "memberIndices": [
+        77
+      ],
+      "score": 19.0375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 78,
+      "memberIndices": [
+        78
+      ],
+      "score": 19.025,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 19,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 27204,
+      "usage": {
+        "inputTokens": 7426,
+        "outputTokens": 997,
+        "totalTokens": 8423
+      },
+      "estimatedCostUsd": 0.0017120999999999998,
+      "returnedCount": 22,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 24213,
+      "usage": {
+        "inputTokens": 1208,
+        "outputTokens": 1111,
+        "totalTokens": 2319
+      },
+      "estimatedCostUsd": 0.0008478,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 35576,
+      "usage": {
+        "inputTokens": 1208,
+        "outputTokens": 1203,
+        "totalTokens": 2411
+      },
+      "estimatedCostUsd": 0.000903,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 26304,
+      "usage": {
+        "inputTokens": 1102,
+        "outputTokens": 1194,
+        "totalTokens": 2296
+      },
+      "estimatedCostUsd": 0.0008816999999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 51843,
+      "usage": {
+        "inputTokens": 1858,
+        "outputTokens": 2797,
+        "totalTokens": 4655
+      },
+      "estimatedCostUsd": 0.0019569,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 18290,
+      "usage": {
+        "inputTokens": 1940,
+        "outputTokens": 1048,
+        "totalTokens": 2988
+      },
+      "estimatedCostUsd": 0.0009197999999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 48120,
+      "usage": {
+        "inputTokens": 1800,
+        "outputTokens": 2985,
+        "totalTokens": 4785
+      },
+      "estimatedCostUsd": 0.002061,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-11-09T06:05:36.111Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.0092823,
+    "complete": true,
+    "inputTokens": 16542,
+    "outputTokens": 11335,
+    "totalTokens": 27877,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
+          "source": "New York Times",
+          "title_en": "Targeted by U.S., Armed Group Strikes Back in Colombia"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Smog blankets New Delhi as Diwali firecrackers worsen air quality"
+        },
+        {
+          "link": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza"
+        },
+        {
+          "link": "https://www.theguardian.com/business/2026/nov/09/starbucks-hire-7500-staff-uk-expansion-plan",
+          "source": "The Guardian",
+          "title_en": "Starbucks plans to hire 7,500 staff in major UK expansion plan"
+        },
+        {
+          "link": "https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "G7 ministers meet as Europe seeks greater say in Ukraine peace talks"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Pope tells Argentina’s Milei leaders should know limits of power"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "South Africa’s ANC suffers worst-ever local elections result"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Charity wants bee, bird and butterfly population boost"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
+          "source": "The Guardian",
+          "title_en": "GPs to offer 300,000 patients extra support to ease winter strain on NHS"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/09/nvidia-investigates-whether-ceo-jensen-huang-was-targeted-by-chinese-spy-following-alleged",
+          "source": "Euronews",
+          "title_en": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy following alleged affair"
+        },
+        {
+          "link": "https://www.euronews.com/video/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest",
+          "source": "Euronews",
+          "title_en": "Sea of red fills Amsterdam streets in Gaza protest"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+          "source": "New York Times",
+          "title_en": "Trains collide near Cairo, killing 4"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+          "source": "The Guardian",
+          "title_en": "Trump tells 60 Minutes that deportation policy was ‘too tough’"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Man accused of HungryPanda delivery rider’s stabbing murder yells and exposes himself in Melbourne court"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Nvidia launches investigation into CEO's affair with suspected Chinese spy"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
+          "source": "The Guardian",
+          "title_en": "Two police officers hailed as heroes for confronting Kraków gunman"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
+          "source": "New York Times",
+          "title_en": "Germans miss Merkel, their old Chancellor, though they dislike her policies"
+        },
+        {
+          "link": "https://www.theguardian.com/media/2026/nov/09/maya-jama-steps-down-as-love-island-host-after-nine-seasons",
+          "source": "The Guardian",
+          "title_en": "Maya Jama steps down as Love Island host after nine seasons"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
+          "source": "The Guardian",
+          "title_en": "Environment minister urges Labor colleagues to stop undermining Jim Chalmers"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Turkiye pushes electrification top of climate agenda as COP31 set to open"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "A joke or test? Why Trump floated UFC’s Dana White as his press secretary"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "‘Outrageous and racist’: premier responds to NSW One Nation candidate’s claim Australians are being ‘demographically replaced’"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Trump defends Nvidia CEO amid Chinese spying allegations"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean"
+        },
+        {
+          "link": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
+          "source": "The Block",
+          "title_en": "What is Zcash (ZEC)? How shielded transactions work"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+          "source": "The Guardian",
+          "title_en": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Drone attack suspends production at Iraq’s Khor Mor gasfield"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+          "source": "New York Times",
+          "title_en": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
+          "source": "New York Times",
+          "title_en": "Targeted by U.S., Armed Group Strikes Back in Colombia"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Smog blankets New Delhi as Diwali firecrackers worsen air quality"
+        },
+        {
+          "link": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza"
+        },
+        {
+          "link": "https://www.theguardian.com/business/2026/nov/09/starbucks-hire-7500-staff-uk-expansion-plan",
+          "source": "The Guardian",
+          "title_en": "Starbucks plans to hire 7,500 staff in major UK expansion plan"
+        },
+        {
+          "link": "https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "G7 ministers meet as Europe seeks greater say in Ukraine peace talks"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Pope tells Argentina’s Milei leaders should know limits of power"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "South Africa’s ANC suffers worst-ever local elections result"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Charity wants bee, bird and butterfly population boost"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
+          "source": "The Guardian",
+          "title_en": "GPs to offer 300,000 patients extra support to ease winter strain on NHS"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/09/nvidia-investigates-whether-ceo-jensen-huang-was-targeted-by-chinese-spy-following-alleged",
+          "source": "Euronews",
+          "title_en": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy following alleged affair"
+        }
+      ],
+      "contentHashes": {
+        "ru": "d03b066c11029a185ff029ff984d70340bd3bb41d519928d6966933c48fbf9b2",
+        "en": "169b73a5c8b0d3ca2286943c31f3bab0d489adf11a0353246827eaf1cc07b76d"
+      }
+    }
+  }
+}

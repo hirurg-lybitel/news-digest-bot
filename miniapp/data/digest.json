@@ -1,651 +1,651 @@
 {
-  "generatedAt": "2026-11-08T18:04:49.211Z",
-  "date": "2026-11-08",
-  "slot": "evening",
-  "periodHours": 11.935509166666666,
+  "generatedAt": "2026-11-09T06:05:36.111Z",
+  "date": "2026-11-09",
+  "slot": "morning",
+  "periodHours": 11.94123861111111,
   "intro": {
     "ru": "Главные мировые события за последние несколько часов — 30 коротких новостей.",
     "en": "The latest major world events in 30 concise stories."
   },
   "stories": [
     {
-      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+      "link": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
       "source": "New York Times",
       "title": {
-        "ru": "Что нужно знать о массовой стрельбе в Кракове, Польша",
-        "en": "What to Know About the Mass Shooting in Krakow, Poland"
+        "ru": "Вооруженная группа наносит ответный удар в Колумбии",
+        "en": "Targeted by U.S., Armed Group Strikes Back in Colombia"
       },
       "summary": {
-        "ru": "По данным полиции, в результате стрельбы в Кракове и другом городе погибли как минимум девять человек и более 16 получили ранения. Мотив остается неясным.",
-        "en": "At least nine people were dead and at least 16 injured after shootings in Krakow and another town, according to police. The motive remains unclear."
+        "ru": "Американские силы помогают Колумбии и Венесуэле в поисках ELN. На этих выходных группа атаковала военную базу Колумбии с помощью дронов, сообщили официальные лица.",
+        "en": "American forces are assisting Colombia and Venezuela in hunting the ELN. This weekend, the group attacked a Colombian military base using drones, officials said."
       },
       "category": {
         "ru": "Конфликт",
         "en": "Conflict"
       },
       "longBody": {
-        "ru": "В Кракове и соседнем городе произошла стрельба, в результате которой погибли как минимум девять человек и более 16 получили ранения, согласно данным полиции. Мотивы стрельбы остаются неясными, и власти продолжают расследование инцидента.\n\nСреди пострадавших есть как гражданские лица, так и представители правоохранительных органов. Полиция активно работает над выяснением обстоятельств произошедшего, а также над поиском возможных подозреваемых.\n\nЭтот инцидент стал шокирующим событием для местных жителей и привлек внимание национальных СМИ. Общественность требует прозрачности в расследовании и скорейшего установления причин трагедии.",
-        "en": "In Krakow and a nearby town, shootings occurred that resulted in at least nine deaths and over 16 injuries, according to police reports. The motives behind the shootings remain unclear, and authorities are continuing their investigation into the incident.\n\nAmong the injured are both civilians and law enforcement officers. The police are actively working to determine the circumstances surrounding the event and to locate potential suspects.\n\nThis incident has shocked local residents and attracted the attention of national media. The public is demanding transparency in the investigation and a swift determination of the causes of this tragedy."
+        "ru": "Американские силы оказывают помощь Колумбии и Венесуэле в поисках повстанческой группы ELN. На этих выходных группа атаковала военную базу Колумбии с использованием дронов, что вызвало обеспокоенность среди официальных лиц о растущей угрозе со стороны этой организации.\n\nАтака на военную базу подчеркивает напряженность в регионе и усилия правительств по борьбе с насилием и терроризмом. Ожидается, что международные силы продолжат оказывать поддержку в этой борьбе, чтобы восстановить стабильность и безопасность в Колумбии и соседних странах.\n\nСитуация в стране остается сложной, и власти призывают к совместным усилиям для противодействия угрозам со стороны ELN и других вооруженных группировок.",
+        "en": "American forces are assisting Colombia and Venezuela in hunting the ELN rebel group. This weekend, the group attacked a Colombian military base using drones, raising concerns among officials about the increasing threat posed by this organization.\n\nThe attack on the military base highlights the tension in the region and the efforts of governments to combat violence and terrorism. International forces are expected to continue providing support in this fight to restore stability and security in Colombia and neighboring countries.\n\nThe situation in the country remains complex, and authorities are calling for joint efforts to counter threats from the ELN and other armed groups."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/CHto-nuzhno-znat-o-massovoj-strelbe-v-Krakove-Polsha-11-08",
-        "en": "https://telegra.ph/What-to-Know-About-the-Mass-Shooting-in-Krakow-Poland-11-08-2"
+        "ru": "https://telegra.ph/Vooruzhennaya-gruppa-nanosit-otvetnyj-udar-v-Kolumbii-11-09",
+        "en": "https://telegra.ph/Targeted-by-US-Armed-Group-Strikes-Back-in-Colombia-11-09"
       }
     },
     {
-      "link": "https://www.euronews.com/2026/11/08/rosstat-hack-data-obtained-suggests-over-390000-russian-deaths-in-ukraine-war",
-      "source": "Euronews",
+      "link": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss",
+      "source": "Al Jazeera",
       "title": {
-        "ru": "Взлом Росстата: данные показывают более 390 000 российских смертей в войне с Украиной",
-        "en": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war"
+        "ru": "Смог окутал Нью-Дели, ухудшая качество воздуха из-за фейерверков на Дивали",
+        "en": "Smog blankets New Delhi as Diwali firecrackers worsen air quality"
       },
       "summary": {
-        "ru": "Группы хакеров Cyberpartisans BY и Silent Crow заявили, что взломали Росстат и подсчитали российские потери с начала вторжения в Украину. Их подсчет: от 393 000 до 450 000 убитых.",
-        "en": "Hacker groups Cyberpartisans BY and Silent Crow claim they hacked Rosstat and counted Russian losses since the invasion of Ukraine. Their tally: between 393,000 and 450,000 killed."
+        "ru": "Качество воздуха в индийской столице достигло критических уровней, создавая повышенные риски для здоровья более 30 миллионов жителей.",
+        "en": "Air quality in the Indian capital has reached severe levels, posing heightened health risks for over 30 million residents."
       },
       "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
+        "ru": "Здоровье",
+        "en": "Health"
       },
       "longBody": {
-        "ru": "Группы хакеров Cyberpartisans BY и Silent Crow заявили, что им удалось взломать Росстат и подсчитать потери России с начала вторжения в Украину. По их данным, число убитых составляет от 393 000 до 450 000 человек.\n\nЭти данные вызывают серьезные вопросы о точности официальной статистики и о реальных потерях, понесенных Россией в ходе конфликта. Хакеры утверждают, что их подсчеты основаны на внутренней информации, полученной в результате взлома.\n\nДанная ситуация подчеркивает растущее беспокойство о последствиях войны и о том, как она влияет на население обеих стран.",
-        "en": "Hacker groups Cyberpartisans BY and Silent Crow claim they successfully hacked Rosstat and counted Russian losses since the invasion of Ukraine. Their tally estimates that between 393,000 and 450,000 Russians have been killed.\n\nThis data raises serious questions about the accuracy of official statistics and the actual losses suffered by Russia during the conflict. The hackers assert that their counts are based on internal information obtained through the hack.\n\nThis situation highlights the growing concern over the consequences of the war and how it affects the populations of both countries."
+        "ru": "Качество воздуха в индийской столице достигло критических уровней, создавая повышенные риски для здоровья более 30 миллионов жителей. Празднование Дивали, сопровождающееся запуском фейерверков, усугубило ситуацию, вызвав резкий рост загрязнения.\n\nМестные власти и экологические организации выражают озабоченность по поводу ухудшения состояния атмосферы и призывают к мерам по улучшению качества воздуха. Гражданам рекомендуется оставаться в помещениях и избегать физической активности на улице.\n\nСитуация требует немедленного внимания, так как ухудшение качества воздуха может привести к серьезным последствиям для здоровья населения, особенно для уязвимых групп, таких как дети и пожилые люди.",
+        "en": "Air quality in the Indian capital has reached severe levels, posing heightened health risks for over 30 million residents. The celebration of Diwali, marked by the use of fireworks, has exacerbated the situation, leading to a sharp increase in pollution.\n\nLocal authorities and environmental organizations are expressing concern over the deteriorating atmospheric conditions and are calling for measures to improve air quality. Residents are advised to stay indoors and avoid outdoor physical activities.\n\nThe situation requires immediate attention, as the decline in air quality can lead to serious health consequences for the population, especially for vulnerable groups such as children and the elderly."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Vzlom-Rosstata-dannye-pokazyvayut-bolee-390-000-rossijskih-smertej-v-vojne-s-Ukrainoj-11-08",
-        "en": "https://telegra.ph/Rosstat-hack-data-obtained-suggests-over-390000-Russian-deaths-in-Ukraine-war-11-08"
+        "ru": "https://telegra.ph/Smog-okutal-Nyu-Deli-uhudshaya-kachestvo-vozduha-iz-za-fejerverkov-na-Divali-11-09",
+        "en": "https://telegra.ph/Smog-blankets-New-Delhi-as-Diwali-firecrackers-worsen-air-quality-11-09"
       }
     },
     {
-      "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-      "source": "The Guardian",
+      "link": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
       "title": {
-        "ru": "Столкновение двух поездов в Египте унесло жизни как минимум семи человек",
-        "en": "Collision of two trains in Egypt kills at least seven"
+        "ru": "«Палатки не защищают нас»: дожди затопляют перемещенных палестинцев в Газе",
+        "en": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza"
       },
       "summary": {
-        "ru": "Президент распорядился о срочном расследовании после того, как один поезд сошел с рельсов в результате столкновения в аль-Айяте, примерно в 30 милях от Каира. Семь человек погибли и более 100 получили ранения.",
-        "en": "The president ordered a prompt investigation after one train derailed in a collision in al-Ayyat, about 30 miles from Cairo. Seven people were killed and more than 100 injured."
+        "ru": "Сотни тысяч палестинцев подвержены затоплению, поскольку Израиль продолжает блокировать ввоз мобильных домов.",
+        "en": "Hundreds of thousands of Palestinians are vulnerable to flooding as Israel continues to block the entry of mobile homes."
       },
       "category": {
         "ru": "Катастрофа",
         "en": "Disaster"
       },
       "longBody": {
-        "ru": "Президент Египта распорядился о срочном расследовании после того, как один поезд сошел с рельсов в результате столкновения в аль-Айяте, примерно в 30 милях от Каира. В результате аварии погибли семь человек и более 100 получили ранения.\n\nСтолкновение произошло, когда поезд, направлявшийся в юго-западную провинцию Файюм, врезался в заднюю часть другого поезда, который следовал в южную провинцию Асван. Власти уже начали расследование, чтобы выяснить причины трагедии.\n\nЭта катастрофа вновь подняла вопросы о безопасности железнодорожного транспорта в Египте, где подобные инциденты происходят с печальной регулярностью.",
-        "en": "The president of Egypt ordered a prompt investigation after one train derailed in a collision in al-Ayyat, about 30 miles from Cairo. Seven people were killed and more than 100 were injured as a result of the crash.\n\nThe collision occurred when a train traveling to the southwestern Fayoum province crashed into the rear of another train heading to the southern province of Aswan. Authorities have already begun an investigation to determine the causes of the tragedy.\n\nThis disaster has once again raised questions about the safety of rail transport in Egypt, where such incidents occur with alarming regularity."
+        "ru": "Сотни тысяч палестинцев в Газе подвержены затоплению, так как Израиль продолжает блокировать ввоз мобильных домов для временного жилья. Дожди усугубляют ситуацию, создавая опасные условия для людей, вынужденных покинуть свои дома.\n\nМестные организации и международные гуманитарные группы выражают тревогу по поводу условий жизни перемещенных лиц, которые не имеют доступа к безопасному жилью. Блокада препятствует доставке необходимых ресурсов, что усугубляет гуманитарный кризис в регионе.\n\nПроблема затопления и нехватки жилья требует срочного вмешательства, чтобы обеспечить безопасность и защиту для уязвимых групп населения в Газе.",
+        "en": "Hundreds of thousands of Palestinians in Gaza are vulnerable to flooding as Israel continues to block the entry of mobile homes for temporary housing. Rainfall exacerbates the situation, creating dangerous conditions for people forced to leave their homes.\n\nLocal organizations and international humanitarian groups are expressing concern over the living conditions of displaced persons who lack access to safe housing. The blockade hinders the delivery of necessary resources, worsening the humanitarian crisis in the region.\n\nThe issue of flooding and housing shortages requires urgent intervention to ensure safety and protection for vulnerable populations in Gaza."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Stolknovenie-dvuh-poezdov-v-Egipte-uneslo-zhizni-kak-minimum-semi-chelovek-11-08",
-        "en": "https://telegra.ph/Collision-of-two-trains-in-Egypt-kills-at-least-seven-11-08"
+        "ru": "https://telegra.ph/Palatki-ne-zashchishchayut-nas-dozhdi-zatoplyayut-peremeshchennyh-palestincev-v-Gaze-11-09",
+        "en": "https://telegra.ph/Tents-dont-protect-us-Rains-flood-displaced-Palestinians-in-Gaza-11-09"
       }
     },
     {
-      "link": "https://www.euronews.com/2026/11/08/overcrowded-car-plunges-into-lake-in-brazil-killing-ten-including-five-children",
-      "source": "Euronews",
-      "title": {
-        "ru": "Переполненный автомобиль упал в озеро в Бразилии, убив десять человек, включая пятерых детей",
-        "en": "Overcrowded car plunges into lake in Brazil, killing ten, including five children"
-      },
-      "summary": {
-        "ru": "Правительство Рио-де-Жанейро подтвердило, что десять человек погибли, включая пятерых детей. По данным бразильских СМИ, среди жертв был и младенец.",
-        "en": "The Rio de Janeiro government confirmed ten dead, including five children. Brazilian media report that a baby was among the victims."
-      },
-      "category": {
-        "ru": "Катастрофа",
-        "en": "Disaster"
-      },
-      "longBody": {
-        "ru": "Правительство Рио-де-Жанейро подтвердило, что в результате падения автомобиля в озеро погибли десять человек, включая пятерых детей. По данным бразильских СМИ, среди жертв был и младенец.\n\nТрагедия произошла, когда автомобиль, переполненный людьми, выехал с дороги и упал в озеро. Спасательные службы были вызваны на место происшествия, но, к сожалению, многие из пострадавших не смогли быть спасены.\n\nДанная ситуация привлекла внимание общественности и вызвала обсуждение вопросов безопасности на дорогах, особенно в отношении перевозки детей.",
-        "en": "The Rio de Janeiro government confirmed that ten people died after a car plunged into a lake, including five children. Brazilian media report that a baby was among the victims.\n\nThe tragedy occurred when an overcrowded vehicle veered off the road and fell into the lake. Rescue services were called to the scene, but unfortunately, many of the victims could not be saved.\n\nThis situation has drawn public attention and sparked discussions about road safety, particularly concerning the transportation of children."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Perepolnennyj-avtomobil-upal-v-ozero-v-Brazilii-ubiv-desyat-chelovek-vklyuchaya-pyateryh-detej-11-08",
-        "en": "https://telegra.ph/Overcrowded-car-plunges-into-lake-in-Brazil-killing-ten-including-five-children-11-08"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+      "link": "https://www.theguardian.com/business/2026/nov/09/starbucks-hire-7500-staff-uk-expansion-plan",
       "source": "The Guardian",
       "title": {
-        "ru": "Трамп готов сделать шаг вправо, утверждая, что США сделали «гигантский шаг назад» на выборах",
-        "en": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections"
+        "ru": "Starbucks планирует нанять 7500 сотрудников в рамках крупного расширения в Великобритании",
+        "en": "Starbucks plans to hire 7,500 staff in major UK expansion plan"
       },
       "summary": {
-        "ru": "Трамп готов усилить борьбу с иммиграцией и отказаться от уступок новой демократической mayoría в Конгрессе. Он заявил, что США сделали «гигантский шаг назад», отвергнув его партию.",
-        "en": "Trump is poised to double down on immigration crackdown and refuse concessions to the new Democratic majority in Congress, claiming the US took a 'giant step back' by widely rejecting his party."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "Дональд Трамп готов усилить свою позицию по вопросам иммиграции и отказаться от уступок новой демократической mayoría в Конгрессе. Он заявил, что США сделали «гигантский шаг назад», отвергнув его партию.\n\nТрамп настраивается на более жесткий курс, что может привести к дальнейшему обострению политической ситуации в стране. Его помощник, Стивен Миллер, будет назначен на пост начальника штаба Белого дома, что также указывает на намерение Трампа продолжать свою жесткую политику.\n\nЭти изменения могут значительно повлиять на политическую динамику в США и на предстоящие выборы.",
-        "en": "Donald Trump is poised to double down on his immigration crackdown and refuse concessions to the new Democratic majority in Congress, claiming that the US took a 'giant step back' by widely rejecting his party.\n\nTrump is gearing up for a more hardline approach, which could lead to further escalation of the political situation in the country. His aide, Stephen Miller, will be appointed as White House chief of staff, indicating Trump's intention to continue his tough policies.\n\nThese changes could significantly impact the political dynamics in the US and the upcoming elections."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Tramp-gotov-sdelat-shag-vpravo-utverzhdaya-chto-SSHA-sdelali-gigantskij-shag-nazad-na-vyborah-11-08",
-        "en": "https://telegra.ph/Trump-set-to-lurch-further-right-claiming-US-took-giant-step-back-in-elections-11-08"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Гади Эйзенкот обращается к союзникам Нетаньяху, стремясь сформировать правительство",
-        "en": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government"
-      },
-      "summary": {
-        "ru": "Бывший военный начальник Гади Эйзенкот начал трудную задачу по формированию правительства, обращаясь к союзникам Биньямина Нетаньяху, заявив, что премьер-министр привел страну к историческому кризису.",
-        "en": "Former military chief Gadi Eisenkot started the tough task of forming a government, reaching out to Benjamin Netanyahu's allies, stating that the prime minister had brought the country to a historic crisis."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "Бывший военный начальник Гади Эйзенкот начал трудную задачу по формированию нового правительства, обращаясь к союзникам Биньямина Нетаньяху. Он заявил, что премьер-министр привел страну к историческому кризису.\n\nЭйзенкот, лидер партии Яшар, получил мандат от президента Исхака Герцога и имеет 28 дней для формирования правительства, несмотря на отсутствие четкого большинства в его блоке.\n\nЭта ситуация подчеркивает глубокую политическую поляризацию в Израиле и сложности, с которыми сталкиваются новые лидеры в попытках наладить стабильное управление.",
-        "en": "Former military chief Gadi Eisenkot has started the tough task of forming a new government, reaching out to Benjamin Netanyahu's allies, stating that the prime minister has brought the country to a historic crisis.\n\nEisenkot, the leader of the Yashar party, received a mandate from President Isaac Herzog and has 28 days to form a government, despite his bloc lacking a clear majority.\n\nThis situation highlights the deep political polarization in Israel and the challenges new leaders face in attempting to establish stable governance."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Gadi-EHjzenkot-obrashchaetsya-k-soyuznikam-Netanyahu-stremyas-sformirovat-pravitelstvo-11-08",
-        "en": "https://telegra.ph/Gadi-Eisenkot-reaches-out-to-Netanyahu-allies-as-he-strives-to-form-government-11-08"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Половина NHS в Англии не имеет средств, выделенных на покрытие декретного отпуска",
-        "en": "Half of NHS trusts in England lack funds earmarked to cover maternity leave"
-      },
-      "summary": {
-        "ru": "Почти половина NHS в Англии не имеет выделенного бюджета для покрытия сотрудников в декретном отпуске, что вызывает новые опасения по поводу давления на физиотерапевтические услуги.",
-        "en": "Almost half of NHS trusts in England have no earmarked funding to cover staff on maternity leave, raising fresh concerns about pressure on physiotherapy services."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "Почти половина NHS в Англии не имеет выделенного бюджета для покрытия сотрудников в декретном отпуске, что вызывает новые опасения по поводу давления на физиотерапевтические услуги. Анализ показал, что 49% NHS trusts не имеют ни выделенного бюджета, ни политики, позволяющей превышение расходов для оплаты декретного отпуска.\n\nЭто создает дополнительные трудности для системы здравоохранения, которая уже испытывает нехватку ресурсов и персонала. Профессиональные организации выражают озабоченность по поводу последствий для качества медицинского обслуживания.\n\nДанная ситуация требует внимания со стороны властей и возможных реформ для улучшения условий работы и обеспечения необходимого уровня обслуживания.",
-        "en": "Almost half of NHS trusts in England have no earmarked funding to cover staff on maternity leave, raising fresh concerns about pressure on physiotherapy services. Analysis revealed that 49% of NHS trusts lack both a dedicated budget and a policy to allow overspending to cover maternity leave.\n\nThis creates additional challenges for a healthcare system already facing resource and staffing shortages. Professional organizations are expressing concerns about the implications for the quality of healthcare services.\n\nThis situation calls for attention from authorities and potential reforms to improve working conditions and ensure an adequate level of care."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Polovina-NHS-v-Anglii-ne-imeet-sredstv-vydelennyh-na-pokrytie-dekretnogo-otpuska-11-08",
-        "en": "https://telegra.ph/Half-of-NHS-trusts-in-England-lack-funds-earmarked-to-cover-maternity-leave-11-08"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Лидер оппозиции Израиля предупреждает о «точке невозврата» для демократии",
-        "en": "Israeli opposition leader warns of ‘point of no return’ for democracy"
-      },
-      "summary": {
-        "ru": "Лидер оппозиции Израиля Гади Эйзенкот получил от президента Исхака Герцога задание по формированию нового правительства.",
-        "en": "Israeli opposition leader Gadi Eisenkot has been tasked by President Isaac Herzog with forming a new government."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "Лидер оппозиции Израиля Гади Эйзенкот получил от президента Исхака Герцога задание по формированию нового правительства. Это назначение произошло на фоне политической нестабильности и глубокого раскола в обществе.\n\nЭйзенкот, который ранее занимал высокие военные посты, теперь сталкивается с задачей объединить различные политические силы и предложить стабильное руководство. Его успех будет зависеть от способности наладить диалог с различными фракциями.\n\nЭта ситуация может стать поворотным моментом для израильской политики, если Эйзенкот сможет сформировать правительство, которое будет представлять интересы широкого круга избирателей.",
-        "en": "Israeli opposition leader Gadi Eisenkot has been tasked by President Isaac Herzog with forming a new government. This appointment comes amid political instability and deep societal divisions.\n\nEisenkot, who previously held high military positions, now faces the challenge of uniting various political forces and offering stable leadership. His success will depend on his ability to engage in dialogue with different factions.\n\nThis situation could be a turning point for Israeli politics if Eisenkot can form a government that represents a broad range of voters' interests."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Lider-oppozicii-Izrailya-preduprezhdaet-o-tochke-nevozvrata-dlya-demokratii-11-08",
-        "en": "https://telegra.ph/Israeli-opposition-leader-warns-of-point-of-no-return-for-democracy-11-08"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Башня Saudi Aramco повреждена в результате атаки хуситов на Эр-Рияд",
-        "en": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh"
-      },
-      "summary": {
-        "ru": "Саудовские власти сообщили, что никто не пострадал после того, как «падающие осколки» попали в здание в финансовом районе Эр-Рияда.",
-        "en": "The Saudi authorities reported no injuries after 'falling shrapnel' hit the building in Riyadh's financial district."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
-      },
-      "longBody": {
-        "ru": "Саудовские власти сообщили, что никто не пострадал после того, как «падающие осколки» попали в здание в финансовом районе Эр-Рияда. Этот инцидент произошел в результате атаки хуситов, которые нацелились на ключевые объекты в столице.\n\nАтака привлекла внимание международного сообщества, так как она подчеркивает продолжающуюся напряженность в регионе и угрозы безопасности, с которыми сталкиваются страны, находящиеся в конфликте. Власти продолжают расследование инцидента и усиливают меры безопасности.\n\nДанный случай поднимает вопросы о стабильности и безопасности в Саудовской Аравии, а также о возможных последствиях для региона.",
-        "en": "The Saudi authorities reported no injuries after 'falling shrapnel' hit a building in Riyadh's financial district. This incident occurred as a result of an attack by the Houthis, who targeted key sites in the capital.\n\nThe attack has drawn international attention as it underscores the ongoing tensions in the region and the security threats faced by countries in conflict. Authorities are continuing their investigation into the incident and are enhancing security measures.\n\nThis case raises questions about stability and security in Saudi Arabia, as well as potential repercussions for the region."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Bashnya-Saudi-Aramco-povrezhdena-v-rezultate-ataki-husitov-na-EHr-Riyad-11-08",
-        "en": "https://telegra.ph/Saudi-Aramco-Tower-Damaged-as-Yemens-Houthis-Attack-Riyadh-11-08-2"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Открытие посольства Египта в Триполи сигнализирует о региональном сдвиге по Ливии",
-        "en": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya"
-      },
-      "summary": {
-        "ru": "Бывшие соперники в Ливии стремятся к созданию единого правительства для завершения многолетнего конфликта.",
-        "en": "Former rivals in Libya are pushing for a unity government to end years of conflict."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "Бывшие соперники в Ливии стремятся к созданию единого правительства, чтобы положить конец многолетнему конфликту. Открытие посольства Египта в Триполи стало важным шагом в этом направлении и сигнализирует о возможном изменении в региональной политике.\n\nЭто событие подчеркивает усилия стран, стремящихся к стабилизации ситуации в Ливии и улучшению отношений между бывшими противниками. Открытие посольства также может способствовать более активному сотрудничеству в различных сферах.\n\nДанная ситуация вызывает надежды на мирное разрешение конфликта и восстановление стабильности в стране.",
-        "en": "Former rivals in Libya are pushing for a unity government to end years of conflict. The reopening of Egypt's embassy in Tripoli marks an important step in this direction and signals a potential shift in regional politics.\n\nThis event highlights the efforts of countries seeking to stabilize the situation in Libya and improve relations between former adversaries. The reopening of the embassy may also facilitate more active cooperation in various areas.\n\nThis situation raises hopes for a peaceful resolution to the conflict and the restoration of stability in the country."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Otkrytie-posolstva-Egipta-v-Tripoli-signaliziruet-o-regionalnom-sdvige-po-Livii-11-08",
-        "en": "https://telegra.ph/Egypts-reopening-of-its-embassy-in-Tripoli-signals-regional-shift-on-Libya-11-08"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Почему война в Иране привела к росту чистой энергии и ископаемых видов топлива",
-        "en": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels"
-      },
-      "summary": {
-        "ru": "Шок от глобальных цен на нефть вызвал рост спроса на электромобили и ускорил гонку за безопасными источниками энергии.",
-        "en": "The shock to global oil prices has caused a surge in demand for electric vehicles while propelling a race for immediate, secure power supplies."
+        "ru": "Сеть кофеен нацелена на рост на севере Лондона с добавлением 500 новых точек, что даст толчок занятости молодежи.",
+        "en": "The coffee shop chain aims for growth north of London with an additional 500 outlets, boosting youth employment."
       },
       "category": {
         "ru": "Экономика",
         "en": "Economy"
       },
       "longBody": {
-        "ru": "Шок от глобальных цен на нефть привел к резкому росту спроса на электромобили, поскольку потребители и компании стремятся найти более безопасные источники энергии. Это явление также ускоряет гонку за новыми технологиями в области чистой энергии, что может изменить рынок в ближайшие годы.\n\nКроме того, в ответ на нестабильность цен на нефть, многие государства и компании начинают пересматривать свои энергетические стратегии, акцентируя внимание на устойчивых и надежных источниках энергии. Это может привести к значительным инвестициям в инфраструктуру и инновации в области возобновляемых источников энергии.\n\nТем не менее, несмотря на растущий интерес к электромобилям, наблюдается также увеличение проектов по добыче ископаемого топлива, что вызывает опасения по поводу возможного конфликта между переходом на чистую энергию и традиционными источниками энергии.",
-        "en": "The shock to global oil prices has caused a surge in demand for electric vehicles as consumers and companies seek more secure energy sources. This phenomenon is also accelerating the race for new technologies in clean energy, which could reshape the market in the coming years.\n\nIn response to the volatility of oil prices, many governments and companies are beginning to reassess their energy strategies, focusing on sustainable and reliable energy sources. This could lead to significant investments in infrastructure and innovations in renewable energy.\n\nHowever, despite the growing interest in electric vehicles, there is also an increase in fossil fuel extraction projects, raising concerns about a potential conflict between the transition to clean energy and traditional energy sources."
+        "ru": "Сеть кофеен Starbucks объявила о планах по расширению в Великобритании, намереваясь нанять 7,500 новых сотрудников в течение следующих пяти лет. Основное внимание будет уделено открытию 500 новых точек на севере Лондона, что должно способствовать созданию рабочих мест для молодежи.\n\nКомпания, которая уже трудоустраивает более 18,000 человек в Великобритании, надеется на дальнейший рост, ориентируясь на регионы за пределами Лондона. Это расширение рассматривается как способ поддержки экономики и улучшения условий труда для молодежи.\n\nStarbucks подчеркивает важность создания новых рабочих мест и поддержки местных сообществ в процессе своего роста.",
+        "en": "The coffee shop chain Starbucks has announced plans for expansion in the UK, aiming to hire 7,500 new staff over the next five years. The focus will be on opening 500 new outlets north of London, which is expected to boost youth employment.\n\nThe company, which already employs over 18,000 people in the UK, is looking forward to further growth, targeting regions outside of London. This expansion is seen as a way to support the economy and improve working conditions for young people.\n\nStarbucks emphasizes the importance of creating new jobs and supporting local communities as part of its growth strategy."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Starbucks-planiruet-nanyat-7500-sotrudnikov-v-ramkah-krupnogo-rasshireniya-v-Velikobritanii-11-09",
+        "en": "https://telegra.ph/Starbucks-plans-to-hire-7500-staff-in-major-UK-expansion-plan-11-09"
       }
     },
     {
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
-      "source": "NPR",
+      "link": "https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
       "title": {
-        "ru": "Рассел Брэнд узнает приговор после признания виновным в изнасиловании и сексуальном насилии",
-        "en": "Russell Brand to learn sentence after being found guilty of rape and sexual assault"
+        "ru": "Министры G7 встречаются, чтобы Европа могла больше влиять на мирные переговоры по Украине",
+        "en": "G7 ministers meet as Europe seeks greater say in Ukraine peace talks"
       },
       "summary": {
-        "ru": "Комик Брэнд столкнется с «значительным» тюремным сроком, который судья Лондонского суда должен объявить в понедельник.",
-        "en": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday."
+        "ru": "С учетом подготовки Вашингтона к переговорам с Москвой и Киевом, европейские лидеры опасаются, что Украина может столкнуться с давлением принять плохую сделку.",
+        "en": "As Washington prepares for negotiations with Moscow and Kyiv, European leaders fear Ukraine could face pressure to accept a bad deal."
       },
       "category": {
-        "ru": "Право",
-        "en": "Law"
+        "ru": "Политика",
+        "en": "Politics"
       },
       "longBody": {
-        "ru": "Комик Рассел Брэнд ожидает вынесения приговора после того, как был признан виновным в изнасиловании и сексуальном насилии. Судья Лондонского суда должен объявить о \"значительном\" тюремном сроке в понедельник, что стало важным событием в его карьере и жизни.\n\nДело Брэнда вызвало широкий общественный резонанс, поднимая вопросы о сексуальном насилии и ответственности знаменитостей. Обсуждение его приговора может повлиять на общественное восприятие таких преступлений и на то, как они рассматриваются в судебной системе.\n\nОжидается, что приговор вызовет различные реакции как среди поклонников Брэнда, так и среди его критиков, что подчеркивает сложность вопросов морали и закона в обществе.",
-        "en": "Comedian Russell Brand awaits sentencing after being found guilty of rape and sexual assault. A London court judge is set to announce a \"significant\" prison sentence on Monday, marking a pivotal moment in his career and personal life.\n\nBrand's case has sparked widespread public discourse, raising issues of sexual violence and celebrity accountability. The discussion surrounding his sentencing may influence public perceptions of such crimes and how they are treated within the judicial system.\n\nThe expected sentence is likely to elicit varied reactions from both Brand's supporters and critics, highlighting the complexities of moral and legal issues in society."
+        "ru": "Министры G7 собрались для обсуждения вопросов, касающихся Украины, на фоне подготовки Вашингтона к переговорам с Москвой и Киевом. Европейские лидеры выражают опасения, что Украина может столкнуться с давлением принять неблагоприятное соглашение.\n\nОбсуждения также охватывают напряженность с Ираном и угрозу возобновления американских ударов, что подчеркивает сложность международной политической ситуации. Лидеры G7 стремятся обеспечить, чтобы Украина не оказалась в уязвимом положении в ходе переговоров.\n\nСитуация требует внимательного подхода, чтобы гарантировать, что интересы Украины будут защищены в процессе любых будущих соглашений.",
+        "en": "G7 ministers have met to discuss issues related to Ukraine amid Washington's preparations for negotiations with Moscow and Kyiv. European leaders are expressing concerns that Ukraine could face pressure to accept a bad deal.\n\nThe discussions also cover tensions with Iran and the threat of renewed US strikes, highlighting the complexity of the international political situation. G7 leaders are keen to ensure that Ukraine does not find itself in a vulnerable position during negotiations.\n\nThe situation requires a careful approach to ensure that Ukraine's interests are protected in the process of any future agreements."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Ministry-G7-vstrechayutsya-chtoby-Evropa-mogla-bolshe-vliyat-na-mirnye-peregovory-po-Ukraine-11-09",
+        "en": "https://telegra.ph/G7-ministers-meet-as-Europe-seeks-greater-say-in-Ukraine-peace-talks-11-09"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Папа призывает лидеров Аргентины знать пределы власти",
+        "en": "Pope tells Argentina’s Milei leaders should know limits of power"
+      },
+      "summary": {
+        "ru": "Папа Лев XIV призвал Аргентину защищать демократию во время обращения с президентом Хавьером Милеем.",
+        "en": "Pope Leo XIV urged Argentina to protect democracy during an address alongside President Javier Milei."
+      },
+      "category": {
+        "ru": "Политика",
+        "en": "Politics"
+      },
+      "longBody": {
+        "ru": "Папа Лев XIV призвал Аргентину защищать демократию во время обращения с президентом Хавьером Милеем. В своем выступлении он подчеркнул важность соблюдения демократических принципов и защиты прав граждан.\n\nПапа выразил надежду, что новое руководство страны будет работать на благо народа, ставя интересы граждан выше экономических соображений. Это обращение подчеркивает важность моральных и этических стандартов в управлении страной.\n\nВ условиях экономических вызовов, с которыми сталкивается Аргентина, призыв к защите демократии становится особенно актуальным.",
+        "en": "Pope Leo XIV urged Argentina to protect democracy during an address alongside President Javier Milei. In his speech, he emphasized the importance of upholding democratic principles and safeguarding citizens' rights.\n\nThe Pope expressed hope that the new leadership of the country would work for the benefit of the people, prioritizing citizens' interests over economic considerations. This address highlights the importance of moral and ethical standards in governance.\n\nIn the face of economic challenges confronting Argentina, the call to protect democracy becomes particularly relevant."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Papa-prizyvaet-liderov-Argentiny-znat-predely-vlasti-11-09",
+        "en": "https://telegra.ph/Pope-tells-Argentinas-Milei-leaders-should-know-limits-of-power-11-09"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Южноафриканская ANC терпит худший результат на местных выборах",
+        "en": "South Africa’s ANC suffers worst-ever local elections result"
+      },
+      "summary": {
+        "ru": "Южноафриканская ANC получила всего 30% голосов на местных выборах, что является худшим результатом в ее истории.",
+        "en": "South Africa's ANC has suffered its worst-ever local elections result, securing just 30% of the vote."
+      },
+      "category": {
+        "ru": "Политика",
+        "en": "Politics"
+      },
+      "longBody": {
+        "ru": "Южноафриканская партия ANC понесла свои худшие потери на местных выборах, получив всего 30% голосов. Этот результат стал самым низким в истории партии и вызывает серьезные опасения среди ее сторонников.\n\nПартия сталкивается с растущей критикой и недовольством избирателей, что может повлиять на ее будущее в политике страны. Аналитики отмечают, что такие результаты могут привести к пересмотру стратегии ANC и необходимости обращения к проблемам, волнующим граждан.\n\nСитуация требует внимания, так как партия должна найти способы восстановить доверие избирателей и улучшить свои позиции на политической арене.",
+        "en": "South Africa's ANC has suffered its worst-ever local elections result, securing just 30% of the vote. This outcome marks the lowest in the party's history and raises serious concerns among its supporters.\n\nThe party is facing increasing criticism and voter dissatisfaction, which could impact its future in the country's politics. Analysts note that such results may lead to a reassessment of ANC's strategy and the need to address issues that concern citizens.\n\nThe situation requires attention, as the party must find ways to restore voter trust and improve its standing in the political arena."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/YUzhnoafrikanskaya-ANC-terpit-hudshij-rezultat-na-mestnyh-vyborah-11-09",
+        "en": "https://telegra.ph/South-Africas-ANC-suffers-worst-ever-local-elections-result-11-09-3"
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Благотворительная организация хочет увеличить популяцию пчел, птиц и бабочек",
+        "en": "Charity wants bee, bird and butterfly population boost"
+      },
+      "summary": {
+        "ru": "Благотворительная организация Wildlife Trust в Берксире, Бакингемшире и Оксфордшире стремится собрать 70 000 фунтов стерлингов для проекта.",
+        "en": "The Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust aims to raise £70,000 for the project."
+      },
+      "category": {
+        "ru": "Климат",
+        "en": "Climate"
+      },
+      "longBody": {
+        "ru": "Благотворительная организация Wildlife Trust в Беркшире, Бакингемшире и Оксфордшире стремится собрать 70 000 фунтов стерлингов для проекта, направленного на поддержку популяции пчел, птиц и бабочек. Эта инициатива направлена на восстановление экосистемы и защиту местной фауны.\n\nОрганизация подчеркивает важность сохранения биоразнообразия и призывает местных жителей поддержать проект. Успех этой кампании может привести к положительным изменениям в экологии региона и улучшению условий для дикой природы.\n\nСбор средств станет важным шагом к реализации планов по восстановлению и защите природных ресурсов в этом районе.",
+        "en": "The Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust aims to raise £70,000 for a project focused on supporting the populations of bees, birds, and butterflies. This initiative is aimed at restoring the ecosystem and protecting local wildlife.\n\nThe organization emphasizes the importance of biodiversity conservation and calls on local residents to support the project. The success of this campaign could lead to positive changes in the region's ecology and improved conditions for wildlife.\n\nFundraising will be an important step towards implementing plans for the restoration and protection of natural resources in the area."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Blagotvoritelnaya-organizaciya-hochet-uvelichit-populyaciyu-pchel-ptic-i-babochek-11-09",
+        "en": "https://telegra.ph/Charity-wants-bee-bird-and-butterfly-population-boost-11-09"
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Врачи общей практики предложат 300 000 пациентам дополнительную поддержку для облегчения зимнего напряжения в NHS",
+        "en": "GPs to offer 300,000 patients extra support to ease winter strain on NHS"
+      },
+      "summary": {
+        "ru": "Схема на 40 миллионов фунтов стерлингов в Англии направлена на поддержку наиболее уязвимых людей и предотвращение ненужных госпитализаций.",
+        "en": "A £40m scheme in England aims to support the most vulnerable people and prevent unnecessary hospital stays."
+      },
+      "category": {
+        "ru": "Здоровье",
+        "en": "Health"
+      },
+      "longBody": {
+        "ru": "В Англии стартует программа на сумму 40 миллионов фунтов стерлингов, направленная на поддержку наиболее уязвимых людей и предотвращение ненужных госпитализаций. В рамках этой инициативы 300,000 пациентов получат дополнительную поддержку от своих врачей общей практики.\n\nПрограмма включает в себя медицинские проверки, пересмотры медикаментов и тесты на респираторные заболевания, что должно помочь сохранить здоровье пациентов и избежать госпитализаций в зимний период. NHS готовится к предстоящим вызовам, связанным с зимним сезоном.\n\nЭта инициатива подчеркивает важность профилактической медицины и заботы о здоровье населения в условиях растущего давления на систему здравоохранения.",
+        "en": "A £40m scheme in England aims to support the most vulnerable people and prevent unnecessary hospital stays. As part of this initiative, 300,000 patients will receive extra support from their GPs.\n\nThe program includes health checks, medication reviews, and respiratory tests designed to help keep patients healthy and avoid hospital admissions during the winter months. The NHS is preparing for the upcoming challenges associated with the winter season.\n\nThis initiative highlights the importance of preventive medicine and care for the health of the population amid increasing pressure on the healthcare system."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Vrachi-obshchej-praktiki-predlozhat-300-000-pacientam-dopolnitelnuyu-podderzhku-dlya-oblegcheniya-zimnego-napryazheniya-v-NHS-11-09",
+        "en": "https://telegra.ph/GPs-to-offer-300000-patients-extra-support-to-ease-winter-strain-on-NHS-11-09"
+      }
+    },
+    {
+      "link": "https://www.euronews.com/2026/11/09/nvidia-investigates-whether-ceo-jensen-huang-was-targeted-by-chinese-spy-following-alleged",
+      "source": "Euronews",
+      "title": {
+        "ru": "Nvidia расследует, был ли генеральный директор Дженсен Хуанг целью китайского шпиона после предполагаемого романа",
+        "en": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy following alleged affair"
+      },
+      "summary": {
+        "ru": "Генеральный директор Nvidia Дженсен Хуанг находится под расследованием после сообщений о том, что он был «целью иностранной разведывательной операции».",
+        "en": "Nvidia CEO Jensen Huang is being investigated after reports that he was the 'target of a foreign intelligence effort.'"
+      },
+      "category": {
+        "ru": "Технологии",
+        "en": "Technology"
+      },
+      "longBody": {
+        "ru": "Генеральный директор Nvidia Дженсен Хуанг находится под расследованием после сообщений о том, что он был «целью иностранной разведывательной операции». Это расследование началось после того, как Хуанг признал, что имел близкие отношения с бизнес-исполнителем, который, по данным США, является информатором Пекина.\n\nСитуация вызывает серьезные опасения в отношении безопасности и конфиденциальности в высоких технологиях. Nvidia проводит внутреннее расследование, чтобы выяснить детали и последствия этой ситуации.\n\nРазвитие событий может оказать влияние на репутацию компании и ее дальнейшую деятельность на рынке технологий.",
+        "en": "Nvidia CEO Jensen Huang is being investigated after reports that he was the 'target of a foreign intelligence effort.' This investigation was initiated after Huang admitted to having had an intimate relationship with a business executive who, according to the US, is a Beijing informant.\n\nThe situation raises serious concerns regarding security and privacy in high technology. Nvidia is conducting an internal investigation to determine the details and implications of this situation.\n\nThe developments could impact the company's reputation and its future operations in the technology market."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Nvidia-rassleduet-byl-li-generalnyj-direktor-Dzhensen-Huang-celyu-kitajskogo-shpiona-posle-predpolagaemogo-romana-11-09",
+        "en": "https://telegra.ph/Nvidia-investigates-whether-CEO-Jensen-Huang-was-targeted-by-Chinese-spy-following-alleged-affair-11-09"
+      }
+    },
+    {
+      "link": "https://www.euronews.com/video/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest",
+      "source": "Euronews",
+      "title": {
+        "ru": "Море красного заполнило улицы Амстердама на протесте против Газы",
+        "en": "Sea of red fills Amsterdam streets in Gaza protest"
+      },
+      "summary": {
+        "ru": "В воскресенье, 8 ноября, десятки тысяч людей, многие в красной одежде, прошли маршем по Амстердаму, требуя от правительства Нидерландов более решительных действий против Израиля в связи с войной в Газе.",
+        "en": "On Sunday, November 8, tens of thousands of people, many dressed in red, marched through Amsterdam demanding stronger action from the Dutch government against Israel over the war in Gaza."
+      },
+      "category": {
+        "ru": "Общество",
+        "en": "Society"
+      },
+      "longBody": {
+        "ru": "В воскресенье, 8 ноября, в Амстердаме прошел массовый марш, в котором участвовали десятки тысяч людей, многие из которых были одеты в красное. Участники акции требовали от правительства Нидерландов более решительных действий в ответ на конфликт в Газе.",
+        "en": "On Sunday, November 8, a massive march took place in Amsterdam, with tens of thousands of participants, many dressed in red. The demonstrators called on the Dutch government to take stronger action in response to the conflict in Gaza."
       }
     },
     {
       "link": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
       "source": "New York Times",
       "title": {
-        "ru": "Поезд столкнулся под Каиром, 4 человека погибли",
-        "en": "Trains Collide Near Cairo, Killing 4"
+        "ru": "Столкновение поездов под Каиром унесло жизни 4 человек",
+        "en": "Trains collide near Cairo, killing 4"
       },
       "summary": {
-        "ru": "Столкновение двух пассажирских поездов стало последним в длинной истории смертельных железнодорожных аварий в Египте, несмотря на миллиарды долларов, потраченные на модернизацию сети.",
-        "en": "The crash between two passenger trains was the latest in a long history of deadly rail accidents in Egypt, despite billions of dollars spent modernizing the network."
+        "ru": "Столкновение двух пассажирских поездов стало последним в череде смертельных железнодорожных аварий в Египте, несмотря на миллиарды, потраченные на модернизацию сети.",
+        "en": "The crash between two passenger trains was the latest in a history of deadly rail accidents in Egypt, despite billions spent modernizing the network."
       },
       "category": {
         "ru": "Катастрофа",
         "en": "Disaster"
       },
       "longBody": {
-        "ru": "Столкновение двух пассажирских поездов вблизи Каира стало последним инцидентом в длинной истории смертельных железнодорожных аварий в Египте. Несмотря на миллиарды долларов, потраченные на модернизацию железнодорожной сети, безопасность остается серьезной проблемой.\n\nДанный инцидент вновь поднимает вопросы о состоянии инфраструктуры и мерах безопасности на железных дорогах страны. Местные власти сталкиваются с критикой за недостаточную реакцию на проблемы, которые приводят к таким трагедиям.\n\nСмертельные аварии на железных дорогах в Египте часто становятся предметом обсуждения, и этот случай, унесший жизни четырех человек, не стал исключением.",
-        "en": "The crash between two passenger trains near Cairo marks the latest incident in a long history of deadly rail accidents in Egypt. Despite billions of dollars spent on modernizing the railway network, safety remains a significant concern.\n\nThis incident raises questions about the state of infrastructure and safety measures on the country's railways. Local authorities face criticism for their inadequate response to issues that lead to such tragedies.\n\nDeadly rail accidents in Egypt often become a topic of discussion, and this case, which claimed the lives of four people, is no exception."
+        "ru": "Столкновение двух пассажирских поездов произошло в Египте, унесшее жизни четырех человек. Это происшествие стало последним в череде смертельных железнодорожных аварий в стране, несмотря на значительные инвестиции в модернизацию железнодорожной сети.",
+        "en": "A collision between two passenger trains in Egypt resulted in the deaths of four individuals. This incident marks the latest in a series of deadly rail accidents in the country, despite significant investments in modernizing the railway network."
       }
     },
     {
-      "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
-      "source": "Al Jazeera",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
       "title": {
-        "ru": "Польша скорбит о шести погибших в атаке, власти начали расследование по делу о 'терроризме'",
-        "en": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe"
+        "ru": "Башня Aramco подверглась атаке в центре столицы Саудовской Аравии",
+        "en": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes"
       },
       "summary": {
-        "ru": "Начато расследование по делу о 'терроризме' после того, как правительственные чиновники заявили, что подозреваемый, вероятно, был под влиянием крайне правой идеологии.",
-        "en": "'Terrorism' investigation launched after government officials say suspect likely influenced by far-right ideology."
+        "ru": "Подтвержденные BBC кадры показывают повреждения здания в центральном финансовом районе столицы.",
+        "en": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district."
       },
       "category": {
         "ru": "Конфликт",
         "en": "Conflict"
       },
       "longBody": {
-        "ru": "После недавнего нападения, в результате которого погибли шесть человек, власти Польши начали расследование по делу о 'терроризме'. Правительственные чиновники заявили, что подозреваемый, вероятно, был под влиянием крайне правой идеологии, что вызывает серьезные опасения по поводу безопасности в стране.\n\nЭто расследование подчеркивает растущую обеспокоенность по поводу радикализации и насилия, связанного с экстремистскими идеями. Власти стремятся выяснить все обстоятельства инцидента и предотвратить подобные случаи в будущем.\n\nОбщество также активно обсуждает вопросы безопасности и толерантности, что может привести к изменениям в политике и законодательстве.",
-        "en": "'Terrorism' investigation has been launched following a recent attack that resulted in the deaths of six people in Poland. Government officials have stated that the suspect was likely influenced by far-right ideology, raising serious concerns about safety in the country.\n\nThis investigation highlights growing worries about radicalization and violence associated with extremist ideas. Authorities are eager to uncover all circumstances surrounding the incident and prevent similar cases in the future.\n\nSociety is also actively discussing issues of safety and tolerance, which may lead to changes in policy and legislation."
+        "ru": "В центральном финансовом районе столицы Саудовской Аравии произошло нападение, в результате которого пострадало здание Aramco Tower. Подтвержденные кадры показывают повреждения, которые были нанесены в ходе атаки.",
+        "en": "In the central financial district of the Saudi capital, an attack resulted in damage to the Aramco Tower. Footage authenticated by BBC Verify shows the extent of the damage inflicted during the strike."
       }
     },
     {
-      "link": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+      "link": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
       "source": "The Guardian",
       "title": {
-        "ru": "Лейбористы ожидают сокращения целей по электромобилям для автомобильной промышленности Великобритании, несмотря на протесты депутатов",
-        "en": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests"
+        "ru": "Трамп заявил, что политика депортации была «слишком жесткой»",
+        "en": "Trump tells 60 Minutes that deportation policy was ‘too tough’"
       },
       "summary": {
-        "ru": "Министры ожидают значительных сокращений целей по электромобилям на этой неделе, что вызовет беспокойство у многих депутатов Лейбористской партии.",
-        "en": "Ministers are expected to make steep cuts to the government’s electric vehicle (EV) targets this week, in a move that will relieve carmakers but alarm many Labour MPs."
+        "ru": "Президент признал, что одна из определяющих политик его второго срока стала политическим бременем и предложил заключить иммиграционную сделку с демократами.",
+        "en": "President Trump admitted that his deportation policy was 'too tough' and offered to strike an immigration deal with Democrats after the Republicans' defeat in the midterm elections."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Политика",
+        "en": "Politics"
       },
       "longBody": {
-        "ru": "Министры Великобритании ожидают значительных сокращений целей по электромобилям на этой неделе, что вызовет беспокойство среди депутатов Лейбористской партии. Эти изменения могут облегчить положение автопроизводителей, но также поставят под сомнение обязательства правительства по переходу на зеленую энергетику.\n\nОжидается, что план будет окончательно утвержден после важной встречи в Даунинг-стрит, где будут обсуждаться разногласия между различными министерствами. Это решение может повлиять на будущее электромобильной отрасли в стране и на усилия по сокращению выбросов углерода.\n\nДепутаты Лейбористской партии выражают опасения, что такие изменения могут ослабить обязательства правительства по экологическим вопросам и негативно сказаться на репутации партии.",
-        "en": "Ministers in the UK are expected to make steep cuts to the government's electric vehicle (EV) targets this week, raising concerns among Labour MPs. These changes may relieve carmakers but also cast doubt on the government's commitment to transitioning to green energy.\n\nThe plan is expected to be finalized after a crucial meeting in Downing Street, where disagreements between various departments will be discussed. This decision could impact the future of the electric vehicle industry in the country and efforts to reduce carbon emissions.\n\nLabour MPs are expressing concerns that such changes may weaken the government's commitments to environmental issues and negatively affect the party's reputation."
+        "ru": "Президент Трамп признал, что его политика депортации была 'слишком жесткой' и предложил заключить иммиграционную сделку с демократами. Это заявление сделано после неудачи республиканцев на промежуточных выборах.",
+        "en": "President Trump admitted that his deportation policy was 'too tough' and offered to strike an immigration deal with Democrats. This acknowledgment comes in the wake of the Republicans' defeat in the midterm elections."
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Мужчина, обвиняемый в убийстве курьера HungryPanda, кричит и оголяет себя в суде Мельбурна",
+        "en": "Man accused of HungryPanda delivery rider’s stabbing murder yells and exposes himself in Melbourne court"
+      },
+      "summary": {
+        "ru": "Роберто Урбано, 51 год, появился в суде по видеосвязи после смерти 47-летнего Фэн Цзяньминя в центре города в пятницу вечером.",
+        "en": "Roberto Urbano, 51, appeared in court via video link after the death of 47-year-old Feng Jianming in the CBD on Friday night."
+      },
+      "category": {
+        "ru": "Право",
+        "en": "Law"
+      },
+      "longBody": {
+        "ru": "Роберто Урбано, 51 год, предстал перед судом по видеосвязи после обвинения в убийстве 47-летнего Фэн Цзяньминя. Во время судебного заседания он проявил неуместное поведение, что привлекло внимание общественности.",
+        "en": "Roberto Urbano, 51, appeared in court via video link after being charged with the murder of 47-year-old Feng Jianming. During the court proceedings, he exhibited inappropriate behavior, drawing public attention."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Nvidia начинает расследование в связи с романом CEO с подозреваемой шпионкой из Китая",
+        "en": "Nvidia launches investigation into CEO's affair with suspected Chinese spy"
+      },
+      "summary": {
+        "ru": "Дженсен Хуанг также признался, что был «неверным» своей жене и заявил, что будет сотрудничать с расследованием безопасности.",
+        "en": "Jensen Huang also admitted to having been 'unfaithful' to his wife and says he will cooperate with a security investigation."
+      },
+      "category": {
+        "ru": "Технологии",
+        "en": "Technology"
+      },
+      "longBody": {
+        "ru": "Генеральный директор Nvidia Дженсен Хуанг признал, что был 'неверным' своей жене и заявил о готовности сотрудничать с расследованием безопасности, связанным с его личной жизнью.",
+        "en": "Nvidia CEO Jensen Huang admitted to being 'unfaithful' to his wife and expressed his willingness to cooperate with a security investigation related to his personal life."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Трамп собирается поговорить с Си и Путиным о Тегеране и «денуклеаризации»",
+        "en": "Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’"
+      },
+      "summary": {
+        "ru": "Трамп заявил, что блокада Ирана теперь вступила в силу, так как Тегеран угрожает 'обрушить ад', если США возобновят атаки.",
+        "en": "Trump says Iran land blockade is now in effect, as Tehran threatens to 'rain down hell' if US resumes attacks."
+      },
+      "category": {
+        "ru": "Политика",
+        "en": "Politics"
+      },
+      "longBody": {
+        "ru": "Президент Трамп заявил, что блокада Ирана теперь вступила в силу, так как Тегеран угрожает 'обрушить ад', если США возобновят атаки. Это заявление подчеркивает напряженность в отношениях между двумя странами.",
+        "en": "President Trump stated that the land blockade of Iran is now in effect, as Tehran threatens to 'rain down hell' if the US resumes attacks. This statement highlights the escalating tensions between the two nations."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Два полицейских названы героями за задержание стрелка в Кракове",
+        "en": "Two police officers hailed as heroes for confronting Kraków gunman"
+      },
+      "summary": {
+        "ru": "Два польских полицейских, которые были ранены при задержании стрелка в Кракове в субботу, были названы героями.",
+        "en": "Two Polish police officers who were injured as they pursued and detained the gunman in Kraków on Saturday have been hailed as heroes."
+      },
+      "category": {
+        "ru": "Общество",
+        "en": "Society"
+      },
+      "longBody": {
+        "ru": "Два польских полицейских, которые были ранены при задержании стрелка в Кракове, были названы героями. Их действия предотвратили дальнейшие жертвы во время инцидента, который привел к гибели шести человек.",
+        "en": "Two Polish police officers injured while apprehending a gunman in Kraków have been hailed as heroes. Their actions prevented further casualties during an incident that resulted in the deaths of six individuals."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
       "source": "New York Times",
       "title": {
-        "ru": "Кто такой Гади Эйзенкот, лидер оппозиции Израиля?",
-        "en": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?"
+        "ru": "Немцы скучают по Меркель, хотя не одобряют ее политику",
+        "en": "Germans miss Merkel, their old Chancellor, though they dislike her policies"
       },
       "summary": {
-        "ru": "Г-н Эйзенкот, карьерный генерал и главный соперник премьер-министра Израиля Биньямина Нетаньяху, теперь имеет до шести недель для формирования коалиции.",
-        "en": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition."
+        "ru": "Толпы собираются у строгого, но обнадеживающего портрета Ангелы Меркель, несмотря на критику ее наследия в немецкой политике.",
+        "en": "Crowds have flocked to the stern, but reassuring, face of Angela Merkel in her official portrait, even as a backlash to her legacy roils German politics."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Политика",
+        "en": "Politics"
       },
       "longBody": {
-        "ru": "Гади Эйзенкот, карьерный генерал и главный соперник премьер-министра Израиля Биньямина Нетаньяху, теперь имеет до шести недель для формирования коалиции. Это событие стало важным этапом в израильской политике, поскольку Эйзенкот представляет альтернативу действующему правительству.\n\nПроцесс формирования коалиции может оказаться сложным, учитывая разнообразие политических сил в стране. Эйзенкоту предстоит найти общий язык с различными партиями, чтобы создать стабильное правительство.\n\nЭта ситуация также подчеркивает продолжающиеся политические изменения в Израиле, где конкуренция между партиями остается высокой.",
-        "en": "Gadi Eisenkot, a career general and the leading rival of Israeli Prime Minister Benjamin Netanyahu, now has up to six weeks to form a coalition. This event marks a significant moment in Israeli politics as Eisenkot represents an alternative to the current government.\n\nThe coalition-building process may prove challenging given the diversity of political forces in the country. Eisenkot will need to find common ground with various parties to create a stable government.\n\nThis situation also highlights the ongoing political changes in Israel, where competition among parties remains intense."
+        "ru": "Толпы людей собираются у портрета Ангелы Меркель, несмотря на критику ее наследия в немецкой политике. Это свидетельствует о том, что многие немцы по-прежнему ценят ее лидерство.",
+        "en": "Crowds gather around Angela Merkel's portrait, despite criticism of her legacy in German politics. This indicates that many Germans still value her leadership."
       }
     },
     {
-      "link": "https://www.euronews.com/2026/11/08/erdogan-joins-aliyev-for-azerbaijans-victory-day-in-karabakh",
-      "source": "Euronews",
-      "title": {
-        "ru": "Эрдоган присоединился к Алиеву на Дне Победы Азербайджана в Карабахе",
-        "en": "Erdoğan joins Aliyev for Azerbaijan’s Victory Day in Karabakh"
-      },
-      "summary": {
-        "ru": "Азербайджан в воскресенье отпраздновал свой шестой День Победы, отмечая окончание войны в Карабахе.",
-        "en": "Azerbaijan celebrated on Sunday its sixth Victory Day, marking the end of the Karabakh war."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Азербайджан в воскресенье отпраздновал свой шестой День Победы, отмечая окончание войны в Карабахе. Президент Ильхам Алиев и турецкий лидер Реджеп Тайип Эрдоган приняли участие в торжествах, подчеркивая крепкие двусторонние связи между двумя странами.\n\nПразднование прошло на фоне недавних разногласий между Азербайджаном и Турцией, что делает это событие особенно значимым. Алиев заявил, что \"это единство будет длиться вечно\", подчеркивая важность сотрудничества между двумя нациями.\n\nДень Победы стал символом не только военной победы, но и укрепления национальной идентичности и единства в Азербайджане.",
-        "en": "Azerbaijan celebrated its sixth Victory Day on Sunday, marking the end of the Karabakh war. President Ilham Aliyev and Turkish leader Recep Tayyip Erdoğan participated in the commemorations, underscoring the strong bilateral ties between the two countries.\n\nThe celebration took place against the backdrop of recent differences between Azerbaijan and Turkey, making this event particularly significant. Aliyev declared that \"this unity will last forever,\" emphasizing the importance of cooperation between the two nations.\n\nVictory Day has become a symbol not only of military triumph but also of strengthening national identity and unity in Azerbaijan."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Фотографии: Празднования Дивали освещают Индию и её глобальную диаспору",
-        "en": "Photos: Diwali celebrations light up India and its global diaspora"
-      },
-      "summary": {
-        "ru": "Празднования включают фейерверки, молитвы, воссоединения, дизайны ранголи, угощения и обмен сладостями и подарками.",
-        "en": "Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Празднования Дивали в Индии и среди ее глобальной диаспоры включают фейерверки, молитвы, воссоединения, дизайны ранголи, угощения и обмен сладостями и подарками. Этот фестиваль света символизирует победу добра над злом и приносит радость и надежду многим людям.\n\nДивали отмечается не только в Индии, но и в странах с большой индийской общиной, что делает его международным событием. Люди собираются с семьями и друзьями, чтобы отпраздновать этот важный праздник.\n\nТрадиции и обычаи, связанные с Дивали, разнообразны и отражают богатое культурное наследие Индии, что делает этот фестиваль уникальным и значимым для миллионов людей по всему миру.",
-        "en": "Diwali celebrations in India and among its global diaspora feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts. This festival of lights symbolizes the victory of good over evil and brings joy and hope to many.\n\nDiwali is celebrated not only in India but also in countries with large Indian communities, making it an international event. People gather with family and friends to celebrate this important holiday.\n\nThe traditions and customs associated with Diwali are diverse and reflect India's rich cultural heritage, making this festival unique and significant for millions around the world."
-      }
-    },
-    {
-      "link": "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-evening",
-      "source": "Euronews",
-      "title": {
-        "ru": "Последние новости | 8 ноября 2026 года – Вечер",
-        "en": "Latest news bulletin | November 8th, 2026 – Evening"
-      },
-      "summary": {
-        "ru": "Подводите итоги самых важных новостей из Европы и за её пределами на 8 ноября 2026 года.",
-        "en": "Catch up with the most important stories from around Europe and beyond this November 8th, 2026."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "8 ноября 2026 года подводятся итоги самых важных новостей из Европы и за её пределами. Это время, когда люди могут ознакомиться с последними событиями, включая новости из мира, бизнеса, развлечений, политики, культуры и путешествий.\n\nСводка новостей предоставляет возможность получить актуальную информацию о ключевых событиях, происходящих в разных странах. Это важный ресурс для тех, кто хочет быть в курсе мировых событий и трендов.\n\nОбсуждение актуальных новостей помогает людям лучше понимать происходящее вокруг и формировать свои мнения по важным вопросам.",
-        "en": "On November 8th, 2026, a summary of the most important news from Europe and beyond is presented. This is a time for people to catch up on the latest events, including news from the world, business, entertainment, politics, culture, and travel.\n\nThe news bulletin provides an opportunity to get up-to-date information on key events happening in various countries. It is an important resource for those who want to stay informed about global happenings and trends.\n\nDiscussing current news helps people better understand what is happening around them and form their opinions on important issues."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
+      "link": "https://www.theguardian.com/media/2026/nov/09/maya-jama-steps-down-as-love-island-host-after-nine-seasons",
       "source": "The Guardian",
       "title": {
-        "ru": "Офисы китайского автопроизводителя BYD в Нидерландах обысканы из-за обвинений в 'копировании' автомобилей JLR",
-        "en": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim"
+        "ru": "Майя Джама покидает пост ведущей Love Island после девяти сезонов",
+        "en": "Maya Jama steps down as Love Island host after nine seasons"
       },
       "summary": {
-        "ru": "Бейлифы, действующие от имени Jaguar Land Rover, обыскали офисы китайского конкурента BYD в Нидерландах перед судебным разбирательством.",
-        "en": "Bailiffs acting for Jaguar Land Rover raided the Dutch offices of a Chinese “copycat” rival before a legal showdown this week."
+        "ru": "32-летняя ведущая объявила о своем уходе из шоу в Instagram, отметив, что у нее был 'незабываемый опыт'.",
+        "en": "32-year-old presenter Maya Jama announced she is stepping down as the host of Love Island after three years, hailing her 'unforgettable time' on the show."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Культура",
+        "en": "Culture"
       },
       "longBody": {
-        "ru": "Офисы китайского автопроизводителя BYD в Нидерландах были обысканы в связи с обвинениями в нарушении интеллектуальной собственности со стороны Jaguar Land Rover. Бейлифы, действующие от имени JLR, провели обыск перед судебным разбирательством, которое ожидается на этой неделе.\n\nЭтот случай поднимает вопросы о защите интеллектуальной собственности и конкуренции на рынке автомобилей. Ожидается, что судебное разбирательство станет важным этапом в разрешении споров между компаниями.\n\nОбсуждение этого дела может повлиять на восприятие китайских автопроизводителей и их практик в Европе, а также на будущее отношений между BYD и JLR.",
-        "en": "The Dutch offices of Chinese carmaker BYD were raided over allegations of intellectual property infringement by Jaguar Land Rover. Bailiffs acting on behalf of JLR conducted the raid ahead of a legal showdown expected this week.\n\nThis case raises questions about intellectual property protection and competition in the automotive market. The upcoming legal proceedings are anticipated to be a significant milestone in resolving disputes between companies.\n\nThe discussion surrounding this case may influence perceptions of Chinese automakers and their practices in Europe, as well as the future relationship between BYD and JLR."
+        "ru": "Майя Джама объявила о своем уходе с поста ведущей шоу 'Love Island' после трех сезонов. Она отметила, что у нее был 'незабываемый опыт' на проекте.",
+        "en": "Maya Jama announced her departure as the host of 'Love Island' after three seasons. She noted that she had an 'unforgettable time' on the show."
       }
     },
     {
-      "link": "https://www.theguardian.com/uk-news/2026/nov/08/met-office-weather-warning-uk-fog",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
       "source": "The Guardian",
       "title": {
-        "ru": "Метеорологическая служба Великобритании выдала предупреждение о тумане",
-        "en": "Met Office issues weather warning for fog in the UK"
+        "ru": "Министр окружающей среды призывает коллег по Лейбористской партии прекратить подрывать Джима Чалмерса",
+        "en": "Environment minister urges Labor colleagues to stop undermining Jim Chalmers"
       },
       "summary": {
-        "ru": "Метеорологическая служба предупреждает о тумане, который может нарушить движение до понедельника. Желтое предупреждение действует с 18:00 воскресенья до 11:00 понедельника в большинстве южных районов Англии и по всему Мидленду.",
-        "en": "The Met Office warns that fog may disrupt travel until Monday morning. A yellow weather warning is in effect from 6pm Sunday to 11am Monday in most southern England and throughout the Midlands."
+        "ru": "Министр окружающей среды Мюррей Уотт призвал министров прекратить подрывать казначея Джима Чалмерса, поскольку Лейбористская партия пытается продать свой бюджет и сократить популярные субсидии на чистую энергию.",
+        "en": "Environment Minister Murray Watt urged ministers to stop undermining Treasurer Jim Chalmers as Labor struggles to sell its budget and looks to cut popular clean energy subsidies."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Политика",
+        "en": "Politics"
       },
       "longBody": {
-        "ru": "Метеорологическая служба Великобритании выпустила предупреждение о тумане, который может повлиять на движение транспорта до утра понедельника. Желтое предупреждение будет действовать с 18:00 воскресенья до 11:00 понедельника в большинстве южных районов Англии и по всему Мидленду.\n\nСогласно прогнозам, текущие погодные условия создают \"идеальные условия\" для образования тумана. Это может привести к значительным задержкам и затруднениям в передвижении, особенно в утренние часы пик.\n\nВласти призывают водителей быть осторожными и учитывать возможные изменения в расписании общественного транспорта.",
-        "en": "The Met Office has issued a weather warning for fog that may disrupt travel until Monday morning. A yellow weather warning is in effect from 6pm Sunday to 11am Monday in most southern England and throughout the Midlands.\n\nAccording to forecasts, current weather conditions are creating a \"perfect recipe\" for fog formation. This could lead to significant delays and difficulties in travel, especially during the morning rush hours.\n\nAuthorities are urging drivers to exercise caution and to be aware of potential changes in public transport schedules."
+        "ru": "Министр окружающей среды Мюррей Уотт призвал своих коллег по Лейбористской партии прекратить подрывать авторитет казначея Джима Чалмерса. Это заявление прозвучало на фоне усилий партии продать свой бюджет и сократить популярные субсидии на чистую энергию, что стало важным шагом в борьбе с инфляцией.\n\nУотт отметил, что после встречи кабинета министров, посвященной возможным бюджетным сбережениям, стало очевидно, что некоторые министры делают комментарии, которые могут подорвать единство партии. Он подчеркнул необходимость сплоченности в сложный период, когда партия пытается представить свои финансовые планы общественности.\n\nСокращение субсидий на чистую энергию вызывает беспокойство среди сторонников устойчивого развития, и Уотт призвал своих коллег быть более осторожными в своих высказываниях, чтобы не усугублять ситуацию.",
+        "en": "Environment Minister Murray Watt urged his Labor colleagues to stop undermining Treasurer Jim Chalmers. This statement comes as the party struggles to sell its budget and looks to cut popular clean energy subsidies, a crucial step in the fight against inflation.\n\nWatt pointed out that after a cabinet meeting focused on potential budget savings, it became clear that some ministers were making comments that could undermine party unity. He emphasized the need for cohesion during this challenging time as the party attempts to present its financial plans to the public.\n\nThe proposed cuts to clean energy subsidies have raised concerns among sustainability advocates, and Watt urged his colleagues to be more cautious in their remarks to avoid exacerbating the situation."
       }
     },
     {
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
-      "source": "NPR",
-      "title": {
-        "ru": "После успешной поездки в Уругвай Папа Лев направляется в Аргентину",
-        "en": "After a successful trip to Uruguay, Pope Leo heads to Argentina"
-      },
-      "summary": {
-        "ru": "В воскресенье десятки тысяч человек собрались на главной площади в Флориде, Уругвай, чтобы послушать Папу Льва.",
-        "en": "On Sunday, tens of thousands gathered in the main square in Florida, Uruguay, to hear Pope Leo speak."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "В воскресенье десятки тысяч людей собрались на главной площади в Флориде, Уругвай, чтобы послушать речь Папы Льва. Это событие привлекло внимание и вызвало большой интерес среди местных жителей и паломников.\n\nПапа Лев, который недавно завершил успешный визит в Уругвай, продолжает свои поездки по Латинской Америке, привнося послание надежды и единства. Его выступление стало важным моментом для многих, кто пришел его поддержать.\n\nСобравшиеся выражали свою преданность и поддержку, создавая атмосферу праздника и духовного единства.",
-        "en": "On Sunday, tens of thousands gathered in the main square in Florida, Uruguay, to hear Pope Leo speak. This event attracted significant attention and interest from local residents and pilgrims alike.\n\nPope Leo, who recently concluded a successful visit to Uruguay, continues his travels across Latin America, bringing a message of hope and unity. His address became a significant moment for many who came to support him.\n\nThose in attendance expressed their devotion and support, creating an atmosphere of celebration and spiritual unity."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Израильские силы освободили палестинского журналиста Абеду Абу Шхаде",
-        "en": "Israeli forces release Palestinian journalist Abou Shhadeh"
+        "ru": "Турция ставит электрификацию на вершину климатической повестки, когда открывается COP31",
+        "en": "Turkiye pushes electrification top of climate agenda as COP31 set to open"
       },
       "summary": {
-        "ru": "Абед Абу Шхаде заявил, что его задержание было частью политических мер Израиля для запугивания арабского общества.",
-        "en": "Abed Abou Shhadeh stated that his detention was part of Israel's political measures to intimidate Arab society."
+        "ru": "Анкара стремится сделать электроэнергию 35% от глобального спроса на энергию к 2035 году.",
+        "en": "Ankara aims to make electricity account for 35 percent of global energy demand by 2035."
+      },
+      "category": {
+        "ru": "Климат",
+        "en": "Climate"
+      },
+      "longBody": {
+        "ru": "Анкара стремится сделать электроэнергию основным источником энергии, планируя, чтобы она составила 35% от глобального спроса на энергию к 2035 году. Это заявление подчеркивает амбиции Турции в области устойчивого развития и борьбы с изменением климата.\n\nПравительство Турции активно работает над тем, чтобы повысить долю возобновляемых источников энергии в своем энергетическом балансе. Это включает в себя инвестиции в солнечную и ветровую энергетику, а также в другие технологии, способствующие снижению углеродных выбросов.\n\nПлан по увеличению доли электроэнергии в общем потреблении энергии является частью более широкой стратегии страны, направленной на достижение устойчивого экономического роста и уменьшение зависимости от ископаемых видов топлива.",
+        "en": "Ankara aims to make electricity a primary energy source, targeting to account for 35 percent of global energy demand by 2035. This statement highlights Turkey's ambitions in sustainability and climate change mitigation.\n\nThe Turkish government is actively working to increase the share of renewable energy in its energy mix. This includes investments in solar and wind power, as well as other technologies that contribute to reducing carbon emissions.\n\nThe plan to increase the share of electricity in overall energy consumption is part of a broader strategy for the country aimed at achieving sustainable economic growth and reducing dependence on fossil fuels."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Шутка или тест? Почему Трамп предложил Дану Уайта из UFC на пост пресс-секретаря",
+        "en": "A joke or test? Why Trump floated UFC’s Dana White as his press secretary"
+      },
+      "summary": {
+        "ru": "Уайт является близким другом Трампа и поддержал его на выборах, но никогда не занимал государственных должностей.",
+        "en": "White is a close friend of Trump and has endorsed him for president, but has never held a government position."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Палестинский журналист Абед Абу Шхаде был освобожден после своего задержания, которое он охарактеризовал как часть политических мер Израиля, направленных на запугивание арабского общества. Он заявил, что его арест был частью более широкой стратегии.\n\nАбу Шхаде выразил надежду, что его освобождение станет сигналом для других, кто сталкивается с подобными репрессиями. Его случай привлек внимание правозащитных организаций и активистов, выступающих против задержаний журналистов.\n\nДанное событие подчеркивает продолжающиеся напряженные отношения между Израилем и палестинским обществом, а также вопросы свободы слова в регионе.",
-        "en": "Palestinian journalist Abed Abou Shhadeh was released after his detention, which he described as part of Israel's political measures aimed at intimidating Arab society. He stated that his arrest was part of a broader strategy.\n\nAbou Shhadeh expressed hope that his release would serve as a signal for others facing similar repression. His case has drawn attention from human rights organizations and activists advocating against the detention of journalists.\n\nThis event highlights the ongoing tense relations between Israel and Palestinian society, as well as issues surrounding freedom of speech in the region."
+        "ru": "Дана Уайт, близкий друг Дональда Трампа и поддерживавший его на выборах, был предложен в качестве пресс-секретаря Трампа. Несмотря на свою близость к экс-президенту, Уайт никогда не занимал государственных должностей.\n\nЭто предложение вызвало обсуждения о том, насколько целесообразно назначение человека без политического опыта на такую важную должность. Уайт известен своей работой в UFC, но его навыки в области коммуникации и управления остаются под вопросом.\n\nТем не менее, поддержка Трампа может сыграть ключевую роль в возможном назначении, и это поднимает вопросы о том, как будет выглядеть команда Трампа в случае его возвращения к власти.",
+        "en": "Dana White, a close friend of Donald Trump who endorsed him in the elections, has been floated as a potential press secretary for Trump. Despite his close ties to the former president, White has never held a government position.\n\nThis suggestion has sparked discussions about the appropriateness of appointing someone without political experience to such an important role. White is known for his work in the UFC, but his skills in communication and management remain in question.\n\nNonetheless, Trump's support could play a key role in any potential appointment, raising questions about what Trump's team would look like if he were to return to power."
       }
     },
     {
-      "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb",
+      "source": "The Guardian",
+      "title": {
+        "ru": "«Возмутительно и расистски»: премьер отвечает на заявление кандидата One Nation о «демографической замене» австралийцев",
+        "en": "‘Outrageous and racist’: premier responds to NSW One Nation candidate’s claim Australians are being ‘demographically replaced’"
+      },
+      "summary": {
+        "ru": "Премьер Нового Южного Уэльса Крис Миннс и комиссар по расовой дискриминации осудили комментарии Стюарта Бондса о «демографической замене» австралийцев.",
+        "en": "New South Wales Premier Chris Minns and the race discrimination commissioner criticized comments by Stuart Bonds about Australians facing demographic replacement."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Премьер-министр Нового Южного Уэльса Крис Миннс и комиссар по расовой дискриминации осудили комментарии Стюарта Бондса, кандидата от партии One Nation, который заявил, что австралийцы сталкиваются с \"демографической заменой\". Эти высказывания вызвали широкий общественный резонанс и критику.\n\nМиннс охарактеризовал комментарии Бондса как \"вопиющие и расистские\", подчеркивая, что такие утверждения не имеют места в современном обществе. Он призвал к уважению и инклюзивности в обсуждениях о миграции и демографии.\n\nКритика Бондса также была поддержана другими политическими деятелями, которые отметили, что подобные высказывания могут способствовать разделению и ненависти в обществе.",
+        "en": "New South Wales Premier Chris Minns and the race discrimination commissioner criticized comments made by Stuart Bonds, a candidate from the One Nation party, who claimed that Australians are facing \"demographic replacement.\" These remarks have sparked widespread public backlash and condemnation.\n\nMinns described Bonds' comments as \"frankly outrageous and racist,\" emphasizing that such statements have no place in modern society. He called for respect and inclusivity in discussions about migration and demographics.\n\nBonds' remarks were also condemned by other political figures, who noted that such statements could foster division and hatred within society."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Трамп защищает CEO Nvidia на фоне обвинений в шпионаже со стороны Китая",
+        "en": "Trump defends Nvidia CEO amid Chinese spying allegations"
+      },
+      "summary": {
+        "ru": "Дональд Трамп защитил CEO Nvidia Дженсена Хуана, который признался в романе с женщиной, подозреваемой в шпионаже для Китая.",
+        "en": "Donald Trump has defended Nvidia CEO Jensen Huang, who admitted to an affair with a woman suspected of spying for China."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Дональд Трамп выступил в защиту генерального директора Nvidia Дженсена Хуана, который признался в романе с женщиной, подозреваемой в шпионаже для Китая. Это заявление Трампа поднимает вопросы о безопасности и этике в бизнесе.\n\nХуан, который является ключевой фигурой в индустрии технологий, оказался в центре скандала, связанного с его личной жизнью и возможными связями с иностранными разведывательными службами. Трамп, поддерживая Хуана, подчеркивает важность защиты бизнесменов от необоснованных обвинений.\n\nЭтот инцидент также поднимает вопросы о том, как личные отношения могут влиять на профессиональную репутацию и доверие к компаниям в условиях глобальной конкуренции.",
+        "en": "Donald Trump has defended Nvidia CEO Jensen Huang, who admitted to an affair with a woman suspected of spying for China. Trump's statement raises questions about security and ethics in business.\n\nHuang, a key figure in the technology industry, has found himself at the center of a scandal involving his personal life and potential ties to foreign intelligence agencies. By supporting Huang, Trump emphasizes the importance of protecting businessmen from unfounded accusations.\n\nThis incident also raises questions about how personal relationships can impact professional reputation and trust in companies amid global competition."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "title": {
-        "ru": "Кадры показывают сошедшие с рельсов вагоны после смертельной железнодорожной катастрофы в Египте",
-        "en": "Footage shows derailed carriages after fatal train crash in Egypt"
+        "ru": "Пианист круизного лайнера спасен из моря после девяти часов в Тихом океане",
+        "en": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean"
       },
       "summary": {
-        "ru": "Причины аварии пока не ясны, но президент Египта Абдель Фаттах ас-Сиси заявил, что расследование уже начато.",
-        "en": "The cause of the accident is unclear, but Egyptian President Abdel Fattah al-Sisi stated that an investigation is underway."
+        "ru": "Два рыбака из США сообщили, что заметили мужчину, который держался на воде примерно в 20 милях от побережья Калифорнии.",
+        "en": "Two US fishermen say they spotted the man treading water around 20 miles off the Californian coast."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Причины недавней железнодорожной аварии в Египте пока не ясны, но президент страны Абдель Фаттах ас-Сиси заявил, что расследование уже начато. Он пообещал, что все, кто окажется виновным в небрежности, будут привлечены к ответственности.\n\nАвария произошла в условиях, когда Египет сталкивается с критикой по поводу состояния своей транспортной инфраструктуры. Президент подчеркнул важность обеспечения безопасности на железных дорогах и необходимости улучшения систем контроля.\n\nРасследование должно прояснить обстоятельства происшествия и выявить возможные недостатки в управлении и обслуживании железнодорожного транспорта.",
-        "en": "The cause of the recent train accident in Egypt is still unclear, but President Abdel Fattah al-Sisi stated that an investigation is underway. He promised that anyone found negligent would be held accountable.\n\nThe accident occurred amid criticism of Egypt's transport infrastructure. The president emphasized the importance of ensuring safety on railways and the need for improved oversight systems.\n\nThe investigation is expected to clarify the circumstances of the incident and identify potential shortcomings in the management and maintenance of railway transport."
+        "ru": "Два рыбака из США стали свидетелями спасения пианиста круизного лайнера, который провел девять часов в открытом море. Мужчина был замечен, когда держался на воде примерно в 20 милях от побережья Калифорнии.\n\nСпасательная операция была организована после того, как рыбаки сообщили о его местонахождении. Пианист, который, по всей видимости, потерялся во время круиза, был в состоянии шока, но, к счастью, не получил серьезных травм.\n\nЭтот случай подчеркивает важность бдительности на воде и быстрого реагирования в экстренных ситуациях.",
+        "en": "Two US fishermen witnessed the rescue of a cruise ship pianist who spent nine hours at sea. The man was spotted treading water about 20 miles off the Californian coast.\n\nA rescue operation was organized after the fishermen reported his location. The pianist, who apparently got lost during the cruise, was in shock but fortunately did not suffer serious injuries.\n\nThis incident highlights the importance of vigilance at sea and the need for quick responses in emergency situations."
       }
     },
     {
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
+      "link": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
       "source": "The Block",
       "title": {
-        "ru": "Виталик Бутерин говорит, что ETH должен оцениваться как средство сбережения, а не как токен для сжигания сборов",
-        "en": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token"
+        "ru": "Что такое Zcash (ZEC)? Как работают защищенные транзакции",
+        "en": "What is Zcash (ZEC)? How shielded transactions work"
       },
       "summary": {
-        "ru": "Недавнее спорное предложение о сжигании части вознаграждений валидаторов было отозвано в прошлом месяце после критики.",
-        "en": "A recent controversial proposal to burn a portion of validator rewards was withdrawn last month after facing backlash."
+        "ru": "Zcash (ZEC) — это монета для обеспечения конфиденциальности и блокчейн, запущенный в 2016 году, который позволяет пользователям проводить как публичные, так и частные транзакции.",
+        "en": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016 that allows users to make both public and private transactions."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Недавнее спорное предложение о сжигании части вознаграждений валидаторов в сети Ethereum было отозвано в прошлом месяце после получения значительной критики. Это предложение вызвало обеспокоенность среди сообщества, которое считает, что такие меры могут негативно сказаться на ценности ETH.\n\nОснователь Ethereum Виталик Бутерин подчеркнул, что ETH должен рассматриваться как средство сохранения стоимости, а не как токен, предназначенный для сжигания. Это заявление подчеркивает важность стабильности и доверия к криптовалюте.\n\nОбсуждение вокруг этого вопроса продолжает вызывать интерес среди инвесторов и пользователей, которые следят за развитием сети Ethereum.",
-        "en": "A recent controversial proposal to burn a portion of validator rewards in the Ethereum network was withdrawn last month after facing significant backlash. This proposal raised concerns within the community, which believes such measures could negatively impact the value of ETH.\n\nEthereum founder Vitalik Buterin emphasized that ETH should be viewed as a store of value rather than a fee-burning token. This statement highlights the importance of stability and trust in the cryptocurrency.\n\nThe discussion surrounding this issue continues to attract interest among investors and users who are monitoring the developments within the Ethereum network."
+        "ru": "Zcash (ZEC) — это криптовалюта и блокчейн, запущенный в 2016 году, который предлагает пользователям возможность проводить как публичные, так и частные транзакции. Эта монета известна своим акцентом на конфиденциальность и безопасность.\n\nZcash использует технологии нулевых знаний, известные как zk-SNARKs, для верификации платежей без раскрытия информации о отправителе, получателе или сумме. Это делает Zcash уникальным среди других криптовалют, которые чаще всего предлагают только публичные транзакции.\n\nС момента своего запуска Zcash стал важным игроком на рынке криптовалют, привлекая внимание пользователей, которые ценят анонимность и защиту своих финансовых данных.",
+        "en": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016 that allows users to make both public and private transactions. This coin is known for its focus on privacy and security.\n\nZcash employs zero-knowledge proof technology known as zk-SNARKs to verify payments without revealing information about the sender, recipient, or amount. This makes Zcash unique among other cryptocurrencies, which often only offer public transactions.\n\nSince its launch, Zcash has become an important player in the cryptocurrency market, attracting users who value anonymity and the protection of their financial data."
       }
     },
     {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Египетское посольство вновь открылось в Ливии после 12 лет закрытия",
-        "en": "Egyptian embassy reopens in Libya for the first time in 12 years"
-      },
-      "summary": {
-        "ru": "Египет открыл свое посольство в столице Ливии, Триполи, после 12-летнего закрытия.",
-        "en": "Egypt has reopened its embassy in Libya’s capital, Tripoli, after a 12-year closure."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Египет открыл свое посольство в Ливии, в столице Триполи, после 12-летнего закрытия. Это событие стало важным шагом в восстановлении дипломатических отношений между двумя странами.\n\nОткрытие посольства символизирует стремление Египта к укреплению связей с Ливией и поддержанию стабильности в регионе. Это также может способствовать улучшению двустороннего сотрудничества в различных областях.\n\nВозвращение дипломатического представительства подчеркивает важность Ливии для Египта и его интересы в контексте региональной политики.",
-        "en": "Egypt has reopened its embassy in Libya’s capital, Tripoli, after a 12-year closure. This event marks an important step in restoring diplomatic relations between the two countries.\n\nThe reopening of the embassy symbolizes Egypt's desire to strengthen ties with Libya and maintain stability in the region. It may also facilitate improved bilateral cooperation in various areas.\n\nThe return of diplomatic representation underscores the significance of Libya to Egypt and its interests within the context of regional politics."
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Правительство 'серьезно рассматривает' запрет на Vinted и eBay для лиц младше 16 лет",
-        "en": "Government 'looking seriously' at banning under-16s from Vinted and eBay"
-      },
-      "summary": {
-        "ru": "Министр культуры подтвердил сообщения о том, что эти платформы могут попасть в список для запрета в следующем марте.",
-        "en": "The culture secretary confirmed reports that these platforms could be on the list for a ban next March."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Министр культуры Великобритании подтвердил сообщения о том, что правительство рассматривает возможность запрета для лиц младше 16 лет на использование платформ Vinted и eBay. Это решение может быть принято в следующем марте.\n\nОбсуждение запрета связано с обеспокоенностью по поводу безопасности детей в интернете и защиты их от потенциальных рисков. Министерство культуры подчеркивает необходимость создания безопасной среды для молодежи в цифровом пространстве.\n\nЕсли запрет будет введен, это может повлиять на доступ молодежи к онлайн-торговле и изменить правила использования таких платформ.",
-        "en": "The UK culture secretary confirmed reports that the government is considering a ban on under-16s using platforms like Vinted and eBay. This decision could be made next March.\n\nThe discussion around the ban is linked to concerns about children's safety online and protecting them from potential risks. The culture department emphasizes the need to create a safe environment for youth in the digital space.\n\nIf the ban is implemented, it could affect youth access to online trading and change the rules of engagement on such platforms."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Иисус Де Мигель из Тенерифе удостоен трогательной дань уважения от товарищей по команде и фанатов",
-        "en": "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans"
-      },
-      "summary": {
-        "ru": "Товарищи по команде сдерживают слезы, фанаты скандируют его имя, а клуб обещает поддержку его семье на мемориальной службе.",
-        "en": "Teammates choke back tears, fans chant his name, and the club promises support to his family at the memorial service."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Товарищи по команде и фанаты клуба Тенерифе почтили память Иисуса Де Мигеля на трогательной мемориальной службе. На мероприятии присутствовали его товарищи по команде, которые сдерживали слезы, а фанаты скандировали его имя в знак уважения.\n\nКлуб пообещал поддержку семье Де Мигеля в этот трудный период, подчеркивая важность его вклада в команду и сообщество. Мемориальная служба стала моментом единства и скорби для всех, кто знал и любил его.\n\nЭта трагическая утрата оставила глубокий след в сердцах многих, и память о Де Мигеле будет жить в клубе и среди его поклонников.",
-        "en": "Teammates and fans of Tenerife honored Jesus De Miguel in an emotional memorial service. Attendees included his teammates who choked back tears, while fans chanted his name in tribute.\n\nThe club promised support to De Miguel's family during this difficult time, emphasizing the importance of his contributions to the team and the community. The memorial service became a moment of unity and mourning for all who knew and loved him.\n\nThis tragic loss has left a profound impact on many, and the memory of De Miguel will live on within the club and among his supporters."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/uk-news/2026/nov/08/scillonian-iii-ship-final-voyage-isles-of-scilly-penzance-cornwall",
+      "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
       "source": "The Guardian",
       "title": {
-        "ru": "Конец 'рвущего кометы': Scillonian III отправляется в последний рейс с островов Силли",
-        "en": "End of the ‘vomit comet’: Scillonian III sets sail on final voyage from Isles of Scilly"
+        "ru": "Папа Лев резко критикует меры жесткой экономии Милей во время визита в Аргентину",
+        "en": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit"
       },
       "summary": {
-        "ru": "Любимый пассажирский корабль, который почти 50 лет курсировал между островами и корнишским побережьем, отправился в последний путь.",
-        "en": "The beloved passenger ship, which has traversed between the islands and the Cornish mainland for nearly 50 years, has set sail for the last time."
+        "ru": "Папа Лев XIV резко раскритиковал жесткие меры экономии президента Аргентины Хавьера Милей, заявив, что экономика должна служить людям.",
+        "en": "Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting the economy must benefit all."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Пассажирский корабль Scillonian III, известный как \"корабль рвоты\", отправился в свой последний рейс после почти 50 лет службы между островами Силли и корнишским побережьем. Это событие стало знаковым моментом для многих, кто пользовался этим судном на протяжении десятилетий.\n\nНа прощальной церемонии звучали морские песни, и пассажиры делились воспоминаниями о своих путешествиях. Корабль стал символом связи между островами и материком, и его уход оставил многих в печали.\n\nScillonian III будет запомнен как один из самых характерных кораблей Великобритании, и его история продолжит жить в сердцах тех, кто его знал.",
-        "en": "The passenger ship Scillonian III, affectionately known as the \"vomit comet,\" has set sail on its final voyage after nearly 50 years of service between the Isles of Scilly and the Cornish mainland. This event marks a significant moment for many who have traveled on this vessel over the decades.\n\nAt the farewell ceremony, sea shanties were sung, and passengers shared memories of their journeys. The ship has become a symbol of connection between the islands and the mainland, and its departure has left many in sorrow.\n\nScillonian III will be remembered as one of the UK's most characterful ships, and its legacy will continue to live on in the hearts of those who knew it."
+        "ru": "Папа Лев XIV резко раскритиковал жесткие меры экономии президента Аргентины Хавьера Милей во время своего визита в страну. Он заявил, что экономика должна служить людям, а не наоборот, что вызвало одобрение среди присутствующих.\n\nВ своей речи, произнесенной в Буэнос-Айресе, папа подчеркнул важность того, чтобы экономический рост приносил пользу всем слоям населения. Это заявление стало частью его более широкой программы, направленной на поддержку уязвимых групп и борьбу с неравенством.\n\nКритика мер Милей также подчеркивает необходимость пересмотра экономической политики, чтобы она была более инклюзивной и ориентированной на человека.",
+        "en": "Pope Leo XIV delivered a stinging critique of Argentine President Javier Milei's harsh austerity measures during his visit to the country. He insisted that the economy must serve the people, rather than the other way around, which was met with applause from the audience.\n\nIn his speech delivered in Buenos Aires, the pontiff emphasized the importance of ensuring that economic growth benefits all segments of society. This statement is part of his broader agenda aimed at supporting vulnerable groups and combating inequality.\n\nThe critique of Milei's measures also highlights the need for a reevaluation of economic policies to make them more inclusive and people-oriented."
       }
     },
     {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Палестинский журналист Абед Абу Шхаде освобожден после 5 дней задержания",
-        "en": "Palestinian journalist Abed Abou Shhadeh released after 5 days in detention"
+        "ru": "Атака дронов приостановила производство на газовом месторождении Хор Мор в Ираке",
+        "en": "Drone attack suspends production at Iraq’s Khor Mor gasfield"
       },
       "summary": {
-        "ru": "Палестинский журналист Абед Абу Шхаде был освобожден после 5 дней задержания.",
-        "en": "Palestinian journalist Abed Abou Shhadeh was released after 5 days in detention."
+        "ru": "Удар оставил более 70% северного Ирака без электроэнергии.",
+        "en": "The strike leaves more than 70 percent of northern Iraq's Kurdish region without power."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Палестинский журналист Абед Абу Шхаде был освобожден после пяти дней задержания. Его арест вызвал обеспокоенность среди правозащитников и активистов, которые выступают за свободу слова.\n\nАбу Шхаде заявил, что его задержание было частью более широкой политической стратегии, направленной на запугивание арабского общества. Его освобождение стало важным событием для многих, кто поддерживает права журналистов.\n\nДанное событие подчеркивает продолжающиеся проблемы с правами человека и свободой слова в регионе, а также важность защиты журналистов и их работы.",
-        "en": "Palestinian journalist Abed Abou Shhadeh was released after five days in detention. His arrest raised concerns among human rights advocates and activists who support freedom of speech.\n\nAbou Shhadeh stated that his detention was part of a broader political strategy aimed at intimidating Arab society. His release has become a significant event for many who advocate for journalists' rights.\n\nThis incident highlights ongoing issues related to human rights and freedom of speech in the region, as well as the importance of protecting journalists and their work."
+        "ru": "Атака дронов приостановила производство на газовом месторождении Хор Мор в Ираке, оставив более 70% северного Ирака без электроэнергии. Этот инцидент подчеркивает уязвимость инфраструктуры в регионе и последствия конфликтов для энергетической безопасности.\n\nПроизводственные мощности на месторождении были серьезно повреждены, что вызвало опасения по поводу стабильности поставок газа и электроэнергии в регионе. Местные власти работают над восстановлением работы, но последствия атаки могут ощущаться долгое время.\n\nЭтот случай также поднимает вопросы о безопасности энергетических объектов и необходимости защиты критической инфраструктуры в условиях нестабильности.",
+        "en": "A drone attack has suspended production at Iraq's Khor Mor gasfield, leaving more than 70 percent of northern Iraq without power. This incident highlights the vulnerability of infrastructure in the region and the implications of conflicts for energy security.\n\nProduction facilities at the gasfield were severely damaged, raising concerns about the stability of gas and electricity supplies in the region. Local authorities are working to restore operations, but the effects of the attack may be felt for a long time.\n\nThis case also raises questions about the security of energy facilities and the need to protect critical infrastructure amid instability."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Nvidia начинает расследование в отношении отношений Дженсена Хуана с китайским шпионом",
+        "en": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy"
+      },
+      "summary": {
+        "ru": "Генеральный директор компании признал, что у него были интимные отношения с бизнес-исполнителем, который, по мнению властей США, работал на китайскую разведку.",
+        "en": "Mr. Huang, the company’s chief executive, acknowledged that he was intimate with a business executive who U.S. officials had determined was working for Chinese intelligence."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Генеральный директор Nvidia Дженсен Хуан признал, что у него были интимные отношения с бизнес-исполнителем, который, по мнению властей США, работал на китайскую разведку. Это признание вызвало волну обсуждений о безопасности и этике в бизнесе.\n\nХуан, который занимает ключевую позицию в индустрии технологий, оказался в центре скандала, который может повлиять на репутацию компании. Власти США рассматривают его отношения как потенциальную угрозу национальной безопасности.\n\nЭтот инцидент поднимает важные вопросы о том, как личные связи могут влиять на бизнес и доверие к компаниям в условиях глобальной конкуренции.",
+        "en": "Nvidia CEO Jensen Huang acknowledged that he was intimate with a business executive who U.S. officials have determined was working for Chinese intelligence. This admission has sparked a wave of discussions about security and ethics in business.\n\nHuang, who holds a key position in the technology industry, has found himself at the center of a scandal that could impact the company's reputation. U.S. authorities view his relationship as a potential national security threat.\n\nThis incident raises important questions about how personal connections can affect business and trust in companies amid global competition."
       }
     }
   ]
