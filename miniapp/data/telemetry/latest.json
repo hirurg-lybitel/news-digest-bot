@@ -1,700 +1,682 @@
 {
   "model": "gpt-4o-mini",
-  "periodHours": 11.943528333333333,
-  "poolSize": 111,
+  "periodHours": 11.946923055555555,
+  "poolSize": 177,
   "candidateCount": 80,
   "maxStories": 30,
   "telegramTopN": 10,
   "candidates": [
     {
       "index": 1,
-      "title": "Why malnutrition can go unnoticed, and what that means for our health",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/why-malnutrition-can-go-unnoticed-and-what-that-means-for-our-health/a-79871016?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 2,
-      "title": "The Nvidia Affair",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html"
-    },
-    {
-      "index": 3,
-      "title": "Polish unity on show in silent march to honour Krakow shooting victims",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 4,
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 5,
-      "title": "Beau Lamarre-Condon admits entering Jesse Baird’s house when he wasn’t home and eating Easter egg, murder trial hears",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb"
-    },
-    {
-      "index": 6,
-      "title": "Republican lawmaker launches eight articles of impeachment against US Defence chief Hegseth",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/10/republican-lawmaker-launched-eight-articles-of-impeachment-against-us-defence-chief-hegset"
-    },
-    {
-      "index": 7,
-      "title": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss"
-    },
-    {
-      "index": 8,
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 9,
-      "title": "Mortgage holders’ confidence crashes to lowest level since 1994 as year that ‘feels like a recession’ looms",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/10/mortgage-holders-confidence-crashes-to-lowest-level-since-1994-as-year-that-feels-like-a-recession-looms"
-    },
-    {
-      "index": 10,
-      "title": "Poland’s political rivals join ‘March of Silence’ for shooting victims",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/polands-political-rivals-join-march-of-silence-for-shooting-victims?traffic_source=rss"
-    },
-    {
-      "index": 11,
-      "title": "Pope Leo draws 2.5 million people during historic Argentina Mass",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/pope-leo-draws-2-5-million-people-during-historic-argentina-mass?traffic_source=rss"
-    },
-    {
-      "index": 12,
-      "title": "European diplomats press Rubio for a role in Russia-Ukraine talks",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks?traffic_source=rss"
-    },
-    {
-      "index": 13,
-      "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
-    },
-    {
-      "index": 14,
-      "title": "‘We Used to Be a Wealthy City’: Auto Woes Slam German Towns",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html"
-    },
-    {
-      "index": 15,
-      "title": "Australia to introduce mandatory AI safeguards",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/australia-to-introduce-mandatory-ai-safeguards/a-79906006?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 16,
-      "title": "Sydney private school accused of sexual abuse should be banned from enrolling new students, inquiry says",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/10/redeemer-baptist-school-sexual-abuse-inquiry-ntwnfb"
-    },
-    {
-      "index": 17,
-      "title": "One Nation dumps Victorian election candidate who praised Adolf Hitler as ‘GOAT’",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/10/one-nation-dumps-franco-guardiani-praised-hitler-victoria-elections-ntwnfb"
-    },
-    {
-      "index": 18,
-      "title": "Anger as ICE agents make arrest in New Jersey grocery store",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/anger-as-ice-agents-make-arrest-in-new-jersey-grocery-store?traffic_source=rss"
-    },
-    {
-      "index": 19,
-      "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html"
-    },
-    {
-      "index": 20,
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 21,
-      "title": "Iran war oil shock drives dip in global emissions, study shows",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/iran-war-oil-shock-drives-dip-in-global-emissions-study-shows/a-79905937?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 22,
-      "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html"
-    },
-    {
-      "index": 23,
-      "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54"
-    },
-    {
-      "index": 24,
-      "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html"
-    },
-    {
-      "index": 25,
-      "title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
-      "source": "The Block",
-      "link": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964"
-    },
-    {
-      "index": 26,
-      "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss"
-    },
-    {
-      "index": 27,
-      "title": "Newly-elected Democrats react to Hegseth impeachment bid",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/newly-elected-democrats-react-to-hegseth-impeachment-bid?traffic_source=rss"
-    },
-    {
-      "index": 28,
-      "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – as it happened",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates"
-    },
-    {
-      "index": 29,
-      "title": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40"
-    },
-    {
-      "index": 30,
-      "title": "Harare demolitions leave families homeless after years of building",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/10/harare-demolitions-leave-families-homeless-after-years-of-building?traffic_source=rss"
-    },
-    {
-      "index": 31,
-      "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss"
-    },
-    {
-      "index": 32,
       "title": "Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests",
       "source": "New York Times",
       "link": "https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html"
     },
     {
-      "index": 33,
-      "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote"
+      "index": 2,
+      "title": "America’s Measles Problem Has Reached Endemic Level",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html"
     },
     {
-      "index": 34,
-      "title": "Police investigate as nearly 30 Santa Barbara half-marathon runners fall ill with ‘unusual symptoms’",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/09/santa-barbara-half-marathon-illness-police"
+      "index": 3,
+      "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "index": 35,
-      "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
+      "index": 4,
+      "title": "Victims of Nazi war in Poland call on Germany for support",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 5,
+      "title": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%",
       "source": "The Block",
-      "link": "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955"
+      "link": "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277"
     },
     {
-      "index": 36,
-      "title": "Cameroon sets date for twice-delayed legislative and local elections",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss"
-    },
-    {
-      "index": 37,
-      "title": "Israel’s Shin Bet finds no evidence of foreign election interference",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss"
-    },
-    {
-      "index": 38,
-      "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss"
-    },
-    {
-      "index": 39,
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 40,
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 41,
-      "title": "What Is Congress’s Plan to Speed Up Energy Permits?",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html"
-    },
-    {
-      "index": 42,
-      "title": "Senate advances bill to speed up permit reviews for infrastructure projects",
+      "index": 6,
+      "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-advances-bill-energy-projects"
+      "link": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer"
     },
     {
-      "index": 43,
-      "title": "France blames Iran for October supermarket cyberattack",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss"
-    },
-    {
-      "index": 44,
-      "title": "Iran War Unexpectedly Drove Down Carbon Emissions This Year",
+      "index": 7,
+      "title": "Weil Gotshal Partners Vote to Shut Down After Nearly a Century",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/09/climate/global-emissions-iran-war.html"
+      "link": "https://www.nytimes.com/2026/11/10/business/weil-gotshal-shut-down.html"
     },
     {
-      "index": 45,
-      "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss"
-    },
-    {
-      "index": 46,
-      "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss"
-    },
-    {
-      "index": 47,
-      "title": "Exxon Strikes Preliminary Deal to Return to Venezuela",
+      "index": 8,
+      "title": "David Walliams, UK Celebrity, Is Accused of Sexual Misconduct",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html"
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html"
     },
     {
-      "index": 48,
-      "title": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
+      "index": 9,
+      "title": "In Interview, Sonia Gandhi Recalls Love and Loss in India",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html"
+    },
+    {
+      "index": 10,
+      "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html"
+    },
+    {
+      "index": 11,
+      "title": "US petrol prices are down, but elevated inflation continues",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss"
+      "link": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss"
     },
     {
-      "index": 49,
-      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss"
+      "index": 12,
+      "title": "Pete Hegseth dismisses Republican’s impeachment effort against him as ‘a political spectacle’ – US politics live",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
     },
     {
-      "index": 50,
-      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "index": 13,
+      "title": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss"
+    },
+    {
+      "index": 14,
+      "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html"
+    },
+    {
+      "index": 15,
+      "title": "Israeli Opposition Pushes for Oct. 7 Inquiry at First Session of New Parliament",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html"
+    },
+    {
+      "index": 16,
+      "title": "UK social media ban expansion for under-16s could cover YouTube Kids",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids"
+    },
+    {
+      "index": 17,
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "index": 51,
-      "title": "The superpower battle over energy – and what it means for your bills",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 52,
-      "title": "Headteachers consider leaving jobs earlier than planned after new Ofsted inspection",
+      "index": 18,
+      "title": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/education/2026/nov/10/headteachers-consider-leaving-job-earlier-than-planned-new-ofsted-inspection"
+      "link": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations"
     },
     {
-      "index": 53,
-      "title": "Headteachers say families will struggle after another rise in school dinner prices",
+      "index": 19,
+      "title": "Data Show Households Still Managing to Meet Their Monthly Debts",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/10/business/economy/household-debt-real-estate-home-equity.html"
+    },
+    {
+      "index": 20,
+      "title": "TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278"
+    },
+    {
+      "index": 21,
+      "title": "Planned Tory welfare cuts ‘a charter for human misery,’ says Labour – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates"
+    },
+    {
+      "index": 22,
+      "title": "Anthropic targets $1.4 trillion valuation in massive stock market debut",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss"
+    },
+    {
+      "index": 23,
+      "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html"
+    },
+    {
+      "index": 24,
+      "title": "Israeli president warns against repeat election in new Knesset session",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss"
+    },
+    {
+      "index": 25,
+      "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
+    },
+    {
+      "index": 26,
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 27,
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 28,
+      "title": "Security forces seized top court, Somalia’s ex-chief justice says",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/security-forces-seized-top-court-somalias-ex-chief-justice-says?traffic_source=rss"
+    },
+    {
+      "index": 29,
+      "title": "Latest news bulletin | November 10th, 2026 – Evening",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/10/latest-news-bulletin-november-10th-2026-evening"
+    },
+    {
+      "index": 30,
+      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 31,
+      "title": "US officials seek ‘final end’ to Russia-Ukraine war, as Abu Dhabi talks set to continue",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
+    },
+    {
+      "index": 32,
+      "title": "Texas man charged with murder of woman aboard MSC cruise ship",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/10/msc-seascape-homicide-cruise-ship"
+    },
+    {
+      "index": 33,
+      "title": "Some pupils 'struggling just to get a hot meal'",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "index": 54,
-      "title": "Iran war live: Iran demands US ‘surrender’ to its conditions",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss"
+      "index": 34,
+      "title": "Merz accused of ‘blackmail’ by Slovak PM after demand for Ukraine aid in EU budget",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget"
     },
     {
-      "index": 55,
-      "title": "Nvidia shareholders sue Jensen Huang over alleged spy ties",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/nvidia-shareholders-sue-jensen-huang-over-alleged-spy-ties/a-79905809?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 56,
-      "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss"
-    },
-    {
-      "index": 57,
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 58,
-      "title": "Trump, Rubio defend Hegseth as impeachment bid nears",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss"
-    },
-    {
-      "index": 59,
-      "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 60,
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 61,
-      "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
+      "index": 35,
+      "title": "Syria Weighs Sending Troops to Aid Saudi War With Houthis",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html"
+      "link": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html"
     },
     {
-      "index": 62,
-      "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
+      "index": 36,
+      "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss"
     },
     {
-      "index": 63,
-      "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss"
-    },
-    {
-      "index": 64,
-      "title": "Dana White declines Trump’s offer to be White House press secretary",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 65,
-      "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss"
-    },
-    {
-      "index": 66,
-      "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks"
-    },
-    {
-      "index": 67,
-      "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
+      "index": 37,
+      "title": "This Law Firm Just Bought Malpractice Insurance for its A.I. Agents",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html"
+      "link": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html"
     },
     {
-      "index": 68,
-      "title": "Pope meets with clergy abuse survivors in Argentina",
+      "index": 38,
+      "title": "Jemima Goldsmith, Russell Brand’s Ex-Partner, Accuses Him of Abuse",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/jemima-goldsmith-russell-brand-assault.html"
+    },
+    {
+      "index": 39,
+      "title": "Did Fox News’ fixation on Hasan Piker backfire?",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/did-fox-news-fixation-on-hasan-piker-backfire?traffic_source=rss"
     },
     {
-      "index": 69,
-      "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
+      "index": 40,
+      "title": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html"
+    },
+    {
+      "index": 41,
+      "title": "Michigan sports parent allegedly defecates in rival high school’s corridor: ‘definitely a first’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/10/michigan-sports-parent-defecates"
+    },
+    {
+      "index": 42,
+      "title": "At least 12 people killed in Bulgaria motorway pile-up",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss"
     },
     {
-      "index": 70,
-      "title": "Saudi Arabia reports new attack on key East-West pipeline",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss"
+      "index": 43,
+      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "index": 71,
-      "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+      "index": 44,
+      "title": "People in deprived areas of England more than twice as likely to die early, study shows",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/news/2026/nov/10/early-death-deprived-areas-england"
+    },
+    {
+      "index": 45,
+      "title": "Alta raises $47.5 million Series A to build a blockchain for financial institutions",
       "source": "The Block",
-      "link": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950"
+      "link": "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244"
     },
     {
-      "index": 72,
-      "title": "Turkey: Steel plant explosion kills 17 in Izmir province",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/video/2026/11/09/turkey-steel-plant-explosion-kills-17-in-izmir-province"
-    },
-    {
-      "index": 73,
-      "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
+      "index": 46,
+      "title": "Here’s the latest.",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html"
+      "link": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-the-latest"
     },
     {
-      "index": 74,
-      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss"
+      "index": 47,
+      "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai"
     },
     {
-      "index": 75,
-      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 76,
-      "title": "Poland: Tusk and Nawrocki honour six victims of Kraków shooting",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/video/2026/11/09/poland-tusk-and-nawrocki-honour-six-victims-of-krakow-shooting"
-    },
-    {
-      "index": 77,
-      "title": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
+      "index": 48,
+      "title": "Gaza Floods Kill 4",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html"
+      "link": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html"
     },
     {
-      "index": 78,
-      "title": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran",
+      "index": 49,
+      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 50,
+      "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 51,
+      "title": "Canaan’s Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252"
+    },
+    {
+      "index": 52,
+      "title": "Oil Prices Have Tumbled in November. Here’s Why.",
       "source": "New York Times",
       "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html"
     },
     {
-      "index": 79,
-      "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
+      "index": 53,
+      "title": "Iran denies role in fridge hack, France summons ambassador",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 54,
+      "title": "MEGA commits $30 million to new products, starting with AI inference",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249"
+    },
+    {
+      "index": 55,
+      "title": "Haitian boy, 8, detained by ICE is now unaccounted for, lawmaker says",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/10/haitian-boy-ice-california"
+    },
+    {
+      "index": 56,
+      "title": "Moody’s and Chainlink test cross-chain credit ratings distribution",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245"
+    },
+    {
+      "index": 57,
+      "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss"
+    },
+    {
+      "index": 58,
+      "title": "Controversial kinship: From colonial rule to the Holocaust?",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/controversial-kinship-from-colonial-rule-to-the-holocaust/a-79902228?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 59,
+      "title": "A Fan-Favorite Aquarium Screen Saver Is Leaving Roku",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html"
+      "link": "https://www.nytimes.com/2026/11/10/business/roku-aquatic-life-screensaver-fox.html"
+    },
+    {
+      "index": 60,
+      "title": "'It's a farce': Hegseth's defiant response to impeachment effort",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cwm24249dezmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 61,
+      "title": "Russia’s ‘unfriendly countries’ list now targets property, child custody and debts",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/10/russias-unfriendly-countries-list-now-targets-property-child-custody-and-debts"
+    },
+    {
+      "index": 62,
+      "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities"
+    },
+    {
+      "index": 63,
+      "title": "Belgium: Prince Harry and Meghan visit EU Parliament for child safety event",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/10/belgium-prince-harry-and-meghan-visit-eu-parliament-for-child-safety-event"
+    },
+    {
+      "index": 64,
+      "title": "Meghan Markle Makes First Public Appearance Since Her Father’s Arrest",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html"
+    },
+    {
+      "index": 65,
+      "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss"
+    },
+    {
+      "index": 66,
+      "title": "Cop31 as it happened: ‘Everything and everyone we love is at stake,’ Greta Thunberg warns",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates"
+    },
+    {
+      "index": 67,
+      "title": "What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html"
+    },
+    {
+      "index": 68,
+      "title": "Poland: Krakow shooting suspect 'fascinated' by Norwegian mass murder Anders Breivik, says justice minister",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/poland-krakow-shooting-suspect-fascinated-by-norwegian-mass-murder-anders-breivik-says-justice-minister/a-79910435?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 69,
+      "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html"
+    },
+    {
+      "index": 70,
+      "title": "Deadly Egypt train crash prompts calls for political accountability",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/10/deadly-egypt-train-collision-prompts-calls-for-political-accountability?traffic_source=rss"
+    },
+    {
+      "index": 71,
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 72,
+      "title": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss"
+    },
+    {
+      "index": 73,
+      "title": "GCC members agree to station forces at new military command post in Kuwait",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/10/gcc-members-agree-to-station-forces-at-new-military-command-post-in-kuwait"
+    },
+    {
+      "index": 74,
+      "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss"
+    },
+    {
+      "index": 75,
+      "title": "Neuer injury gives Urbig chance to shape Bayern and Germany future",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/neuer-injury-gives-urbig-chance-to-shape-bayern-and-germany-future/a-79910042?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 76,
+      "title": "Failure of California Billionaire Tax Strikes Blow to Progressive Agenda",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html"
+    },
+    {
+      "index": 77,
+      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 78,
+      "title": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss"
+    },
+    {
+      "index": 79,
+      "title": "The allegations against David Walliams - podcast",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/news/audio/2026/nov/10/david-walliams-allegations-podcast"
     },
     {
       "index": 80,
-      "title": "Turkey: Delegates arrive in Antalya as COP31 climate talks begin",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/video/2026/11/09/turkey-delegates-arrive-in-antalya-as-cop31-climate-talks-begin"
+      "title": "UK and Argentina clash over Falklands oil project as Hamburg tribunal starts",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts"
     }
   ],
   "clusters": [
     {
-      "representativeIndex": 13,
+      "representativeIndex": 17,
       "memberIndices": [
-        12,
-        13,
-        50,
-        59
+        17,
+        31,
+        25,
+        30
       ],
       "score": 95,
       "category": "conflict",
-      "rationale": "The resumption of peace talks between Russia and Ukraine marks a critical moment in the ongoing conflict, with potential implications for global stability."
+      "rationale": "The trilateral peace talks between Ukraine, the US, and Russia represent a critical moment in the ongoing conflict, aiming for a resolution after months of war."
+    },
+    {
+      "representativeIndex": 57,
+      "memberIndices": [
+        57,
+        48,
+        42,
+        49
+      ],
+      "score": 90,
+      "category": "disaster",
+      "rationale": "The tragic loss of life in Gaza due to flooding highlights the humanitarian crisis exacerbated by ongoing conflict and natural disasters."
+    },
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        14,
+        22,
+        47
+      ],
+      "score": 85,
+      "category": "economy",
+      "rationale": "Anthropic's massive IPO reflects significant investor interest in AI, marking a pivotal moment in the tech industry's financial landscape."
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76,
+        11,
+        23,
+        52
+      ],
+      "score": 80,
+      "category": "economy",
+      "rationale": "The failure of California's billionaire tax initiative signals challenges for progressive economic policies in the US, impacting future fiscal strategies."
     },
     {
       "representativeIndex": 4,
       "memberIndices": [
         4,
-        6,
-        40,
-        58
-      ],
-      "score": 90,
-      "category": "politics",
-      "rationale": "The impeachment efforts against Defense Secretary Hegseth highlight significant political tensions within the U.S. government amid ongoing military conflicts."
-    },
-    {
-      "representativeIndex": 19,
-      "memberIndices": [
-        19,
-        21,
-        78
-      ],
-      "score": 85,
-      "category": "economy",
-      "rationale": "China's record trade surplus raises concerns about its economic impact on global markets and trading partners, reflecting broader economic dynamics."
-    },
-    {
-      "representativeIndex": 7,
-      "memberIndices": [
-        7,
-        3,
-        10,
-        76
-      ],
-      "score": 80,
-      "category": "conflict",
-      "rationale": "The tragic shooting in Poland has sparked national mourning and political discourse, reflecting societal tensions and the need for security reforms."
-    },
-    {
-      "representativeIndex": 1,
-      "memberIndices": [
-        1,
-        23
+        68,
+        65,
+        38
       ],
       "score": 75,
-      "category": "health",
-      "rationale": "The global health crisis of malnutrition affecting over 2 billion people underscores urgent health challenges, particularly in the Global South."
+      "category": "society",
+      "rationale": "The ongoing calls for reparations from Poland to Germany reflect deep societal wounds from WWII that continue to affect relations today."
     },
     {
       "representativeIndex": 8,
       "memberIndices": [
         8,
-        15,
-        39
+        79,
+        67
       ],
       "score": 70,
-      "category": "technology",
-      "rationale": "Australia's move to implement AI safeguards following security breaches signifies a growing recognition of the risks associated with advanced technologies."
+      "category": "society",
+      "rationale": "The allegations against David Walliams raise significant concerns about power dynamics and abuse in the entertainment industry."
     },
     {
-      "representativeIndex": 14,
+      "representativeIndex": 6,
       "memberIndices": [
-        14
+        6,
+        21,
+        34
       ],
       "score": 65,
-      "category": "economy",
-      "rationale": "The downturn in the automotive industry in Germany illustrates the economic challenges faced by regions reliant on traditional manufacturing."
+      "category": "politics",
+      "rationale": "The UK's potential financial contributions to the EU electricity market signal a shift in post-Brexit negotiations and political relations."
     },
     {
-      "representativeIndex": 11,
+      "representativeIndex": 13,
       "memberIndices": [
-        11,
-        68
+        13,
+        36,
+        53,
+        74
       ],
       "score": 60,
+      "category": "politics",
+      "rationale": "Iran's commitment to the nuclear treaty amidst hardliner pressures illustrates the delicate balance of power and diplomacy in the region."
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32,
+        70,
+        28
+      ],
+      "score": 55,
+      "category": "law",
+      "rationale": "The murder charge against a Texas man aboard a cruise ship raises legal questions about jurisdiction and accountability in international waters."
+    },
+    {
+      "representativeIndex": 62,
+      "memberIndices": [
+        62,
+        72,
+        64,
+        63
+      ],
+      "score": 50,
       "category": "culture",
-      "rationale": "The historic mass led by Pope Leo XIV in Argentina reflects significant cultural and religious engagement, drawing millions and highlighting the Pope's influence."
+      "rationale": "Prince Harry and Meghan's advocacy for child safety online reflects broader societal concerns about digital risks facing children today."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        7,
+        19,
+        40
+      ],
+      "score": 45,
+      "category": "law",
+      "rationale": "The lawsuit against Alex Bruesewitz highlights ongoing legal and ethical concerns regarding political funding and foreign influence."
+    },
+    {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12,
+        60,
+        39
+      ],
+      "score": 35,
+      "category": "politics",
+      "rationale": "The impeachment effort against Pete Hegseth underscores the contentious political climate in the US, reflecting deep partisan divides."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18
+      ],
+      "score": 30,
+      "category": "conflict",
+      "rationale": "Increased Russian naval activity around the UK raises security concerns and highlights the ongoing geopolitical tensions in Europe."
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 20,
+      "category": "world",
+      "rationale": "The legal clash over the Falklands oil project illustrates the enduring sovereignty disputes that continue to affect international relations."
     },
     {
       "representativeIndex": 2,
       "memberIndices": [
-        2,
-        20,
-        55,
-        57
+        2
       ],
-      "score": 55,
-      "category": "politics",
-      "rationale": "The Nvidia affair involving CEO Jensen Huang raises critical questions about corporate governance and national security in the tech industry."
-    },
-    {
-      "representativeIndex": 42,
-      "memberIndices": [
-        42
-      ],
-      "score": 50,
-      "category": "economy",
-      "rationale": "Qantas's decision to outsource jobs amid economic pressures reflects broader trends in the airline industry and the impact of technological advancements.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 30,
-      "memberIndices": [
-        30,
-        18
-      ],
-      "score": 45,
-      "category": "society",
-      "rationale": "The demolition of homes in Harare highlights ongoing issues of land rights and housing security, affecting vulnerable communities."
-    },
-    {
-      "representativeIndex": 72,
-      "memberIndices": [
-        72,
-        26
-      ],
-      "score": 40,
-      "category": "disaster",
-      "rationale": "The tragic explosion in Turkey that killed 17 people underscores the risks associated with industrial safety and emergency preparedness."
-    },
-    {
-      "representativeIndex": 36,
-      "memberIndices": [
-        36,
-        62
-      ],
-      "score": 35,
-      "category": "politics",
-      "rationale": "Cameroon's delayed elections reflect ongoing political instability and governance challenges in the region."
+      "score": 15,
+      "category": "health",
+      "rationale": "The resurgence of measles in the US highlights public health challenges and the importance of vaccination efforts."
     },
     {
       "representativeIndex": 5,
       "memberIndices": [
         5,
-        16
-      ],
-      "score": 30,
-      "category": "law",
-      "rationale": "The inquiry into allegations of abuse at a private school raises important issues regarding accountability and institutional reform."
-    },
-    {
-      "representativeIndex": 34,
-      "memberIndices": [
-        34
-      ],
-      "score": 25,
-      "category": "society",
-      "rationale": "The confrontation between ICE agents and community members in New Jersey highlights ongoing tensions surrounding immigration enforcement.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 70,
-      "memberIndices": [
-        70
-      ],
-      "score": 20,
-      "category": "disaster",
-      "rationale": "The attack on Saudi Arabia's East-West pipeline emphasizes the vulnerabilities in global energy infrastructure amid regional conflicts."
-    },
-    {
-      "representativeIndex": 31,
-      "memberIndices": [
-        31
-      ],
-      "score": 15,
-      "category": "world",
-      "rationale": "The involvement of G7 foreign ministers in Russia-Ukraine talks illustrates the international community's engagement in resolving the conflict.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 22,
-      "memberIndices": [
-        22,
-        67
+        51,
+        20,
+        45
       ],
       "score": 10,
-      "category": "politics",
-      "rationale": "The political ramifications of the shooting in Poland reveal the intersection of crime and governance in shaping public policy."
+      "category": "economy",
+      "rationale": "Grayscale's financial struggles reflect broader challenges in the cryptocurrency market amid fluctuating investor confidence."
     },
     {
-      "representativeIndex": 38,
+      "representativeIndex": 15,
       "memberIndices": [
-        38,
-        41
+        15,
+        24,
+        27
       ],
       "score": 5,
-      "category": "society",
-      "rationale": "Public sentiment against pro-war candidates reflects shifting attitudes towards military engagement in U.S. politics."
-    },
-    {
-      "representativeIndex": 29,
-      "memberIndices": [
-        29,
-        53
-      ],
-      "score": 1,
-      "category": "economy",
-      "rationale": "The failure of California's billionaire tax proposal reflects ongoing debates about wealth distribution and economic policy."
+      "category": "politics",
+      "rationale": "The new Israeli parliament's session reflects ongoing political instability and the challenges of forming a cohesive government."
     },
     {
       "representativeIndex": 9,
@@ -707,61 +689,41 @@
       "repaired": true
     },
     {
-      "representativeIndex": 17,
+      "representativeIndex": 10,
       "memberIndices": [
-        17
+        10
       ],
-      "score": 19.7875,
+      "score": 19.875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 24,
+      "representativeIndex": 16,
       "memberIndices": [
-        24
+        16
       ],
-      "score": 19.7,
+      "score": 19.8,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 25,
+      "representativeIndex": 26,
       "memberIndices": [
-        25
+        26
       ],
-      "score": 19.6875,
+      "score": 19.675,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 27,
+      "representativeIndex": 29,
       "memberIndices": [
-        27
+        29
       ],
-      "score": 19.6625,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 28,
-      "memberIndices": [
-        28
-      ],
-      "score": 19.65,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 32,
-      "memberIndices": [
-        32
-      ],
-      "score": 19.6,
+      "score": 19.6375,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -797,6 +759,16 @@
       "repaired": true
     },
     {
+      "representativeIndex": 41,
+      "memberIndices": [
+        41
+      ],
+      "score": 19.4875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
       "representativeIndex": 43,
       "memberIndices": [
         43
@@ -817,16 +789,6 @@
       "repaired": true
     },
     {
-      "representativeIndex": 45,
-      "memberIndices": [
-        45
-      ],
-      "score": 19.4375,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
       "representativeIndex": 46,
       "memberIndices": [
         46
@@ -837,51 +799,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 47,
+      "representativeIndex": 50,
       "memberIndices": [
-        47
+        50
       ],
-      "score": 19.4125,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 48,
-      "memberIndices": [
-        48
-      ],
-      "score": 19.4,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 49,
-      "memberIndices": [
-        49
-      ],
-      "score": 19.3875,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 51,
-      "memberIndices": [
-        51
-      ],
-      "score": 19.3625,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 52,
-      "memberIndices": [
-        52
-      ],
-      "score": 19.35,
+      "score": 19.375,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -897,6 +819,16 @@
       "repaired": true
     },
     {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 19.3125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
       "representativeIndex": 56,
       "memberIndices": [
         56
@@ -907,11 +839,21 @@
       "repaired": true
     },
     {
-      "representativeIndex": 60,
+      "representativeIndex": 58,
       "memberIndices": [
-        60
+        58
       ],
-      "score": 19.25,
+      "score": 19.275,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 59,
+      "memberIndices": [
+        59
+      ],
+      "score": 19.2625,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -922,36 +864,6 @@
         61
       ],
       "score": 19.2375,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 63,
-      "memberIndices": [
-        63
-      ],
-      "score": 19.2125,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 64,
-      "memberIndices": [
-        64
-      ],
-      "score": 19.2,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 65,
-      "memberIndices": [
-        65
-      ],
-      "score": 19.1875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -997,16 +909,6 @@
       "repaired": true
     },
     {
-      "representativeIndex": 74,
-      "memberIndices": [
-        74
-      ],
-      "score": 19.075,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
       "representativeIndex": 75,
       "memberIndices": [
         75
@@ -1027,21 +929,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 79,
+      "representativeIndex": 78,
       "memberIndices": [
-        79
+        78
       ],
-      "score": 19.0125,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 80,
-      "memberIndices": [
-        80
-      ],
-      "score": 19,
+      "score": 19.025,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -1054,14 +946,14 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 26567,
+      "latencyMs": 15386,
       "usage": {
-        "inputTokens": 7024,
-        "outputTokens": 1018,
-        "totalTokens": 8042
+        "inputTokens": 7466,
+        "outputTokens": 981,
+        "totalTokens": 8447
       },
-      "estimatedCostUsd": 0.0016644,
-      "returnedCount": 22,
+      "estimatedCostUsd": 0.0017085,
+      "returnedCount": 20,
       "acceptedCount": 30
     },
     {
@@ -1070,13 +962,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 17583,
+      "latencyMs": 15158,
       "usage": {
-        "inputTokens": 1202,
-        "outputTokens": 1158,
-        "totalTokens": 2360
+        "inputTokens": 1461,
+        "outputTokens": 1241,
+        "totalTokens": 2702
       },
-      "estimatedCostUsd": 0.0008750999999999999,
+      "estimatedCostUsd": 0.00096375,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1086,13 +978,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 16732,
+      "latencyMs": 13534,
       "usage": {
-        "inputTokens": 1220,
-        "outputTokens": 1070,
-        "totalTokens": 2290
+        "inputTokens": 1268,
+        "outputTokens": 1165,
+        "totalTokens": 2433
       },
-      "estimatedCostUsd": 0.000825,
+      "estimatedCostUsd": 0.0008892,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1102,13 +994,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 19711,
+      "latencyMs": 18183,
       "usage": {
-        "inputTokens": 970,
-        "outputTokens": 1178,
-        "totalTokens": 2148
+        "inputTokens": 1019,
+        "outputTokens": 1212,
+        "totalTokens": 2231
       },
-      "estimatedCostUsd": 0.0008523,
+      "estimatedCostUsd": 0.00088005,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1118,13 +1010,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 32202,
+      "latencyMs": 30718,
       "usage": {
-        "inputTokens": 1904,
-        "outputTokens": 2845,
-        "totalTokens": 4749
+        "inputTokens": 2209,
+        "outputTokens": 3077,
+        "totalTokens": 5286
       },
-      "estimatedCostUsd": 0.0019925999999999998,
+      "estimatedCostUsd": 0.00217755,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1134,13 +1026,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 28390,
+      "latencyMs": 29485,
       "usage": {
-        "inputTokens": 1796,
-        "outputTokens": 2940,
-        "totalTokens": 4736
+        "inputTokens": 1950,
+        "outputTokens": 3002,
+        "totalTokens": 4952
       },
-      "estimatedCostUsd": 0.0020334,
+      "estimatedCostUsd": 0.0020937,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1150,25 +1042,25 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 25916,
+      "latencyMs": 21328,
       "usage": {
-        "inputTokens": 1652,
-        "outputTokens": 2705,
-        "totalTokens": 4357
+        "inputTokens": 1748,
+        "outputTokens": 2348,
+        "totalTokens": 4096
       },
-      "estimatedCostUsd": 0.0018708,
-      "returnedCount": 10,
-      "acceptedCount": 10
+      "estimatedCostUsd": 0.001671,
+      "returnedCount": 9,
+      "acceptedCount": 9
     }
   ],
-  "generatedAt": "2026-11-10T06:04:37.692Z",
+  "generatedAt": "2026-11-10T18:04:18.039Z",
   "cost": {
     "currency": "USD",
-    "estimatedTotalUsd": 0.0101136,
+    "estimatedTotalUsd": 0.01038375,
     "complete": true,
-    "inputTokens": 15768,
-    "outputTokens": 12914,
-    "totalTokens": 28682,
+    "inputTokens": 17121,
+    "outputTokens": 13026,
+    "totalTokens": 30147,
     "inputUsdPerMillion": 0.15,
     "outputUsdPerMillion": 0.6
   },
@@ -1177,114 +1069,54 @@
       "storyCount": 30,
       "stories": [
         {
-          "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
-          "source": "The Guardian",
-          "title_en": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "title_en": "Trump says more US attacks on Iran 'highly unlikely'"
+          "title_en": "First day of Ukraine peace talks constructive, Zelensky says"
         },
         {
-          "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
-          "source": "New York Times",
-          "title_en": "China’s Trade Surplus Passes $1 Trillion at Record Pace"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank"
+          "title_en": "Father, child among six Palestinians killed in Israeli attacks on Gaza"
         },
         {
-          "link": "https://www.dw.com/en/why-malnutrition-can-go-unnoticed-and-what-that-means-for-our-health/a-79871016?maca=en-rss-en-all-1573-rdf",
+          "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
+          "source": "New York Times",
+          "title_en": "Failure of California Billionaire Tax Strikes Blow to Progressive Agenda"
+        },
+        {
+          "link": "https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "title_en": "Why malnutrition can go unnoticed, and what that means for our health"
+          "title_en": "Victims of Nazi war in Poland call on Germany for support"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
+          "link": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html",
           "source": "New York Times",
-          "title_en": "‘We Used to Be a Wealthy City’: Auto Woes Slam German Towns"
+          "title_en": "David Walliams, UK Celebrity, Is Accused of Sexual Misconduct"
         },
         {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/pope-leo-draws-2-5-million-people-during-historic-argentina-mass?traffic_source=rss",
+          "link": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+          "source": "The Guardian",
+          "title_en": "Britain willing to discuss paying into EU to join electricity market, says minister"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Pope Leo draws 2.5 million people during historic Argentina Mass"
+          "title_en": "Iran backs nuclear treaty even as hardliners raise prospect of bomb"
         },
         {
-          "link": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
-          "source": "New York Times",
-          "title_en": "The Nvidia Affair"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-advances-bill-energy-projects",
+          "link": "https://www.theguardian.com/us-news/2026/nov/10/msc-seascape-homicide-cruise-ship",
           "source": "The Guardian",
-          "title_en": "Senate advances bill to speed up permit reviews for infrastructure projects"
+          "title_en": "Texas man charged with murder of woman aboard MSC cruise ship"
         },
         {
-          "link": "https://www.aljazeera.com/news/2026/11/10/harare-demolitions-leave-families-homeless-after-years-of-building?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Harare demolitions leave families homeless after years of building"
-        },
-        {
-          "link": "https://www.euronews.com/video/2026/11/09/turkey-steel-plant-explosion-kills-17-in-izmir-province",
-          "source": "Euronews",
-          "title_en": "Turkey: Steel plant explosion kills 17 in Izmir province"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Cameroon sets date for twice-delayed legislative and local elections"
-        },
-        {
-          "link": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
+          "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
           "source": "The Guardian",
-          "title_en": "Beau Lamarre-Condon admits entering Jesse Baird’s house when he wasn’t home"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/2026/nov/09/santa-barbara-half-marathon-illness-police",
-          "source": "The Guardian",
-          "title_en": "Police investigate as nearly 30 Santa Barbara half-marathon runners fall ill with ‘unusual symptoms’"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Saudi Arabia reports new attack on key East-West pipeline"
-        },
-        {
-          "link": "https://www.theguardian.com/australia-news/2026/nov/10/mortgage-holders-confidence-crashes-to-lowest-level-since-1994-as-year-that-feels-like-a-recession-looms",
-          "source": "The Guardian",
-          "title_en": "Mortgage holders’ confidence crashes to lowest level since 1994"
-        },
-        {
-          "link": "https://www.theguardian.com/australia-news/2026/nov/10/one-nation-dumps-franco-guardiani-praised-hitler-victoria-elections-ntwnfb",
-          "source": "The Guardian",
-          "title_en": "One Nation dumps Victorian election candidate who praised Adolf Hitler as ‘GOAT’"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-          "source": "New York Times",
-          "title_en": "Ukraine Peace Talks Resume This Week in Abu Dhabi"
-        },
-        {
-          "link": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
-          "source": "The Block",
-          "title_en": "Trump Media swings to $410 million profit in Q3, driven by crypto gains"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/newly-elected-democrats-react-to-hegseth-impeachment-bid?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Newly-elected Democrats react to Hegseth impeachment bid"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-          "source": "The Guardian",
-          "title_en": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him"
+          "title_en": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities"
         },
         {
           "link": "https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html",
@@ -1292,39 +1124,99 @@
           "title_en": "Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests"
         },
         {
-          "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
           "source": "The Guardian",
-          "title_en": "Senate advances bill to speed up projects from gas pipelines to clean energy"
+          "title_en": "Pete Hegseth dismisses Republican’s impeachment effort against him as ‘a political spectacle’"
         },
         {
-          "link": "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955",
-          "source": "The Block",
-          "title_en": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement"
+          "link": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations",
+          "source": "The Guardian",
+          "title_en": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’"
         },
         {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Israel’s Shin Bet finds no evidence of foreign election interference"
+          "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
+          "source": "The Guardian",
+          "title_en": "UK and Argentina clash over Falklands oil project as Hamburg tribunal starts"
         },
         {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "France blames Iran for October supermarket cyberattack"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/09/climate/global-emissions-iran-war.html",
+          "link": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
           "source": "New York Times",
-          "title_en": "Iran War Unexpectedly Drove Down Carbon Emissions This Year"
+          "title_en": "In Interview, Sonia Gandhi Recalls Love and Loss in India"
         },
         {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM"
+          "link": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+          "source": "New York Times",
+          "title_en": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?"
         },
         {
-          "link": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Verdict delayed in Honduras sex-trafficking case linked to disappearance"
+          "link": "https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids",
+          "source": "The Guardian",
+          "title_en": "UK social media ban expansion for under-16s could cover YouTube Kids"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash"
+        },
+        {
+          "link": "https://www.euronews.com/video/2026/11/10/latest-news-bulletin-november-10th-2026-evening",
+          "source": "Euronews",
+          "title_en": "Latest news bulletin | November 10th, 2026 – Evening"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Some pupils 'struggling just to get a hot meal'"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
+          "source": "New York Times",
+          "title_en": "Syria Weighs Sending Troops to Aid Saudi War With Houthis"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
+          "source": "New York Times",
+          "title_en": "This Law Firm Just Bought Malpractice Insurance for its A.I. Agents"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/10/michigan-sports-parent-defecates",
+          "source": "The Guardian",
+          "title_en": "Michigan sports parent allegedly defecates in rival high school’s corridor: ‘definitely a first’"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Arrests made in Mohamed Al Fayed probe in France, police say"
+        },
+        {
+          "link": "https://www.theguardian.com/news/2026/nov/10/early-death-deprived-areas-england",
+          "source": "The Guardian",
+          "title_en": "People in deprived areas of England more than twice as likely to die early, study shows"
+        },
+        {
+          "link": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-the-latest",
+          "source": "New York Times",
+          "title_en": "Here’s the latest."
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills"
+        },
+        {
+          "link": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
+          "source": "The Block",
+          "title_en": "MEGA commits $30 million to new products, starting with AI inference"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/10/haitian-boy-ice-california",
+          "source": "The Guardian",
+          "title_en": "Haitian boy, 8, detained by ICE is now unaccounted for, lawmaker says"
+        },
+        {
+          "link": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245",
+          "source": "The Block",
+          "title_en": "Moody’s and Chainlink test cross-chain credit ratings distribution"
         }
       ]
     },
@@ -1332,59 +1224,59 @@
       "storyCount": 10,
       "stories": [
         {
-          "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
-          "source": "The Guardian",
-          "title_en": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "title_en": "Trump says more US attacks on Iran 'highly unlikely'"
+          "title_en": "First day of Ukraine peace talks constructive, Zelensky says"
         },
         {
-          "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
-          "source": "New York Times",
-          "title_en": "China’s Trade Surplus Passes $1 Trillion at Record Pace"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank"
+          "title_en": "Father, child among six Palestinians killed in Israeli attacks on Gaza"
         },
         {
-          "link": "https://www.dw.com/en/why-malnutrition-can-go-unnoticed-and-what-that-means-for-our-health/a-79871016?maca=en-rss-en-all-1573-rdf",
+          "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
+          "source": "New York Times",
+          "title_en": "Failure of California Billionaire Tax Strikes Blow to Progressive Agenda"
+        },
+        {
+          "link": "https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "title_en": "Why malnutrition can go unnoticed, and what that means for our health"
+          "title_en": "Victims of Nazi war in Poland call on Germany for support"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
+          "link": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html",
           "source": "New York Times",
-          "title_en": "‘We Used to Be a Wealthy City’: Auto Woes Slam German Towns"
+          "title_en": "David Walliams, UK Celebrity, Is Accused of Sexual Misconduct"
         },
         {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/pope-leo-draws-2-5-million-people-during-historic-argentina-mass?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Pope Leo draws 2.5 million people during historic Argentina Mass"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
-          "source": "New York Times",
-          "title_en": "The Nvidia Affair"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-advances-bill-energy-projects",
+          "link": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
           "source": "The Guardian",
-          "title_en": "Senate advances bill to speed up permit reviews for infrastructure projects"
+          "title_en": "Britain willing to discuss paying into EU to join electricity market, says minister"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Iran backs nuclear treaty even as hardliners raise prospect of bomb"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/10/msc-seascape-homicide-cruise-ship",
+          "source": "The Guardian",
+          "title_en": "Texas man charged with murder of woman aboard MSC cruise ship"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+          "source": "The Guardian",
+          "title_en": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities"
         }
       ],
       "contentHashes": {
-        "ru": "e76e465b04c6a52250faa71c8dc1a48f531cc9a851ca8321c10ff6a548d398a4",
-        "en": "5a7b3a6e27daa5ff1512069152a88dbce613a0b246c6fb0797125530a51d2012"
+        "ru": "061cc344e46d246317c46baa4e26ba44e06dfb88b6a8a540fc80369c6f76489d",
+        "en": "53e1f490a595f473818c67b8f837f9e1707500dbcbf62ce295ff77244361eda7"
       }
     }
   }
