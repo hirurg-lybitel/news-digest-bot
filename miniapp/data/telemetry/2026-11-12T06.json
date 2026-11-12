@@ -1,0 +1,1396 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.942793055555555,
+  "poolSize": 107,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 2,
+      "title": "Nvidia’s Board Is Weighing Jensen Huang’s Future",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html"
+    },
+    {
+      "index": 3,
+      "title": "Where the US's war with Iran stands after the midterms",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/where-the-us-s-war-with-iran-stands-after-the-midterms/a-79918176?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 4,
+      "title": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html"
+    },
+    {
+      "index": 5,
+      "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest"
+    },
+    {
+      "index": 6,
+      "title": "Beau Lamarre-Condon says he was diagnosed with cancer by naturopath but doesn’t recall which one, trial hears",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb"
+    },
+    {
+      "index": 7,
+      "title": "A.I. and Market Whiplash",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html"
+    },
+    {
+      "index": 8,
+      "title": "New York building collapse kills at least two, officials say",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 9,
+      "title": "French guard collapses as Macron rushes to help",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss"
+    },
+    {
+      "index": 10,
+      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 11,
+      "title": "More than 300 migrants rescued off Spain’s Canary Islands",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/more-than-300-migrants-rescued-off-spains-canary-islands?traffic_source=rss"
+    },
+    {
+      "index": 12,
+      "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html"
+    },
+    {
+      "index": 13,
+      "title": "ALT: She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html"
+    },
+    {
+      "index": 14,
+      "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
+      "source": "The Block",
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430"
+    },
+    {
+      "index": 15,
+      "title": "Pope Leo XIV returns to Peru to a big welcome, calls it his 'homeland'",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/pope-leo-xiv-returns-to-peru-to-a-big-welcome-calls-it-his-homeland/a-79925466?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 16,
+      "title": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss"
+    },
+    {
+      "index": 17,
+      "title": "Bolivia arrests former judge on suspicion of drug trafficking",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/12/bolivia-arrests-former-judge-on-suspicion-of-drug-trafficking?traffic_source=rss"
+    },
+    {
+      "index": 18,
+      "title": "Iran’s chief negotiator tells Al Jazeera ‘ball in US court’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss"
+    },
+    {
+      "index": 19,
+      "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 20,
+      "title": "At least two dead while others are trapped in the rubble after a building collapse in New York City",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/12/at-least-two-dead-while-others-are-trapped-in-the-rubble-after-a-building-collapse-in-new-"
+    },
+    {
+      "index": 21,
+      "title": "Famed ship SS United States sunk off coast of Florida",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 22,
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 23,
+      "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss"
+    },
+    {
+      "index": 24,
+      "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/article/nvidia-investigation-jensen-huang.html"
+    },
+    {
+      "index": 25,
+      "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss"
+    },
+    {
+      "index": 26,
+      "title": "Scott Colom claims victory as he addresses supporters in Mississippi following his historic Senate victory – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates"
+    },
+    {
+      "index": 27,
+      "title": "Building collapse in Brooklyn kills two, injures more than a dozen",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss"
+    },
+    {
+      "index": 28,
+      "title": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html"
+    },
+    {
+      "index": 29,
+      "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html"
+    },
+    {
+      "index": 30,
+      "title": "Mother reunites with sons taken under Pinochet regime 40 years ago",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_mother-reunites-with-sons-taken-under-pinochet-111126?traffic_source=rss"
+    },
+    {
+      "index": 31,
+      "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html"
+    },
+    {
+      "index": 32,
+      "title": "Historic US ocean liner sinks near Florida to become world’s largest artificial reef",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef"
+    },
+    {
+      "index": 33,
+      "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems"
+    },
+    {
+      "index": 34,
+      "title": "Australian teen missing in bush for six days rescued alive",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 35,
+      "title": "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang, CEO’s, Future",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html"
+    },
+    {
+      "index": 36,
+      "title": "Pope Leo XIV Goes Home to Peru, Meeting Ghosts of His Past",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/pope-leo-peru-visit-lima.html"
+    },
+    {
+      "index": 37,
+      "title": "‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush"
+    },
+    {
+      "index": 38,
+      "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448"
+    },
+    {
+      "index": 39,
+      "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447"
+    },
+    {
+      "index": 40,
+      "title": "Indonesian VP resigns over education qualification row",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss"
+    },
+    {
+      "index": 41,
+      "title": "Argentina’s Milei cries as he bids farewell to the Pope",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss"
+    },
+    {
+      "index": 42,
+      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"
+    },
+    {
+      "index": 43,
+      "title": "Brooklyn building collapse kills at least two people and traps others in wreckage",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse"
+    },
+    {
+      "index": 44,
+      "title": "Three-storey building collapses in Brooklyn",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss"
+    },
+    {
+      "index": 45,
+      "title": "What could Chinese intelligence have learned from Nvidia CEO’s affair?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss"
+    },
+    {
+      "index": 46,
+      "title": "Human torso found in sofa in Sydney bushland prompts homicide investigation",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb"
+    },
+    {
+      "index": 47,
+      "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss"
+    },
+    {
+      "index": 48,
+      "title": "Former Italian Red Brigades member escapes house arrest in Argentina",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss"
+    },
+    {
+      "index": 49,
+      "title": "Australian states could sue tobacco companies for billions in healthcare costs under proposal",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs"
+    },
+    {
+      "index": 50,
+      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 51,
+      "title": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss"
+    },
+    {
+      "index": 52,
+      "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss"
+    },
+    {
+      "index": 53,
+      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 54,
+      "title": "Why the US, Mexico and Guatemala may lose their measles-free status",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/12/why-the-us-mexico-and-guatemala-may-lose-their-measles-free-status?traffic_source=rss"
+    },
+    {
+      "index": 55,
+      "title": "Cameroon: Who is really calling the shots?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/12/cameroon-who-is-really-calling-the-shots?traffic_source=rss"
+    },
+    {
+      "index": 56,
+      "title": "Hegseth scolded by security at Tomb of the Unknown Soldier",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss"
+    },
+    {
+      "index": 57,
+      "title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 58,
+      "title": "Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race"
+    },
+    {
+      "index": 59,
+      "title": "Court in UK Decriminalizes Same-Sex Relations in Trinidad and Tobago",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html"
+    },
+    {
+      "index": 60,
+      "title": "US election results could be positive for Lebanon, Hezbollah chief says",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss"
+    },
+    {
+      "index": 61,
+      "title": "From Paris to DC - why offices are being turned into apartments",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 62,
+      "title": "Bronze leg found in Scottish bog sheds new light on Roman occupation",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/12/bronze-leg-scottish-bog-roman-occupation-exhibit"
+    },
+    {
+      "index": 63,
+      "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns"
+    },
+    {
+      "index": 64,
+      "title": "Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 65,
+      "title": "Iran war live: IRGC chief says sanctions won’t stop missile programme",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss"
+    },
+    {
+      "index": 66,
+      "title": "Barcelona erupts in violence after general strike",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss"
+    },
+    {
+      "index": 67,
+      "title": "Mississippi Senate race: Democrat Scott Colom defeats Republican Cindy Hyde-Smith",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 68,
+      "title": "Hacker claims to have sold VCE exam papers to hundreds of students after government website hack",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/12/vce-exams-hack-year-12-papers-vcaa-victorian-curriculum-and-assessment-authority"
+    },
+    {
+      "index": 69,
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 70,
+      "title": "Russian Foreign Ministry says its ambassador to US has died",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/russian-foreign-ministry-says-its-ambassador-to-us-has-died/a-79924829?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 71,
+      "title": "United Airlines Blocks A.I. Agents From Booking Flights",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html"
+    },
+    {
+      "index": 72,
+      "title": "Strategy, Metaplanet lose MSCI index membership in November reshuffle",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437"
+    },
+    {
+      "index": 73,
+      "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss"
+    },
+    {
+      "index": 74,
+      "title": "Israeli air strike hits medical complex, 13 killed across Gaza",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss"
+    },
+    {
+      "index": 75,
+      "title": "Spain: Clashes erupt in Barcelona after peaceful general strike march",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/11/spain-clashes-erupt-in-barcelona-after-peaceful-general-strike-march"
+    },
+    {
+      "index": 76,
+      "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil"
+    },
+    {
+      "index": 77,
+      "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 78,
+      "title": "Spain: 120,000 brave rain to demand affordable housing and better wages",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/11/spain-120000-brave-rain-to-demand-affordable-housing-and-better-wages"
+    },
+    {
+      "index": 79,
+      "title": "UK appoints world’s first special representative for climate security",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security"
+    },
+    {
+      "index": 80,
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        18,
+        25
+      ],
+      "score": 90,
+      "category": "conflict",
+      "rationale": "The ongoing war in Iran remains a critical geopolitical issue with significant implications for regional stability."
+    },
+    {
+      "representativeIndex": 10,
+      "memberIndices": [
+        10,
+        28,
+        47
+      ],
+      "score": 85,
+      "category": "conflict",
+      "rationale": "The Israeli strike on a hospital in Gaza highlights the severe humanitarian crisis and ongoing violence in the region."
+    },
+    {
+      "representativeIndex": 22,
+      "memberIndices": [
+        22,
+        26,
+        67,
+        73
+      ],
+      "score": 80,
+      "category": "politics",
+      "rationale": "Scott Colom's historic Senate victory in Mississippi marks a significant political shift and a milestone in representation."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        8,
+        20,
+        27,
+        43
+      ],
+      "score": 75,
+      "category": "disaster",
+      "rationale": "The building collapse in Brooklyn resulted in casualties and ongoing rescue efforts, underscoring urban safety concerns."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4,
+        7,
+        38
+      ],
+      "score": 70,
+      "category": "technology",
+      "rationale": "The investment in a German robotics start-up reflects the growing importance of automation and AI in the global economy."
+    },
+    {
+      "representativeIndex": 19,
+      "memberIndices": [
+        19,
+        24,
+        35,
+        51,
+        64
+      ],
+      "score": 65,
+      "category": "economy",
+      "rationale": "Nvidia's leadership crisis and stock price plunge signal potential instability in the tech sector, impacting investors and markets."
+    },
+    {
+      "representativeIndex": 15,
+      "memberIndices": [
+        15,
+        36,
+        41
+      ],
+      "score": 60,
+      "category": "culture",
+      "rationale": "Pope Leo XIV's return to Peru and the reception he received highlight the cultural and religious significance of his visit."
+    },
+    {
+      "representativeIndex": 16,
+      "memberIndices": [
+        16,
+        33
+      ],
+      "score": 55,
+      "category": "conflict",
+      "rationale": "The intensifying conflict in Yemen continues to displace thousands and poses a humanitarian crisis."
+    },
+    {
+      "representativeIndex": 59,
+      "memberIndices": [
+        59,
+        54
+      ],
+      "score": 50,
+      "category": "law",
+      "rationale": "The UK court's decriminalization of same-sex relations in Trinidad and Tobago could influence similar laws across the Commonwealth."
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 45,
+      "category": "climate",
+      "rationale": "The appointment of a special representative for climate security by the UK government underscores the increasing recognition of climate-related risks."
+    },
+    {
+      "representativeIndex": 34,
+      "memberIndices": [
+        34,
+        37
+      ],
+      "score": 40,
+      "category": "disaster",
+      "rationale": "The rescue of a missing Australian teen highlights the challenges of wilderness safety and survival."
+    },
+    {
+      "representativeIndex": 11,
+      "memberIndices": [
+        11
+      ],
+      "score": 35,
+      "category": "society",
+      "rationale": "The rescue of over 300 migrants off the Canary Islands reflects ongoing migration challenges and humanitarian efforts."
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14
+      ],
+      "score": 30,
+      "category": "economy",
+      "rationale": "The fluctuations in Bitcoin and the financial implications for traders indicate ongoing volatility in the cryptocurrency market."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2,
+        5,
+        42
+      ],
+      "score": 25,
+      "category": "technology",
+      "rationale": "Nvidia's board meeting regarding CEO Jensen Huang's future reflects corporate governance challenges in the tech industry."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6
+      ],
+      "score": 20,
+      "category": "health",
+      "rationale": "The trial involving a cancer diagnosis raises questions about healthcare practices and accountability."
+    },
+    {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12
+      ],
+      "score": 15,
+      "category": "culture",
+      "rationale": "The trek to see a WWII wreck emphasizes the intersection of history and tourism."
+    },
+    {
+      "representativeIndex": 40,
+      "memberIndices": [
+        40
+      ],
+      "score": 10,
+      "category": "politics",
+      "rationale": "The resignation of Indonesia's Vice President over educational qualifications highlights political accountability issues."
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70
+      ],
+      "score": 5,
+      "category": "world",
+      "rationale": "The death of Russia's ambassador to the US may have implications for diplomatic relations."
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60
+      ],
+      "score": 3,
+      "category": "world",
+      "rationale": "The potential positive impact of US election results on Lebanon reflects the interconnectedness of global politics."
+    },
+    {
+      "representativeIndex": 62,
+      "memberIndices": [
+        62
+      ],
+      "score": 2,
+      "category": "science",
+      "rationale": "The discovery of a bronze leg in Scotland provides insights into Roman history and archaeology."
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 1,
+      "category": "law",
+      "rationale": "Concerns over facial recognition technology and its implications for civil rights highlight ongoing legal and ethical debates."
+    },
+    {
+      "representativeIndex": 9,
+      "memberIndices": [
+        9
+      ],
+      "score": 19.8875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 13,
+      "memberIndices": [
+        13
+      ],
+      "score": 19.8375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        17
+      ],
+      "score": 19.7875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 21,
+      "memberIndices": [
+        21
+      ],
+      "score": 19.7375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 29,
+      "memberIndices": [
+        29
+      ],
+      "score": 19.6375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 30,
+      "memberIndices": [
+        30
+      ],
+      "score": 19.625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 31,
+      "memberIndices": [
+        31
+      ],
+      "score": 19.6125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32
+      ],
+      "score": 19.6,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 39,
+      "memberIndices": [
+        39
+      ],
+      "score": 19.5125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 44,
+      "memberIndices": [
+        44
+      ],
+      "score": 19.45,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 19.4375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46
+      ],
+      "score": 19.425,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 48,
+      "memberIndices": [
+        48
+      ],
+      "score": 19.4,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 49,
+      "memberIndices": [
+        49
+      ],
+      "score": 19.3875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 50,
+      "memberIndices": [
+        50
+      ],
+      "score": 19.375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 19.35,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 19.3125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 56,
+      "memberIndices": [
+        56
+      ],
+      "score": 19.3,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 57,
+      "memberIndices": [
+        57
+      ],
+      "score": 19.2875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 19.275,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 61,
+      "memberIndices": [
+        61
+      ],
+      "score": 19.2375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.1875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 66,
+      "memberIndices": [
+        66
+      ],
+      "score": 19.175,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 68,
+      "memberIndices": [
+        68
+      ],
+      "score": 19.15,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 69,
+      "memberIndices": [
+        69
+      ],
+      "score": 19.1375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 71,
+      "memberIndices": [
+        71
+      ],
+      "score": 19.1125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 72,
+      "memberIndices": [
+        72
+      ],
+      "score": 19.1,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 74,
+      "memberIndices": [
+        74
+      ],
+      "score": 19.075,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 75,
+      "memberIndices": [
+        75
+      ],
+      "score": 19.0625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76
+      ],
+      "score": 19.05,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 77,
+      "memberIndices": [
+        77
+      ],
+      "score": 19.0375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 78,
+      "memberIndices": [
+        78
+      ],
+      "score": 19.025,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 19,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 18656,
+      "usage": {
+        "inputTokens": 7330,
+        "outputTokens": 896,
+        "totalTokens": 8226
+      },
+      "estimatedCostUsd": 0.0016370999999999998,
+      "returnedCount": 21,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 17366,
+      "usage": {
+        "inputTokens": 1243,
+        "outputTokens": 1238,
+        "totalTokens": 2481
+      },
+      "estimatedCostUsd": 0.00092925,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 17361,
+      "usage": {
+        "inputTokens": 982,
+        "outputTokens": 1199,
+        "totalTokens": 2181
+      },
+      "estimatedCostUsd": 0.0008667,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 16517,
+      "usage": {
+        "inputTokens": 1066,
+        "outputTokens": 1222,
+        "totalTokens": 2288
+      },
+      "estimatedCostUsd": 0.0008930999999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 30599,
+      "usage": {
+        "inputTokens": 1980,
+        "outputTokens": 2993,
+        "totalTokens": 4973
+      },
+      "estimatedCostUsd": 0.0020928,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 26679,
+      "usage": {
+        "inputTokens": 1713,
+        "outputTokens": 2878,
+        "totalTokens": 4591
+      },
+      "estimatedCostUsd": 0.00198375,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 13712,
+      "usage": {
+        "inputTokens": 1786,
+        "outputTokens": 1457,
+        "totalTokens": 3243
+      },
+      "estimatedCostUsd": 0.0011420999999999998,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-11-12T06:04:12.158Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.009544799999999999,
+    "complete": true,
+    "inputTokens": 16100,
+    "outputTokens": 11883,
+    "totalTokens": 27983,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.dw.com/en/where-the-us-s-war-with-iran-stands-after-the-midterms/a-79918176?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Where the US's war with Iran stands after the midterms"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Democrat Scott Colom seals historic win in Mississippi Senate race"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
+          "source": "New York Times",
+          "title_en": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang"
+        },
+        {
+          "link": "https://www.dw.com/en/pope-leo-xiv-returns-to-peru-to-a-big-welcome-calls-it-his-homeland/a-79925466?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Pope Leo XIV returns to Peru to a big welcome, calls it his 'homeland'"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Fighting intensifies in Yemen as Houthis deny targeting Mecca"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html",
+          "source": "New York Times",
+          "title_en": "Court in UK Decriminalizes Same-Sex Relations in Trinidad and Tobago"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security",
+          "source": "The Guardian",
+          "title_en": "UK appoints world’s first special representative for climate security"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Australian teen missing in bush for six days rescued alive"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/more-than-300-migrants-rescued-off-spains-canary-islands?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "More than 300 migrants rescued off Spain’s Canary Islands"
+        },
+        {
+          "link": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
+          "source": "The Block",
+          "title_en": "Bitcoin traders raise odds of sub-$70,000 Christmas"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
+          "source": "New York Times",
+          "title_en": "Nvidia’s Board Is Weighing Jensen Huang’s Future"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Beau Lamarre-Condon says he was diagnosed with cancer by naturopath but doesn’t recall which one"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "French guard collapses as Macron rushes to help"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
+          "source": "New York Times",
+          "title_en": "ALT: She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/12/bolivia-arrests-former-judge-on-suspicion-of-drug-trafficking?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Bolivia arrests former judge on suspicion of drug trafficking"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Famed ship SS United States sunk off coast of Florida"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Amnesty says UN, South Sudan officials failed to prevent village massacre"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
+          "source": "New York Times",
+          "title_en": "Nvidia Scandal Unveils a Fierce Spy War Behind Trump and Xi’s Diplomacy"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_mother-reunites-with-sons-taken-under-pinochet-111126?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Mother Reunites with Sons Taken Under Pinochet Regime 40 Years Ago"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+          "source": "New York Times",
+          "title_en": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
+          "source": "The Guardian",
+          "title_en": "Historic US Ocean Liner Sinks Near Florida to Become World’s Largest Artificial Reef"
+        },
+        {
+          "link": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
+          "source": "The Block",
+          "title_en": "Nvidia Perps Plunge 10% on Hyperliquid as Board Reportedly Weighs Ousting Jensen Huang"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Three-Storey Building Collapses in Brooklyn"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "What Could Chinese Intelligence Have Learned from Nvidia CEO’s Affair?"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Human Torso Found in Sofa in Sydney Bushland Prompts Homicide Investigation"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Former Italian Red Brigades Member Escapes House Arrest in Argentina"
+        },
+        {
+          "link": "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs",
+          "source": "The Guardian",
+          "title_en": "Australian States Could Sue Tobacco Companies for Billions in Healthcare Costs Under Proposal"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.dw.com/en/where-the-us-s-war-with-iran-stands-after-the-midterms/a-79918176?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Where the US's war with Iran stands after the midterms"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Democrat Scott Colom seals historic win in Mississippi Senate race"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
+          "source": "New York Times",
+          "title_en": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang"
+        },
+        {
+          "link": "https://www.dw.com/en/pope-leo-xiv-returns-to-peru-to-a-big-welcome-calls-it-his-homeland/a-79925466?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Pope Leo XIV returns to Peru to a big welcome, calls it his 'homeland'"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Fighting intensifies in Yemen as Houthis deny targeting Mecca"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html",
+          "source": "New York Times",
+          "title_en": "Court in UK Decriminalizes Same-Sex Relations in Trinidad and Tobago"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security",
+          "source": "The Guardian",
+          "title_en": "UK appoints world’s first special representative for climate security"
+        }
+      ],
+      "contentHashes": {
+        "ru": "89a685b09b273890fcf2a757253d4795ddc418b5b3223a53d3e2e95fcae0da6d",
+        "en": "ae43afe541d6a4f88ede5bfa4b596636821556b4586916dc23901af15882aba4"
+      }
+    }
+  }
+}

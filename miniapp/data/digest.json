@@ -1,491 +1,451 @@
 {
-  "generatedAt": "2026-11-11T18:04:50.068Z",
-  "date": "2026-11-11",
-  "slot": "evening",
-  "periodHours": 11.948170833333334,
+  "generatedAt": "2026-11-12T06:04:12.158Z",
+  "date": "2026-11-12",
+  "slot": "morning",
+  "periodHours": 11.942793055555555,
   "intro": {
     "ru": "Главные мировые события за последние несколько часов — 30 коротких новостей.",
     "en": "The latest major world events in 30 concise stories."
   },
   "stories": [
     {
-      "link": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
-      "source": "New York Times",
+      "link": "https://www.dw.com/en/where-the-us-s-war-with-iran-stands-after-the-midterms/a-79918176?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
       "title": {
-        "ru": "Кения начинает обратный отсчет до окончания вспышки Эболы",
-        "en": "Kenya Starts Countdown to End of Ebola Outbreak"
+        "ru": "Где стоят дела США в войне с Ираном после промежуточных выборов",
+        "en": "Where the US's war with Iran stands after the midterms"
       },
       "summary": {
-        "ru": "Кения достигла важной вехи в борьбе с Эболой, изолировав оставшиеся случаи заболевания.",
-        "en": "Kenya has reached a significant milestone in its fight against Ebola by isolating the remaining cases."
-      },
-      "category": {
-        "ru": "Здоровье",
-        "en": "Health"
-      },
-      "longBody": {
-        "ru": "Кения достигла важной вехи в борьбе с Эболой, изолировав оставшиеся случаи заболевания. Это событие стало значительным шагом в усилиях страны по предотвращению распространения вируса и обеспечению безопасности населения.\n\nИзоляция последних случаев заболевания свидетельствует о том, что африканские страны в целом добились успеха в предотвращении передачи вируса в сообщества. Кения, в частности, смогла эффективно справиться с ситуацией, получив поддержку международных организаций.\n\nСейчас Кения ожидает подтверждения статуса свободной от болезни, что позволит стране сосредоточиться на восстановлении и укреплении системы здравоохранения.",
-        "en": "Kenya has reached a significant milestone in its fight against Ebola by isolating the remaining cases. This event marks an important step in the country's efforts to prevent the spread of the virus and ensure public safety.\n\nThe isolation of the last cases indicates that African countries have largely succeeded in preventing community transmission of the virus. Kenya, in particular, has managed the situation effectively with support from international organizations.\n\nNow, Kenya awaits confirmation of its disease-free status, which will allow the country to focus on recovery and strengthening its healthcare system."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Keniya-nachinaet-obratnyj-otschet-do-okonchaniya-vspyshki-EHboly-11-11",
-        "en": "https://telegra.ph/Kenya-Starts-Countdown-to-End-of-Ebola-Outbreak-11-11-2"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-faces-nationwide-protests-over-soaring-housing-costs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Испания сталкивается с общенациональными протестами из-за растущих цен на жилье",
-        "en": "Spain Faces Nationwide Protests Over Soaring Housing Costs"
-      },
-      "summary": {
-        "ru": "В Испании проходят общенациональные протесты против высоких цен на жилье.",
-        "en": "Nationwide protests against soaring housing costs are taking place in Spain."
-      },
-      "category": {
-        "ru": "Экономика",
-        "en": "Economy"
-      },
-      "longBody": {
-        "ru": "В Испании проходят общенациональные протесты против высоких цен на жилье. Эти акции стали ответом на растущие проблемы с доступностью жилья, которые затрагивают множество граждан по всей стране.\n\nПротестующие требуют от правительства принять меры для снижения цен на жилье и улучшения условий жизни. Волнения охватили различные города, и многие рабочие присоединились к демонстрациям, подчеркивая важность этой проблемы для населения.\n\nСитуация усугубляется растущими ценами на аренду и покупку жилья, что приводит к недовольству и требованию изменений в политике, направленной на защиту прав граждан.",
-        "en": "Nationwide protests against soaring housing costs are taking place in Spain. These demonstrations are a response to the growing issues of housing affordability affecting many citizens across the country.\n\nProtesters are calling on the government to take action to lower housing prices and improve living conditions. The unrest has spread to various cities, with many workers joining the demonstrations, emphasizing the importance of this issue for the populace.\n\nThe situation is exacerbated by rising rental and purchase prices, leading to discontent and demands for changes in policies aimed at protecting citizens' rights."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Ispaniya-stalkivaetsya-s-obshchenacionalnymi-protestami-iz-za-rastushchih-cen-na-zhile-11-11",
-        "en": "https://telegra.ph/Spain-Faces-Nationwide-Protests-Over-Soaring-Housing-Costs-11-11"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "США призывают Россию включить Европу в переговоры по Украине",
-        "en": "U.S. Urges Russia to Include Europe in Ukraine Talks"
-      },
-      "summary": {
-        "ru": "После раунда переговоров в Абу-Даби, представители Трампа заявили о намерении поехать в Москву.",
-        "en": "Following negotiations in Abu Dhabi, Trump’s envoys announced plans to visit Moscow."
+        "ru": "Почти через девять месяцев после начала войны в Иране, ситуация успокоилась, и Дональд Трамп видит конец. Однако ключевые вопросы конфликта остаются нерешенными, и в США произошли политические изменения.",
+        "en": "Almost nine months after it began, the war in Iran has calmed to the point where Donald Trump sees an end. However, key issues of the conflict remain unresolved amid political changes in the US."
       },
       "category": {
         "ru": "Конфликт",
         "en": "Conflict"
       },
       "longBody": {
-        "ru": "После раунда переговоров в Абу-Даби, представители Трампа заявили о намерении поехать в Москву. Это решение связано с требованиями Кремля о необходимости обсуждения европейских структур безопасности.\n\nПереговоры в ОАЭ завершились, и, хотя достигнуты некоторые успехи, вопросы о мире в Украине остаются нерешенными. Ожидается, что поездка в Москву станет важным шагом в дальнейших переговорах.\n\nСтороны надеются, что обсуждение европейской безопасности поможет продвинуться в разрешении конфликта и улучшить отношения между США и Россией.",
-        "en": "Following negotiations in Abu Dhabi, Trump’s envoys announced plans to visit Moscow. This decision is linked to the Kremlin's demands for discussions on European security structures.\n\nThe talks in the UAE concluded, and while some progress was made, issues regarding peace in Ukraine remain unresolved. The upcoming trip to Moscow is expected to be a significant step in further negotiations.\n\nBoth sides hope that discussing European security will help advance conflict resolution and improve relations between the US and Russia."
+        "ru": "Почти девять месяцев спустя после начала войны в Иране, ситуация на фронте успокоилась, и Дональд Трамп начинает видеть возможность завершения конфликта. Однако основные вопросы, которые привели к этому конфликту, остаются нерешенными, что создает неопределенность в будущем.\n\nПолитические изменения в США также влияют на динамику конфликта. С учетом недавних выборов и изменения в политическом ландшафте, эксперты задаются вопросом, как это повлияет на подход Вашингтона к Ирану и на международные отношения в целом.\n\nНесмотря на снижение интенсивности боевых действий, напряженность в регионе сохраняется. Иран продолжает делать заявления о своей готовности к ответным действиям, что подчеркивает хрупкость текущей ситуации.",
+        "en": "Almost nine months after it began, the war in Iran has calmed to the point where Donald Trump sees an end. However, key issues of the conflict remain unresolved, creating uncertainty for the future.\n\nPolitical changes in the US are also impacting the dynamics of the conflict. In light of the recent elections and shifts in the political landscape, experts are questioning how this will affect Washington's approach to Iran and international relations as a whole.\n\nDespite the decrease in the intensity of hostilities, tensions in the region persist. Iran continues to make statements about its readiness for retaliatory actions, highlighting the fragility of the current situation."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/SSHA-prizyvayut-Rossiyu-vklyuchit-Evropu-v-peregovory-po-Ukraine-11-11",
-        "en": "https://telegra.ph/US-Urges-Russia-to-Include-Europe-in-Ukraine-Talks-11-11"
+        "ru": "https://telegra.ph/Gde-stoyat-dela-SSHA-v-vojne-s-Iranom-posle-promezhutochnyh-vyborov-11-12",
+        "en": "https://telegra.ph/Where-the-USs-war-with-Iran-stands-after-the-midterms-11-12-2"
       }
     },
     {
-      "link": "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Десятки тысяч присоединились к националистическому маршу в Польше в День независимости",
-        "en": "Tens of Thousands Join Poland’s Nationalist Independence Day March"
-      },
-      "summary": {
-        "ru": "Премьер-министр Польши Дональд Туск призвал к единству после атаки в Кракове, связанной с крайней правой идеологией.",
-        "en": "Polish PM Donald Tusk called for unity after a deadly attack in Krakow linked to far-right ideology."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "Премьер-министр Польши Дональд Туск призвал к единству после недавней атаки в Кракове, связанной с крайней правой идеологией. Эта трагедия привлекла внимание к проблемам, связанным с радикализацией и насилием в стране.\n\nТуск подчеркнул важность сплоченности общества в ответ на такие акты насилия. Он призвал граждан к сдержанности и совместным усилиям по борьбе с экстремизмом.\n\nАтака в Кракове стала напоминанием о необходимости более активной работы по предотвращению насилия и укреплению общественного согласия.",
-        "en": "Polish PM Donald Tusk called for unity after a deadly attack in Krakow linked to far-right ideology. This tragedy has drawn attention to issues related to radicalization and violence in the country.\n\nTusk emphasized the importance of societal cohesion in response to such acts of violence. He urged citizens to exercise restraint and work together to combat extremism.\n\nThe attack in Krakow serves as a reminder of the need for more active efforts to prevent violence and strengthen social consensus."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Desyatki-tysyach-prisoedinilis-k-nacionalisticheskomu-marshu-v-Polshe-v-Den-nezavisimosti-11-11",
-        "en": "https://telegra.ph/Tens-of-Thousands-Join-Polands-Nationalist-Independence-Day-March-11-11"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/11/business/energy-environment/winter-heating-oil-costs.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Стоимость отопления вырастет в среднем на 7% этой зимой",
-        "en": "Heating Costs Will Rise 7% on Average This Winter"
-      },
-      "summary": {
-        "ru": "Пользователи отопительного масла столкнутся с увеличением цен на 70% из-за войны в Иране.",
-        "en": "Heating oil users will see price increases of around 70% due to the war in Iran."
-      },
-      "category": {
-        "ru": "Экономика",
-        "en": "Economy"
-      },
-      "longBody": {
-        "ru": "Пользователи отопительного масла столкнутся с увеличением цен на 70% из-за войны в Иране. Это значительное повышение цен вызвано сокращением поставок топлива, что создает дополнительные финансовые трудности для домохозяйств.\n\nСитуация на рынке энергетики продолжает оставаться напряженной, и ожидается, что рост цен на отопительное масло повлияет на многих людей, особенно в зимний период. Это также может привести к увеличению расходов на отопление и другим экономическим последствиям.\n\nПравительство и эксперты призывают к поиску альтернативных источников энергии и мерам по поддержке населения в условиях растущих цен.",
-        "en": "Heating oil users will see price increases of around 70 percent due to the war in Iran. This significant price hike is caused by reduced fuel supplies, creating additional financial burdens for households.\n\nThe energy market situation remains tense, and the rise in heating oil prices is expected to impact many people, especially during the winter months. This may also lead to increased heating expenses and other economic repercussions.\n\nThe government and experts are urging the search for alternative energy sources and measures to support the population amid rising costs."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Stoimost-otopleniya-vyrastet-v-srednem-na-7-ehtoj-zimoj-11-11",
-        "en": "https://telegra.ph/Heating-Costs-Will-Rise-7-on-Average-This-Winter-11-11-5"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/sports/2026/11/11/israeli-army-kills-palestinian-footballer-mahmoud-kamal-abdel-malek-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Израильская армия убивает палестинского футболиста Махмуда Камаля Абдель-Малека в Газе",
-        "en": "Israeli Army Kills Palestinian Footballer Mahmoud Kamal Abdel-Malek in Gaza"
-      },
-      "summary": {
-        "ru": "Абдель-Малек, капитан и вратарь клуба «Спорт Газа», недавно играл в финале Кубка Тысячи Мартиров.",
-        "en": "Abdel-Malek, the captain and goalkeeper of Gaza Sports Club, recently played in the Thousand Martyrs Cup final."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
-      },
-      "longBody": {
-        "ru": "Абдель-Малек, капитан и вратарь клуба «Спорт Газа», недавно играл в финале Кубка Тысячи Мартиров. Его смерть стала трагическим событием для местного сообщества и футбольной ассоциации.\n\nИнцидент привлек внимание к продолжающемуся конфликту в Газе и его последствиям для гражданского населения. Местные жители выражают скорбь и поддержку семье Абдель-Малека в это тяжелое время.\n\nСпортивные организации и активисты призывают к прекращению насилия и защите прав спортсменов в регионе.",
-        "en": "Abdel-Malek, the captain and goalkeeper of Gaza Sports Club, recently played in the Thousand Martyrs Cup final. His death has become a tragic event for the local community and the football association.\n\nThe incident has drawn attention to the ongoing conflict in Gaza and its consequences for the civilian population. Local residents are expressing grief and support for Abdel-Malek's family during this difficult time.\n\nSports organizations and activists are calling for an end to violence and the protection of athletes' rights in the region."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Izrailskaya-armiya-ubivaet-palestinskogo-futbolista-Mahmuda-Kamalya-Abdel-Maleka-v-Gaze-11-11",
-        "en": "https://telegra.ph/Israeli-Army-Kills-Palestinian-Footballer-Mahmoud-Kamal-Abdel-Malek-in-Gaza-11-11"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Трамп хвалит Хегсета после неудачной попытки импичмента и игнорирует критику войны с Ираном",
-        "en": "Trump Praises Hegseth After Failed Impeachment Effort"
-      },
-      "summary": {
-        "ru": "Президент заявил, что США «не начали войну с Ираном» в своей речи в День ветеранов.",
-        "en": "The President claimed the U.S. 'did not start the war with Iran' during his Veterans Day speech."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "Президент заявил, что США «не начали войну с Ираном» в своей речи в День ветеранов. Это заявление было сделано на фоне неудачной попытки импичмента Пита Хегсета, когда республиканцы заблокировали усилия демократов.\n\nВ своей речи Трамп также вновь поддержал министра обороны, что подчеркивает его позицию по вопросам безопасности и внешней политики. Политическая обстановка в стране остается напряженной, и обсуждение импичмента продолжает вызывать споры среди законодателей.\n\nНекоторые демократы, пропустившие ключевое голосование по импичменту, объяснили свое отсутствие пробками в Вашингтоне, что добавляет еще один слой к уже сложной политической ситуации.",
-        "en": "The President claimed the US ‘did not start the war with Iran’ during his Veterans Day speech. This statement was made amid the failed impeachment attempt of Pete Hegseth, as Republicans blocked Democrats' efforts.\n\nIn his speech, Trump also reiterated his support for the defense secretary, highlighting his stance on security and foreign policy issues. The political climate in the country remains tense, and the impeachment discussion continues to spark controversy among lawmakers.\n\nSome Democrats who missed the key impeachment vote attributed their absence to traffic jams in Washington, adding another layer to the already complex political situation."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Tramp-hvalit-Hegseta-posle-neudachnoj-popytki-impichmenta-i-ignoriruet-kritiku-vojny-s-Iranom-11-11",
-        "en": "https://telegra.ph/Trump-Praises-Hegseth-After-Failed-Impeachment-Effort-11-11"
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "title": {
-        "ru": "Министр финансов США Скотт Бессент переехал после предполагаемых угроз от Ирана",
-        "en": "US Treasury Secretary Scott Bessent Relocated After Alleged Iranian Threats"
+        "ru": "Израильский удар по больнице убивает как минимум пятерых палестинцев, сообщает гражданская защита Газы",
+        "en": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says"
       },
       "summary": {
-        "ru": "Бессент теперь живет на военной базе из-за соображений безопасности.",
-        "en": "Bessent is now living on a military base due to safety concerns."
+        "ru": "Удар попал в хирургическое отделение больницы в Хан-Юнисе, ранив как минимум 20 человек и нанеся значительный ущерб, сообщает представитель.",
+        "en": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says."
       },
       "category": {
         "ru": "Конфликт",
         "en": "Conflict"
       },
       "longBody": {
-        "ru": "Бессент теперь живет на военной базе из-за соображений безопасности. Это решение было принято в свете угроз, связанных с его работой в администрации Трампа.\n\nОн стал одним из нескольких официальных лиц, которые были перемещены на военные базы для обеспечения их безопасности. Ситуация подчеркивает растущие опасности, с которыми сталкиваются высокопрофильные чиновники в условиях напряженной международной обстановки.\n\nБезопасность и защита таких лиц становятся приоритетом для властей, что отражает текущие вызовы в области безопасности.",
-        "en": "Bessent is now living on a military base due to safety concerns. This decision was made in light of threats related to his work in the Trump administration.\n\nHe has become one of several officials who have been relocated to military bases for their safety. The situation underscores the growing dangers faced by high-profile officials amid a tense international climate.\n\nEnsuring the safety and protection of such individuals has become a priority for authorities, reflecting the current security challenges."
+        "ru": "Удар по больнице в Хан-Юнисе привел к гибели как минимум пяти палестинцев и ранениям более 20 человек. Этот инцидент произошел в хирургическом отделении, что вызвало значительные разрушения и обеспокоенность среди местных жителей и правозащитных организаций.\n\nПредставитель службы гражданской обороны сообщил о масштабах ущерба и о том, что медицинские учреждения в Газе продолжают страдать от конфликтов. Это подчеркивает сложную гуманитарную ситуацию в регионе, где доступ к медицинской помощи становится все более ограниченным.\n\nМеждународное сообщество продолжает следить за ситуацией, призывая к прекращению насилия и защите гражданских лиц, особенно в таких уязвимых местах, как больницы.",
+        "en": "An airstrike on a hospital in Khan Younis has resulted in the deaths of at least five Palestinians and injuries to more than 20 people. The incident occurred in the surgery department, causing extensive damage and raising concerns among local residents and human rights organizations.\n\nA spokesperson for the civil defense agency reported on the scale of the destruction and the ongoing plight of medical facilities in Gaza. This highlights the complex humanitarian situation in the region, where access to medical care is becoming increasingly limited.\n\nThe international community continues to monitor the situation, calling for an end to the violence and the protection of civilians, especially in vulnerable places like hospitals."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Ministr-finansov-SSHA-Skott-Bessent-pereehal-posle-predpolagaemyh-ugroz-ot-Irana-11-11",
-        "en": "https://telegra.ph/US-Treasury-Secretary-Scott-Bessent-Relocated-After-Alleged-Iranian-Threats-11-11-4"
+        "ru": "https://telegra.ph/Izrailskij-udar-po-bolnice-ubivaet-kak-minimum-pyateryh-palestincev-soobshchaet-grazhdanskaya-zashchita-Gazy-11-12",
+        "en": "https://telegra.ph/Israeli-strike-on-hospital-kills-at-least-five-Palestinians-Gaza-civil-defence-agency-says-11-12"
       }
     },
     {
-      "link": "https://www.euronews.com/2026/11/11/trinidad-and-tobago-highest-court-overturns-gay-sex-ban",
-      "source": "Euronews",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
       "title": {
-        "ru": "Высший суд Тринидада и Тобаго отменяет запрет на гомосексуальные отношения",
-        "en": "Trinidad and Tobago Highest Court Overturns Gay Sex Ban"
+        "ru": "Демократ Скотт Колом одерживает историческую победу на выборах в Сенат Миссисипи",
+        "en": "Democrat Scott Colom seals historic win in Mississippi Senate race"
       },
       "summary": {
-        "ru": "Высший суд страны отменил закон 1986 года, криминализирующий согласительные сексуальные отношения между взрослыми одного пола.",
-        "en": "The island nation's highest court overturned a 1986 law criminalizing consensual sexual relations between adults of the same sex."
+        "ru": "Колом стал первым чернокожим человеком из южного штата, избранным в Сенат США за более чем 140 лет.",
+        "en": "Colom is the first black person from the southern state elected to the US Senate in over 140 years."
+      },
+      "category": {
+        "ru": "Политика",
+        "en": "Politics"
+      },
+      "longBody": {
+        "ru": "Скотт Колом стал первым чернокожим человеком из южного штата, избранным в Сенат США за более чем 140 лет. Его победа на выборах в Сенат в Миссисипи стала историческим событием, подчеркивающим изменения в политической культуре региона.\n\nКолом, представляющий Демократическую партию, одержал победу над республиканцем Синди Хайд-Смит, что также свидетельствует о сдвиге в предпочтениях избирателей. Его успех может вдохновить будущие поколения политиков из меньшинств и способствовать более инклюзивному представлению в американской политике.\n\nЭта победа также поднимает вопросы о расовых и социальных изменениях в южных штатах, где исторически доминировали белые кандидаты. Колом надеется использовать свою позицию для продвижения равенства и справедливости в своем штате и за его пределами.",
+        "en": "Scott Colom has become the first black person from a southern state elected to the US Senate in over 140 years. His victory in the Mississippi Senate race marks a historic event, highlighting changes in the political culture of the region.\n\nColom, representing the Democratic Party, defeated Republican Cindy Hyde-Smith, indicating a shift in voter preferences. His success may inspire future generations of minority politicians and contribute to more inclusive representation in American politics.\n\nThis victory also raises questions about racial and social changes in southern states, where white candidates have historically dominated. Colom hopes to use his position to promote equality and justice both within his state and beyond."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Demokrat-Skott-Kolom-oderzhivaet-istoricheskuyu-pobedu-na-vyborah-v-Senat-Missisipi-11-12",
+        "en": "https://telegra.ph/Democrat-Scott-Colom-seals-historic-win-in-Mississippi-Senate-race-11-12-6"
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Энергоснабжение Украины близко к критическому уровню, так как российские удары приносят темноту и холод",
+        "en": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold"
+      },
+      "summary": {
+        "ru": "Для родителей в некоторых частях Украины попытки вести нормальную семейную жизнь с несколькими часами электричества в день становятся тяжелыми.",
+        "en": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll."
+      },
+      "category": {
+        "ru": "Катастрофа",
+        "en": "Disaster"
+      },
+      "longBody": {
+        "ru": "В некоторых частях Украины родители сталкиваются с трудностями в ведении нормальной семейной жизни из-за ограниченного доступа к электричеству. Ситуация ухудшается из-за российских атак, которые приводят к отключениям электроэнергии и холодным условиям.\n\nСемьи вынуждены адаптироваться к жизни с несколькими часами электричества в день, что затрудняет выполнение повседневных задач и поддержание комфортной обстановки в домах. Это создает дополнительное напряжение и стресс для родителей и детей.\n\nМестные власти и гуманитарные организации продолжают работать над тем, чтобы обеспечить поддержку тем, кто пострадал от этих условий, однако вызовы остаются значительными в условиях продолжающегося конфликта.",
+        "en": "In parts of Ukraine, parents are facing difficulties in leading a normal family life due to limited access to electricity. The situation is worsening due to Russian strikes, which lead to power outages and cold conditions.\n\nFamilies are forced to adapt to living with just a few hours of electricity each day, making it challenging to carry out daily tasks and maintain a comfortable environment at home. This creates additional strain and stress for both parents and children.\n\nLocal authorities and humanitarian organizations continue to work to provide support to those affected by these conditions, but challenges remain significant amid the ongoing conflict."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/EHnergosnabzhenie-Ukrainy-blizko-k-kriticheskomu-urovnyu-tak-kak-rossijskie-udary-prinosyat-temnotu-i-holod-11-12",
+        "en": "https://telegra.ph/Ukraines-power-supply-close-to-critical-as-Russian-strikes-bring-darkness-and-cold-11-12"
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Технологические гиганты инвестируют в немецкий стартап робототехники с оценкой в 8,5 миллиарда долларов",
+        "en": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation"
+      },
+      "summary": {
+        "ru": "Agile Robots планирует расширение в США и увеличение производства в Европе после привлечения средств в раунде, возглавляемом SoftBank.",
+        "en": "Agile Robots plans to expand in the United States and increase production in Europe after raising funds in a round led by SoftBank."
+      },
+      "category": {
+        "ru": "Технологии",
+        "en": "Technology"
+      },
+      "longBody": {
+        "ru": "Компания Agile Robots привлекла средства в раунде, возглавляемом SoftBank, что позволит ей расширить свое присутствие в США и увеличить производство в Европе. Оценка компании составила 8,5 миллиарда долларов, что подчеркивает растущий интерес к робототехнике и автоматизации.\n\nРасширение в США предполагает не только увеличение производственных мощностей, но и возможность внедрения новых технологий на рынке. Это также может привести к созданию рабочих мест и развитию новых партнерств в области технологий.\n\nИнвестиции в робототехнику продолжают расти, и Agile Robots находится в центре этого тренда, что может изменить ландшафт индустрии в ближайшие годы.",
+        "en": "Agile Robots has raised funds in a round led by SoftBank, allowing the company to expand its presence in the United States and increase production in Europe. The company's valuation reached $8.5 billion, highlighting the growing interest in robotics and automation.\n\nThe expansion in the US involves not only increasing manufacturing capabilities but also the potential for introducing new technologies to the market. This could lead to job creation and the development of new partnerships in the tech sector.\n\nInvestments in robotics continue to rise, and Agile Robots is at the forefront of this trend, which may reshape the industry landscape in the coming years."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Tehnologicheskie-giganty-investiruyut-v-nemeckij-startap-robototehniki-s-ocenkoj-v-85-milliarda-dollarov-11-12",
+        "en": "https://telegra.ph/Tech-Giants-Invest-in-German-Robotics-Start-Up-at-85-Billion-Valuation-11-12"
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Что мы знаем о растущем давлении на CEO Nvidia Дженсена Хуана",
+        "en": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang"
+      },
+      "summary": {
+        "ru": "Будущее миллиардера-технолога под вопросом после сообщений о втором внебрачном романе.",
+        "en": "The billionaire tech executive's future is in question after reports of a second extramarital affair."
+      },
+      "category": {
+        "ru": "Экономика",
+        "en": "Economy"
+      },
+      "longBody": {
+        "ru": "Будущее миллиардера-технолога Дженсена Хуана находится под вопросом после сообщений о втором внебрачном романе. Это создало напряженность внутри компании Nvidia, где акционеры и совет директоров обсуждают его возможное увольнение.\n\nСитуация привлекла внимание не только к личной жизни Хуана, но и к его управлению компанией, которая сталкивается с вызовами на рынке. Акции Nvidia упали на фоне этих новостей, что добавляет давление на руководство.\n\nОбсуждения о будущем Хуана подчеркивают важность корпоративной этики и ответственности, особенно в высокотехнологичной индустрии, где репутация компании играет ключевую роль.",
+        "en": "The future of billionaire tech executive Jensen Huang is in question following reports of a second extramarital affair. This has created tension within Nvidia, where shareholders and the board are discussing his potential ousting.\n\nThe situation has drawn attention not only to Huang's personal life but also to his leadership of the company, which is facing challenges in the market. Nvidia's stock has plummeted amid these reports, adding pressure on the management.\n\nDiscussions about Huang's future highlight the importance of corporate ethics and accountability, especially in the high-tech industry, where a company's reputation plays a crucial role."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/CHto-my-znaem-o-rastushchem-davlenii-na-CEO-Nvidia-Dzhensena-Huana-11-12",
+        "en": "https://telegra.ph/What-we-know-as-pressure-builds-on-embattled-Nvidia-CEO-Jensen-Huang-11-12"
+      }
+    },
+    {
+      "link": "https://www.dw.com/en/pope-leo-xiv-returns-to-peru-to-a-big-welcome-calls-it-his-homeland/a-79925466?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "title": {
+        "ru": "Папа Лев XIV возвращается в Перу с большим приемом, называет ее своей 'родиной'",
+        "en": "Pope Leo XIV returns to Peru to a big welcome, calls it his 'homeland'"
+      },
+      "summary": {
+        "ru": "Около 3 миллионов человек приветствовали Папу Льва XIV в Лиме, когда перуанский понтифик начал шестидневный визит на родину, где провел два десятилетия как миссионер и епископ.",
+        "en": "An estimated 3 million people greeted Pope Leo XIV in Lima as the Peruvian-citizen pontiff began a six-day homecoming visit to the country where he spent two decades as a missionary and bishop."
+      },
+      "category": {
+        "ru": "Культура",
+        "en": "Culture"
+      },
+      "longBody": {
+        "ru": "Папа Лев XIV вернулся в Перу, где его встретили около 3 миллионов человек. Этот визит стал шестидневным возвращением на родину, где он провел два десятилетия как миссионер и епископ.\n\nПапа выразил радость от теплого приема и подчеркнул свою связь с Перу, называя страну своей \"родиной\". Визит включает встречи с различными группами и обсуждение вопросов, касающихся местной общины и церкви.\n\nЭто событие подчеркивает важность духовного лидерства и единства, а также привлекает внимание к социальным и культурным вопросам, с которыми сталкиваются жители Перу.",
+        "en": "Pope Leo XIV returned to Peru, greeted by approximately 3 million people. This visit marks a six-day homecoming to the country where he spent two decades as a missionary and bishop.\n\nThe Pope expressed joy at the warm welcome and emphasized his connection to Peru, referring to the country as his \"homeland.\" The visit includes meetings with various groups and discussions on issues affecting the local community and the church.\n\nThis event highlights the importance of spiritual leadership and unity, while also drawing attention to the social and cultural issues faced by the people of Peru."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Papa-Lev-XIV-vozvrashchaetsya-v-Peru-s-bolshim-priemom-nazyvaet-ee-svoej-rodinoj-11-12",
+        "en": "https://telegra.ph/Pope-Leo-XIV-returns-to-Peru-to-a-big-welcome-calls-it-his-homeland-11-12"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Бои усиливаются в Йемене, Хуситы отрицают целенаправленность на Мекку",
+        "en": "Fighting intensifies in Yemen as Houthis deny targeting Mecca"
+      },
+      "summary": {
+        "ru": "Всемирная организация здравоохранения сообщает, что более 320 000 человек были вынуждены покинуть свои дома в результате боев в Йемене с 1 августа.",
+        "en": "World Health Organization says more than 320,000 people have been displaced in Yemen fighting since August 1."
+      },
+      "category": {
+        "ru": "Конфликт",
+        "en": "Conflict"
+      },
+      "longBody": {
+        "ru": "Согласно данным Всемирной организации здравоохранения, более 320 000 человек были вынуждены покинуть свои дома в результате боев в Йемене с 1 августа. Конфликт продолжается, и гуманитарная ситуация в стране ухудшается.\n\nБои между хуситами и правительственными силами приводят к значительным разрушениям и страданиям среди гражданского населения. Отказ хуситов от обвинений в целенаправленном обстреле Мекки подчеркивает сложность и многоуровневость конфликта.\n\nМеждународные организации продолжают призывать к мирным переговорам и гуманитарной помощи, однако ситуация остается напряженной и требует внимания мирового сообщества.",
+        "en": "According to the World Health Organization, more than 320,000 people have been displaced in Yemen due to fighting since August 1. The conflict continues, and the humanitarian situation in the country is deteriorating.\n\nFighting between the Houthis and government forces has led to significant destruction and suffering among the civilian population. The Houthis' denial of targeting Mecca underscores the complexity and multifaceted nature of the conflict.\n\nInternational organizations continue to call for peace talks and humanitarian assistance, but the situation remains tense and requires the attention of the global community."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Boi-usilivayutsya-v-Jemene-Husity-otricayut-celenapravlennost-na-Mekku-11-12",
+        "en": "https://telegra.ph/Fighting-intensifies-in-Yemen-as-Houthis-deny-targeting-Mecca-11-12"
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Суд в Великобритании декриминализирует однополые отношения в Тринидаде и Тобаго",
+        "en": "Court in UK Decriminalizes Same-Sex Relations in Trinidad and Tobago"
+      },
+      "summary": {
+        "ru": "Это решение может повлиять на аналогичные законы в других странах Британского Содружества и подчеркивает правовую систему, все еще переплетенную с бывшей колониальной державой.",
+        "en": "The ruling, which could affect similar laws in other British Commonwealth countries, has spotlighted a legal system still intertwined with a former colonial power."
       },
       "category": {
         "ru": "Право",
         "en": "Law"
       },
       "longBody": {
-        "ru": "Высший суд страны отменил закон 1986 года, криминализирующий согласительные сексуальные отношения между взрослыми одного пола. Это решение стало значительным шагом вперед для прав ЛГБТ-сообщества в Тринидаде и Тобаго.\n\nОтмена закона была встречена с одобрением правозащитников, которые подчеркивают важность равенства и недискриминации. Это решение также может повлиять на общественное мнение и политику в отношении прав ЛГБТ в стране.\n\nСудебное решение стало важным моментом в борьбе за права человека и свободы в регионе.",
-        "en": "The island nation's highest court overturned a 1986 law criminalizing consensual sexual relations between adults of the same sex. This decision marks a significant step forward for the rights of the LGBTQ+ community in Trinidad and Tobago.\n\nThe repeal of the law has been met with approval from human rights advocates who emphasize the importance of equality and non-discrimination. This ruling may also influence public opinion and policy regarding LGBTQ+ rights in the country.\n\nThe court's decision represents an important moment in the struggle for human rights and freedoms in the region."
+        "ru": "Решение суда в Великобритании о декриминализации однополых отношений в Тринидаде и Тобаго может оказать влияние на аналогичные законы в других странах Британского Содружества. Это подчеркивает правовую систему, которая все еще переплетена с бывшей колониальной державой.\n\nДанное решение стало важным шагом к улучшению прав человека и равенства для ЛГБТ-сообщества в регионе. Оно также открывает возможность для пересмотра устаревших законов, которые могут дискриминировать меньшинства.\n\nОбсуждение этого вопроса поднимает важные вопросы о наследии колониализма и о том, как современные общества могут адаптироваться к изменяющимся социальным нормам.",
+        "en": "The UK court's ruling to decriminalize same-sex relations in Trinidad and Tobago may influence similar laws in other British Commonwealth countries. This highlights a legal system still intertwined with a former colonial power.\n\nThe ruling marks an important step toward improving human rights and equality for the LGBTQ+ community in the region. It also opens the door for the review of outdated laws that may discriminate against minorities.\n\nThe discussion around this issue raises significant questions about the legacy of colonialism and how modern societies can adapt to changing social norms."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Vysshij-sud-Trinidada-i-Tobago-otmenyaet-zapret-na-gomoseksualnye-otnosheniya-11-11",
-        "en": "https://telegra.ph/Trinidad-and-Tobago-Highest-Court-Overturns-Gay-Sex-Ban-11-11"
+        "ru": "https://telegra.ph/Sud-v-Velikobritanii-dekriminaliziruet-odnopolye-otnosheniya-v-Trinidade-i-Tobago-11-12",
+        "en": "https://telegra.ph/Court-in-UK-Decriminalizes-Same-Sex-Relations-in-Trinidad-and-Tobago-11-12"
       }
     },
     {
-      "link": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles?traffic_source=rss",
-      "source": "Al Jazeera",
+      "link": "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security",
+      "source": "The Guardian",
       "title": {
-        "ru": "Португалия отменяет более 300 рейсов и закрывает школы из-за шторма Чарльз",
-        "en": "Portugal Cancels More Than 300 Flights, Shuts Schools Due to Storm Charles"
+        "ru": "Великобритания назначает первого в мире специального представителя по климатической безопасности",
+        "en": "UK appoints world’s first special representative for climate security"
       },
       "summary": {
-        "ru": "Власти предприняли все меры для подготовки к атлантическому шторму после критики в адрес шторма Кристин.",
-        "en": "Authorities took extensive measures to prepare for the Atlantic storm following criticism from January's Storm Kristin."
+        "ru": "Великобритания назначила первого в мире специального представителя по климатической безопасности, чтобы консультировать правительство по рискам национальной безопасности, связанным с климатическим кризисом.",
+        "en": "The UK government has appointed the world’s first special representative for climate security to advise on national security risks from the climate crisis."
+      },
+      "category": {
+        "ru": "Климат",
+        "en": "Climate"
+      },
+      "longBody": {
+        "ru": "Великобритания назначила первого в мире специального представителя по климатической безопасности, чтобы консультировать правительство по рискам национальной безопасности, связанным с климатическим кризисом. Эта инициатива подчеркивает растущую озабоченность по поводу последствий изменения климата для безопасности страны.\n\nСпециальный представитель будет работать над оценкой рисков и разработкой стратегий для минимизации воздействия климатических изменений на национальную безопасность. Это назначение стало важным шагом в признании климатической безопасности как ключевого элемента государственной политики.\n\nПремьер-министр объявит об этом назначении на климатическом саммите, что подчеркивает серьезность подхода Великобритании к климатическим вызовам и необходимость активных действий.",
+        "en": "The UK has appointed the world's first special representative for climate security to advise the government on national security risks associated with the climate crisis. This initiative underscores the growing concern about the impacts of climate change on the country's security.\n\nThe special representative will work on assessing risks and developing strategies to mitigate the effects of climate change on national security. This appointment marks an important step in recognizing climate security as a key element of government policy.\n\nThe Prime Minister will announce this appointment at the climate summit, highlighting the seriousness of the UK's approach to climate challenges and the need for proactive measures."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Velikobritaniya-naznachaet-pervogo-v-mire-specialnogo-predstavitelya-po-klimaticheskoj-bezopasnosti-11-12",
+        "en": "https://telegra.ph/UK-appoints-worlds-first-special-representative-for-climate-security-11-12"
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Австралийский подросток, пропавший в лесу на шесть дней, спасен живым",
+        "en": "Australian teen missing in bush for six days rescued alive"
+      },
+      "summary": {
+        "ru": "17-летний подросток был найден живым после шести дней в лесу. Его мама пошутила, что он «будет наказан на всю жизнь» и «никогда больше не покинет дом».",
+        "en": "The 17-year-old was found alive after six days in the bush. His mother joked that he is \"grounded for life\" and \"never leaving the house again.\""
       },
       "category": {
         "ru": "Катастрофа",
         "en": "Disaster"
       },
       "longBody": {
-        "ru": "Власти предприняли все меры для подготовки к атлантическому шторму после критики в адрес шторма Кристин. Более 300 рейсов были отменены, а школы закрыты в связи с угрозой шторма Чарльза.\n\nЭти меры направлены на обеспечение безопасности граждан и минимизацию последствий шторма. Правительство призвало население следить за обновлениями и соблюдать осторожность в условиях ухудшения погодных условий.\n\nСитуация подчеркивает важность готовности к стихийным бедствиям и необходимость эффективного реагирования на природные угрозы.",
-        "en": "Authorities took extensive measures to prepare for the Atlantic storm following criticism from January's Storm Kristin. More than 300 flights have been canceled, and schools have been closed due to the threat posed by Storm Charles.\n\nThese measures aim to ensure the safety of citizens and minimize the storm's impact. The government has urged the public to stay updated and exercise caution amid worsening weather conditions.\n\nThe situation highlights the importance of disaster preparedness and the need for effective responses to natural threats."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Portugaliya-otmenyaet-bolee-300-rejsov-i-zakryvaet-shkoly-iz-za-shtorma-CHarlz-11-11",
-        "en": "https://telegra.ph/Portugal-Cancels-More-Than-300-Flights-Shuts-Schools-Due-to-Storm-Charles-11-11"
+        "ru": "17-летний подросток был найден живым после шести дней, проведенных в лесу в Виктории, Австралия. Его исчезновение вызвало значительное беспокойство среди местных жителей и властей, которые организовали масштабные поисковые операции. В результате усилий спасателей, подростка удалось обнаружить в хорошем состоянии, что стало радостной новостью для его семьи и друзей.\n\nМать подростка, увидев его после спасения, пошутила, что он «будет наказан на всю жизнь» и «никогда больше не покинет дом». Эта шутка подчеркивает облегчение и радость, которые испытала семья, когда воссоединилась с сыном. Поиски стали важным событием для сообщества, которое сплотилось в ожидании его возвращения.",
+        "en": "The 17-year-old was found alive after spending six days in the bush in Victoria, Australia. His disappearance raised significant concern among local residents and authorities, who organized extensive search operations. As a result of the rescuers' efforts, the teenager was located in good condition, which was joyful news for his family and friends.\n\nHis mother, upon seeing him after his rescue, joked that he is \"grounded for life\" and \"never leaving the house again.\" This joke highlights the relief and joy that the family felt when reunited with their son. The search became an important event for the community, which came together in anticipation of his return."
       }
     },
     {
-      "link": "https://www.dw.com/en/integration-of-immigrants-in-germany-much-has-been-accomplished-but-problems-remain/a-79923241?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "title": {
-        "ru": "Интеграция иммигрантов в Германии: достигнуты успехи, но проблемы остаются",
-        "en": "Integration of immigrants in Germany: Much has been accomplished but problems remain"
-      },
-      "summary": {
-        "ru": "Отчет по интеграции показывает, что интеграция людей с миграционным прошлым улучшается, но насилие среди молодежи остается проблемой.",
-        "en": "The integration report shows that while the integration of people with a migrant background is improving, violent youth remain a problem."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "Отчет по интеграции показывает, что интеграция людей с миграционным прошлым в Германии улучшилась за последние годы. Власти отмечают прогресс в области образования, трудоустройства и социальной интеграции мигрантов. Однако, несмотря на эти достижения, остаются серьезные проблемы, такие как насилие среди молодежи, что вызывает обеспокоенность у общества и политиков.\n\nНекоторые эксперты предупреждают, что ситуация с насилием может привести к политическим спорам и конфликтам. В условиях растущего недовольства среди населения, важно найти эффективные решения для улучшения интеграции и обеспечения безопасности. Обсуждения на эту тему могут стать актуальными в преддверии выборов и политических изменений.\n\nТаким образом, хотя интеграция мигрантов в Германии движется в положительном направлении, необходимо уделять внимание существующим проблемам, чтобы избежать дальнейших конфликтов и обеспечить стабильность в обществе.",
-        "en": "The integration report indicates that the integration of people with a migrant background in Germany has improved in recent years. Authorities highlight progress in education, employment, and social integration of migrants. However, despite these achievements, serious issues remain, such as youth violence, which raises concerns among the public and politicians.\n\nSome experts warn that the situation with violence could lead to political disputes and conflicts. In the context of growing discontent among the population, it is crucial to find effective solutions to improve integration and ensure safety. Discussions on this topic may become relevant ahead of elections and political changes.\n\nThus, while the integration of migrants in Germany is moving in a positive direction, attention must be paid to existing problems to avoid further conflicts and ensure stability in society."
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Трое подозреваемых, поддерживаемых Ираном, планировали атаки, включая инцидент с RAF Fairford, сообщает США",
-        "en": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says"
-      },
-      "summary": {
-        "ru": "Министерство юстиции США сообщает, что мужчины были вовлечены в ряд заговоров, включая крупный инцидент возле британской авиабазы.",
-        "en": "The US Department of Justice states that the men were involved in a series of plots, including a major incident near the UK airbase."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
-      },
-      "longBody": {
-        "ru": "Министерство юстиции США сообщило, что трое подозреваемых, связанных с Ираном, были вовлечены в серию заговоров, включая крупный инцидент, произошедший возле британской авиабазы RAF Fairford. Эти мужчины подозреваются в планировании атак, которые могли бы угрожать безопасности как местных жителей, так и военных.\n\nДанный инцидент подчеркивает растущие опасения по поводу иранского влияния и его возможных последствий для безопасности в регионе. Правоохранительные органы продолжают расследование, чтобы выяснить детали заговоров и предотвратить возможные угрозы.\n\nСитуация требует внимательного мониторинга, так как подобные угрозы могут вызвать международные напряженности и повлиять на отношения между странами, особенно в контексте текущих геополитических конфликтов.",
-        "en": "The US Department of Justice has reported that three suspects linked to Iran were involved in a series of plots, including a major incident near the UK airbase RAF Fairford. These men are suspected of planning attacks that could threaten the safety of both local residents and military personnel.\n\nThis incident highlights growing concerns about Iranian influence and its potential implications for security in the region. Law enforcement agencies are continuing their investigation to uncover the details of the plots and prevent possible threats.\n\nThe situation requires careful monitoring, as such threats could lead to international tensions and affect relationships between countries, especially in the context of ongoing geopolitical conflicts."
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/videos/cm4gndjd4nnno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Основатель Poundland обратился к королю за помощью",
-        "en": "Poundland founder writes to King for help"
-      },
-      "summary": {
-        "ru": "Poundland подал уведомление о намерении назначить администраторов, что защищает его от кредиторов до четверга.",
-        "en": "Poundland has filed a notice of intention to appoint administrators, protecting it from creditors until Thursday."
-      },
-      "category": {
-        "ru": "Экономика",
-        "en": "Economy"
-      },
-      "longBody": {
-        "ru": "Сеть магазинов Poundland подала уведомление о намерении назначить администраторов, что временно защищает компанию от кредиторов до четверга. Это решение было принято в свете финансовых трудностей, с которыми сталкивается компания, и может привести к значительным изменениям в ее управлении.\n\nПроблемы с финансами в Poundland отражают более широкие тенденции в розничной торговле, где многие компании испытывают давление из-за изменения потребительских привычек и экономической нестабильности. Ожидается, что назначение администраторов может помочь компании реорганизовать свои финансы и найти новые пути для восстановления.\n\nТаким образом, ситуация с Poundland подчеркивает важность адаптации бизнеса к меняющимся условиям рынка и необходимости стратегического планирования для обеспечения устойчивости в будущем.",
-        "en": "Poundland has filed a notice of intention to appoint administrators, temporarily protecting the company from creditors until Thursday. This decision comes in light of the financial difficulties the company is facing and could lead to significant changes in its management.\n\nThe financial issues at Poundland reflect broader trends in retail, where many companies are under pressure due to changing consumer habits and economic instability. The appointment of administrators is expected to help the company reorganize its finances and find new ways for recovery.\n\nThus, the situation with Poundland highlights the importance of businesses adapting to changing market conditions and the need for strategic planning to ensure sustainability in the future."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/education/2026/nov/11/bomb-threats-hoax-schools-scotland-northern-ireland",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Ложные угрозы бомб в сотнях школ Шотландии и Северной Ирландии",
-        "en": "Hoax bomb threats made to hundreds of schools in Scotland and Northern Ireland"
-      },
-      "summary": {
-        "ru": "Сотни школ в Шотландии и Северной Ирландии подверглись новой волне ложных угроз бомб, некоторые из которых были эвакуированы.",
-        "en": "Hundreds of schools in Scotland and Northern Ireland were hit by a fresh wave of hoax bomb threats, with some sites evacuated."
-      },
-      "category": {
-        "ru": "Катастрофа",
-        "en": "Disaster"
-      },
-      "longBody": {
-        "ru": "В Шотландии и Северной Ирландии произошла новая волна ложных угроз бомб, затронувшая сотни школ. Некоторые учебные заведения были эвакуированы в целях безопасности, что вызвало беспокойство среди родителей и учителей.\n\nПолиция Шотландии сообщила, что около 1000 школ получили ложные предупреждения, охватывающие территории от Дамфрис на юге до Абердиншира и Оркни на севере. В Северной Ирландии пострадали не менее 300 школ. Подобные угрозы также были направлены в школы Республики Ирландия.\n\nПравоохранительные органы работают над расследованием этих инцидентов, чтобы обеспечить безопасность учащихся и предотвратить дальнейшие паники. Общественность призывают сохранять спокойствие и доверять действиям полиции в данной ситуации.",
-        "en": "A fresh wave of hoax bomb threats has hit hundreds of schools in Scotland and Northern Ireland, leading to evacuations at some sites as a precaution. This has raised concerns among parents and teachers.\n\nPolice in Scotland reported that around 1,000 schools received false warnings, covering areas from Dumfries in the south to Aberdeenshire and Orkney in the north. At least 300 schools were affected in Northern Ireland. Similar threats were also sent to schools in the Republic of Ireland.\n\nLaw enforcement agencies are working to investigate these incidents to ensure the safety of students and prevent further panic. The public is urged to remain calm and trust the police's actions in this situation."
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Испания сталкивается с широкими нарушениями в первой всеобщей забастовке за 14 лет",
-        "en": "Spain sees widespread disruption in first general strike for 14 years"
-      },
-      "summary": {
-        "ru": "Протесты также ожидаются в крупнейших городах менее чем за три недели до парламентских выборов в Испании.",
-        "en": "Protests are also expected in major cities less than three weeks before parliamentary elections in Spain."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "В Испании началась первая общенациональная забастовка за 14 лет, что привело к значительным протестам в крупных городах. Работники выражают недовольство по поводу условий труда и экономической политики правительства, что создает напряженность в преддверии парламентских выборов.\n\nПротесты ожидаются в крупнейших городах страны, где люди требуют улучшения условий жизни и работы. Забастовка отражает растущее недовольство среди населения и может повлиять на политическую ситуацию в стране в ближайшие недели.\n\nСитуация требует внимательного наблюдения, так как протесты могут привести к изменениям в политическом ландшафте Испании и повлиять на результаты выборов, намеченных на ближайшее время.",
-        "en": "Spain has witnessed its first general strike in 14 years, leading to significant protests in major cities. Workers are expressing dissatisfaction with labor conditions and the government's economic policies, creating tension ahead of parliamentary elections.\n\nProtests are expected in the largest cities of the country, where people are demanding improvements in living and working conditions. The strike reflects growing discontent among the population and could impact the political situation in the country in the coming weeks.\n\nThe situation requires careful monitoring, as the protests may lead to changes in Spain's political landscape and affect the outcomes of the upcoming elections."
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Техно-альянсы Кремниевой долины поддерживают Дженсена Хуана",
-        "en": "Silicon Valley Tech Allies Support Jensen Huang"
-      },
-      "summary": {
-        "ru": "Илон Маск и другие фигуры Кремниевой долины рассматривают отношения главы Nvidia с женщиной, предположительно, шпионкой из Китая как личный промах, а не как провал безопасности.",
-        "en": "Elon Musk and other Silicon Valley figures view Nvidia chief's relationship with a woman believed to be a Chinese spy as a personal lapse, not a security failure."
-      },
-      "category": {
-        "ru": "Технологии",
-        "en": "Technology"
-      },
-      "longBody": {
-        "ru": "В Кремниевой долине Илон Маск и другие влиятельные фигуры поддерживают главу Nvidia Дженсена Хуана, рассматривая его отношения с женщиной, предположительно, шпионкой из Китая, как личный промах, а не как угрозу безопасности. Это заявление подчеркивает разделение мнений о том, как такие связи могут повлиять на репутацию и безопасность компаний.\n\nНекоторые эксперты считают, что подобные ситуации могут вызвать недовольство среди инвесторов и партнеров, однако другие уверены, что это не повлияет на бизнес Nvidia. Поддержка со стороны известных личностей может помочь смягчить негативные последствия и сохранить доверие к компании.\n\nТаким образом, вопрос о безопасности и личной ответственности остается актуальным в контексте растущих опасений по поводу шпионской деятельности и влияния иностранных государств на технологические компании.",
-        "en": "In Silicon Valley, Elon Musk and other influential figures are supporting Nvidia chief Jensen Huang, viewing his relationship with a woman believed to be a Chinese spy as a personal lapse rather than a security failure. This statement highlights the division of opinions on how such connections might affect the reputation and security of companies.\n\nSome experts believe that such situations could lead to discontent among investors and partners, while others are confident that it will not impact Nvidia's business. Support from well-known personalities may help mitigate negative repercussions and maintain trust in the company.\n\nThus, the issue of security and personal responsibility remains relevant in the context of growing concerns about espionage and foreign influence on technology companies."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Канцлер уверен, что бюджет приведет к росту, несмотря на отсутствие доказательств от OBR",
-        "en": "Chancellor confident budget will lead to growth despite OBR not finding evidence to prove it"
-      },
-      "summary": {
-        "ru": "Канцлер уверен, что бюджет приведет к росту, несмотря на критику системы социального обеспечения в Англии.",
-        "en": "The Chancellor is confident the budget will lead to growth, despite criticism of England's social care system."
-      },
-      "category": {
-        "ru": "Экономика",
-        "en": "Economy"
-      },
-      "longBody": {
-        "ru": "Канцлер Великобритании выразил уверенность в том, что новый бюджет приведет к экономическому росту, несмотря на критику системы социального обеспечения в стране. Некоторые эксперты указывают на недостатки в управлении социальной помощью, что может затруднить реализацию бюджетных планов.\n\nКритика системы социального обеспечения подчеркивает необходимость реформ и улучшений, чтобы обеспечить более эффективное использование ресурсов. В условиях экономической нестабильности важно, чтобы правительство находило баланс между бюджетными расходами и поддержкой уязвимых слоев населения.\n\nТаким образом, уверенность канцлера в успешности бюджета будет подвергаться испытанию в свете текущих вызовов и общественного мнения, что делает ситуацию особенно важной для будущего страны.",
-        "en": "The Chancellor of the UK expressed confidence that the new budget will lead to economic growth, despite criticism of the social care system in the country. Some experts point to shortcomings in the management of social assistance, which could hinder the implementation of budget plans.\n\nCriticism of the social care system underscores the need for reforms and improvements to ensure more effective resource utilization. In times of economic instability, it is crucial for the government to find a balance between budget expenditures and support for vulnerable populations.\n\nThus, the Chancellor's confidence in the budget's success will be tested in light of current challenges and public opinion, making the situation particularly significant for the country's future."
-      }
-    },
-    {
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
-      "source": "The Block",
-      "title": {
-        "ru": "Объем стейблкоинов снизился на 14,2 миллиарда долларов в крупнейшем сокращении с медвежьего рынка 2022 года",
-        "en": "Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market"
-      },
-      "summary": {
-        "ru": "Объем USDT и USDC снизился почти на 11 миллиардов долларов за последний месяц, в то время как объем токенов, обеспеченных золотом, остался стабильным.",
-        "en": "USDT and USDC supply fell nearly $11 billion over the past month, while gold-backed tokens held steady."
-      },
-      "category": {
-        "ru": "Экономика",
-        "en": "Economy"
-      },
-      "longBody": {
-        "ru": "Объем предложения стейблкоинов USDT и USDC снизился на 14,2 миллиарда долларов, что стало крупнейшим сокращением с момента медвежьего рынка 2022 года. Это падение произошло на фоне общего снижения интереса к криптовалютам и нестабильности на финансовых рынках.\n\nСнижение объемов стейблкоинов может указывать на изменение в настроениях инвесторов и их предпочтениях, что также может повлиять на ликвидность на криптовалютных рынках. В то же время объем токенов, обеспеченных золотом, остался стабильным, что может свидетельствовать о растущем интересе к более традиционным и безопасным активам.\n\nТаким образом, текущее сокращение предложения стейблкоинов подчеркивает важность мониторинга тенденций на криптовалютных рынках и их влияния на общую финансовую стабильность.",
-        "en": "The supply of stablecoins USDT and USDC has dropped by $14.2 billion, marking the largest contraction since the 2022 bear market. This decline has occurred amid a general decrease in interest in cryptocurrencies and instability in financial markets.\n\nThe reduction in stablecoin volumes may indicate a shift in investor sentiment and preferences, which could also impact liquidity in cryptocurrency markets. Meanwhile, the supply of gold-backed tokens has remained steady, suggesting a growing interest in more traditional and safe assets.\n\nThus, the current contraction in stablecoin supply highlights the importance of monitoring trends in cryptocurrency markets and their impact on overall financial stability."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/11/11/thune-re-elected-as-us-senate-republican-leader-after-midterm-losses?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/more-than-300-migrants-rescued-off-spains-canary-islands?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Джон Тун переизбран лидером республиканцев в Сенате США после потерь на промежуточных выборах",
-        "en": "John Thune re-elected as US Senate Republican leader after midterm losses"
+        "ru": "Более 300 мигрантов спасены у Канарских островов Испании",
+        "en": "More than 300 migrants rescued off Spain’s Canary Islands"
       },
       "summary": {
-        "ru": "Республиканец был переизбран без противников, несмотря на требования некоторых законодателей оценить потери партии на промежуточных выборах.",
-        "en": "The Republican was re-elected unopposed, despite some GOP lawmakers' demands to evaluate the party's midterm losses."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "Республиканец Джон Тун был переизбран лидером республиканцев в Сенате США без противников, несмотря на требования некоторых законодателей оценить потери партии на промежуточных выборах. Это решение подчеркивает поддержку, которую Тун продолжает получать от своей партии, несмотря на недовольство внутри ее рядов.\n\nНекоторые члены партии выражают необходимость анализа причин поражений на выборах, однако переизбрание Туна может указывать на то, что партия предпочитает стабильность и продолжение текущего курса. Это также может быть признаком того, что республиканцы стремятся сохранить единство перед лицом вызовов, с которыми они сталкиваются.\n\nТаким образом, переизбрание Туна может оказать влияние на дальнейшие действия республиканцев в Сенате и их стратегию на будущие выборы.",
-        "en": "Republican John Thune has been re-elected as the Senate Republican leader unopposed, despite some lawmakers' calls to evaluate the party's midterm losses. This decision underscores the support Thune continues to receive from his party, despite discontent within its ranks.\n\nSome party members express the need to analyze the reasons for the electoral defeats, but Thune's re-election may indicate that the party prefers stability and continuity of the current course. This could also be a sign that Republicans are seeking to maintain unity in the face of challenges they are encountering.\n\nThus, Thune's re-election may influence the further actions of Republicans in the Senate and their strategy for future elections."
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Протестующие бросают предметы в Байдена во время поездки в Дублин",
-        "en": "Protesters Throw Projectiles at Biden During Dublin Trip"
-      },
-      "summary": {
-        "ru": "На видео видно, как демонстранты с про-палестинского протеста бросают предметы в бывшего президента Джозефа Байдена после его участия в мероприятии в Дублине.",
-        "en": "Video showed demonstrators from a pro-Palestinian protest throwing projectiles at former President Biden after he attended an event in Dublin."
+        "ru": "Более 300 мигрантов были спасены у Канарских островов Испании на фоне увеличения числа пересечений Атлантики. ",
+        "en": "More than 300 migrants were rescued off Spain’s Canary Islands amid a surge in Atlantic crossings."
       },
       "category": {
         "ru": "Общество",
         "en": "Society"
       },
       "longBody": {
-        "ru": "Во время визита в Дублин бывший президент США Джозеф Байден столкнулся с протестом, на котором демонстранты, поддерживающие Палестину, бросали предметы в его сторону. Это событие привлекло внимание к растущему недовольству по поводу внешней политики США на Ближнем Востоке.\n\nНа видео запечатлены моменты, когда протестующие выражали свои чувства после мероприятия, в котором участвовал Байден в Тринити-колледже. Протесты подчеркивают напряженность и разногласия, связанные с политикой США в отношении Палестины и Израиля, что может повлиять на общественное мнение и политическую дискуссию в стране.\n\nТаким образом, инцидент с протестом может стать важным моментом в контексте обсуждения внешней политики США и ее последствий как на международной арене, так и внутри страны.",
-        "en": "During his visit to Dublin, former US President Joseph Biden faced a protest where demonstrators from a pro-Palestinian rally threw projectiles in his direction. This event has drawn attention to growing discontent regarding US foreign policy in the Middle East.\n\nVideo captured moments when protesters expressed their feelings after an event attended by Biden at Trinity College. The protests highlight the tensions and disagreements surrounding US policy towards Palestine and Israel, which may influence public opinion and political discourse in the country.\n\nThus, the protest incident may become a significant moment in the context of discussions about US foreign policy and its repercussions both internationally and domestically."
+        "ru": "Более 300 мигрантов были спасены у берегов Канарских островов Испании на фоне увеличения числа пересечений Атлантики. Эти спасательные операции стали необходимыми из-за растущего потока людей, пытающихся добраться до Европы в поисках лучшей жизни. Испанские власти и неправительственные организации продолжают работать над обеспечением безопасности мигрантов в этом опасном регионе.\n\nСпасенные мигранты, как правило, сталкиваются с множеством трудностей, включая плохие условия на борту переполненных лодок и риск утопления. Операции по спасению проводятся регулярно, поскольку количество пересечений Атлантики продолжает расти, и международное сообщество призывает к более эффективным мерам по защите прав мигрантов.",
+        "en": "More than 300 migrants were rescued off the coast of Spain’s Canary Islands amid a surge in Atlantic crossings. These rescue operations have become necessary due to the increasing flow of people attempting to reach Europe in search of a better life. Spanish authorities and non-governmental organizations continue to work on ensuring the safety of migrants in this perilous region.\n\nRescued migrants often face numerous hardships, including poor conditions aboard overcrowded boats and the risk of drowning. Rescue operations are conducted regularly as the number of Atlantic crossings continues to rise, and the international community is calling for more effective measures to protect the rights of migrants."
       }
     },
     {
-      "link": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Брэд Фридел о покупке Шрусбери Таун",
-        "en": "Brad Friedel on Shrewsbury Town takeover"
-      },
-      "summary": {
-        "ru": "Эксклюзивное интервью с Брэдом Фриделем на BBC Radio Shropshire о покупке Шрусбери Таун.",
-        "en": "Exclusive interview with Brad Friedel on BBC Radio Shropshire about the Shrewsbury Town takeover."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "В эксклюзивном интервью на BBC Radio Shropshire Брэд Фридель обсудил недавнюю покупку футбольного клуба Шрусбери Таун. Он поделился своими мыслями о будущем команды и о том, как изменения в управлении могут повлиять на её развитие.\n\nФридель отметил важность поддержки со стороны болельщиков и местного сообщества, которые играют ключевую роль в успехе клуба. Он также подчеркнул, что новые владельцы имеют амбициозные планы, направленные на улучшение результатов команды.\n\nКроме того, Фридель выразил надежду, что клуб сможет привлечь новых игроков и улучшить инфраструктуру, что в свою очередь повысит конкурентоспособность Шрусбери Таун в лиге.",
-        "en": "In an exclusive interview on BBC Radio Shropshire, Brad Friedel discussed the recent takeover of Shrewsbury Town football club. He shared his thoughts on the team's future and how changes in management could impact its development.\n\nFriedel emphasized the importance of support from fans and the local community, which play a crucial role in the club's success. He also highlighted that the new owners have ambitious plans aimed at improving the team's performance.\n\nAdditionally, Friedel expressed hope that the club would be able to attract new players and enhance its infrastructure, which would, in turn, increase Shrewsbury Town's competitiveness in the league."
-      }
-    },
-    {
-      "link": "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928",
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
       "source": "The Block",
       "title": {
-        "ru": "Pyth Network добавляет данные акций и ETF с NYSE в свой рынок",
-        "en": "Pyth Network adds NYSE stock and ETF data to its marketplace"
+        "ru": "Трейдеры биткойнов повышают шансы на рождество ниже 70 000 долларов",
+        "en": "Bitcoin traders raise odds of sub-$70,000 Christmas"
       },
       "summary": {
-        "ru": "Pyth Network добавил данные о реальных акциях и ETF с Нью-Йоркской фондовой биржи в свой рынок данных.",
-        "en": "Pyth Network has added real-time stock and ETF data from the New York Stock Exchange to its data marketplace."
+        "ru": "В сегодняшнем выпуске новостей трейдеры биткойнов повышают шансы на рождество ниже 70 000 долларов; Bitmine сообщает о чистом убытке в 6,3 миллиарда долларов за год.",
+        "en": "In today's newsletter, bitcoin traders raise odds of sub-$70,000 Christmas; Bitmine reports $6.3 billion annual net loss."
+      },
+      "category": {
+        "ru": "Экономика",
+        "en": "Economy"
+      },
+      "longBody": {
+        "ru": "В сегодняшнем выпуске новостей трейдеры биткойнов повышают шансы на то, что цена криптовалюты опустится ниже 70 000 долларов к Рождеству. Это заявление сделано на фоне недавних колебаний на рынке и общего снижения цен на криптовалюты. Кроме того, компания Bitmine сообщила о чистом убытке в 6,3 миллиарда долларов за год, что также подчеркивает нестабильность в секторе.\n\nТрейдеры выражают обеспокоенность по поводу будущих цен на биткойн, и многие из них пересматривают свои стратегии в свете текущих рыночных условий. Рынок криптовалют продолжает оставаться под давлением, и инвесторы внимательно следят за изменениями, которые могут повлиять на их вложения.",
+        "en": "In today's newsletter, bitcoin traders are raising the odds of the cryptocurrency falling below $70,000 by Christmas. This statement comes amid recent market fluctuations and an overall decline in cryptocurrency prices. Additionally, Bitmine reported a $6.3 billion annual net loss, further highlighting the instability in the sector.\n\nTraders are expressing concern about future bitcoin prices, and many are reassessing their strategies in light of current market conditions. The cryptocurrency market continues to face pressure, and investors are closely monitoring changes that could impact their investments."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Совет директоров Nvidia рассматривает будущее Дженсена Хуана",
+        "en": "Nvidia’s Board Is Weighing Jensen Huang’s Future"
+      },
+      "summary": {
+        "ru": "Г-н Хуан находится под пристальным вниманием из-за романа с женщиной, которую считают шпионкой из Китая, а также из-за отношений с руководителем его компании по производству ИИ-чипов.",
+        "en": "Mr. Huang has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as for a relationship with an executive at his A.I. chip company."
       },
       "category": {
         "ru": "Технологии",
         "en": "Technology"
       },
       "longBody": {
-        "ru": "Pyth Network объявил о добавлении данных о реальных акциях и ETF с Нью-Йоркской фондовой биржи в свой рынок данных. Это расширение позволит пользователям получать актуальную информацию о финансовых инструментах в реальном времени.\n\nСогласно заявлению компании, интеграция данных с NYSE улучшит качество и доступность информации для трейдеров и инвесторов. Это также может способствовать росту интереса к платформе Pyth Network.\n\nДобавление данных с Нью-Йоркской фондовой биржи подчеркивает стремление Pyth Network стать важным игроком на рынке финансовых данных, предлагая пользователям более широкий спектр информации для принятия обоснованных инвестиционных решений.",
-        "en": "Pyth Network announced the addition of real-time stock and ETF data from the New York Stock Exchange to its data marketplace. This expansion will allow users to access up-to-date information on financial instruments in real-time.\n\nAccording to the company's statement, the integration of NYSE data will enhance the quality and accessibility of information for traders and investors. This could also drive increased interest in the Pyth Network platform.\n\nThe addition of data from the New York Stock Exchange highlights Pyth Network's ambition to become a significant player in the financial data market, providing users with a broader range of information for making informed investment decisions."
+        "ru": "Г-н Хуан находится под пристальным вниманием из-за романа с женщиной, которую считают шпионкой из Китая, а также из-за отношений с руководителем его компании по производству ИИ-чипов. Эти обстоятельства вызывают беспокойство среди членов совета директоров Nvidia, которые обсуждают будущее Хуана на посту генерального директора. В условиях падения акций компании, эти вопросы становятся особенно актуальными.\n\nСовет директоров Nvidia проводит заседания, на которых рассматриваются различные аспекты управления компанией и ее стратегического направления. Внимание к личной жизни Хуана подчеркивает важность прозрачности и этических стандартов в высоких технологиях, особенно в свете глобальной конкуренции и угроз безопасности.",
+        "en": "Mr. Huang has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as for a relationship with an executive at his A.I. chip company. These circumstances have raised concerns among Nvidia's board members, who are discussing Huang's future as CEO. In the context of the company's stock decline, these issues are becoming particularly relevant.\n\nThe Nvidia board is holding meetings to discuss various aspects of the company's management and strategic direction. The attention to Huang's personal life underscores the importance of transparency and ethical standards in high technology, especially in light of global competition and security threats."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Боу Ламарр-Кондон говорит, что его диагностировал натуропат, но не помнит, какой именно",
+        "en": "Beau Lamarre-Condon says he was diagnosed with cancer by naturopath but doesn’t recall which one"
+      },
+      "summary": {
+        "ru": "Бывший полицейский заявил в суде, что его диагностировал натуропат, но не смог назвать его имя или место практики.",
+        "en": "Former police officer claimed in court he was diagnosed with cancer by a naturopath but could not name the practitioner or their location."
+      },
+      "category": {
+        "ru": "Здоровье",
+        "en": "Health"
+      },
+      "longBody": {
+        "ru": "Бывший полицейский заявил в суде, что его диагностировал натуропат, но не смог назвать его имя или место практики. Это заявление стало частью судебного разбирательства, в котором он был подвергнут допросу по поводу сообщения в Instagram, которое он попросил друга отправить. В этом сообщении он упоминал о «раковом опухоли», что вызвало дополнительные вопросы о его диагнозе.\n\nСудебное разбирательство поднимает важные вопросы о достоверности медицинских диагнозов, особенно когда они исходят от альтернативных практиков. Ламарр-Кондон утверждает, что его диагноз был подтвержден натуропатом, но отсутствие конкретной информации о практикующем вызывает сомнения в его утверждениях.",
+        "en": "The former police officer claimed in court that he was diagnosed with cancer by a naturopath but could not name the practitioner or their location. This statement became part of a court case in which he was questioned about an Instagram message he asked a friend to send. In that message, he referred to a \"cancerous tumor,\" which raised further questions about his diagnosis.\n\nThe court case raises important issues regarding the validity of medical diagnoses, especially when they come from alternative practitioners. Lamarre-Condon claims that his diagnosis was confirmed by a naturopath, but the lack of specific information about the practitioner raises doubts about his assertions."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Французский гвардеец упал, когда Макрон поспешил на помощь",
+        "en": "French guard collapses as Macron rushes to help"
+      },
+      "summary": {
+        "ru": "Член французской почетной гвардии упал во время прибытия президента Словакии Петра Pellegrini в Елисейский дворец.",
+        "en": "A member of the French honour guard collapsed during Slovak President Peter Pellegrini’s arrival at the Elysee Palace."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Член французской почетной гвардии упал во время прибытия президента Словакии Петра Pellegrini в Елисейский дворец. Этот инцидент произошел на фоне официального визита, что привлекло внимание СМИ и зрителей. Служба безопасности и медицинский персонал быстро отреагировали на ситуацию, обеспечив необходимую помощь.\n\nПадение гвардейца вызвало обеспокоенность среди присутствующих, но, по предварительной информации, его состояние не вызывает опасений. Такие инциденты подчеркивают важность здоровья и безопасности, особенно во время высокопрофильных мероприятий, где присутствуют государственные деятели.",
+        "en": "A member of the French honour guard collapsed during Slovak President Peter Pellegrini’s arrival at the Elysee Palace. This incident occurred during an official visit, attracting media and public attention. Security personnel and medical staff quickly responded to the situation, providing necessary assistance.\n\nThe guard's collapse raised concerns among those present, but preliminary reports indicate that his condition is not alarming. Such incidents highlight the importance of health and safety, especially during high-profile events where government officials are present."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "ALT: Она переписывает баллады Мексики, рассказывая истории женщин",
+        "en": "ALT: She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time"
+      },
+      "summary": {
+        "ru": "Песенница, номинированная на Грэмми, Вивир Кинтана известна по всей Латинской Америке тем, что дает голос женщинам, которые боролись с домашним насилием.",
+        "en": "Grammy-nominated songwriter Vivir Quintana is known throughout Latin America for giving voice to women who fought back against domestic violence."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Песенница, номинированная на Грэмми, Вивир Кинтана известна по всей Латинской Америке тем, что дает голос женщинам, которые боролись с домашним насилием. Ее работы освещают важные социальные проблемы и вдохновляют многих женщин на борьбу за свои права. Кинтана использует музыку как средство для передачи сильных сообщений и поддержки тех, кто столкнулся с насилием.\n\nЕе творчество стало важной частью культурного движения, направленного на привлечение внимания к проблемам, с которыми сталкиваются женщины в Латинской Америке. Вивир Кинтана продолжает выступать и создавать музыку, которая резонирует с многими и помогает изменить общественное восприятие.",
+        "en": "Grammy-nominated songwriter Vivir Quintana is known throughout Latin America for giving voice to women who fought back against domestic violence. Her work highlights important social issues and inspires many women to fight for their rights. Quintana uses music as a medium to convey powerful messages and support those who have faced violence.\n\nHer creativity has become an important part of a cultural movement aimed at raising awareness of the issues women face in Latin America. Vivir Quintana continues to perform and create music that resonates with many and helps to change societal perceptions."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/12/bolivia-arrests-former-judge-on-suspicion-of-drug-trafficking?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "В Боливии арестован бывший судья по подозрению в наркоторговле",
+        "en": "Bolivia arrests former judge on suspicion of drug trafficking"
+      },
+      "summary": {
+        "ru": "Аресты в Боливии связаны с операцией по борьбе с наркотиками, поддерживаемой США, против наркокартелей в Латинской Америке.",
+        "en": "Arrests in Bolivia linked to a US-backed security alliance crackdown on drug cartels in Latin America."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Аресты в Боливии связаны с операцией по борьбе с наркотиками, поддерживаемой США, против наркокартелей в Латинской Америке. Эти действия направлены на подавление наркоторговли и укрепление безопасности в регионе. Власти Боливии активно сотрудничают с международными партнерами для борьбы с организованной преступностью.\n\nНедавние аресты подчеркивают серьезность ситуации с наркотиками в стране и необходимость продолжения усилий по борьбе с наркокартелями. Операции по борьбе с наркотиками становятся все более актуальными в свете растущих угроз безопасности и стабильности в регионе.",
+        "en": "Arrests in Bolivia are linked to a U.S.-backed security alliance crackdown on drug cartels in Latin America. These actions are aimed at suppressing drug trafficking and strengthening security in the region. Bolivian authorities are actively cooperating with international partners to combat organized crime.\n\nRecent arrests highlight the seriousness of the drug situation in the country and the need for continued efforts to combat drug cartels. Drug enforcement operations are becoming increasingly relevant in light of growing security and stability threats in the region."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Знаменитый корабль SS United States затонул у побережья Флориды",
+        "en": "Famed ship SS United States sunk off coast of Florida"
+      },
+      "summary": {
+        "ru": "Активисты безуспешно боролись за сохранение исторического лайнера и его превращение в музей, но теперь он станет крупнейшим искусственным рифом в океане.",
+        "en": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Активисты безуспешно боролись за сохранение исторического лайнера SS United States и его превращение в музей. Однако теперь стало известно, что судно будет затоплено у побережья Флориды и станет крупнейшим искусственным рифом в океане. Это решение вызвало смешанные чувства среди защитников исторического наследия и экологов.\n\nЗатопление лайнера представляет собой попытку создать новое место обитания для морской жизни, но также поднимает вопросы о сохранении культурного наследия. Активисты продолжают выступать за сохранение исторических объектов, несмотря на это решение, подчеркивая важность защиты морской среды и культурной истории.",
+        "en": "Activists unsuccessfully fought for the preservation of the historic liner SS United States and its conversion into a museum. However, it has now been announced that the ship will be sunk off the coast of Florida and will become the world's largest artificial ocean reef. This decision has elicited mixed feelings among heritage advocates and environmentalists.\n\nSinking the liner represents an attempt to create a new habitat for marine life, but it also raises questions about cultural heritage preservation. Activists continue to advocate for the preservation of historical sites despite this decision, emphasizing the importance of protecting both the marine environment and cultural history."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Amnesty говорит, что ООН и чиновники Южного Судана не предотвратили массовое убийство в деревне",
+        "en": "Amnesty says UN, South Sudan officials failed to prevent village massacre"
+      },
+      "summary": {
+        "ru": "Миротворцы знали о вероятном нападении на Абиемном, где было убито более 200 человек, согласно отчету правозащитной группы.",
+        "en": "Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Миротворцы знали о вероятном нападении на Абиемном, где было убито более 200 человек, согласно отчету правозащитной группы. Этот инцидент подчеркивает недостатки в системе безопасности и предупреждения, которые должны защищать гражданское население от насилия. Правозащитные организации призывают к ответственности тех, кто не смог предотвратить эту трагедию.\n\nОтчет правозащитной группы поднимает важные вопросы о роли международных миротворцев и их способности защищать уязвимые сообщества. Необходимы более эффективные меры для предотвращения подобных инцидентов в будущем и обеспечения безопасности гражданского населения в конфликтных зонах.",
+        "en": "Peacekeepers knew of a likely raid on Abiemnom, where more than 200 people were killed, according to a rights group report. This incident highlights deficiencies in the security and warning systems that are supposed to protect civilians from violence. Human rights organizations are calling for accountability for those who failed to prevent this tragedy.\n\nThe rights group's report raises important questions about the role of international peacekeepers and their ability to protect vulnerable communities. More effective measures are needed to prevent such incidents in the future and to ensure the safety of civilians in conflict zones."
       }
     },
     {
@@ -493,159 +453,199 @@
       "source": "New York Times",
       "title": {
         "ru": "Скандал с Nvidia раскрывает жестокую шпионскую войну между Трампом и Си",
-        "en": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy"
+        "en": "Nvidia Scandal Unveils a Fierce Spy War Behind Trump and Xi’s Diplomacy"
       },
       "summary": {
-        "ru": "США подозревают, что лидер Nvidia стал целью китайского шпионажа, что подчеркивает глубокое недоверие между двумя державами.",
-        "en": "The United States suspected Nvidia’s leader was a Chinese spy target, highlighting the deep distrust between the two powers."
+        "ru": "США подозревают, что лидер Nvidia стал целью китайских шпионов, что подчеркивает глубокое недоверие между двумя державами.",
+        "en": "The U.S. suspects Nvidia's leader was targeted by Chinese spies, highlighting deep distrust between the two powers."
       },
       "category": {
-        "ru": "Технологии",
-        "en": "Technology"
+        "ru": "Мир",
+        "en": "World"
       },
       "longBody": {
-        "ru": "Согласно сообщениям, Соединенные Штаты подозревают, что лидер компании Nvidia стал целью китайского шпионажа. Это событие подчеркивает глубокое недоверие между двумя мировыми державами, несмотря на усилия их лидеров по стабилизации отношений.\n\nСитуация вокруг Nvidia привлекла внимание к вопросам безопасности и конфиденциальности в технологическом секторе. Американские власти обеспокоены возможными угрозами, связанными с утечкой технологий и информации.\n\nДанное подозрение также может повлиять на дальнейшие переговоры между США и Китаем, так как обе стороны стремятся наладить диалог, но сталкиваются с серьезными препятствиями в виде недоверия и обвинений в шпионаже.",
-        "en": "According to reports, the United States suspects that Nvidia's leader has become a target of Chinese espionage. This incident highlights the deep distrust between the two world powers, despite their leaders' efforts to stabilize relations.\n\nThe situation surrounding Nvidia has drawn attention to security and privacy issues in the tech sector. U.S. authorities are concerned about potential threats related to technology and information leaks.\n\nThis suspicion may also impact future negotiations between the U.S. and China, as both sides seek to establish dialogue but face significant obstacles in the form of distrust and accusations of espionage."
+        "ru": "США подозревают, что лидер Nvidia стал целью китайских шпионов, что подчеркивает глубокое недоверие между двумя державами. Это недоверие сохраняется, несмотря на попытки лидеров обеих стран стабилизировать отношения. Инцидент с Nvidia является ярким примером того, как шпионские действия могут повлиять на международные отношения и бизнес.",
+        "en": "The U.S. suspects Nvidia's leader was targeted by Chinese spies, highlighting deep distrust between the two powers. This distrust persists despite efforts by both nations' leaders to stabilize ties. The incident involving Nvidia serves as a stark example of how espionage can impact international relations and business."
       }
     },
     {
-      "link": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897",
-      "source": "The Block",
-      "title": {
-        "ru": "Биткойн «готов к сжатию» на фоне роста шансов на Рождество ниже $70,000",
-        "en": "Bitcoin ‘ripe for a squeeze’ as options traders raise odds of sub-$70,000 Christmas"
-      },
-      "summary": {
-        "ru": "Биткойн торгуется ниже $74,000 после пяти недельных потерь, с вероятностью 31% на Рождество ниже $70,000.",
-        "en": "Bitcoin trades below $74,000 after five weekly losses, with 31% odds of a sub-$70,000 Christmas."
-      },
-      "category": {
-        "ru": "Экономика",
-        "en": "Economy"
-      },
-      "longBody": {
-        "ru": "Биткойн торгуется ниже $74,000 после пяти недельных потерь, что вызывает беспокойство среди инвесторов. Существуют прогнозы, что вероятность того, что цена упадет ниже $70,000 к Рождеству, составляет 31%.\n\nТекущая ситуация на рынке криптовалют вызывает вопросы о будущем биткойна и его устойчивости. Инвесторы внимательно следят за изменениями и анализируют возможные сценарии развития событий.\n\nПадение цен на биткойн может привести к изменению настроений на рынке и повлиять на решения трейдеров в преддверии праздников.",
-        "en": "Bitcoin is trading below $74,000 after five weeks of losses, raising concerns among investors. There are predictions that the odds of the price dropping below $70,000 by Christmas stand at 31%.\n\nThe current situation in the cryptocurrency market raises questions about Bitcoin's future and its resilience. Investors are closely monitoring changes and analyzing potential scenarios for developments.\n\nA decline in Bitcoin prices could shift market sentiment and influence traders' decisions as the holidays approach."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/11/11/can-democrats-shed-some-new-light-on-the-epstein-files-when-they-take-over?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_mother-reunites-with-sons-taken-under-pinochet-111126?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Смогут ли демократы пролить свет на файлы Эпштейна, когда возьмут власть?",
-        "en": "Can Democrats shed some new light on the Epstein files when they take over?"
+        "ru": "Мать воссоединилась с сыновьями, похищенными при режиме Пиночета 40 лет назад",
+        "en": "Mother Reunites with Sons Taken Under Pinochet Regime 40 Years Ago"
       },
       "summary": {
-        "ru": "Законодатели пообещали использовать новые большинство в Палате представителей и Сенате для расследования сети Эпштейна.",
-        "en": "Lawmakers have pledged to use new majorities in House and Senate to pursue the investigation into Epstein's network."
+        "ru": "Чилийская мать наконец обняла своих сыновей впервые за 40 лет после их похищения при Пиночете.",
+        "en": "A Chilean mother has embraced her sons for the first time in 40 years since they were taken under Pinochet."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Законодатели пообещали использовать новые большинство в Палате представителей и Сенате для продолжения расследования сети Эпштейна. Это заявление сделано на фоне растущего общественного интереса к делу и необходимости обеспечить справедливость.\n\nСогласно информации, новые полномочия позволят законодателям более эффективно проводить расследования и привлекать к ответственности тех, кто замешан в этом скандале. Ожидается, что они будут работать над улучшением законодательства в этой области.\n\nРасследование сети Эпштейна продолжает оставаться актуальной темой в политической повестке, и законодатели намерены использовать свои полномочия для достижения результатов.",
-        "en": "Lawmakers have pledged to use their new majorities in the House and Senate to continue the investigation into Epstein's network. This statement comes amid growing public interest in the case and the need for accountability.\n\nAccording to reports, the new powers will allow lawmakers to conduct investigations more effectively and hold those involved in the scandal accountable. They are expected to work on improving legislation in this area.\n\nThe investigation into Epstein's network remains a relevant topic in the political agenda, and lawmakers are determined to use their authority to achieve results."
+        "ru": "Чилийская мать наконец обняла своих сыновей впервые за 40 лет после их похищения при Пиночете. Это воссоединение стало возможным благодаря усилиям правозащитников и судебных органов, которые помогли восстановить справедливость. История этой семьи подчеркивает важность памяти и борьбы за права человека в Чили.",
+        "en": "A Chilean mother has embraced her sons for the first time in 40 years since they were taken under Pinochet. This reunion was made possible by the efforts of human rights advocates and judicial authorities who helped restore justice. The story of this family highlights the importance of memory and the fight for human rights in Chile."
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/11/11/climate/cop31-antonio-guterres-un.html",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
       "source": "New York Times",
       "title": {
-        "ru": "«Боритесь усерднее», - призывает генеральный секретарь ООН Антониу Гутерриш на COP31",
-        "en": "‘Fight Harder,’ U.N. Chief António Guterres Implores, Rousing Climate Ambassadors at COP31"
+        "ru": "Американский солдат арестован в Великобритании по подозрению в шпионаже в пользу России",
+        "en": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia"
       },
       "summary": {
-        "ru": "Генеральный секретарь ООН Антониу Гутерриш выступил на COP31, встрече, направленной на сокращение выбросов, на фоне резкого снижения посещаемости мировых лидеров.",
-        "en": "U.N. Secretary-General António Guterres spoke at COP31, aimed at reducing emissions, amid a sharp drop in attendance by world leaders."
+        "ru": "41-летний мужчина, чье имя не раскрыто, находится под стражей в ожидании возможных обвинений после совместного расследования с ФБР и военной разведкой США.",
+        "en": "The 41-year-old man, whose name has not been released, is in custody pending possible charges after a joint investigation with the FBI and U.S. military intelligence."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Генеральный секретарь ООН Антониу Гутерриш выступил на COP31, встрече, направленной на сокращение выбросов. Его речь пришлась на фоне резкого снижения посещаемости мировых лидеров, что вызывает опасения по поводу глобальной реакции на климатические изменения.\n\nГутерриш призвал страны усилить свои усилия в борьбе с изменением климата и подчеркнул важность коллективных действий. Он отметил, что текущие усилия недостаточны для достижения поставленных целей по сокращению выбросов.\n\nСитуация на COP31 подчеркивает необходимость более активного участия всех стран в решении климатических проблем, особенно в свете растущих угроз, связанных с изменением климата.",
-        "en": "U.N. Secretary-General António Guterres spoke at COP31, a meeting aimed at reducing emissions. His speech came amid a sharp drop in attendance by world leaders, raising concerns about the global response to climate change.\n\nGuterres urged countries to intensify their efforts in combating climate change and emphasized the importance of collective action. He noted that current efforts are insufficient to meet the established emission reduction targets.\n\nThe situation at COP31 highlights the need for more active participation from all countries in addressing climate issues, especially in light of the growing threats posed by climate change."
+        "ru": "41-летний мужчина, чье имя не раскрыто, находится под стражей в Великобритании по подозрению в шпионаже в пользу России. Он задержан в результате совместного расследования с ФБР и военной разведкой США. Этот случай поднимает вопросы о безопасности и шпионской деятельности в международной политике.",
+        "en": "The 41-year-old man, whose name has not been released, is in custody in the UK on suspicion of spying for Russia. He was arrested following a joint investigation with the FBI and U.S. military intelligence. This case raises concerns about security and espionage activities in international politics."
       }
     },
     {
-      "link": "https://www.theguardian.com/world/2026/nov/11/russia-ambassador-dies-alexander-darchiev",
+      "link": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
       "source": "The Guardian",
       "title": {
-        "ru": "Умер посол России в США, Александер Дарчиев, в возрасте 66 лет",
-        "en": "Russia’s ambassador to the United States dies, aged 66"
+        "ru": "Исторический океанский лайнер США затонул у Флориды, став крупнейшим искусственным рифом в мире",
+        "en": "Historic US Ocean Liner Sinks Near Florida to Become World’s Largest Artificial Reef"
       },
       "summary": {
-        "ru": "Александр Дарчиев, который ранее был послом в Канаде, «внезапно» скончался в возрасте 66 лет, сообщило российское внешнеполитическое ведомство.",
-        "en": "Alexander Darchiev, who previously served as ambassador to Canada, died ‘suddenly’ at the age of 66, said the Russian foreign ministry."
+        "ru": "SS United States, установивший рекорд скорости при первом рейсе в 1952 году, затонул у побережья Дестина, Флорида, и станет искусственным рифом.",
+        "en": "The SS United States, which set a transatlantic speed record during its maiden voyage in 1952, has sunk off the coast of Destin, Florida, to become an artificial reef."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Александр Дарчиев, посол России в Соединенных Штатах, скончался в возрасте 66 лет. Российское внешнеполитическое ведомство сообщило, что его смерть была \"внезапной\" и выразило соболезнования родным и близким.\n\nДарчиев ранее занимал пост посла в Канаде и был назначен на должность в США в марте 2025 года. Он был известен как опытный дипломат и уважаемый коллега.\n\nСмерть Дарчиева вызывает вопросы о будущем российско-американских отношений, так как он был важной фигурой в дипломатических кругах.",
-        "en": "Alexander Darchiev, Russia's ambassador to the United States, has died at the age of 66. The Russian foreign ministry announced that his death was 'sudden' and expressed condolences to his family and friends.\n\nDarchiev previously served as ambassador to Canada and was appointed to the position in the U.S. in March 2025. He was known as an experienced diplomat and a respected colleague.\n\nDarchiev's death raises questions about the future of Russian-American relations, as he was a significant figure in diplomatic circles."
+        "ru": "SS United States, установивший рекорд скорости при первом рейсе в 1952 году, затонул у побережья Дестина, Флорида, и станет искусственным рифом. Этот исторический океанский лайнер, когда-то самый быстрый в мире, завершил свой путь на море, и теперь его останки будут служить экосистеме. Судно прошло через множество приключений за свои 17 лет эксплуатации.",
+        "en": "The SS United States, which set a transatlantic speed record during its maiden voyage in 1952, has sunk off the coast of Destin, Florida, to become an artificial reef. This historic ocean liner, once the fastest in the world, has reached the end of its journey at sea, and its remains will now serve the ecosystem. The vessel experienced many adventures during its 17 years of operation."
       }
     },
     {
-      "link": "https://www.theguardian.com/media/2026/nov/11/tv-entertainment-industry-protect-women-david-walliams-allegations-nandy",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Министры рассматривают возможность принуждения ТВ-индустрии к лучшей защите женщин после обвинений против Дэвида Уоллиамса",
-        "en": "Ministers consider forcing TV industry to better protect women after David Walliams allegations"
-      },
-      "summary": {
-        "ru": "Министры рассматривают возможность изменения закона, чтобы заставить индустрию развлечений лучше защищать женщин и детей после обвинений против Дэвида Уоллиамса.",
-        "en": "Ministers are considering changing the law to force the entertainment industry to better protect women and children after allegations against David Walliams."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Министры рассматривают возможность изменения закона, чтобы заставить индустрию развлечений лучше защищать женщин и детей. Это обсуждение стало актуальным после обвинений против Дэвида Уоллиамса, что вызвало общественное недовольство.\n\nОжидается, что Лиза Нэнди, министр культуры, встретится с представителями телевидения, кино и издательского дела для обсуждения возможных изменений. Если добровольные меры окажутся недостаточными, может быть предложено законодательство.\n\nДанная инициатива подчеркивает растущую озабоченность по поводу безопасности женщин и детей в развлекательной индустрии и необходимость более строгих мер защиты.",
-        "en": "Ministers are considering changing the law to force the entertainment industry to better protect women and children. This discussion has become relevant following allegations against David Walliams, which sparked public outcry.\n\nLisa Nandy, the culture secretary, is expected to meet with representatives from television, film, and publishing to discuss potential changes. If voluntary measures prove insufficient, legislation may be proposed.\n\nThis initiative highlights the growing concern over the safety of women and children in the entertainment industry and the need for stricter protective measures."
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Официальные лица Трампа столкнулись из-за Megaspeed, компании в центре дела Nvidia",
-        "en": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair"
-      },
-      "summary": {
-        "ru": "Министр финансов Скотт Бессент столкнулся с министром торговли Ховардом Лутником по поводу отсутствия ограничений на продажи чипов Megaspeed.",
-        "en": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick about why there were no restrictions on advanced chip sales to Megaspeed."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Министр финансов Скотт Бессент столкнулся с министром торговли Ховардом Лутником по поводу отсутствия ограничений на продажи чипов Megaspeed. Этот инцидент подчеркивает напряженность в администрации по поводу контроля над высокими технологиями.\n\nОбсуждение касалось того, почему не были введены ограничения на продажи передовых чипов этой компании, что вызывает опасения в контексте национальной безопасности. Бессент выразил недовольство по поводу текущей политики и ее возможного влияния на технологическую безопасность страны.\n\nДанный конфликт может привести к пересмотру политики в области экспорта технологий и усилению контроля за продажами высоких технологий.",
-        "en": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick about the lack of restrictions on advanced chip sales to Megaspeed. This incident highlights the tension within the administration regarding control over high technology.\n\nThe discussion revolved around why no restrictions had been imposed on sales of advanced chips to the company, raising concerns in the context of national security. Bessent expressed dissatisfaction with the current policy and its potential impact on the country's technological security.\n\nThis conflict may lead to a review of technology export policies and increased scrutiny over high-tech sales."
-      }
-    },
-    {
-      "link": "https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917",
+      "link": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
       "source": "The Block",
       "title": {
-        "ru": "Группа Apex присоединяется к Совету Hedera для изучения токенизации и расчетов",
-        "en": "Apex Group joins Hedera Council to explore tokenization and settlement"
+        "ru": "Акции Nvidia упали на 10% на Hyperliquid, поскольку совет директоров, по сообщениям, рассматривает увольнение Дженсена Хуана",
+        "en": "Nvidia Perps Plunge 10% on Hyperliquid as Board Reportedly Weighs Ousting Jensen Huang"
       },
       "summary": {
-        "ru": "Группа Apex, управляющая активами на сумму $3.5 триллиона, присоединилась к Совету Hedera для изучения токенизации и расчетов.",
-        "en": "Apex Group, overseeing $3.5 trillion in assets, joins the Hedera Council to explore tokenization and settlement."
+        "ru": "The Wall Street Journal сообщил, что совет директоров Nvidia готовится уволить CEO Дженсена Хуана из-за двух внебрачных связей.",
+        "en": "The Wall Street Journal reported that Nvidia's board is preparing to oust CEO Jensen Huang over two extramarital affairs."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Группа Apex, управляющая активами на сумму $3.5 триллиона, присоединилась к Совету Hedera для изучения токенизации и расчетов. Это сотрудничество направлено на использование технологий блокчейн для улучшения финансовых операций.\n\nApex Group намерена исследовать возможности, которые предоставляет Hedera, включая токенизацию активов и упрощение расчетов. Это может открыть новые горизонты для финансовых услуг и повысить эффективность операций.\n\nПрисоединение к Совету Hedera подчеркивает стремление Apex Group быть на переднем крае финансовых инноваций и использовать современные технологии для улучшения своих услуг.",
-        "en": "Apex Group, overseeing $3.5 trillion in assets, has joined the Hedera Council to explore tokenization and settlement. This collaboration aims to leverage blockchain technologies to enhance financial operations.\n\nApex Group intends to investigate the opportunities provided by Hedera, including asset tokenization and streamlining settlements. This could open new horizons for financial services and improve operational efficiency.\n\nJoining the Hedera Council underscores Apex Group's commitment to being at the forefront of financial innovation and utilizing modern technologies to enhance its services."
+        "ru": "The Wall Street Journal сообщил, что совет директоров Nvidia готовится уволить CEO Дженсена Хуана из-за двух внебрачных связей. Это решение может повлиять на репутацию компании и ее будущее. Информация о возможной отставке вызывает вопросы о корпоративной этике и управлении.",
+        "en": "The Wall Street Journal reported that Nvidia's board is preparing to oust CEO Jensen Huang over two extramarital affairs. This decision could impact the company's reputation and future. The news of a potential ousting raises questions about corporate ethics and governance."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Трехэтажное здание обрушилось в Бруклине",
+        "en": "Three-Storey Building Collapses in Brooklyn"
+      },
+      "summary": {
+        "ru": "Трехэтажное здание обрушилось в Бруклине, штат Нью-Йорк, в результате чего погибли как минимум два человека и несколько других получили ранения.",
+        "en": "A three-storey building collapsed in Brooklyn, New York, killing at least two people and injuring several others."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Трехэтажное здание обрушилось в Бруклине, штат Нью-Йорк, в результате чего погибли как минимум два человека и несколько других получили ранения. Полиция и спасательные службы работают на месте происшествия, чтобы выяснить причины обрушения. Этот инцидент подчеркивает важность соблюдения строительных норм и безопасности.",
+        "en": "A three-storey building collapsed in Brooklyn, New York, killing at least two people and injuring several others. Police and rescue services are working at the scene to determine the cause of the collapse. This incident highlights the importance of adhering to building codes and safety regulations."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Что могла узнать китайская разведка из романа CEO Nvidia?",
+        "en": "What Could Chinese Intelligence Have Learned from Nvidia CEO’s Affair?"
+      },
+      "summary": {
+        "ru": "Nvidia утверждает, что секреты не были скомпрометированы, но эксперты задаются вопросом, какая чувствительная информация могла быть раскрыта.",
+        "en": "Nvidia says no secrets were compromised, but experts question what sensitive information may have been exposed."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Nvidia утверждает, что секреты не были скомпрометированы, но эксперты задаются вопросом, какая чувствительная информация могла быть раскрыта. Этот инцидент поднимает вопросы о безопасности данных и шпионских действиях в бизнесе. Обсуждение продолжается среди специалистов по безопасности.",
+        "en": "Nvidia says no secrets were compromised, but experts question what sensitive information may have been exposed. This incident raises concerns about data security and espionage in business. Discussions continue among security specialists."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Человеческий торс найден в диване в бушленде Сиднея, начато расследование убийства",
+        "en": "Human Torso Found in Sofa in Sydney Bushland Prompts Homicide Investigation"
+      },
+      "summary": {
+        "ru": "Полиция была вызвана в Лейн Ков Норт после того, как в бушленде был найден диван с человеческим торсом, предположительно, взрослого мужчины.",
+        "en": "Police were called to Lane Cove North after a sofa containing a human torso, believed to be that of an adult man, was found in bushland."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Полиция была вызвана в Лейн Ков Норт после того, как в бушленде был найден диван с человеческим торсом, предположительно, взрослого мужчины. В настоящее время ведется расследование, и полиция ищет дополнительные улики. Этот случай вызывает тревогу среди местных жителей и подчеркивает необходимость обеспечения безопасности в районе.",
+        "en": "Police were called to Lane Cove North after a sofa containing a human torso, believed to be that of an adult man, was found in bushland. An investigation is currently underway, and police are searching for additional evidence. This case raises alarm among local residents and highlights the need for safety in the area."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Бывший член итальянских Красных бригад сбежал из домашнего ареста в Аргентине",
+        "en": "Former Italian Red Brigades Member Escapes House Arrest in Argentina"
+      },
+      "summary": {
+        "ru": "Бертуллацци использовал веревку и ремни, чтобы спуститься с пятого этажа и избежать властей в Аргентине.",
+        "en": "Bertulazzi used a rope and harness to climb down from a fifth-floor apartment and evade authorities in Argentina."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Бертуллацци использовал веревку и ремни, чтобы спуститься с пятого этажа и избежать властей в Аргентине. Его побег подчеркивает сложности в правоприменении и экстрадиции. Этот инцидент привлекает внимание к вопросам международного сотрудничества в борьбе с преступностью.",
+        "en": "Bertulazzi used a rope and harness to climb down from a fifth-floor apartment and evade authorities in Argentina. His escape highlights the challenges in law enforcement and extradition. This incident draws attention to issues of international cooperation in the fight against crime."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Австралийские штаты могут подать в суд на табачные компании за миллиарды в медицинских расходах по предложению",
+        "en": "Australian States Could Sue Tobacco Companies for Billions in Healthcare Costs Under Proposal"
+      },
+      "summary": {
+        "ru": "Бывший адвокат, который помог юридически установить, что вторичный дым вызывает рак легких, утверждает, что штаты могут потребовать до 50 миллиардов долларов компенсации.",
+        "en": "A former barrister who helped legally establish that secondhand smoke causes lung cancer argues states could seek up to $50bn in compensation."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Бывший адвокат, который помог юридически установить, что вторичный дым вызывает рак легких, утверждает, что штаты могут потребовать до 50 миллиардов долларов компенсации. Это предложение обсуждается в австралийских государственных правительствах, которые рассматривают возможность подачи исков к табачным компаниям. Вопрос о компенсации поднимает важные темы о здоровье и ответственности.",
+        "en": "A former barrister who helped legally establish that secondhand smoke causes lung cancer argues states could seek up to $50bn in compensation. This proposal is being discussed among Australian state governments, which are considering lawsuits against tobacco companies. The issue of compensation raises important themes of health and accountability."
       }
     }
   ]
