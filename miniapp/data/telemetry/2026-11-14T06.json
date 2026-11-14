@@ -1,0 +1,1279 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.953718888888888,
+  "poolSize": 98,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "FAA ground stop disrupts NBA, NHL and college football weekend travel",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss"
+    },
+    {
+      "index": 2,
+      "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+      "source": "The Block",
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304"
+    },
+    {
+      "index": 3,
+      "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html"
+    },
+    {
+      "index": 4,
+      "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html"
+    },
+    {
+      "index": 5,
+      "title": "University hounded out of Hungary by Orbán reaches out to new government",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu"
+    },
+    {
+      "index": 6,
+      "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel"
+    },
+    {
+      "index": 7,
+      "title": "Trump, Xi and Putin to hold first three-way summit in China",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss"
+    },
+    {
+      "index": 8,
+      "title": "Lagos Art Week confronts history, identity and belonging",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/lagos-art-week-confronts-history-identity-and-belonging?traffic_source=rss"
+    },
+    {
+      "index": 9,
+      "title": "German spies granted sweeping new powers",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss"
+    },
+    {
+      "index": 10,
+      "title": "Iranian shopkeeper goes viral for Netanyahu resemblance",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/iranian-shopkeeper-goes-viral-for-netanyahu-resemblance?traffic_source=rss"
+    },
+    {
+      "index": 11,
+      "title": "Senegal Youth Olympics in Dakar end on high note",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/senegal-youth-olympics-in-dakar-end-on-high-note/a-79944820?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 12,
+      "title": "UN says Israeli policies worsened deadly impact of Gaza winter storm",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_un-israeli-policies-worsened-gaza-storms-impact-131126?traffic_source=rss"
+    },
+    {
+      "index": 13,
+      "title": "Trump to meet Xi, Putin for three-way huddle on nuclear arms talks",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 14,
+      "title": "ICC stops probe into alleged crimes by US troops in Afghanistan",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan?traffic_source=rss"
+    },
+    {
+      "index": 15,
+      "title": "Here’s the latest.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa"
+    },
+    {
+      "index": 16,
+      "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss"
+    },
+    {
+      "index": 17,
+      "title": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+    },
+    {
+      "index": 18,
+      "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
+    },
+    {
+      "index": 19,
+      "title": "SpaceX’s Latest Starship Launch Skips Attempt to Catch the Booster",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html"
+    },
+    {
+      "index": 20,
+      "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage"
+    },
+    {
+      "index": 21,
+      "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss"
+    },
+    {
+      "index": 22,
+      "title": "SpaceX launches Starship rocket, fails to recover booster",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 23,
+      "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html"
+    },
+    {
+      "index": 24,
+      "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"
+    },
+    {
+      "index": 25,
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 26,
+      "title": "US lifts nationwide ground stop for airports hours after halting all departures",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 27,
+      "title": "Tanker collision leaves riverboat passengers clinging to railings",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss"
+    },
+    {
+      "index": 28,
+      "title": "Former FAA official says ‘nobody really knows what is going on’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss"
+    },
+    {
+      "index": 29,
+      "title": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb"
+    },
+    {
+      "index": 30,
+      "title": "Tech Now",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 31,
+      "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit"
+    },
+    {
+      "index": 32,
+      "title": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia"
+    },
+    {
+      "index": 33,
+      "title": "Despite Nvidia’s Drop, Stocks Push Ahead",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html"
+    },
+    {
+      "index": 34,
+      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 35,
+      "title": "Deed Theft Is Rising, Along With Property Values",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html"
+    },
+    {
+      "index": 36,
+      "title": "UK police open sex offence probe into comedian and author David Walliams",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss"
+    },
+    {
+      "index": 37,
+      "title": "Microsoft services begin recovering after global outage",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss"
+    },
+    {
+      "index": 38,
+      "title": "Bluetongue virus confirmed on County Down farm",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 39,
+      "title": "Afghanistan’s new road to China ends at a closed border",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss"
+    },
+    {
+      "index": 40,
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 41,
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 42,
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 43,
+      "title": "Iran war live: Tehran says tanker hit naval mine, caught fire",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss"
+    },
+    {
+      "index": 44,
+      "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss"
+    },
+    {
+      "index": 45,
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 46,
+      "title": "How Does a 74-Year-Old in Argentina Escape House Arrest on the Fifth Floor?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html"
+    },
+    {
+      "index": 47,
+      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html"
+    },
+    {
+      "index": 48,
+      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 49,
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 50,
+      "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss"
+    },
+    {
+      "index": 51,
+      "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html"
+    },
+    {
+      "index": 52,
+      "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html"
+    },
+    {
+      "index": 53,
+      "title": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority"
+    },
+    {
+      "index": 54,
+      "title": "US Air Force responds to suspected drone activity at RAF Lakenheath",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath"
+    },
+    {
+      "index": 55,
+      "title": "Microsoft’s Global Outage and Fixes: What We Know",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html"
+    },
+    {
+      "index": 56,
+      "title": "Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html"
+    },
+    {
+      "index": 57,
+      "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
+    },
+    {
+      "index": 58,
+      "title": "LIVE: FAA reopens airspace after ground stop blamed on ‘outdated equipment’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss"
+    },
+    {
+      "index": 59,
+      "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html"
+    },
+    {
+      "index": 60,
+      "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank"
+    },
+    {
+      "index": 61,
+      "title": "US flights resume after FAA lifts hours-long nationwide ground stop",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss"
+    },
+    {
+      "index": 62,
+      "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 63,
+      "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html"
+    },
+    {
+      "index": 64,
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 65,
+      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 66,
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 67,
+      "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html"
+    },
+    {
+      "index": 68,
+      "title": "Tanker collides with New Orleans river cruise carrying 129 passengers, rescue operation underway",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und"
+    },
+    {
+      "index": 69,
+      "title": "African Miss Universe Contestants Struggle to Get U.S. Visas",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html"
+    },
+    {
+      "index": 70,
+      "title": "Meta tests prediction market app using ‘cred’ points instead of cash: WSJ",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215"
+    },
+    {
+      "index": 71,
+      "title": "Pope Leo cheered on return to Peru city where he served as bishop",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss"
+    },
+    {
+      "index": 72,
+      "title": "Probation officers in England and Wales vote to strike over pay and workloads",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/13/probation-officers-in-england-and-wales-vote-for-strike-action-over-pay-and-workloads"
+    },
+    {
+      "index": 73,
+      "title": "Qatar and Turkiye send message of deterrence with new defence pact",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss"
+    },
+    {
+      "index": 74,
+      "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
+    },
+    {
+      "index": 75,
+      "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss"
+    },
+    {
+      "index": 76,
+      "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss"
+    },
+    {
+      "index": 77,
+      "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss"
+    },
+    {
+      "index": 78,
+      "title": "Microsoft says services still returning amid widespread outage",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss"
+    },
+    {
+      "index": 79,
+      "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html"
+    },
+    {
+      "index": 80,
+      "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12,
+        3,
+        4,
+        21,
+        59
+      ],
+      "score": 85,
+      "category": "society",
+      "rationale": "The UN's statement on Israel's impact during the Gaza winter storm highlights significant humanitarian concerns amid ongoing regional tensions."
+    },
+    {
+      "representativeIndex": 7,
+      "memberIndices": [
+        7,
+        13,
+        51,
+        74,
+        73
+      ],
+      "score": 80,
+      "category": "politics",
+      "rationale": "The upcoming three-way summit between Trump, Xi, and Putin addresses critical global security issues, particularly nuclear arms discussions."
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32,
+        66,
+        78,
+        55,
+        37
+      ],
+      "score": 75,
+      "category": "technology",
+      "rationale": "Microsoft's global outage underscores the critical reliance on technology and the potential economic ramifications for businesses worldwide."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18,
+        50,
+        62,
+        68,
+        45
+      ],
+      "score": 70,
+      "category": "disaster",
+      "rationale": "The collision on the Mississippi River that resulted in multiple hospitalizations but no fatalities is a significant incident highlighting safety in transportation."
+    },
+    {
+      "representativeIndex": 9,
+      "memberIndices": [
+        9,
+        57,
+        36,
+        14
+      ],
+      "score": 65,
+      "category": "law",
+      "rationale": "The new powers granted to German spies reflect a critical shift in national security policy amid rising tensions linked to Russia."
+    },
+    {
+      "representativeIndex": 19,
+      "memberIndices": [
+        19,
+        22,
+        31,
+        42,
+        79
+      ],
+      "score": 60,
+      "category": "technology",
+      "rationale": "SpaceX's ongoing efforts to achieve a fully reusable rocket are pivotal for the future of space exploration and commercial space travel."
+    },
+    {
+      "representativeIndex": 11,
+      "memberIndices": [
+        11,
+        48,
+        29,
+        75
+      ],
+      "score": 55,
+      "category": "health",
+      "rationale": "The alarming rise in measles cases in the US, with associated deaths, raises serious public health concerns and highlights vaccination challenges.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5
+      ],
+      "score": 50,
+      "category": "politics",
+      "rationale": "The potential return of Central European University to Budapest signals a shift in Hungary's political climate and its implications for academic freedom."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        6,
+        16,
+        24,
+        20
+      ],
+      "score": 45,
+      "category": "disaster",
+      "rationale": "The FAA's nationwide ground stop due to a telecommunications outage disrupted travel for millions, illustrating vulnerabilities in air traffic management."
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70,
+        2,
+        30
+      ],
+      "score": 40,
+      "category": "technology",
+      "rationale": "Meta's testing of a prediction-market app reflects ongoing innovations in technology and the evolving landscape of digital engagement."
+    },
+    {
+      "representativeIndex": 8,
+      "memberIndices": [
+        8,
+        71,
+        76,
+        40,
+        41
+      ],
+      "score": 30,
+      "category": "culture",
+      "rationale": "The celebration of African heritage during Lagos Art Week highlights the importance of cultural identity and creativity in contemporary society."
+    },
+    {
+      "representativeIndex": 39,
+      "memberIndices": [
+        39,
+        43,
+        80
+      ],
+      "score": 25,
+      "category": "world",
+      "rationale": "The Taliban's efforts to establish new trade routes with China reflect ongoing geopolitical shifts and the complexities of international relations."
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38
+      ],
+      "score": 15,
+      "category": "health",
+      "rationale": "The confirmation of bluetongue virus in sheep highlights ongoing agricultural health challenges and the need for effective disease management."
+    },
+    {
+      "representativeIndex": 10,
+      "memberIndices": [
+        10
+      ],
+      "score": 19.875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 15,
+      "memberIndices": [
+        15
+      ],
+      "score": 19.8125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        17
+      ],
+      "score": 19.7875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 25,
+      "memberIndices": [
+        25
+      ],
+      "score": 19.6875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 26,
+      "memberIndices": [
+        26
+      ],
+      "score": 19.675,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 27,
+      "memberIndices": [
+        27
+      ],
+      "score": 19.6625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 28,
+      "memberIndices": [
+        28
+      ],
+      "score": 19.65,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 33,
+      "memberIndices": [
+        33
+      ],
+      "score": 19.5875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 34,
+      "memberIndices": [
+        34
+      ],
+      "score": 19.575,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 35,
+      "memberIndices": [
+        35
+      ],
+      "score": 19.5625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 44,
+      "memberIndices": [
+        44
+      ],
+      "score": 19.45,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46
+      ],
+      "score": 19.425,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 47,
+      "memberIndices": [
+        47
+      ],
+      "score": 19.4125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 49,
+      "memberIndices": [
+        49
+      ],
+      "score": 19.3875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 19.35,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 54,
+      "memberIndices": [
+        54
+      ],
+      "score": 19.325,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 56,
+      "memberIndices": [
+        56
+      ],
+      "score": 19.3,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 19.275,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60
+      ],
+      "score": 19.25,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 61,
+      "memberIndices": [
+        61
+      ],
+      "score": 19.2375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 19.2125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64
+      ],
+      "score": 19.2,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.1875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 67,
+      "memberIndices": [
+        67
+      ],
+      "score": 19.1625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 69,
+      "memberIndices": [
+        69
+      ],
+      "score": 19.1375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 72,
+      "memberIndices": [
+        72
+      ],
+      "score": 19.1,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 77,
+      "memberIndices": [
+        77
+      ],
+      "score": 19.0375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 22666,
+      "usage": {
+        "inputTokens": 7104,
+        "outputTokens": 888,
+        "totalTokens": 7992
+      },
+      "estimatedCostUsd": 0.0015983999999999998,
+      "returnedCount": 17,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 20399,
+      "usage": {
+        "inputTokens": 1501,
+        "outputTokens": 1087,
+        "totalTokens": 2588
+      },
+      "estimatedCostUsd": 0.0008773499999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 20096,
+      "usage": {
+        "inputTokens": 948,
+        "outputTokens": 1116,
+        "totalTokens": 2064
+      },
+      "estimatedCostUsd": 0.0008118,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 17553,
+      "usage": {
+        "inputTokens": 928,
+        "outputTokens": 1156,
+        "totalTokens": 2084
+      },
+      "estimatedCostUsd": 0.0008328,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 32261,
+      "usage": {
+        "inputTokens": 2124,
+        "outputTokens": 2479,
+        "totalTokens": 4603
+      },
+      "estimatedCostUsd": 0.0018059999999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 31193,
+      "usage": {
+        "inputTokens": 1623,
+        "outputTokens": 2762,
+        "totalTokens": 4385
+      },
+      "estimatedCostUsd": 0.00190065,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 35247,
+      "usage": {
+        "inputTokens": 1628,
+        "outputTokens": 2804,
+        "totalTokens": 4432
+      },
+      "estimatedCostUsd": 0.0019265999999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-11-14T06:04:59.487Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.009753600000000001,
+    "complete": true,
+    "inputTokens": 15856,
+    "outputTokens": 12292,
+    "totalTokens": 28148,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_un-israeli-policies-worsened-gaza-storms-impact-131126?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "UN says Israeli policies worsened deadly impact of Gaza winter storm"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Trump, Xi and Putin to hold first three-way summit in China"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+          "source": "The Guardian",
+          "title_en": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+          "source": "The Guardian",
+          "title_en": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "German spies granted sweeping new powers"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
+          "source": "New York Times",
+          "title_en": "SpaceX’s Latest Starship Launch Skips Attempt to Catch the Booster"
+        },
+        {
+          "link": "https://www.dw.com/en/senegal-youth-olympics-in-dakar-end-on-high-note/a-79944820?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Senegal Youth Olympics in Dakar end on high note"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
+          "source": "The Guardian",
+          "title_en": "University hounded out of Hungary by Orbán reaches out to new government"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "FAA ground stop disrupts NBA, NHL and college football weekend travel"
+        },
+        {
+          "link": "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
+          "source": "The Block",
+          "title_en": "Meta tests prediction market app using ‘cred’ points instead of cash: WSJ"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/14/lagos-art-week-confronts-history-identity-and-belonging?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Lagos Art Week confronts history, identity and belonging"
+        },
+        {
+          "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Afghanistan’s new road to China ends at a closed border"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/iranian-shopkeeper-goes-viral-for-netanyahu-resemblance?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Iranian shopkeeper goes viral for Netanyahu resemblance"
+        },
+        {
+          "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+          "source": "New York Times",
+          "title_en": "Here’s the latest."
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+          "source": "The Guardian",
+          "title_en": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
+          "source": "New York Times",
+          "title_en": "Trump Administration Delays Enforcement of Medicaid Work Requirement"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "'We'll get home one day' - US travellers impacted by nationwide ground stop"
+        },
+        {
+          "link": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "US lifts nationwide ground stop for airports hours after halting all departures"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Tanker collision leaves riverboat passengers clinging to railings"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Former FAA official says ‘nobody really knows what is going on’"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+          "source": "New York Times",
+          "title_en": "Despite Nvidia’s Drop, Stocks Push Ahead"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Even Grand Theft Auto's original creators haven't been able to play GTA 6"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html",
+          "source": "New York Times",
+          "title_en": "Deed Theft Is Rising, Along With Property Values"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "FAA grounds all flights across the US over ‘telecommunication outage’"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html",
+          "source": "New York Times",
+          "title_en": "How Does a 74-Year-Old in Argentina Escape House Arrest on the Fifth Floor?"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+          "source": "New York Times",
+          "title_en": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "How the Jensen Huang scandal created a headache for business-friendly Singapore"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
+          "source": "New York Times",
+          "title_en": "Wall Street Makes Its Pitch for Anthropic’s I.P.O."
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+          "source": "The Guardian",
+          "title_en": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
+          "source": "The Guardian",
+          "title_en": "US Air Force responds to suspected drone activity at RAF Lakenheath"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_un-israeli-policies-worsened-gaza-storms-impact-131126?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "UN says Israeli policies worsened deadly impact of Gaza winter storm"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Trump, Xi and Putin to hold first three-way summit in China"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+          "source": "The Guardian",
+          "title_en": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+          "source": "The Guardian",
+          "title_en": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "German spies granted sweeping new powers"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
+          "source": "New York Times",
+          "title_en": "SpaceX’s Latest Starship Launch Skips Attempt to Catch the Booster"
+        },
+        {
+          "link": "https://www.dw.com/en/senegal-youth-olympics-in-dakar-end-on-high-note/a-79944820?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Senegal Youth Olympics in Dakar end on high note"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
+          "source": "The Guardian",
+          "title_en": "University hounded out of Hungary by Orbán reaches out to new government"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "FAA ground stop disrupts NBA, NHL and college football weekend travel"
+        },
+        {
+          "link": "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
+          "source": "The Block",
+          "title_en": "Meta tests prediction market app using ‘cred’ points instead of cash: WSJ"
+        }
+      ],
+      "contentHashes": {
+        "ru": "bb7d731da3c67eb7f3cf6c73da24b1af4c7f97bcdcccb38d588775668c8c5cfd",
+        "en": "dd6957b200bf482693623ea4674da5f6b2f90ba433ca970ecde9dfe27ea956a3"
+      }
+    }
+  }
+}
