@@ -1,0 +1,1500 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.920954166666666,
+  "poolSize": 100,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "'Break-in and rising costs could kill my business'",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 2,
+      "title": "Megaspeed Says Alice Huang Left Company in August 2025",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html"
+    },
+    {
+      "index": 3,
+      "title": "Mexican drug lord Felix Gallardo dies at 80",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/mexican-drug-lord-felix-gallardo-dies-at-80/a-79954351?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 4,
+      "title": "Widow of Haiti’s slain leader Moise to contest presidential vote",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote?traffic_source=rss"
+    },
+    {
+      "index": 5,
+      "title": "Trump presses for $50bn to fix air traffic control after nationwide grounding",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/16/trump-presses-for-50bn-to-fix-air-traffic-control-after-nationwide-grounding"
+    },
+    {
+      "index": 6,
+      "title": "Too Many Chips in One Basket?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html"
+    },
+    {
+      "index": 7,
+      "title": "Pope Leo XIV in visit to Peruvian rainforest demands justice for slain Amazon defenders",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/16/pope-leo-xiv-in-visit-to-peruvian-rainforest-demands-justice-for-slain-amazon-defenders"
+    },
+    {
+      "index": 8,
+      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 9,
+      "title": "MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb"
+    },
+    {
+      "index": 10,
+      "title": "A Year On, Canada’s Mark Carney Returns to China a Political Star",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html"
+    },
+    {
+      "index": 11,
+      "title": "Searching for the Last Stoats of Waiheke Island",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html"
+    },
+    {
+      "index": 12,
+      "title": "They Defeated a Strongman. But Can They Run a Country?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html"
+    },
+    {
+      "index": 13,
+      "title": "How to Watch the 2026 Leonids Meteor Shower",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/16/science/leonids-meteor-shower-peak.html"
+    },
+    {
+      "index": 14,
+      "title": "Ministers accused of ‘gambling with safety’ for not knowing cost of NHS maternity unit repairs",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/16/ministers-safety-not-know-cost-nhs-maternity-unit-repairs-england"
+    },
+    {
+      "index": 15,
+      "title": "Will Spain’s snap election in November bring a far-right party into government?",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government"
+    },
+    {
+      "index": 16,
+      "title": "More live news, more conversations, more Europe: Euronews reinvents itself, starting today",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/16/more-live-news-more-conversations-more-europe-euronews-reinvents-itself-for-its-new-season"
+    },
+    {
+      "index": 17,
+      "title": "Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss"
+    },
+    {
+      "index": 18,
+      "title": "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025?traffic_source=rss"
+    },
+    {
+      "index": 19,
+      "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks"
+    },
+    {
+      "index": 20,
+      "title": "Watch: New York teen reunites with cat missing after building collapse",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 21,
+      "title": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810"
+    },
+    {
+      "index": 22,
+      "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 23,
+      "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss"
+    },
+    {
+      "index": 24,
+      "title": "Coles investigates cyber-attack and apologises to customers",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data"
+    },
+    {
+      "index": 25,
+      "title": "Wall Street Braces for Anthropic’s Spending",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html"
+    },
+    {
+      "index": 26,
+      "title": "Tech failure forces hundreds of University of Melbourne students to abandon final exams mid-test",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/16/university-of-melbourne-students-exams-cancelled-tech-issue"
+    },
+    {
+      "index": 27,
+      "title": "Pope Leo flies to mass in the Papacoptero",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-leo-flies-to-mass-in-the-papacoptero?traffic_source=rss"
+    },
+    {
+      "index": 28,
+      "title": "Shophouse fire kills at least 11 in Phuket",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/shophouse-fire-kills-at-least-11-in-phuket?traffic_source=rss"
+    },
+    {
+      "index": 29,
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 30,
+      "title": "Australia’s national medical research body advises conditional use of puberty blockers for transgender children",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/16/australias-national-medical-research-body-advises-conditional-use-of-puberty-blockers-for-transgender-children"
+    },
+    {
+      "index": 31,
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 32,
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 33,
+      "title": "Investors sue chip giant Intel after 29% stock plunge",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 34,
+      "title": "Senior Hells Angels bikie charged with threatening to kill investigative reporter Nick McKenzie",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/16/hells-angels-bikie-charged-threats-to-kill-journalist-nick-mckenzie-ntwnfb"
+    },
+    {
+      "index": 35,
+      "title": "ASEAN, China fall short of agreeing on South China Sea code",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss"
+    },
+    {
+      "index": 36,
+      "title": "Houthis advance in Yemen as government forces move to defend Aden",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss"
+    },
+    {
+      "index": 37,
+      "title": "Miguel Ángel Félix Gallardo, Mexican Drug Lord, Dies in Prison",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html"
+    },
+    {
+      "index": 38,
+      "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss"
+    },
+    {
+      "index": 39,
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 40,
+      "title": "Pope urges end to Amazon deforestation",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss"
+    },
+    {
+      "index": 41,
+      "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang"
+    },
+    {
+      "index": 42,
+      "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment"
+    },
+    {
+      "index": 43,
+      "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo"
+    },
+    {
+      "index": 44,
+      "title": "Huge waves pummel California coast, forcing closure of popular piers",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed"
+    },
+    {
+      "index": 45,
+      "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss"
+    },
+    {
+      "index": 46,
+      "title": "Black Friday and tax return scams - don't fall for these",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 47,
+      "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss"
+    },
+    {
+      "index": 48,
+      "title": "Czechs rally against gov’t threat to media independence",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss"
+    },
+    {
+      "index": 49,
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 50,
+      "title": "Digital finance products used to abuse almost 20% of young women and girls, UK report finds",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/15/digital-finance-products-abuse-against-young-women-and-girls-report"
+    },
+    {
+      "index": 51,
+      "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet"
+    },
+    {
+      "index": 52,
+      "title": "Zambia’s copper boom attracts billions in investment, but who benefits?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/16/zambias-copper-boom-attracts-billions-in-investment-but-who-benefits?traffic_source=rss"
+    },
+    {
+      "index": 53,
+      "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss"
+    },
+    {
+      "index": 54,
+      "title": "‘Loaded with potential’: stage version of TV smash It’s a Sin has the dancefloor at its heart",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/stage/2026/nov/16/stage-version-tv-series-its-a-sin-trailer"
+    },
+    {
+      "index": 55,
+      "title": "Research Stalls for a Year Into a Cancer That Kills Children in a Year",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/15/well/research-stalls-for-a-year-into-a-cancer-that-kills-children-in-a-year.html"
+    },
+    {
+      "index": 56,
+      "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss"
+    },
+    {
+      "index": 57,
+      "title": "Brawl erupts in Brazil’s Women’s League final",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/brawl-erupts-in-brazils-womens-league-final?traffic_source=rss"
+    },
+    {
+      "index": 58,
+      "title": "Yemen: Anti-Houthi forces pull back as rebels advance",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 59,
+      "title": "US officials recover audio from ‘Mississippi miracle’ cruise ship and tanker crash",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/15/audio-new-orleans-mississippi-river-cruise-tanker-crash"
+    },
+    {
+      "index": 60,
+      "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser"
+    },
+    {
+      "index": 61,
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 62,
+      "title": "Fan Fiction Site AO3 Returns, and So Do Its Readers, in Droves",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/15/arts/ao3-fan-fiction-site.html"
+    },
+    {
+      "index": 63,
+      "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html"
+    },
+    {
+      "index": 64,
+      "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html"
+    },
+    {
+      "index": 65,
+      "title": "England stun Spain to end La Roja’s 43-game unbeaten run",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss"
+    },
+    {
+      "index": 66,
+      "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 67,
+      "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+    },
+    {
+      "index": 68,
+      "title": "What to expect from Trump and Xi's upcoming meeting in China",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china"
+    },
+    {
+      "index": 69,
+      "title": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry"
+    },
+    {
+      "index": 70,
+      "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss"
+    },
+    {
+      "index": 71,
+      "title": "Canada bars Russia from Junior World Championships",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 72,
+      "title": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games"
+    },
+    {
+      "index": 73,
+      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 74,
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 75,
+      "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807"
+    },
+    {
+      "index": 76,
+      "title": "US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss"
+    },
+    {
+      "index": 77,
+      "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html"
+    },
+    {
+      "index": 78,
+      "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html"
+    },
+    {
+      "index": 79,
+      "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss"
+    },
+    {
+      "index": 80,
+      "title": "Somali-American Uber driver brutally assaulted in alleged hate crime in Minnesota",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/15/somali-american-uber-driver-attack-minnesota"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        29,
+        37,
+        45
+      ],
+      "score": 85,
+      "category": "conflict",
+      "rationale": "The death of Felix Gallardo, a key figure in the drug trade, marks a significant moment in the ongoing battle against drug trafficking in Mexico."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4,
+        8
+      ],
+      "score": 80,
+      "category": "politics",
+      "rationale": "Martine Moise's candidacy in Haiti's presidential election represents a pivotal moment in the country's political landscape after years of instability."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5,
+        47
+      ],
+      "score": 75,
+      "category": "economy",
+      "rationale": "Trump's push for $50 billion to upgrade air traffic control highlights critical infrastructure issues affecting the U.S. economy."
+    },
+    {
+      "representativeIndex": 30,
+      "memberIndices": [
+        30,
+        50
+      ],
+      "score": 70,
+      "category": "health",
+      "rationale": "New guidelines on puberty blockers for transgender children reflect a significant shift in health policy and societal attitudes towards gender identity."
+    },
+    {
+      "representativeIndex": 22,
+      "memberIndices": [
+        22
+      ],
+      "score": 65,
+      "category": "technology",
+      "rationale": "The failure of a Boeing-Lockheed rocket during its mission underscores the challenges facing the aerospace industry."
+    },
+    {
+      "representativeIndex": 28,
+      "memberIndices": [
+        28
+      ],
+      "score": 60,
+      "category": "disaster",
+      "rationale": "The tragic fire in Phuket that resulted in multiple fatalities highlights ongoing safety issues in crowded tourist areas."
+    },
+    {
+      "representativeIndex": 36,
+      "memberIndices": [
+        36,
+        58
+      ],
+      "score": 55,
+      "category": "conflict",
+      "rationale": "The advance of Houthi forces in Yemen poses a significant threat to the stability of the region and the Yemeni government."
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70,
+        71
+      ],
+      "score": 50,
+      "category": "politics",
+      "rationale": "Canada's decision to bar Russian athletes from the Junior World Championships reflects ongoing geopolitical tensions stemming from the war in Ukraine."
+    },
+    {
+      "representativeIndex": 72,
+      "memberIndices": [
+        72,
+        74
+      ],
+      "score": 50,
+      "category": "society",
+      "rationale": "Prince Harry's visit to Ukraine and his support for veterans emphasizes the human impact of the ongoing conflict."
+    },
+    {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12
+      ],
+      "score": 45,
+      "category": "politics",
+      "rationale": "The uncertainty following Serbia's student movement victory raises questions about the future of governance in the country."
+    },
+    {
+      "representativeIndex": 19,
+      "memberIndices": [
+        19
+      ],
+      "score": 45,
+      "category": "economy",
+      "rationale": "Mark Carney's comments on potential collaboration with Chinese automakers highlight the shifting dynamics of international trade."
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14
+      ],
+      "score": 40,
+      "category": "health",
+      "rationale": "Concerns over NHS maternity unit repairs reflect broader issues of healthcare infrastructure and safety in the UK."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18,
+        39,
+        41
+      ],
+      "score": 40,
+      "category": "technology",
+      "rationale": "The Nvidia scandal involving Alice Huang raises critical questions about corporate governance and national security."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1
+      ],
+      "score": 35,
+      "category": "economy",
+      "rationale": "Gordon Kidd's fears for his business due to rising costs illustrate the struggles faced by small businesses in the current economic climate."
+    },
+    {
+      "representativeIndex": 44,
+      "memberIndices": [
+        44
+      ],
+      "score": 35,
+      "category": "climate",
+      "rationale": "The severe weather impacting California underscores the increasing frequency of climate-related disasters."
+    },
+    {
+      "representativeIndex": 24,
+      "memberIndices": [
+        24
+      ],
+      "score": 30,
+      "category": "technology",
+      "rationale": "Coles' investigation into a cyber-attack highlights the growing threat of digital security breaches in retail."
+    },
+    {
+      "representativeIndex": 10,
+      "memberIndices": [
+        10
+      ],
+      "score": 30,
+      "category": "world",
+      "rationale": "Mark Carney's return to China as a political figure signals the importance of international relations in the current geopolitical climate."
+    },
+    {
+      "representativeIndex": 15,
+      "memberIndices": [
+        15
+      ],
+      "score": 30,
+      "category": "politics",
+      "rationale": "Spain's upcoming snap election could reshape the political landscape, potentially introducing far-right elements into government."
+    },
+    {
+      "representativeIndex": 11,
+      "memberIndices": [
+        11
+      ],
+      "score": 25,
+      "category": "science",
+      "rationale": "The efforts to rid Waiheke Island of stoats reflect ongoing conservation challenges in New Zealand."
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        17
+      ],
+      "score": 25,
+      "category": "law",
+      "rationale": "The denial of involvement by Kataib Hezbollah in oil smuggling amid US pressure highlights the complexities of regional governance."
+    },
+    {
+      "representativeIndex": 20,
+      "memberIndices": [
+        20
+      ],
+      "score": 20,
+      "category": "society",
+      "rationale": "The emotional reunion of a girl with her cat after a building collapse illustrates the personal impact of urban disasters."
+    },
+    {
+      "representativeIndex": 13,
+      "memberIndices": [
+        13
+      ],
+      "score": 20,
+      "category": "science",
+      "rationale": "The Leonids meteor shower offers a glimpse into celestial events that capture public interest and scientific inquiry."
+    },
+    {
+      "representativeIndex": 66,
+      "memberIndices": [
+        66
+      ],
+      "score": 20,
+      "category": "economy",
+      "rationale": "The proposal to cut national insurance for under-25s aims to address youth unemployment, a pressing economic issue."
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76
+      ],
+      "score": 20,
+      "category": "technology",
+      "rationale": "Calls for an outsider to lead Nvidia reflect the challenges faced by tech companies in maintaining ethical standards."
+    },
+    {
+      "representativeIndex": 56,
+      "memberIndices": [
+        56
+      ],
+      "score": 15,
+      "category": "conflict",
+      "rationale": "The arrival of a third US carrier in the Middle East amid tensions with Iran highlights ongoing geopolitical instability."
+    },
+    {
+      "representativeIndex": 77,
+      "memberIndices": [
+        77
+      ],
+      "score": 15,
+      "category": "law",
+      "rationale": "The sentencing of three men to death for a church attack in Jordan underscores the ongoing issues of terrorism and security in the region."
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 15,
+      "category": "society",
+      "rationale": "The release of war detainees by the Houthis reflects ongoing efforts towards reconciliation in Yemen."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2
+      ],
+      "score": 10,
+      "category": "technology",
+      "rationale": "The implications of Alice Huang's departure from Megaspeed raise questions about corporate ethics in the tech industry."
+    },
+    {
+      "representativeIndex": 25,
+      "memberIndices": [
+        25
+      ],
+      "score": 10,
+      "category": "economy",
+      "rationale": "Concerns over Anthropic's financial stability highlight the challenges faced by AI companies in a competitive market."
+    },
+    {
+      "representativeIndex": 35,
+      "memberIndices": [
+        35
+      ],
+      "score": 10,
+      "category": "world",
+      "rationale": "The failure to agree on a South China Sea code reflects ongoing tensions in regional geopolitics."
+    },
+    {
+      "representativeIndex": 68,
+      "memberIndices": [
+        68
+      ],
+      "score": 10,
+      "category": "world",
+      "rationale": "The upcoming meeting between Trump and Xi is critical for understanding future US-China relations."
+    },
+    {
+      "representativeIndex": 59,
+      "memberIndices": [
+        59
+      ],
+      "score": 5,
+      "category": "disaster",
+      "rationale": "The collision in the Mississippi River raises concerns about maritime safety and regulatory oversight."
+    },
+    {
+      "representativeIndex": 78,
+      "memberIndices": [
+        78
+      ],
+      "score": 5,
+      "category": "conflict",
+      "rationale": "The setback for the Yemeni government as Houthis gain control of key areas illustrates the ongoing civil war's complexities."
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 5,
+      "category": "society",
+      "rationale": "The assault on a Somali-American Uber driver highlights issues of hate crimes and societal safety."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6
+      ],
+      "score": 19.925,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 7,
+      "memberIndices": [
+        7
+      ],
+      "score": 19.9125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 9,
+      "memberIndices": [
+        9
+      ],
+      "score": 19.8875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 16,
+      "memberIndices": [
+        16
+      ],
+      "score": 19.8,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 21,
+      "memberIndices": [
+        21
+      ],
+      "score": 19.7375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 26,
+      "memberIndices": [
+        26
+      ],
+      "score": 19.675,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 27,
+      "memberIndices": [
+        27
+      ],
+      "score": 19.6625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 31,
+      "memberIndices": [
+        31
+      ],
+      "score": 19.6125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32
+      ],
+      "score": 19.6,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 33,
+      "memberIndices": [
+        33
+      ],
+      "score": 19.5875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 34,
+      "memberIndices": [
+        34
+      ],
+      "score": 19.575,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38
+      ],
+      "score": 19.525,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 40,
+      "memberIndices": [
+        40
+      ],
+      "score": 19.5,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 42,
+      "memberIndices": [
+        42
+      ],
+      "score": 19.475,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 43,
+      "memberIndices": [
+        43
+      ],
+      "score": 19.4625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46
+      ],
+      "score": 19.425,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 48,
+      "memberIndices": [
+        48
+      ],
+      "score": 19.4,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 49,
+      "memberIndices": [
+        49
+      ],
+      "score": 19.3875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 51,
+      "memberIndices": [
+        51
+      ],
+      "score": 19.3625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 19.35,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 54,
+      "memberIndices": [
+        54
+      ],
+      "score": 19.325,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 19.3125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 57,
+      "memberIndices": [
+        57
+      ],
+      "score": 19.2875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60
+      ],
+      "score": 19.25,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 61,
+      "memberIndices": [
+        61
+      ],
+      "score": 19.2375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 62,
+      "memberIndices": [
+        62
+      ],
+      "score": 19.225,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 19.2125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64
+      ],
+      "score": 19.2,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.1875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 67,
+      "memberIndices": [
+        67
+      ],
+      "score": 19.1625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 69,
+      "memberIndices": [
+        69
+      ],
+      "score": 19.1375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 73,
+      "memberIndices": [
+        73
+      ],
+      "score": 19.0875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 75,
+      "memberIndices": [
+        75
+      ],
+      "score": 19.0625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 54157,
+      "usage": {
+        "inputTokens": 7544,
+        "outputTokens": 1462,
+        "totalTokens": 9006
+      },
+      "estimatedCostUsd": 0.0020088,
+      "returnedCount": 34,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 16230,
+      "usage": {
+        "inputTokens": 1096,
+        "outputTokens": 1147,
+        "totalTokens": 2243
+      },
+      "estimatedCostUsd": 0.0008525999999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 33779,
+      "usage": {
+        "inputTokens": 1222,
+        "outputTokens": 1388,
+        "totalTokens": 2610
+      },
+      "estimatedCostUsd": 0.0010160999999999998,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 14850,
+      "usage": {
+        "inputTokens": 923,
+        "outputTokens": 1155,
+        "totalTokens": 2078
+      },
+      "estimatedCostUsd": 0.0008314500000000001,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 38501,
+      "usage": {
+        "inputTokens": 1742,
+        "outputTokens": 3017,
+        "totalTokens": 4759
+      },
+      "estimatedCostUsd": 0.0020715,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 34947,
+      "usage": {
+        "inputTokens": 2121,
+        "outputTokens": 2711,
+        "totalTokens": 4832
+      },
+      "estimatedCostUsd": 0.00194475,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 34314,
+      "usage": {
+        "inputTokens": 1577,
+        "outputTokens": 2931,
+        "totalTokens": 4508
+      },
+      "estimatedCostUsd": 0.00199515,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-11-16T06:05:34.666Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.01072035,
+    "complete": true,
+    "inputTokens": 16225,
+    "outputTokens": 13811,
+    "totalTokens": 30036,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.dw.com/en/mexican-drug-lord-felix-gallardo-dies-at-80/a-79954351?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Mexican drug lord Felix Gallardo dies at 80"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Widow of Haiti’s slain leader Moise to contest presidential vote"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/16/trump-presses-for-50bn-to-fix-air-traffic-control-after-nationwide-grounding",
+          "source": "Euronews",
+          "title_en": "Trump presses for $50bn to fix air traffic control after nationwide grounding"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/16/australias-national-medical-research-body-advises-conditional-use-of-puberty-blockers-for-transgender-children",
+          "source": "The Guardian",
+          "title_en": "Australia’s national medical research body advises conditional use of puberty blockers for transgender children"
+        },
+        {
+          "link": "https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/shophouse-fire-kills-at-least-11-in-phuket?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Shophouse fire kills at least 11 in Phuket"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Houthis advance in Yemen as government forces move to defend Aden"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
+          "source": "The Guardian",
+          "title_en": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
+          "source": "New York Times",
+          "title_en": "They Defeated a Strongman. But Can They Run a Country?"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+          "source": "The Guardian",
+          "title_en": "Canada could work with Chinese automakers if US trade talks fail, says Carney"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/nov/16/ministers-safety-not-know-cost-nhs-maternity-unit-repairs-england",
+          "source": "The Guardian",
+          "title_en": "Ministers accused of ‘gambling with safety’ for not knowing cost of NHS maternity unit repairs"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "'Break-in and rising costs could kill my business'"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
+          "source": "The Guardian",
+          "title_en": "Huge waves pummel California coast, forcing closure of popular piers"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+          "source": "New York Times",
+          "title_en": "A Year On, Canada’s Mark Carney Returns to China a Political Star"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government",
+          "source": "The Guardian",
+          "title_en": "Will Spain’s snap election in November bring a far-right party into government?"
+        },
+        {
+          "link": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
+          "source": "The Guardian",
+          "title_en": "Coles investigates cyber-attack and apologises to customers"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
+          "source": "New York Times",
+          "title_en": "Searching for the Last Stoats of Waiheke Island"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/16/science/leonids-meteor-shower-peak.html",
+          "source": "New York Times",
+          "title_en": "How to Watch the 2026 Leonids Meteor Shower"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "New York teen reunites with cat missing after building collapse"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Cut national insurance for under-25s to create jobs, Milburn report to say"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "US Treasury chief calls for outsider to lead embattled tech firm Nvidia"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+          "source": "New York Times",
+          "title_en": "Too Many Chips in One Basket?"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/16/pope-leo-xiv-in-visit-to-peruvian-rainforest-demands-justice-for-slain-amazon-defenders",
+          "source": "Euronews",
+          "title_en": "Pope Leo XIV in visit to Peruvian rainforest demands justice for slain Amazon defenders"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/16/more-live-news-more-conversations-more-europe-euronews-reinvents-itself-for-its-new-season",
+          "source": "Euronews",
+          "title_en": "More live news, more conversations, more Europe: Euronews reinvents itself, starting today"
+        },
+        {
+          "link": "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810",
+          "source": "The Block",
+          "title_en": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Indonesian president apologises to Singapore, Malaysia for wildfire haze"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.dw.com/en/mexican-drug-lord-felix-gallardo-dies-at-80/a-79954351?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Mexican drug lord Felix Gallardo dies at 80"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Widow of Haiti’s slain leader Moise to contest presidential vote"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/16/trump-presses-for-50bn-to-fix-air-traffic-control-after-nationwide-grounding",
+          "source": "Euronews",
+          "title_en": "Trump presses for $50bn to fix air traffic control after nationwide grounding"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/16/australias-national-medical-research-body-advises-conditional-use-of-puberty-blockers-for-transgender-children",
+          "source": "The Guardian",
+          "title_en": "Australia’s national medical research body advises conditional use of puberty blockers for transgender children"
+        },
+        {
+          "link": "https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/shophouse-fire-kills-at-least-11-in-phuket?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Shophouse fire kills at least 11 in Phuket"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Houthis advance in Yemen as government forces move to defend Aden"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
+          "source": "The Guardian",
+          "title_en": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
+          "source": "New York Times",
+          "title_en": "They Defeated a Strongman. But Can They Run a Country?"
+        }
+      ],
+      "contentHashes": {
+        "ru": "e4ea19428ec32340c9ababf3a938512fcb4d157bddb6268350de463108c1aec0",
+        "en": "1a888e15f6286bedf7dfa42c77fcfd7380693f2873e6af26a7cd209c5f6f52e5"
+      }
+    }
+  }
+}
