@@ -1,651 +1,651 @@
 {
-  "generatedAt": "2026-11-16T18:04:38.393Z",
-  "date": "2026-11-16",
-  "slot": "evening",
-  "periodHours": 11.930389722222221,
+  "generatedAt": "2026-11-17T06:06:05.119Z",
+  "date": "2026-11-17",
+  "slot": "morning",
+  "periodHours": 11.945967777777778,
   "intro": {
     "ru": "Главные мировые события за последние несколько часов — 30 коротких новостей.",
     "en": "The latest major world events in 30 concise stories."
   },
   "stories": [
     {
-      "link": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
-      "source": "New York Times",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
       "title": {
-        "ru": "Пять европейских стран планируют депортацию мигрантов в Руанде",
-        "en": "Five European Countries Plan to Deport Migrants to Rwanda"
+        "ru": "Два крупных моста в Киеве подверглись атаке России, сообщает мэр",
+        "en": "Two major Kyiv bridges hit in Russian attack, mayor says"
       },
       "summary": {
-        "ru": "Германия, Австрия, Нидерланды, Греция и Дания стремятся создать центр для отклоненных соискателей убежища.",
-        "en": "Germany, Austria, the Netherlands, Greece, and Denmark are seeking to establish a hub for rejected asylum seekers."
+        "ru": "Сообщается, что удары произошли на следующий день после крупнейшей атаки дронов Украины на Россию с начала войны.",
+        "en": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war."
+      },
+      "category": {
+        "ru": "Конфликт",
+        "en": "Conflict"
+      },
+      "longBody": {
+        "ru": "В Киеве произошли удары по двум основным мостам, как сообщил мэр города. Эти атаки произошли на следующий день после крупнейшей за время войны атаки дронов Украины на Россию, что подчеркивает нарастающее напряжение в конфликте.\n\nМэр Киева отметил, что повреждения мостов могут повлиять на транспортное сообщение и логистику в столице. Удары по инфраструктуре также вызывают опасения по поводу безопасности граждан.\n\nЭти события происходят на фоне продолжающегося противостояния между Украиной и Россией, где обе стороны продолжают активные военные действия.",
+        "en": "Two major bridges in Kyiv were reportedly hit, according to the city's mayor. The strikes occurred a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, highlighting the escalating tensions in the conflict.\n\nThe mayor of Kyiv noted that the damage to the bridges could affect transportation and logistics in the capital. Strikes on infrastructure also raise concerns about civilian safety.\n\nThese events unfold amid the ongoing confrontation between Ukraine and Russia, where both sides continue active military operations."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Dva-krupnyh-mosta-v-Kieve-podverglis-atake-Rossii-soobshchaet-mehr-11-17",
+        "en": "https://telegra.ph/Two-major-Kyiv-bridges-hit-in-Russian-attack-mayor-says-11-17-6"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Огнестрельные ранения в оккупированном Западном берегу во время атаки поселенцев",
+        "en": "Gunfire erupts in occupied West Bank settler attack"
+      },
+      "summary": {
+        "ru": "Израильские поселенцы открыли огонь в деревне аль-Дуйюк под Иерихоном, убив одну женщину и ранив несколько других.",
+        "en": "Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others."
+      },
+      "category": {
+        "ru": "Конфликт",
+        "en": "Conflict"
+      },
+      "longBody": {
+        "ru": "В оккупированном Западном берегу израильские поселенцы открыли огонь в деревне аль-Дуйюк, что привело к гибели одной женщины и ранениям нескольких других. Этот инцидент подчеркивает продолжающееся насилие в регионе.\n\nМестные жители сообщают о частых столкновениях с поселенцами, что создает напряженность и страх среди палестинского населения. Этот случай вновь привлекает внимание к вопросам безопасности и прав человека в оккупированных территориях.\n\nМеждународное сообщество продолжает следить за ситуацией, призывая к деэскалации насилия и соблюдению прав всех граждан.",
+        "en": "In the occupied West Bank, Israeli settlers opened fire in the village of al Duyuk, resulting in the death of one woman and injuries to several others. This incident underscores the ongoing violence in the region.\n\nLocal residents report frequent clashes with settlers, creating tension and fear among the Palestinian population. This case once again draws attention to security and human rights issues in the occupied territories.\n\nThe international community continues to monitor the situation, calling for de-escalation of violence and respect for the rights of all citizens."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Ognestrelnye-raneniya-v-okkupirovannom-Zapadnom-beregu-vo-vremya-ataki-poselencev-11-17",
+        "en": "https://telegra.ph/Gunfire-erupts-in-occupied-West-Bank-settler-attack-11-17"
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Смерть инициативы «Сохранить 1.5»",
+        "en": "The Death of ‘Keep 1.5 Alive’"
+      },
+      "summary": {
+        "ru": "Переговорщики на COP31 сталкиваются с новой реальностью, поскольку мир превышает ключевую цель по потеплению.",
+        "en": "Negotiators at COP31 are confronting a new reality as the world blows past a key warming target."
+      },
+      "category": {
+        "ru": "Климат",
+        "en": "Climate"
+      },
+      "longBody": {
+        "ru": "На конференции COP31 переговорщики сталкиваются с новой реальностью, поскольку мир превышает ключевую цель по потеплению. Это создает дополнительные сложности для достижения согласованных климатических целей.\n\nУчастники конференции обсуждают возможные меры для смягчения последствий изменения климата, однако текущие тенденции вызывают серьезные опасения. Проблема климатического кризиса становится все более актуальной для всех стран мира.\n\nНеобходимость в более решительных действиях и международном сотрудничестве становится очевидной, поскольку последствия изменения климата уже ощущаются во многих регионах.",
+        "en": "At COP31, negotiators are confronting a new reality as the world blows past a key warming target. This creates additional challenges for achieving agreed climate goals.\n\nParticipants at the conference are discussing potential measures to mitigate the effects of climate change, but current trends raise serious concerns. The issue of the climate crisis is becoming increasingly urgent for all countries worldwide.\n\nThe need for more decisive action and international cooperation is becoming evident, as the impacts of climate change are already being felt in many regions."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Smert-iniciativy-Sohranit-15-11-17",
+        "en": "https://telegra.ph/The-Death-of-Keep-15-Alive-11-17-2"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Танкеры подверглись атаке в Ормузском проливе, дрон вызывает тревогу на газовом поле в Ираке",
+        "en": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field"
+      },
+      "summary": {
+        "ru": "Иран сообщает о подрывах танкеров, в то время как тревога по дрону в Ираке и прибытие американского авианосца повышают напряженность.",
+        "en": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions."
+      },
+      "category": {
+        "ru": "Конфликт",
+        "en": "Conflict"
+      },
+      "longBody": {
+        "ru": "Иран сообщает о подрывах танкеров в Ормузском проливе, что поднимает уровень напряженности в регионе. Одновременно с этим в Ираке была объявлена тревога по дрону, а также ожидается прибытие американского авианосца.\n\nЭти события подчеркивают растущую нестабильность в стратегически важной области, где проходят основные морские торговые пути. Иранские власти заявляют о необходимости защиты своих интересов в условиях угрозы со стороны внешних сил.\n\nМеждународное сообщество внимательно следит за развитием ситуации, поскольку любые эскалации могут привести к серьезным последствиям для безопасности в регионе.",
+        "en": "Iran reports tanker mine strikes in the Strait of Hormuz, raising tensions in the region. Concurrently, a drone alert has been issued in Iraq, and the arrival of a US aircraft carrier is anticipated.\n\nThese events highlight the growing instability in this strategically important area, where major maritime trade routes are located. Iranian authorities assert the need to protect their interests amid threats from external forces.\n\nThe international community is closely monitoring the situation, as any escalations could lead to serious consequences for security in the region."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Tankery-podverglis-atake-v-Ormuzskom-prolive-dron-vyzyvaet-trevogu-na-gazovom-pole-v-Irake-11-17",
+        "en": "https://telegra.ph/Tankers-hit-in-Strait-of-Hormuz-as-drone-raises-alarm-at-Iraq-gas-field-11-17"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Украина проводит мирные переговоры с США и Европой на фоне эскалации конфликта",
+        "en": "Ukraine holds peace talks with US, Europe as conflict escalates"
+      },
+      "summary": {
+        "ru": "Кушнер сообщает о прогрессе в достижении соглашения, но Москва заявляет, что не согласна на участие Европы в следующих переговорах.",
+        "en": "Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks."
+      },
+      "category": {
+        "ru": "Конфликт",
+        "en": "Conflict"
+      },
+      "longBody": {
+        "ru": "На фоне эскалации конфликта Украина проводит мирные переговоры с США и Европой. Кушнер сообщает о прогрессе в достижении соглашения, однако Москва заявляет, что не согласна на участие Европы в следующих переговорах.\n\nЭто заявление подчеркивает сложность дипломатических усилий и разногласия между сторонами. Ожидается, что дальнейшие обсуждения будут критически важными для будущего мира в регионе.\n\nМеждународные наблюдатели продолжают следить за процессом, надеясь на возможность достижения устойчивого соглашения.",
+        "en": "Amid the escalating conflict, Ukraine is holding peace talks with the US and Europe. Kushner reports progress towards a deal, but Moscow states it has not agreed to European participation in the next talks.\n\nThis statement highlights the complexity of diplomatic efforts and disagreements between the parties. Further discussions are expected to be critically important for the future of peace in the region.\n\nInternational observers continue to monitor the process, hoping for the possibility of achieving a sustainable agreement."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Ukraina-provodit-mirnye-peregovory-s-SSHA-i-Evropoj-na-fone-ehskalacii-konflikta-11-17",
+        "en": "https://telegra.ph/Ukraine-holds-peace-talks-with-US-Europe-as-conflict-escalates-11-17"
+      }
+    },
+    {
+      "link": "https://www.dw.com/en/mongolian-president-khurelsukh-to-resign-amid-corruption-allegations/a-79964717?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "title": {
+        "ru": "Президент Монголии Хурэлсух уходит в отставку на фоне обвинений в коррупции",
+        "en": "Mongolian President Khurelsukh to resign amid corruption allegations"
+      },
+      "summary": {
+        "ru": "Хурэлсух заявил, что уйдет в отставку из-за обвинений в том, что он получил выгоду от государственного железнодорожного проекта, но утверждает, что его «ложно обвинили».",
+        "en": "Khurelsukh has said he will step down over accusations that he profited from a government railway project, but said he had been 'falsely accused'."
       },
       "category": {
         "ru": "Политика",
         "en": "Politics"
       },
       "longBody": {
-        "ru": "Германия, Австрия, Нидерланды, Греция и Дания объявили о планах создать центр для отклоненных соискателей убежища в Руанде. Это решение направлено на упрощение процесса депортации мигрантов, которые не смогли получить статус беженца в этих странах.\n\nСтраны-участницы надеются, что новый центр поможет снизить нагрузку на свои системы убежища и улучшить управление миграцией. Ожидается, что этот шаг вызовет широкий общественный и политический резонанс в Европе.\n\nДанный проект является частью более широкой стратегии ЕС по контролю за миграцией и предотвращению незаконного пересечения границ. В то же время, он поднимает вопросы о правовых и гуманитарных аспектах депортации мигрантов в третьи страны.",
-        "en": "Germany, Austria, the Netherlands, Greece, and Denmark have announced plans to establish a hub for rejected asylum seekers in Rwanda. This decision aims to streamline the deportation process for migrants who have not been granted refugee status in these countries.\n\nThe participating countries hope that the new hub will help alleviate pressure on their asylum systems and improve migration management. This move is expected to generate significant public and political debate across Europe.\n\nThis initiative is part of a broader EU strategy to control migration and prevent illegal border crossings. At the same time, it raises questions about the legal and humanitarian implications of deporting migrants to third countries."
+        "ru": "Президент Монголии Хурэлсух заявил о намерении уйти в отставку на фоне обвинений в коррупции, связанных с государственным железнодорожным проектом. Он утверждает, что его «ложно обвинили», что добавляет напряженности к политической ситуации в стране.\n\nЭти обвинения вызывают широкий общественный резонанс и могут повлиять на политическую стабильность в Монголии. Ожидается, что отставка президента вызовет дальнейшие дебаты о коррупции и ответственности в правительстве.\n\nПолитические аналитики будут внимательно следить за развитием событий, поскольку это может изменить политический ландшафт страны.",
+        "en": "Mongolian President Khurelsukh has announced his intention to resign amid corruption allegations related to a government railway project. He claims he has been 'falsely accused', adding tension to the political situation in the country.\n\nThese allegations are generating significant public resonance and could impact political stability in Mongolia. The president's resignation is expected to spark further debate about corruption and accountability in government.\n\nPolitical analysts will closely monitor developments, as this could alter the political landscape of the country."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Pyat-evropejskih-stran-planiruyut-deportaciyu-migrantov-v-Ruande-11-16",
-        "en": "https://telegra.ph/Five-European-Countries-Plan-to-Deport-Migrants-to-Rwanda-11-16-2"
+        "ru": "https://telegra.ph/Prezident-Mongolii-Hurehlsuh-uhodit-v-otstavku-na-fone-obvinenij-v-korrupcii-11-17",
+        "en": "https://telegra.ph/Mongolian-President-Khurelsukh-to-resign-amid-corruption-allegations-11-17"
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
-      "source": "New York Times",
+      "link": "https://www.theguardian.com/environment/2026/nov/17/russia-saudi-arabia-and-australia-named-as-biggest-co2-exporters-in-history",
+      "source": "The Guardian",
       "title": {
-        "ru": "Бахрейн осудил десятки шиитских священников в масштабном террористическом процессе",
-        "en": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial"
+        "ru": "Россия, Саудовская Аравия и Австралия названы крупнейшими экспортерами CO2 в истории",
+        "en": "Russia, Saudi Arabia and Australia named as biggest CO2 exporters in history"
       },
       "summary": {
-        "ru": "Обвиняемые были обвинены в сговоре с Ираном. Правозащитные группы заявили, что дело было омрачено обвинениями в пытках и вызвало опасения по поводу религиозных преследований.",
-        "en": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution."
+        "ru": "Анализ экспорта ископаемого топлива с 1850 года показывает, что Россия, Саудовская Аравия и Австралия являются тремя крупнейшими экспортерами углекислого газа в истории.",
+        "en": "Analysis of fossil fuel exports since 1850 shows that Russia, Saudi Arabia, and Australia are the three biggest exporters of carbon dioxide in history."
       },
       "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
+        "ru": "Климат",
+        "en": "Climate"
       },
       "longBody": {
-        "ru": "В Бахрейне состоялся масштабный судебный процесс, в ходе которого десятки шиитских священников были признаны виновными в терроризме. Обвинения касались сговора с Ираном, что вызвало серьезные опасения у правозащитных организаций.\n\nПравозащитные группы утверждают, что дело было омрачено обвинениями в пытках и нарушениях прав человека, что ставит под сомнение справедливость судебного разбирательства. Эти события подчеркивают продолжающееся напряжение между шиитами и суннитами в Бахрейне.\n\nСудебный процесс также привлек внимание международного сообщества, которое обеспокоено возможными религиозными преследованиями и политическими репрессиями в стране.",
-        "en": "In Bahrain, a sweeping trial has resulted in the conviction of dozens of Shiite clerics on terrorism charges. The defendants were accused of colluding with Iran, raising serious concerns among rights groups.\n\nHuman rights organizations claim that the case was marred by allegations of torture and human rights violations, casting doubt on the fairness of the judicial proceedings. These events highlight the ongoing tensions between Shiites and Sunnis in Bahrain.\n\nThe trial has also drawn the attention of the international community, which is concerned about potential religious persecution and political repression in the country."
+        "ru": "Анализ экспорта ископаемого топлива с 1850 года показывает, что Россия, Саудовская Аравия и Австралия являются тремя крупнейшими экспортерами углекислого газа в истории. Эти данные подчеркивают важность учета исторических выбросов при обсуждении климатических изменений.\n\nРоссия занимает первое место среди глобальных экспортеров ископаемого топлива, что вызывает обеспокоенность по поводу ее вклада в изменение климата. Это открывает дискуссию о необходимости более строгих мер по сокращению выбросов и переходу на устойчивые источники энергии.\n\nМеждународное сообщество продолжает призывать к действиям, направленным на снижение углеродного следа и борьбу с глобальным потеплением.",
+        "en": "Analysis of fossil fuel exports since 1850 shows that Russia, Saudi Arabia, and Australia are the three biggest exporters of carbon dioxide in history. This data underscores the importance of considering historical emissions in discussions about climate change.\n\nRussia ranks first among global fossil fuel exporters, raising concerns about its contribution to climate change. This opens up discussions about the need for stricter measures to reduce emissions and transition to sustainable energy sources.\n\nThe international community continues to call for actions aimed at reducing carbon footprints and combating global warming."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Bahrejn-osudil-desyatki-shiitskih-svyashchennikov-v-masshtabnom-terroristicheskom-processe-11-16",
-        "en": "https://telegra.ph/Bahrain-Convicts-Dozens-of-Shiite-Clerics-in-Sweeping-Terrorism-Trial-11-16-2"
+        "ru": "https://telegra.ph/Rossiya-Saudovskaya-Araviya-i-Avstraliya-nazvany-krupnejshimi-ehksporterami-CO2-v-istorii-11-17",
+        "en": "https://telegra.ph/Russia-Saudi-Arabia-and-Australia-named-as-biggest-CO2-exporters-in-history-11-17"
       }
     },
     {
-      "link": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Не менее 17 человек погибли в двух массовых расстрелах в Южной Африке",
-        "en": "At least 17 killed in two South Africa mass shootings"
+        "ru": "Йеменская армия сообщает о 661 атаке на хуситов, группа продвигается к Адену",
+        "en": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden"
       },
       "summary": {
-        "ru": "В результате стрельбы возле Питермерицбурга погибли восемь мужчин, а шесть мужчин и три женщины были убиты недалеко от Претории.",
-        "en": "Eight men were killed in a shooting near Pietermaritzburg while six men and three women were shot dead near Pretoria."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "В Южной Африке произошло два массовых расстрела, в результате которых погибли по меньшей мере 17 человек. В первом инциденте восемь мужчин были убиты в районе Питермерицбурга, а во втором — шесть мужчин и три женщины были расстреляны недалеко от Претории.\n\nЭти трагические события подчеркивают растущее насилие в стране, которое вызывает серьезные опасения у местных жителей и властей. Правоохранительные органы начали расследование, чтобы выяснить причины и обстоятельства этих атак.\n\nОбщество требует более эффективных мер по борьбе с преступностью и обеспечению безопасности, так как подобные инциденты становятся все более частыми.",
-        "en": "In South Africa, two mass shootings have resulted in at least 17 fatalities. In the first incident, eight men were killed near Pietermaritzburg, while in the second, six men and three women were shot dead near Pretoria.\n\nThese tragic events highlight the growing violence in the country, raising serious concerns among local residents and authorities. Law enforcement has launched an investigation to determine the causes and circumstances of these attacks.\n\nThe community is calling for more effective measures to combat crime and ensure safety, as such incidents become increasingly frequent."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Ne-menee-17-chelovek-pogibli-v-dvuh-massovyh-rasstrelah-v-YUzhnoj-Afrike-11-16",
-        "en": "https://telegra.ph/At-least-17-killed-in-two-South-Africa-mass-shootings-11-16"
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Знаковый мост в Крыму подвергся атаке, Россия сообщает о крупнейшей атаке дронов Украины за всю войну",
-        "en": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war"
-      },
-      "summary": {
-        "ru": "Россия заявила, что Украина запустила более 2000 дронов за день, в то время как Киев подвергся рекордным 17 воздушным тревогам.",
-        "en": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts."
+        "ru": "Армия Йемена сообщает о 173 убитых или раненых бойцах хуситов, так как правительственные силы переформировываются для защиты Аден.",
+        "en": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden."
       },
       "category": {
         "ru": "Конфликт",
         "en": "Conflict"
       },
       "longBody": {
-        "ru": "Россия сообщила, что Украина осуществила крупнейшую атаку дронов за всю войну, запустив более 2000 дронов за один день. В то же время Киев столкнулся с рекордными 17 воздушными тревогами, что свидетельствует о нарастающей напряженности в регионе.\n\nЭти события подчеркивают эскалацию конфликта между двумя странами и растущую угрозу для гражданского населения. Военные эксперты отмечают, что такая активность с обеих сторон может привести к дальнейшему ухудшению ситуации на фронте.\n\nМеждународное сообщество внимательно следит за развитием событий, так как они могут повлиять на более широкие геополитические отношения в регионе.",
-        "en": "Russia reported that Ukraine launched its largest drone attack of the war, with over 2,000 drones deployed in a single day. Meanwhile, Kyiv faced a record 17 air raid alerts, indicating escalating tensions in the region.\n\nThese events highlight the intensification of the conflict between the two countries and the growing threat to civilian populations. Military experts note that such activity from both sides could lead to further deterioration of the situation on the front lines.\n\nThe international community is closely monitoring the developments, as they may impact broader geopolitical relations in the region."
+        "ru": "Армия Йемена сообщает о 173 убитых или раненых бойцах хуситов в ходе недавних столкновений, поскольку правительственные силы переформировываются для защиты Аден. Эти события подчеркивают продолжающееся насилие в стране и борьбу за контроль над ключевыми регионами.\n\nПравительственные силы усиливают свои позиции, чтобы противостоять наступлению хуситов, что может привести к дальнейшим жертвам и разрушениям. Международные организации выражают обеспокоенность по поводу гуманитарной ситуации в Йемене.\n\nСитуация остается напряженной, и дальнейшие боевые действия могут усугубить кризис в стране.",
+        "en": "Yemen's army reports 173 Houthi fighters killed or wounded in recent clashes as government forces reposition to defend Aden. These events underscore the ongoing violence in the country and the struggle for control over key regions.\n\nGovernment forces are strengthening their positions to counter the Houthi advance, which may lead to further casualties and destruction. International organizations express concern over the humanitarian situation in Yemen.\n\nThe situation remains tense, and further hostilities could exacerbate the crisis in the country."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Znakovyj-most-v-Krymu-podvergsya-atake-Rossiya-soobshchaet-o-krupnejshej-atake-dronov-Ukrainy-za-vsyu-vojnu-11-16",
-        "en": "https://telegra.ph/Landmark-Crimea-bridge-hit-as-Russia-reports-biggest-Ukrainian-drone-attack-of-war-11-16-5"
+        "ru": "https://telegra.ph/Jemenskaya-armiya-soobshchaet-o-661-atake-na-husitov-gruppa-prodvigaetsya-k-Adenu-11-17",
+        "en": "https://telegra.ph/Yemeni-army-reports-661-attacks-on-Houthis-as-group-advances-towards-Aden-11-17"
       }
     },
     {
-      "link": "https://www.euronews.com/2026/11/16/trump-says-he-could-meet-with-north-korean-leader-kim-jong-un-in-china",
-      "source": "Euronews",
+      "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+      "source": "The Guardian",
       "title": {
-        "ru": "Трамп заявил, что может встретиться с лидером Северной Кореи Ким Чен Ыном в Китае",
-        "en": "Trump says he could meet with North Korean leader Kim Jong-un in China"
+        "ru": "Пять государств ЕС объявляют о планах создания иммиграционных «центров возврата» в Руанде",
+        "en": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda"
       },
       "summary": {
-        "ru": "Трамп планирует обсудить ядерное разоружение на встрече с президентом России Владимиром Путиным и президентом Китая Си Цзиньпином в Шэньчжэне на этой неделе.",
-        "en": "Trump is planning to discuss nuclear disarmament when he meets with Russian President Vladimir Putin and Chinese President Xi Jinping in Shenzhen, China this week."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Дональд Трамп заявил о намерении обсудить ядерное разоружение на встрече с президентами России и Китая в Шэньчжэне на этой неделе. Это обсуждение станет важным шагом в рамках его внешнеполитической стратегии.\n\nТрамп надеется, что встреча с Владимиром Путиным и Си Цзиньпином позволит достичь прогресса в вопросах безопасности и стабильности в мире. Ожидается, что темы, связанные с ядерным разоружением, займут центральное место в переговорах.\n\nЭтот саммит также подчеркивает важность многостороннего подхода к глобальным вызовам, таким как ядерная угроза и международная безопасность.",
-        "en": "Donald Trump announced plans to discuss nuclear disarmament during his meeting with Russian President Vladimir Putin and Chinese President Xi Jinping in Shenzhen this week. This discussion will be a significant step in his foreign policy strategy.\n\nTrump hopes that the meeting will lead to progress on issues of global security and stability. Topics related to nuclear disarmament are expected to take center stage in the negotiations.\n\nThis summit also underscores the importance of a multilateral approach to global challenges, such as nuclear threats and international security."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Tramp-zayavil-chto-mozhet-vstretitsya-s-liderom-Severnoj-Korei-Kim-CHen-Ynom-v-Kitae-11-16",
-        "en": "https://telegra.ph/Trump-says-he-could-meet-with-North-Korean-leader-Kim-Jong-un-in-China-11-16"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Администрация Трампа движется к закрытию лазейки для чипов ИИ перед поездкой в Китай",
-        "en": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip"
-      },
-      "summary": {
-        "ru": "Эти правила стали предметом ожесточенных споров в администрации и сократят процветающий бизнес центров обработки данных, обслуживающих китайские компании.",
-        "en": "The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies."
-      },
-      "category": {
-        "ru": "Технологии",
-        "en": "Technology"
-      },
-      "longBody": {
-        "ru": "Администрация Трампа приняла решение закрыть лазейку в правилах, касающихся чипов искусственного интеллекта, перед его поездкой в Китай. Эти новые правила стали предметом ожесточенных дебатов внутри администрации и могут негативно сказаться на бизнесе центров обработки данных, обслуживающих китайские компании.\n\nОжидается, что изменения в правилах повлияют на рынок технологий и могут вызвать ответные меры со стороны Китая. Это решение подчеркивает растущую напряженность в торговых отношениях между США и Китаем.\n\nЭксперты предупреждают, что такие меры могут привести к дальнейшему ухудшению отношений между двумя странами и повлиять на глобальные цепочки поставок.",
-        "en": "The Trump administration has decided to close a loophole in regulations regarding artificial intelligence chips ahead of his trip to China. These new rules have been a topic of fierce debate within the administration and could negatively impact the data center business serving Chinese companies.\n\nThe changes are expected to affect the technology market and may provoke retaliatory measures from China. This decision underscores the growing tension in trade relations between the U.S. and China.\n\nExperts warn that such measures could lead to further deterioration of relations between the two countries and affect global supply chains."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Administraciya-Trampa-dvizhetsya-k-zakrytiyu-lazejki-dlya-chipov-II-pered-poezdkoj-v-Kitaj-11-16",
-        "en": "https://telegra.ph/Trump-Administration-Moves-to-Close-AI-Chip-Loophole-Ahead-of-China-Trip-11-16"
-      }
-    },
-    {
-      "link": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
-      "source": "The Block",
-      "title": {
-        "ru": "Верховный суд отклонил заявку Custodia Bank на получение мастер-аккаунта ФРС",
-        "en": "Supreme Court rejects Custodia Bank’s bid for Fed master account"
-      },
-      "summary": {
-        "ru": "Верховный суд заявил, что не будет рассматривать жалобу Custodia Bank на получение мастер-аккаунта Федеральной резервной системы.",
-        "en": "The Supreme Court has said it would not take up a Custodia Bank's challenge to secure a Federal Reserve master account."
+        "ru": "Пять стран ЕС объявили о планах создать оффшорный центр в Руанде для людей без законного права на пребывание в Европе.",
+        "en": "Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe."
       },
       "category": {
         "ru": "Право",
         "en": "Law"
       },
       "longBody": {
-        "ru": "Верховный суд США отклонил жалобу банка Custodia на получение мастер-аккаунта Федеральной резервной системы. Это решение стало важным событием в контексте регулирования финансовых учреждений и их доступа к центральным банкам.\n\nСудебное разбирательство подчеркивает растущие проблемы, с которыми сталкиваются новые финансовые технологии и криптовалютные компании в США. Ожидается, что это решение окажет влияние на будущее подобных учреждений и их взаимодействие с традиционными банками.\n\nЭксперты отмечают, что отказ в доступе к мастер-аккаунту может затруднить развитие инновационных финансовых услуг в стране.",
-        "en": "The U.S. Supreme Court has rejected Custodia Bank's challenge to secure a Federal Reserve master account. This decision marks a significant event in the context of regulating financial institutions and their access to central banks.\n\nThe legal proceedings highlight the growing challenges faced by new financial technologies and cryptocurrency companies in the U.S. This ruling is expected to impact the future of such institutions and their interactions with traditional banks.\n\nExperts note that the denial of access to a master account may hinder the development of innovative financial services in the country."
+        "ru": "Пять стран ЕС объявили о планах создать оффшорный центр в Руанде для людей без законного права на пребывание в Европе. Этот шаг вызвал критику и опасения по поводу моральной стороны такой политики.\n\nСтраны, такие как Германия, Австрия, Нидерланды, Дания и Греция, стремятся использовать новое законодательство ЕС о возвращении, однако это может столкнуться с юридическими вызовами. Обсуждения вокруг этого плана подчеркивают сложные вопросы миграции и прав человека в Европе.\n\nМеждународные правозащитные организации уже выразили свои опасения по поводу возможных последствий для мигрантов и беженцев.",
+        "en": "Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe. This move has sparked criticism and concerns regarding the moral implications of such a policy.\n\nCountries such as Germany, Austria, the Netherlands, Denmark, and Greece are looking to utilize the new EU returns legislation, but this may face legal challenges. Discussions surrounding this plan highlight the complex issues of migration and human rights in Europe.\n\nInternational human rights organizations have already expressed their concerns about the potential consequences for migrants and refugees."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Verhovnyj-sud-otklonil-zayavku-Custodia-Bank-na-poluchenie-master-akkaunta-FRS-11-16",
-        "en": "https://telegra.ph/Supreme-Court-rejects-Custodia-Banks-bid-for-Fed-master-account-11-16"
+        "ru": "https://telegra.ph/Pyat-gosudarstv-ES-obyavlyayut-o-planah-sozdaniya-immigracionnyh-centrov-vozvrata-v-Ruande-11-17",
+        "en": "https://telegra.ph/Five-EU-states-announce-plans-for-immigration-return-hubs-in-Rwanda-11-17"
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Папа Римский переносит тяжелые путешествия по Южной Америке через несколько недель после операции",
-        "en": "Pope Endures Grueling Travel in South America Weeks After Surgery"
-      },
-      "summary": {
-        "ru": "Когда врачи прооперировали папу Льва XIV в октябре, некоторые задавались вопросом, отложит ли он долгожданную поездку в Южную Америку. Пока все идет хорошо.",
-        "en": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far."
-      },
-      "category": {
-        "ru": "Здоровье",
-        "en": "Health"
-      },
-      "longBody": {
-        "ru": "Папа Лев XIV продолжает свою долгожданную поездку по Южной Америке всего через несколько недель после операции на легких. Некоторые наблюдатели задавались вопросом, отложит ли он поездку, однако, по состоянию на данный момент, все идет хорошо.\n\nПапа активно участвует в мероприятиях, встречается с верующими и обсуждает важные вопросы, касающиеся церкви и общества. Его поездка подчеркивает его приверженность к служению и общению с людьми, несмотря на недавние проблемы со здоровьем.\n\nМногие верующие и сторонники папы выражают поддержку и восхищение его решимостью продолжать свою работу в столь сложный период.",
-        "en": "Pope Leo XIV is continuing his long-planned trip to South America just weeks after undergoing lung surgery. Some observers wondered if he would postpone the trip, but so far, everything is going well.\n\nThe Pope is actively participating in events, meeting with believers, and discussing important issues related to the church and society. His journey underscores his commitment to service and engagement with people, despite recent health challenges.\n\nMany believers and supporters express admiration and support for his determination to continue his work during such a challenging time."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Papa-Rimskij-perenosit-tyazhelye-puteshestviya-po-YUzhnoj-Amerike-cherez-neskolko-nedel-posle-operacii-11-16",
-        "en": "https://telegra.ph/Pope-Endures-Grueling-Travel-in-South-America-Weeks-After-Surgery-11-16"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Ирак разворачивает армию в оплоте поддерживаемого Ираном Катаиб Хезболлы",
-        "en": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah"
+        "ru": "Живое освещение войны в Иране: хуситы продвигаются в Йемене, Вэнс отвергает «вечную войну»",
+        "en": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’"
       },
       "summary": {
-        "ru": "Давление США на Ирак с целью ограничить влияние Тегерана оставляет потенциал для прямого столкновения с вооруженной группировкой, связанной с Ираном.",
-        "en": "US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group."
+        "ru": "Бойцы хуситов, поддерживаемые Ираном, продолжают наступление на юге Йемена, в то время как Джей Ди Вэнс отверг возможность «вечной войны» в Иране.",
+        "en": "Iran-aligned Houthi fighters kept up their push in southern Yemen as JD Vance ruled out a US 'forever war' in Iran."
       },
       "category": {
         "ru": "Конфликт",
         "en": "Conflict"
       },
       "longBody": {
-        "ru": "Ирак развернул свои вооруженные силы в оплоте группировки «Катаиб Хезболла», поддерживаемой Ираном. Это решение стало ответом на давление США с целью ограничить влияние Тегерана в регионе.\n\nСитуация создает потенциал для прямого столкновения между иракскими силами и вооруженной группировкой, что вызывает опасения у местных и международных наблюдателей. Это также подчеркивает сложные отношения между Ираком и Ираном, а также влияние внешних сил на внутренние дела страны.\n\nМеждународное сообщество внимательно следит за развитием событий, так как они могут повлиять на стабильность в регионе и безопасность.",
-        "en": "Iraq has deployed its army to the stronghold of the Iran-backed group Kataib Hezbollah. This decision comes in response to U.S. pressure to curb Tehran's influence in the region.\n\nThe situation creates potential for direct confrontation between Iraqi forces and the armed group, raising concerns among local and international observers. It also highlights the complex relationship between Iraq and Iran, as well as the influence of external forces on the country's internal affairs.\n\nThe international community is closely monitoring the developments, as they may impact stability and security in the region."
+        "ru": "Бойцы хуситов, поддерживаемые Ираном, продолжают наступление на юге Йемена, несмотря на заявления о возможности «вечной войны» в Иране. Это подчеркивает сложность конфликта и его влияние на региональную безопасность.\n\nХуситы продолжают продвигаться, что вызывает опасения у правительственных сил и международного сообщества. Ситуация в Йемене остается напряженной, и дальнейшие боевые действия могут усугубить гуманитарный кризис.\n\nМеждународные наблюдатели призывают к мирным переговорам и разрешению конфликта, чтобы предотвратить дальнейшие страдания гражданского населения.",
+        "en": "Iran-aligned Houthi fighters are continuing their advance in southern Yemen, despite statements regarding the possibility of a 'forever war' in Iran. This underscores the complexity of the conflict and its impact on regional security.\n\nThe Houthis' continued push raises concerns among government forces and the international community. The situation in Yemen remains tense, and further hostilities could exacerbate the humanitarian crisis.\n\nInternational observers are calling for peace negotiations and conflict resolution to prevent further suffering of the civilian population."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Irak-razvorachivaet-armiyu-v-oplote-podderzhivaemogo-Iranom-Kataib-Hezbolly-11-16",
-        "en": "https://telegra.ph/Iraq-deploys-army-to-stronghold-of-Iran-backed-Kataib-Hezbollah-11-16"
+        "ru": "https://telegra.ph/ZHivoe-osveshchenie-vojny-v-Irane-husity-prodvigayutsya-v-Jemene-Vehns-otvergaet-vechnuyu-vojnu-11-17",
+        "en": "https://telegra.ph/Iran-war-live-Houthis-advance-in-Yemen-as-Vance-rejects-forever-war-11-17"
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Илон Маск хочет объединить Tesla и SpaceX. Их бизнесы уже пересекаются.",
-        "en": "Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap."
-      },
-      "summary": {
-        "ru": "В течение многих лет инженеры перемещались между Tesla и SpaceX, и компании работали над крупными проектами вместе.",
-        "en": "For years, engineers have shuffled between Tesla and SpaceX, and the companies have worked on major projects together."
-      },
-      "category": {
-        "ru": "Технологии",
-        "en": "Technology"
-      },
-      "longBody": {
-        "ru": "Илон Маск заявил о желании объединить Tesla и SpaceX, подчеркивая, что обе компании уже давно сотрудничают. Инженеры обеих компаний часто перемещаются между ними, работая над крупными проектами.\n\nТакое объединение может привести к более эффективному использованию ресурсов и ускорению инноваций в области технологий. Маск считает, что синергия между Tesla и SpaceX может значительно усилить их позиции на рынке.\n\nТем не менее, это предложение также вызывает вопросы о возможных последствиях для независимости каждой из компаний и их стратегий.",
-        "en": "Elon Musk has expressed a desire to merge Tesla and SpaceX, emphasizing that the two companies have been collaborating for a long time. Engineers from both companies frequently move between them, working on major projects.\n\nSuch a merger could lead to more efficient resource utilization and accelerate innovation in technology. Musk believes that the synergy between Tesla and SpaceX could significantly strengthen their market positions.\n\nHowever, this proposal also raises questions about the potential implications for the independence of each company and their strategies."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Ilon-Mask-hochet-obedinit-Tesla-i-SpaceX-Ih-biznesy-uzhe-peresekayutsya-11-16",
-        "en": "https://telegra.ph/Elon-Musk-Wants-to-Merge-Tesla-and-SpaceX-Their-Businesses-Already-Overlap-11-16"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/students-protest-as-air-pollution-chokes-new-delhi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Студенты протестуют из-за загрязнения воздуха в Нью-Дели",
-        "en": "Students protest as air pollution chokes New Delhi"
-      },
-      "summary": {
-        "ru": "Студенты вышли на улицы, требуя ответственности от властей за токсичное загрязнение воздуха в Нью-Дели.",
-        "en": "Students have taken to the streets to demand accountability from authorities over toxic air pollution in New Delhi."
-      },
-      "category": {
-        "ru": "Климат",
-        "en": "Climate"
-      },
-      "longBody": {
-        "ru": "Студенты в Нью-Дели вышли на улицы, требуя от властей принять меры по борьбе с токсичным загрязнением воздуха. Протестующие выражают недовольство тем, что уровень загрязнения в городе достиг критических значений, что негативно сказывается на здоровье населения.\n\nМолодежь призывает к ответственности и действиям со стороны правительства, утверждая, что бездействие властей приводит к ухудшению экологической ситуации. Они требуют прозрачности в вопросах, касающихся качества воздуха и мер по его улучшению.\n\nПротесты стали частью более широкого движения за экологическую справедливость, которое охватывает не только Нью-Дели, но и другие города Индии, где загрязнение воздуха стало серьезной проблемой.",
-        "en": "Students in New Delhi have taken to the streets, demanding that authorities take action against toxic air pollution. The protesters express their dissatisfaction with the pollution levels in the city, which have reached critical values, negatively impacting public health.\n\nThe youth are calling for accountability and action from the government, asserting that inaction is leading to a worsening environmental situation. They demand transparency regarding air quality issues and measures to improve it.\n\nThe protests are part of a broader movement for environmental justice that spans not only New Delhi but also other cities in India, where air pollution has become a significant concern."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
+      "link": "https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment",
       "source": "The Guardian",
       "title": {
-        "ru": "Компания Бекхэма подает в суд после обнаружения парфюма в дискаунт-магазине",
-        "en": "Beckham firm sues after fragrance found for sale in discount store"
+        "ru": "Алан Милбёрн призывает Бернхэма потратить миллиарды на «новую сделку» для молодежи",
+        "en": "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people"
       },
       "summary": {
-        "ru": "Компания Дэвида Бекхэма выразила «шок и недоумение» после обнаружения его парфюмерии в дискаунт-магазинах и автозаправках.",
-        "en": "David Beckham’s company reacted with ‘shock and dismay’ after discovering his branded fragrance range was on sale in discount stores and petrol stations."
+        "ru": "Алан Милбёрн призывает к реформам в области благосостояния, образования и занятости для молодежи в связи с кризисом трудоустройства в Великобритании.",
+        "en": "Alan Milburn calls for reforms in welfare, education, and employment for youth amid the UK's jobs crisis."
       },
       "category": {
         "ru": "Экономика",
         "en": "Economy"
       },
       "longBody": {
-        "ru": "Компания Дэвида Бекхэма, DB Ventures, выразила «шок и недоумение» после того, как его парфюмерия была обнаружена в дискаунт-магазинах и автозаправках. В судебных документах говорится, что продукты были найдены в местах, которые не были согласованы с дистрибьютором.\n\nБренд подал иск против дистрибьютора, утверждая, что продажа его продукции в таких магазинах нарушает условия соглашения. Это открывает вопросы о контроле за распространением бренда и его имиджем на рынке.\n\nСитуация вызывает обеспокоенность среди поклонников и потребителей, которые могут воспринимать такие продажи как снижение ценности и эксклюзивности продукции.",
-        "en": "David Beckham’s company, DB Ventures, reacted with ‘shock and dismay’ after discovering that his branded fragrance range was on sale in discount stores and petrol stations. Court documents reveal that the products were found in locations not agreed upon with the distributor.\n\nThe brand has launched a lawsuit against the distributor, arguing that the sale of its products in such stores violates the terms of their agreement. This raises questions about brand control and its image in the marketplace.\n\nThe situation has sparked concern among fans and consumers, who may perceive such sales as a devaluation and loss of exclusivity of the products."
+        "ru": "Алан Милбёрн призывает к реформам в области благосостояния, образования и занятости для молодежи в связи с кризисом трудоустройства в Великобритании. В своем отчете он подчеркивает, что количество молодых людей, не имеющих образования, работы или профессиональной подготовки, достигло почти миллиона, что является тревожным сигналом для общества.\n\nОн предлагает выделить миллиарды фунтов на \"новую сделку\" для молодежи, которая обеспечит гарантированную поддержку в поиске работы. Милбёрн считает, что это необходимо для компенсации радикального сокращения социальных пособий, что может усугубить положение молодежи на рынке труда.\n\nПо его словам, Великобритания находится на \"перекрестке\" и нуждается в серьезных изменениях в политике, касающейся молодежи, чтобы предотвратить дальнейшее ухудшение ситуации.",
+        "en": "Alan Milburn calls for reforms in welfare, education, and employment for youth amid the UK's jobs crisis. In his report, he highlights that the number of young people not in education, employment, or training has surged to nearly a million, which is a troubling signal for society.\n\nHe proposes spending billions on a \"new deal\" for young people that would provide guaranteed job support. Milburn believes this is necessary to offset a radical cut in benefits, which could worsen the situation for youth in the labor market.\n\nAccording to him, the UK is at a \"fork in the road\" and requires significant changes in youth policy to prevent further deterioration of the situation."
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
-      "source": "New York Times",
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
+      "source": "The Block",
       "title": {
-        "ru": "Авиаудары по иранским ракетным объектам могут пролить свет на обоснование дамб",
-        "en": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams"
+        "ru": "CZ отрицает продажу криптовалюты Binance, Bitwise прогнозирует Solana на уровне $1,100 к 2031 году и другое",
+        "en": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more"
       },
       "summary": {
-        "ru": "Экологи долго недоумевали по поводу сети водных проектов без очевидного обоснования. Затем их районы стали мишенью для авиаударов.",
-        "en": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes."
+        "ru": "CZ отрицает, что Binance продавала криптовалюту, в то время как Bitcoin восстанавливается после четырехмесячного минимума.",
+        "en": "CZ denies Binance sold crypto as Bitcoin rebounds from a four-month low."
       },
       "category": {
-        "ru": "Климат",
-        "en": "Climate"
+        "ru": "Экономика",
+        "en": "Economy"
       },
       "longBody": {
-        "ru": "Экологи долго недоумевали по поводу широкой сети водных проектов, которые не имели очевидного обоснования. Эти проекты, казалось, были созданы без ясной цели, что вызывало вопросы о их необходимости и воздействии на окружающую среду.\n\nНедавние авиаудары по районам, где расположены эти проекты, привлекли внимание к их существованию и целям. Экологи теперь требуют объяснений и более тщательного анализа таких инициатив.\n\nСитуация поднимает важные вопросы о планировании и реализации экологически устойчивых проектов, а также о том, как они могут повлиять на местные экосистемы.",
-        "en": "Environmentalists have long puzzled over a wide network of water projects that lacked any obvious justification. These projects seemed to be created without a clear purpose, raising questions about their necessity and impact on the environment.\n\nRecent airstrikes targeting areas where these projects are located have brought attention to their existence and objectives. Environmentalists are now calling for explanations and a more thorough analysis of such initiatives.\n\nThe situation raises important questions about the planning and implementation of environmentally sustainable projects, as well as how they may affect local ecosystems."
+        "ru": "Генеральный директор Binance CZ опроверг слухи о том, что компания продавала криптовалюту, на фоне восстановления курса Биткойна после четырехмесячного минимума. Это заявление сделано в условиях растущего интереса к криптовалютному рынку и его колебаниям.\n\nТем временем, аналитическая компания Bitwise прогнозирует, что цена Solana может достичь 1,100 долларов к 2031 году в случае благоприятного сценария. Это подчеркивает оптимизм некоторых инвесторов относительно будущего криптовалют.\n\nТаким образом, несмотря на недавние колебания, рынок криптовалют продолжает привлекать внимание и вызывает интерес у аналитиков и инвесторов.",
+        "en": "CZ denies Binance sold crypto as Bitcoin rebounds from a four-month low. This statement comes amid a growing interest in the cryptocurrency market and its fluctuations.\n\nMeanwhile, Bitwise forecasts that Solana could reach $1,100 by 2031 in a bullish scenario. This highlights the optimism of some investors regarding the future of cryptocurrencies.\n\nThus, despite recent volatility, the cryptocurrency market continues to attract attention and interest from analysts and investors."
       }
     },
     {
-      "link": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-      "source": "The Guardian",
+      "link": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
+      "source": "New York Times",
       "title": {
-        "ru": "Заявление Бренда из тюрьмы о своей невиновности «ужасно» и может нарушать правила, говорит No 10",
-        "en": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10"
+        "ru": "Долговые проблемы самых богатых стран затрагивают беднейшие",
+        "en": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest"
       },
       "summary": {
-        "ru": "Жена Бренда, Лора, прочитала его сообщение на их YouTube-шоу. Вопросы о планировании лагеря для беженцев также обсуждаются в парламенте.",
-        "en": "Brand’s wife Laura read out a message from him on their YouTube show. Education questions and urgent parliamentary inquiries are also being discussed."
+        "ru": "Долговая нагрузка развивающихся стран возросла до $9.4 триллиона из-за высоких процентных ставок и глобальных шоков.",
+        "en": "The debt load of developing countries jumped to $9.4 trillion due to high interest rates and global shocks."
+      },
+      "category": {
+        "ru": "Экономика",
+        "en": "Economy"
+      },
+      "longBody": {
+        "ru": "Долговая нагрузка развивающихся стран возросла до 9.4 триллиона долларов из-за высоких процентных ставок и глобальных экономических шоков. Эта ситуация ставит под угрозу финансовую стабильность многих стран, которые уже испытывают трудности.\n\nЭкономические проблемы, вызванные высокими ставками, усугубляют ситуацию, так как многие развивающиеся страны сталкиваются с необходимостью обслуживания своих долгов в условиях ограниченных ресурсов.\n\nТаким образом, растущая долговая нагрузка может привести к серьезным последствиям для экономик этих стран, если не будут предприняты меры для ее снижения.",
+        "en": "The debt load of developing countries jumped to $9.4 trillion due to high interest rates and global shocks. This situation threatens the financial stability of many nations that are already struggling.\n\nEconomic issues caused by high rates exacerbate the situation, as many developing countries face the need to service their debts under limited resources.\n\nThus, the rising debt burden could lead to serious consequences for the economies of these countries if measures are not taken to alleviate it."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Кандидаты Студенческого списка Сербии приведены к присяге как депутаты после триумфа на выборах",
+        "en": "Serbia’s Student List candidates to be sworn in as MPs after election triumph"
+      },
+      "summary": {
+        "ru": "Кандидаты Студенческого списка Сербии, которые одержали победу на выборах, приведены к присяге как депутаты нового парламента.",
+        "en": "Candidates from Serbia's Student List, who won the elections, are sworn in as MPs in the new parliament."
+      },
+      "category": {
+        "ru": "Политика",
+        "en": "Politics"
+      },
+      "longBody": {
+        "ru": "Кандидаты Студенческого списка Сербии, которые одержали победу на выборах, приведены к присяге как депутаты нового парламента. Это событие знаменует собой начало нового политического этапа в стране после значительных изменений в политическом ландшафте.\n\nСтуденческий список, состоящий из 140 кандидатов, включает в себя ученых, юристов и даже актеров, что подчеркивает разнообразие нового парламента. Их победа стала результатом недовольства электората существующей властью.\n\nТеперь, после принесения присяги, новым депутатам предстоит сформировать правительство и решить множество актуальных вопросов, стоящих перед страной.",
+        "en": "Candidates from Serbia's Student List, who won the elections, are sworn in as MPs in the new parliament. This event marks the beginning of a new political phase in the country following significant changes in the political landscape.\n\nThe Student List, consisting of 140 candidates, includes academics, lawyers, and even an actor, highlighting the diversity of the new parliament. Their victory was a result of voter dissatisfaction with the existing government.\n\nNow, after taking their oaths, the new MPs will need to form a government and address numerous pressing issues facing the country."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Имран Хан требует срочной медицинской помощи, опасаясь, что 'может не вернуться живым'",
+        "en": "Imran Khan seeks urgent medical care fearing he 'may not return alive'"
+      },
+      "summary": {
+        "ru": "Бывший премьер-министр Пакистана Имран Хан, находящийся в тюрьме с августа 2023 года, заявляет, что ему отказали в правосудии.",
+        "en": "Former Pakistani Prime Minister Imran Khan, imprisoned since August 2023, claims he has been denied justice."
+      },
+      "category": {
+        "ru": "Здоровье",
+        "en": "Health"
+      },
+      "longBody": {
+        "ru": "Бывший премьер-министр Пакистана Имран Хан, находящийся в тюрьме с августа 2023 года, заявил, что ему отказали в правосудии. Он подчеркивает, что его права нарушены, и выражает опасения за свою безопасность в условиях заключения.\n\nХан утверждает, что его задержание связано с политическими мотивами и что он стал жертвой репрессий со стороны властей. Его ситуация вызывает обеспокоенность как внутри страны, так и за ее пределами.\n\nТаким образом, его призыв к справедливости подчеркивает более широкие проблемы прав человека и политической свободы в Пакистане.",
+        "en": "Former Pakistani Prime Minister Imran Khan, imprisoned since August 2023, claims he has been denied justice. He emphasizes that his rights have been violated and expresses concerns for his safety while in custody.\n\nKhan asserts that his detention is politically motivated and that he has become a victim of repression by the authorities. His situation raises concerns both domestically and internationally.\n\nThus, his call for justice highlights broader issues of human rights and political freedom in Pakistan."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Страны ЕС объявляют о центре депортации мигрантов в Руанде",
+        "en": "EU countries announce migrant deportation centre in Rwanda"
+      },
+      "summary": {
+        "ru": "Германия, Австрия, Нидерланды, Дания и Греция объявили, что Руанда будет использоваться как центр депортации.",
+        "en": "Germany, Austria, the Netherlands, Denmark, and Greece announced Rwanda will be used as a deportation centre."
+      },
+      "category": {
+        "ru": "Право",
+        "en": "Law"
+      },
+      "longBody": {
+        "ru": "Германия, Австрия, Нидерланды, Дания и Греция объявили, что Руанда будет использоваться как центр депортации для мигрантов. Это решение стало частью более широкой стратегии по управлению миграцией в Европе.\n\nСтраны-участницы надеются, что создание такого центра поможет сократить число нелегальных пересечений границы и улучшить контроль над миграционными потоками. Однако это решение также вызывает критику со стороны правозащитников.\n\nТаким образом, использование Руанды в качестве центра депортации поднимает важные вопросы о правах мигрантов и гуманитарных аспектах миграционной политики.",
+        "en": "Germany, Austria, the Netherlands, Denmark, and Greece announced that Rwanda will be used as a deportation centre for migrants. This decision is part of a broader strategy to manage migration in Europe.\n\nThe participating countries hope that establishing such a centre will help reduce the number of illegal border crossings and improve control over migration flows. However, this decision also faces criticism from human rights advocates.\n\nThus, the use of Rwanda as a deportation centre raises important questions about migrant rights and the humanitarian aspects of migration policy."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Столкновения в Эфиопии Мояле нарушают средства к существованию на фоне углубления территориального спора",
+        "en": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens"
+      },
+      "summary": {
+        "ru": "Неурегулированный пограничный спор между Оромией и Сомали приводит к насилию и перемещению тысяч людей.",
+        "en": "The unresolved Oromia-Somali border dispute fuels violence and displaces thousands."
+      },
+      "category": {
+        "ru": "Конфликт",
+        "en": "Conflict"
+      },
+      "longBody": {
+        "ru": "Неурегулированный пограничный спор между Оромией и Сомали приводит к насилию и перемещению тысяч людей. Конфликт усугубляется отсутствием четких границ и историческими противоречиями между этими регионами.\n\nМестные жители страдают от насилия, и многие вынуждены покидать свои дома в поисках безопасности. Это создает гуманитарный кризис, требующий внимания со стороны властей и международного сообщества.\n\nТаким образом, продолжающийся конфликт подчеркивает необходимость мирного разрешения споров и защиты прав гражданских лиц.",
+        "en": "The unresolved Oromia-Somali border dispute fuels violence and displaces thousands. The conflict is exacerbated by unclear borders and historical grievances between these regions.\n\nLocal residents suffer from violence, and many are forced to leave their homes in search of safety. This creates a humanitarian crisis that requires attention from authorities and the international community.\n\nThus, the ongoing conflict highlights the need for peaceful resolution of disputes and protection of civilian rights."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Калифорния подает в суд на OpenAI из-за атаки Hugging Face",
+        "en": "California sues OpenAI over Hugging Face attack"
+      },
+      "summary": {
+        "ru": "Генеральный прокурор Роб Бонта утверждает, что OpenAI ввел в заблуждение и подверг опасности общественность.",
+        "en": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public."
+      },
+      "category": {
+        "ru": "Право",
+        "en": "Law"
+      },
+      "longBody": {
+        "ru": "Генеральный прокурор Роб Бонта подал в суд на OpenAI, утверждая, что компания ввела в заблуждение и подвергла опасности общественность. Это заявление сделано на фоне растущих опасений по поводу безопасности технологий искусственного интеллекта.\n\nБонта утверждает, что действия OpenAI могут иметь серьезные последствия для пользователей и общества в целом. Судебное разбирательство подчеркивает важность регулирования технологий и защиты прав потребителей.\n\nТаким образом, этот случай может стать важным прецедентом в области ответственности компаний, работающих с искусственным интеллектом.",
+        "en": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public. This statement comes amid growing concerns about the safety of artificial intelligence technologies.\n\nBonta claims that OpenAI's actions could have serious consequences for users and society as a whole. The lawsuit underscores the importance of regulating technology and protecting consumer rights.\n\nThus, this case could set an important precedent regarding the accountability of companies working with artificial intelligence."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Необходима 'полная перезагрузка системы', чтобы трудоустроить 440,000 молодых людей, говорит крупный обзор",
+        "en": "'Complete system reset' needed to get 440,000 young people into work, says major review"
+      },
+      "summary": {
+        "ru": "Обзор Алана Милбёрна призывает к широким реформам в системе образования, труда и социального обеспечения.",
+        "en": "Alan Milburn's review calls for sweeping reforms in education, work, and welfare systems."
       },
       "category": {
         "ru": "Общество",
         "en": "Society"
       },
       "longBody": {
-        "ru": "Жена Бренда, Лора, прочитала его сообщение на их YouTube-шоу, что вызвало обсуждение в парламенте. Вопросы о планировании лагеря для беженцев также стали предметом обсуждения среди депутатов.\n\nВ парламенте поднимаются вопросы о том, как такие сообщения могут повлиять на общественное мнение и политику. Депутаты выражают обеспокоенность по поводу возможных последствий для правительственных инициатив.\n\nСитуация подчеркивает важность прозрачности и ответственности в публичных заявлениях, особенно в контексте актуальных социальных вопросов.",
-        "en": "Brand’s wife Laura read out a message from him on their YouTube show, which sparked discussion in Parliament. Questions regarding the planning of a refugee camp have also been raised among MPs.\n\nParliament is addressing how such messages may influence public opinion and policy. Lawmakers express concern about the potential consequences for government initiatives.\n\nThe situation highlights the importance of transparency and accountability in public statements, especially in the context of pressing social issues."
+        "ru": "Обзор Алана Милбёрна призывает к широким реформам в системе образования, труда и социального обеспечения для молодежи. Он подчеркивает, что необходимо создать новые возможности для трудоустройства и улучшить доступ к образованию.\n\nМилбёрн указывает на необходимость пересмотра существующих политик, чтобы они лучше соответствовали потребностям молодежи. Это включает в себя создание программ, которые помогут молодым людям получить навыки и опыт, необходимые для успешной карьеры.\n\nТаким образом, его обзор подчеркивает важность комплексного подхода к решению проблем молодежи в условиях кризиса занятости.",
+        "en": "Alan Milburn's review calls for sweeping reforms in education, work, and welfare systems for youth. He emphasizes the need to create new employment opportunities and improve access to education.\n\nMilburn points out the necessity of revising existing policies to better meet the needs of young people. This includes creating programs that help youth gain the skills and experience necessary for successful careers.\n\nThus, his review highlights the importance of a comprehensive approach to addressing youth issues amid the employment crisis."
       }
     },
     {
-      "link": "https://www.theblock.co/news/web3/2026-11-16-japan-tokenized-government-bonds-standard-chartered-rwa-2-trillion-441384",
-      "source": "The Block",
+      "link": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
+      "source": "Al Jazeera",
       "title": {
-        "ru": "Standard Chartered говорит, что планы токенизации облигаций Японии могут помочь рынку RWA достичь $2 триллионов",
-        "en": "Standard Chartered says Japan’s bond tokenization plans could help drive RWA market to $2 trillion"
+        "ru": "Германия разгромила Нидерланды, обеспечив себе место в четвертьфинале Лиги наций",
+        "en": "Germany thrash Netherlands to book Nations League quarterfinal spot"
       },
       "summary": {
-        "ru": "Standard Chartered заявил, что планы Японии по токенизации облигаций могут помочь рынку токенизированных RWA достичь прогнозируемых $2 триллионов к 2028 году.",
-        "en": "Standard Chartered said Japan's bond tokenization plans could help the tokenized RWA market reach its $2 trillion forecast by 2028."
+        "ru": "Сборная Германии обыграла Нидерланды со счетом 5-0 в Берлине, обеспечив первое место в группе Лиги наций УЕФА A2.",
+        "en": "Germany outclassed the Netherlands 5-0 in Berlin to secure top spot in UEFA Nations League Group A2."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Спорт",
+        "en": "Sport"
       },
       "longBody": {
-        "ru": "Standard Chartered заявил, что планы Японии по токенизации облигаций могут помочь рынку токенизированных активов достичь прогнозируемых $2 триллионов к 2028 году. Это заявление подчеркивает растущий интерес к токенизации и ее потенциальному влиянию на финансовые рынки.\n\nЭксперты считают, что токенизация может сделать финансовые инструменты более доступными и ликвидными. Японские инициативы в этой области могут стать примером для других стран, стремящихся развивать свои рынки.\n\nСитуация также поднимает вопросы о регулировании и стандартах, необходимых для успешной интеграции токенизированных активов в существующие финансовые системы.",
-        "en": "Standard Chartered stated that Japan's bond tokenization plans could help the tokenized asset market reach its projected $2 trillion by 2028. This statement underscores the growing interest in tokenization and its potential impact on financial markets.\n\nExperts believe that tokenization can make financial instruments more accessible and liquid. Japan's initiatives in this area could serve as a model for other countries looking to develop their markets.\n\nThe situation also raises questions about the regulations and standards needed for the successful integration of tokenized assets into existing financial systems."
+        "ru": "Сборная Германии обыграла Нидерланды со счетом 5-0 в Берлине, обеспечив первое место в группе Лиги наций УЕФА A2. Эта победа стала значительным достижением для команды, которая продемонстрировала отличную игру на протяжении всего матча.\n\nГермания показала мощную атакующую игру и уверенную защиту, что позволило им доминировать на поле. Эта победа укрепляет их позиции в турнире и поднимает мораль команды.\n\nТаким образом, успех Германии в этом матче подчеркивает их амбиции в Лиге наций и готовность бороться за высокие места.",
+        "en": "Germany outclassed the Netherlands 5-0 in Berlin to secure top spot in UEFA Nations League Group A2. This victory marks a significant achievement for the team, which displayed excellent performance throughout the match.\n\nGermany showcased powerful attacking play and solid defense, allowing them to dominate the field. This win strengthens their position in the tournament and boosts the team's morale.\n\nThus, Germany's success in this match highlights their ambitions in the Nations League and readiness to compete for top positions."
       }
     },
     {
-      "link": "https://www.theguardian.com/education/2026/nov/16/near-philistine-fury-shakespeare-institute-plan-leave-stratford-upon-avon-edgbaston",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/17/nsw-inquest-free-birth-keeper-baby-death-ntwnfb",
       "source": "The Guardian",
       "title": {
-        "ru": "«Почти филистимляне»: ярость по поводу плана Института Шекспира покинуть Стратфорд-апон-Эвон",
-        "en": "‘Near-Philistine’: fury greets Shakespeare Institute plan to leave Stratford-upon-Avon"
+        "ru": "Женщина, чей ребенок умер после свободных родов, не знала, что ждет близнецов, слышит следствие в NSW",
+        "en": "Woman whose baby died after free birth didn’t know she was pregnant with twins, NSW inquest hears"
       },
       "summary": {
-        "ru": "Известный центр изучения Шекспира, часть Университета Бирмингема, переедет в Эдгбастон, вызвав ярость общественности.",
-        "en": "Renowned centre of Shakespeare studies, part of the University of Birmingham, will move to its Edgbaston campus, sparking public outrage."
+        "ru": "Следствие продолжается по делу о смерти четырех детей, рожденных в свободных или домашних родах в северных реках. Мать не знала о беременности двойней до начала родов, не проходя УЗИ.",
+        "en": "The inquest continues into the deaths of four babies born in free births or home births in northern rivers. The mother did not know she was having twins until she was in labor, having had no pregnancy scans."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Здоровье",
+        "en": "Health"
       },
       "longBody": {
-        "ru": "Известный центр изучения Шекспира, который является частью Университета Бирмингема, объявил о своем переезде в Эдгбастон, что вызвало ярость общественности. Многие считают это решение «культурным вандализмом» и выражают недовольство по поводу утраты исторического контекста.\n\nОбщественность и эксперты по культуре выражают опасения, что переезд может негативно сказаться на репутации и значимости института. Это решение также поднимает вопросы о финансировании и поддержке культурных учреждений.\n\nСитуация вызывает широкий общественный резонанс и обсуждение о важности сохранения культурного наследия.",
-        "en": "The renowned center of Shakespeare studies, part of the University of Birmingham, announced its move to the Edgbaston campus, sparking public outrage. Many consider this decision to be ‘cultural vandalism’ and express dissatisfaction with the loss of historical context.\n\nThe public and cultural experts are concerned that the move may adversely affect the institute's reputation and significance. This decision also raises questions about funding and support for cultural institutions.\n\nThe situation has generated widespread public resonance and discussion about the importance of preserving cultural heritage."
+        "ru": "В Новом Южном Уэльсе продолжается следствие по делу о смерти четырех детей, рожденных в условиях свободных или домашних родов. На слушаниях стало известно, что мать не знала о беременности двойней до начала родов, так как не проходила УЗИ.\n\nСледствие будет рассматривать обстоятельства, при которых произошли эти трагические случаи, и оценит, была ли медицинская помощь, предоставленная в этих условиях, разумной. Данные случаи произошли в регионе северных рек между 2022 и 2024 годами, и коронер будет исследовать все аспекты, связанные с родами и уходом за новорожденными.\n\nЭто дело поднимает важные вопросы о безопасности домашних родов и необходимости медицинского наблюдения во время беременности, особенно в случаях, когда существуют риски, такие как многоплодная беременность.",
+        "en": "An inquest is ongoing in New South Wales regarding the deaths of four babies born through free or home births. The court heard that the mother was unaware she was having twins until she went into labor, having not undergone any pregnancy scans.\n\nThe inquest will examine the circumstances surrounding these tragic events and assess whether the care provided was reasonable under the circumstances. These incidents occurred in the northern rivers region between 2022 and 2024, and the coroner will investigate all aspects related to the births and care of the newborns.\n\nThis case raises important questions about the safety of home births and the necessity of medical oversight during pregnancy, especially in cases where risks such as multiple pregnancies exist."
       }
     },
     {
-      "link": "https://www.euronews.com/2026/11/16/italian-schools-hit-by-new-wave-of-bomb-and-poison-threats",
-      "source": "Euronews",
-      "title": {
-        "ru": "Итальянские школы подверглись новой волне угроз бомб и отравлений",
-        "en": "Italian schools hit by new wave of bomb and poison threats"
-      },
-      "summary": {
-        "ru": "Согласно новым правилам безопасности, итальянские школы больше не подлежат автоматической эвакуации при расплывчатых угрозах.",
-        "en": "Under new security guidelines, Italian schools are no longer automatically evacuated in response to vague threats."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Согласно новым правилам безопасности, итальянские школы больше не подлежат автоматической эвакуации при расплывчатых угрозах. Решение о необходимости эвакуации теперь остается за правоохранительными органами и службами безопасности.\n\nЭти изменения направлены на улучшение управления кризисными ситуациями и предотвращение паники среди учащихся и персонала. Однако некоторые родители и учителя выражают опасения по поводу безопасности детей в условиях неопределенности.\n\nСитуация поднимает важные вопросы о балансе между безопасностью и нормальным функционированием образовательных учреждений.",
-        "en": "Under new security guidelines, Italian schools are no longer automatically evacuated in response to vague threats. The decision on whether evacuation is necessary is now left to law enforcement and security officials.\n\nThese changes aim to improve crisis management and prevent panic among students and staff. However, some parents and teachers express concerns about the safety of children in uncertain conditions.\n\nThe situation raises important questions about the balance between safety and the normal functioning of educational institutions."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Инсайдеры Кремниевой долины призывают Nvidia восстановить роль Дженсена Хуана в качестве CEO",
-        "en": "Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role"
+        "ru": "Сбой в банке США: что вызвало проблемы Chase и задержки платежей Zelle?",
+        "en": "US bank outage: What caused Chase problems and Zelle payment delays?"
       },
       "summary": {
-        "ru": "Аналитики рынка говорят, что Nvidia может потерять 30% своей стоимости без Дженсена Хуана на посту CEO.",
-        "en": "Nvidia faces a potential 30 percent value loss without Jensen Huang, market analysts say."
+        "ru": "Сбой программного обеспечения Chase нарушил банковские транзакции в США и задержал некоторые платежи Zelle. Вот что произошло.",
+        "en": "A Chase software bug disrupted US banking transactions and delayed some Zelle payments. Here's what happened."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Технологии",
+        "en": "Technology"
       },
       "longBody": {
-        "ru": "Аналитики рынка утверждают, что Nvidia может потерять до 30% своей стоимости без Дженсена Хуана на посту CEO. Это заявление подчеркивает важность лидерства в компании, особенно в условиях нестабильности на рынке.\n\nЭксперты считают, что отсутствие Хуана может негативно сказаться на стратегии и инновациях компании. Инвесторы внимательно следят за ситуацией, ожидая, как это повлияет на будущее Nvidia.\n\nСитуация также вызывает обсуждение о роли CEO в высокотехнологичных компаниях и их влиянии на рыночные результаты.",
-        "en": "Market analysts say that Nvidia could face a potential 30 percent loss in value without Jensen Huang as CEO. This statement underscores the importance of leadership within the company, especially in times of market instability.\n\nExperts believe that Huang's absence could adversely affect the company's strategy and innovation. Investors are closely monitoring the situation, anticipating how it will impact Nvidia's future.\n\nThe situation also sparks discussion about the role of CEOs in high-tech companies and their influence on market performance."
+        "ru": "Сбой программного обеспечения в Chase вызвал серьезные проблемы с банковскими транзакциями в США и задержал некоторые платежи через Zelle. Этот инцидент стал причиной значительных неудобств для клиентов, которые не могли осуществлять свои финансовые операции.\n\nПроблема затронула множество пользователей, и банк уже работает над ее устранением. Важно отметить, что такие сбои могут вызывать недовольство и потерю доверия со стороны клиентов, особенно в условиях, когда онлайн-банкинг становится все более распространенным.\n\nChase продолжает информировать своих клиентов о ходе решения проблемы и предпринимает меры для предотвращения подобных инцидентов в будущем.",
+        "en": "A software bug at Chase caused significant disruptions to banking transactions in the US and delayed some Zelle payments. This incident led to considerable inconvenience for customers who were unable to carry out their financial transactions.\n\nThe issue affected numerous users, and the bank is actively working to resolve it. It is important to note that such outages can lead to dissatisfaction and a loss of trust among customers, especially as online banking becomes increasingly prevalent.\n\nChase continues to update its customers on the progress of resolving the issue and is taking steps to prevent similar incidents in the future."
       }
     },
     {
-      "link": "https://www.dw.com/en/nasa-s-voyager-1-reaches-a-light-day-away-from-earth/a-79961817?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "title": {
-        "ru": "Космический аппарат Voyager 1 NASA достиг расстояния в один световой день от Земли",
-        "en": "NASA's Voyager 1 reaches a light-day away from Earth"
-      },
-      "summary": {
-        "ru": "Когда простое «привет» требует двухдневной обратной поездки, вы находитесь на расстоянии одного светового дня от Земли.",
-        "en": "When just saying 'hello' takes a two-day round trip, you're a light-day away from Earth."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Когда простое «привет» требует двухдневной обратной поездки, это означает, что вы находитесь на расстоянии одного светового дня от Земли. Это расстояние составляет около 26 миллиардов километров, что подчеркивает достижения человечества в области космических исследований.\n\nКосмический аппарат Voyager 1 продолжает свое путешествие в межзвездное пространство, оставаясь единственным созданным человеком объектом, который достиг такой удаленности. Это открывает новые горизонты для изучения и понимания нашей вселенной.\n\nСитуация также поднимает вопросы о будущем космических исследований и о том, как далеко человечество сможет продвинуться в изучении космоса.",
-        "en": "When just saying 'hello' takes a two-day round trip, you're a light-day, or 26 billion kilometers, from Earth. This distance highlights humanity's achievements in space exploration.\n\nThe Voyager 1 spacecraft continues its journey into interstellar space, remaining the only human-made object to have traveled such a distance. This opens new horizons for exploration and understanding of our universe.\n\nThe situation also raises questions about the future of space exploration and how far humanity can advance in the study of space."
-      }
-    },
-    {
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-16-privacy-solana-non-negotiable-institutional-adoption-mert-mumtaz-says-441363",
-      "source": "The Block",
-      "title": {
-        "ru": "Конфиденциальность на Solana является «неподлежащей обсуждению» для институционального принятия, говорит Мерт Мумтаз",
-        "en": "Privacy on Solana is ‘non-negotiable’ for institutional adoption, Mert Mumtaz says"
-      },
-      "summary": {
-        "ru": "Мерт Мумтаз считает, что конфиденциальность станет стандартом на блокчейнах, как HTTPS для современного интернета.",
-        "en": "Mert Mumtaz sees privacy becoming standard on blockchains, much like HTTPS did for the modern internet."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Мерт Мумтаз считает, что конфиденциальность станет стандартом на блокчейнах, подобно тому, как HTTPS стал стандартом для современного интернета. Это утверждение подчеркивает растущую важность защиты данных в цифровом мире.\n\nЭксперт отмечает, что для институционального принятия блокчейнов необходимо обеспечить надежные механизмы конфиденциальности. Это может способствовать более широкому использованию технологий блокчейн в различных отраслях.\n\nСитуация поднимает вопросы о будущем конфиденциальности в цифровых транзакциях и о том, как это повлияет на развитие технологий.",
-        "en": "Mert Mumtaz believes that privacy will become standard on blockchains, much like HTTPS did for the modern internet. This statement underscores the growing importance of data protection in the digital world.\n\nThe expert notes that reliable privacy mechanisms are necessary for institutional adoption of blockchains. This could facilitate broader use of blockchain technologies across various industries.\n\nThe situation raises questions about the future of privacy in digital transactions and how it will impact technological development."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-denies-responsibility-for-faa-nationwide-ground-stop?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Трамп отрицает ответственность за остановку FAA по всей стране",
-        "en": "Trump denies responsibility for FAA nationwide ground stop"
-      },
-      "summary": {
-        "ru": "Трамп отрицает свою ответственность за остановку FAA по всей стране.",
-        "en": "Trump denies his responsibility for the FAA nationwide ground stop."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Бывший президент США Дональд Трамп отверг обвинения в своей ответственности за остановку работы Федеральной авиационной администрации (FAA) по всей стране. Это заявление было сделано на фоне недавних событий, когда FAA приостановила все рейсы из-за технических проблем. Трамп подчеркнул, что не имеет отношения к возникшей ситуации и что это не его ответственность.\n\nТрамп также отметил, что подобные инциденты могут происходить в любой момент и что важно, чтобы авиационные власти работали над предотвращением подобных сбоев в будущем. Он призвал к улучшению инфраструктуры и технологий, чтобы избежать повторения подобных ситуаций в будущем.",
-        "en": "Former U.S. President Donald Trump denied any responsibility for the nationwide ground stop imposed by the Federal Aviation Administration (FAA). This statement came in the wake of recent events where the FAA halted all flights due to technical issues. Trump emphasized that he is not connected to the situation and that it is not his responsibility.\n\nTrump also pointed out that such incidents can occur at any time and that it is crucial for aviation authorities to work on preventing similar disruptions in the future. He called for improvements in infrastructure and technology to avoid the recurrence of such situations."
-      }
-    },
-    {
-      "link": "https://www.dw.com/en/what-has-changed-in-james-bond-films-over-the-decades/a-63332001?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "title": {
-        "ru": "Что изменилось в фильмах о Джеймсе Бонде за десятилетия",
-        "en": "What has changed in James Bond films over the decades"
-      },
-      "summary": {
-        "ru": "В 1962 году мир впервые спас мужчина, любящий мартини, в фильме \"Доктор Ноу\". Вот как изменились фильмы о Бонде с тех пор.",
-        "en": "In 1962, a martini-drinking womanizer saved the world for the first time in \"Dr. No.\" Here's how Bond films have evolved since then."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "С момента выхода первого фильма о Джеймсе Бонде \"Доктор Ноу\" в 1962 году, фильмы о шпионе претерпели значительные изменения. В то время зрители впервые увидели харизматичного мужчину, который спасал мир, наслаждаясь мартини. С тех пор франшиза адаптировалась к меняющимся социальным и культурным условиям.\n\nСовременные фильмы о Бонде, включая последние работы с Робертом Паттинсоном в главной роли, отражают новые реалии и ожидания аудитории. В них акцентируется внимание на более сложных персонажах и актуальных темах, таких как гендерное равенство и технологии.\n\nЭволюция фильмов о Бонде демонстрирует, как франшиза смогла оставаться актуальной на протяжении десятилетий, привнося новые элементы, сохраняя при этом свои корни и традиции.",
-        "en": "Since the release of the first James Bond film \"Dr. No\" in 1962, the Bond films have undergone significant changes. At that time, audiences were introduced to a charismatic man who saved the world while enjoying a martini. Since then, the franchise has adapted to changing social and cultural conditions.\n\nModern Bond films, including the latest works featuring Robert Pattinson in the lead role, reflect new realities and audience expectations. They emphasize more complex characters and relevant themes such as gender equality and technology.\n\nThe evolution of Bond films demonstrates how the franchise has managed to remain relevant over decades, introducing new elements while maintaining its roots and traditions."
-      }
-    },
-    {
-      "link": "https://www.euronews.com/video/2026/11/16/latest-news-bulletin-november-16th-2026-evening",
-      "source": "Euronews",
-      "title": {
-        "ru": "Последние новости | 16 ноября 2026 года – Вечер",
-        "en": "Latest news bulletin | November 16th, 2026 – Evening"
-      },
-      "summary": {
-        "ru": "Подводим итоги самых важных событий в Европе и за ее пределами 16 ноября 2026 года.",
-        "en": "Catch up with the most important stories from Europe and beyond on November 16th, 2026."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "16 ноября 2026 года произошло множество значительных событий как в Европе, так и за ее пределами. В этот день мировые новости охватывают широкий спектр тем, включая политику, экономику и культуру. Важные события, произошедшие в этот день, могут оказать влияние на будущее различных стран и регионов.\n\nОбсуждения касаются как внутренних вопросов, так и международных отношений, что подчеркивает глобальную взаимосвязанность. В условиях быстро меняющегося мира, такие новости помогают людям оставаться в курсе актуальных событий и их последствий.\n\nВечерние сводки новостей предоставляют возможность проанализировать произошедшее и оценить, как эти события могут повлиять на дальнейшее развитие ситуации в разных уголках мира.",
-        "en": "On November 16, 2026, many significant events took place both in Europe and beyond. On this day, global news covers a wide range of topics, including politics, economics, and culture. Important events occurring on this day may have implications for the future of various countries and regions.\n\nDiscussions focus on both domestic issues and international relations, highlighting global interconnectedness. In a rapidly changing world, such news helps people stay informed about current events and their consequences.\n\nEvening news bulletins provide an opportunity to analyze what has happened and assess how these events may influence the further development of situations in different parts of the world."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jerusalem-daily-eisenkot-wants-netanyahu-out?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Ежедневник Иерусалима: Эйзенкот хочет сместить Нетаньяху",
-        "en": "Jerusalem Daily: Eisenkot wants Netanyahu out"
-      },
-      "summary": {
-        "ru": "Лидер израильской оппозиции Гади Эйзенкот, похоже, стремится сместить Биньямина Нетаньяху с поста премьер-министра.",
-        "en": "Israeli opposition leader Gadi Eisenkot appears to be pushing to oust Benjamin Netanyahu as Prime Minister."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Лидер израильской оппозиции Гади Эйзенкот, похоже, стремится сместить Биньямина Нетаньяху с поста премьер-министра. Эйзенкот активно выступает против текущего правительства и его политики, что подчеркивает растущее недовольство среди избирателей.\n\nСитуация в Израиле продолжает оставаться напряженной, и оппозиция пытается воспользоваться этим моментом, чтобы укрепить свои позиции. Эйзенкот, как один из ключевых фигур оппозиции, призывает к изменениям и реформам, которые, по его мнению, необходимы для улучшения ситуации в стране.\n\nЭти политические маневры могут привести к значительным изменениям в израильском правительстве, если оппозиция сможет объединить свои усилия и заручиться поддержкой избирателей.",
-        "en": "Israeli opposition leader Gadi Eisenkot appears to be pushing to oust Benjamin Netanyahu from the position of Prime Minister. Eisenkot is actively opposing the current government and its policies, highlighting the growing discontent among voters.\n\nThe situation in Israel remains tense, and the opposition is trying to capitalize on this moment to strengthen its position. Eisenkot, as one of the key figures in the opposition, is calling for changes and reforms that he believes are necessary to improve the situation in the country.\n\nThese political maneuvers could lead to significant changes in the Israeli government if the opposition can unite its efforts and gain voter support."
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Слишком много чипов в одной корзине?",
-        "en": "Too Many Chips in One Basket?"
-      },
-      "summary": {
-        "ru": "Экономика США связала себя с Nvidia и Дженсеном Хуаном. Теперь, когда он ушел, компания сталкивается с глубокой неопределенностью.",
-        "en": "The U.S. economy hitched its wagon to Nvidia and Jensen Huang. Now that he has stepped down, the company faces deep uncertainty."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Экономика США в последние годы значительно зависела от компании Nvidia и ее CEO Дженсена Хуана. Однако после его отставки возникла глубокая неопределенность относительно будущего компании и ее влияния на экономику. Инвесторы и аналитики выражают обеспокоенность по поводу того, как изменения в руководстве могут повлиять на инновации и развитие технологий.\n\nСитуация с Nvidia подчеркивает риски, связанные с чрезмерной зависимостью экономики от отдельных компаний и личностей. В условиях, когда технологический сектор продолжает развиваться, важно учитывать, как изменения в руководстве могут повлиять на общие тренды в индустрии.\n\nЭкономические эксперты призывают к диверсификации и более устойчивым стратегиям, чтобы избежать подобных ситуаций в будущем и обеспечить стабильный рост.",
-        "en": "In recent years, the U.S. economy has significantly relied on Nvidia and its CEO Jensen Huang. However, following his departure, deep uncertainty has emerged regarding the company's future and its impact on the economy. Investors and analysts are expressing concerns about how changes in leadership may affect innovation and technological development.\n\nThe situation with Nvidia highlights the risks associated with an over-reliance of the economy on individual companies and personalities. As the tech sector continues to evolve, it is crucial to consider how leadership changes may influence overall trends in the industry.\n\nEconomic experts are calling for diversification and more sustainable strategies to avoid similar situations in the future and ensure stable growth."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/17/asylum-seekers-one-in-one-out-uk-france-smugglers",
       "source": "The Guardian",
       "title": {
-        "ru": "Проект текста Cop31 — попытка «вывести стороны» на согласие, говорит президент переговоров",
-        "en": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says"
+        "ru": "Искатели убежища на последнем рейсе «один заходит, один выходит» из Великобритании во Францию чувствуют себя «наказанными»",
+        "en": "Asylum seekers on final ‘one in, one out’ UK-France flight feel they are being ‘punished’"
       },
       "summary": {
-        "ru": "Президент переговоров заявил, что проект текста на Cop31 — это попытка «вывести стороны» на согласие. Многие страны были удивлены первым вариантом документа.",
-        "en": "The president of the talks stated that the draft text at Cop31 is an attempt to 'draw out parties' to find agreement. Many countries were surprised by the first version."
+        "ru": "Многие из тех, кто находится на последнем рейсе депортации, снова депортируются после того, как сбежали от угроз от контрабандистов во Франции. Они вернулись в Великобританию, опасаясь за свою жизнь.",
+        "en": "Many of those onboard the final deportation flight are being deported for a second time after fleeing threats from smugglers in France. They returned to the UK citing threats from smugglers."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Право",
+        "en": "Law"
       },
       "longBody": {
-        "ru": "На переговорах по климату Cop31 президент обсуждает проект текста, который, по его словам, является попыткой «вывести стороны» на согласие. Это заявление сделано на фоне того, что многие страны были удивлены первым вариантом документа, представленным на переговорах.\n\nПроект текста включает в себя несколько спорных предложений, которые могут вызвать разногласия среди участников. Президент переговоров отметил, что важно продолжать обсуждение и искать компромиссы, чтобы достичь общего согласия по ключевым вопросам.\n\nС учетом оставшихся дней переговоров, участники должны будут активно работать над достижением соглашения, которое будет удовлетворять все стороны и способствовать борьбе с изменением климата.",
-        "en": "At the Cop31 climate talks, the president discussed a draft text that he stated is an attempt to 'draw out parties' to find agreement. This statement comes as many countries were surprised by the first version of the document presented at the talks.\n\nThe draft text includes several contentious proposals that may cause disagreements among participants. The president of the talks emphasized the importance of continuing discussions and seeking compromises to reach a common agreement on key issues.\n\nWith days remaining in the negotiations, participants will need to actively work towards achieving an agreement that satisfies all parties and contributes to the fight against climate change."
+        "ru": "На последнем рейсе депортации из Великобритании во Францию находятся многие искатели убежища, которые подверглись депортации во второй раз. Эти люди вернулись в Великобританию, спасаясь от угроз со стороны контрабандистов во Франции.\n\nСогласно сообщениям, они утверждают, что их семьи все еще должны деньги контрабандистам за пересечение Ла-Манша, что ставит их под угрозу. Этот рейс стал символом более широких проблем, связанных с миграцией и безопасностью искателей убежища в Европе.\n\nДанная ситуация поднимает вопросы о том, как страны должны реагировать на угрозы, с которыми сталкиваются мигранты, и насколько эффективно действуют существующие системы депортации.",
+        "en": "Many asylum seekers on the final deportation flight from the UK to France are being deported for a second time. These individuals returned to the UK fleeing threats from smugglers in France.\n\nReports indicate that they claim their families still owe money to smugglers for crossing the Channel, putting them at risk. This flight has become emblematic of broader issues surrounding migration and the safety of asylum seekers in Europe.\n\nThis situation raises questions about how countries should respond to the threats faced by migrants and the effectiveness of existing deportation systems."
       }
     },
     {
-      "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+      "link": "https://www.dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "title": {
+        "ru": "Япония поднимает самолеты для противодействия подозрительным российским самолетам",
+        "en": "Japan scrambles jets to counter suspected Russian aircraft"
+      },
+      "summary": {
+        "ru": "Япония подала «очень строгий протест» Москве после того, как два подозрительных российских самолета нарушили японское воздушное пространство.",
+        "en": "Japan said it lodged a 'very stern protest' with Moscow after two suspected Russian aircraft violated Japanese airspace."
+      },
+      "category": {
+        "ru": "Конфликт",
+        "en": "Conflict"
+      },
+      "longBody": {
+        "ru": "Япония подала «очень строгий протест» Москве после того, как два подозрительных российских самолета нарушили японское воздушное пространство. Этот инцидент вызывает обеспокоенность в Токио и подчеркивает напряженность в отношениях между Японией и Россией.\n\nЯпонские власти рассматривают этот случай как серьезное нарушение, которое может угрожать безопасности страны. В ответ на это событие Япония усиливает свои меры безопасности и готовится к возможным дальнейшим действиям.\n\nДанный инцидент также поднимает вопросы о международной безопасности и необходимости соблюдения воздушных границ между государствами.",
+        "en": "Japan lodged a 'very stern protest' with Moscow after two suspected Russian aircraft violated Japanese airspace. This incident raises concerns in Tokyo and highlights the tension in relations between Japan and Russia.\n\nJapanese authorities view this case as a serious violation that could threaten the country's security. In response to this event, Japan is enhancing its security measures and preparing for potential further actions.\n\nThis incident also raises questions about international security and the necessity of respecting airspace boundaries between nations."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
       "source": "The Guardian",
       "title": {
-        "ru": "Трамп поддерживает призывы к восстановлению Дженсена Хуана на посту CEO Nvidia",
-        "en": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO"
+        "ru": "United Airlines сообщает, что «широкая» системная ошибка устранена",
+        "en": "United Airlines says ‘widespread’ system outage resolved"
       },
       "summary": {
-        "ru": "Трамп выразил поддержку возвращению Дженсена Хуана на пост CEO Nvidia, присоединившись к требованиям Силиконовой долины.",
-        "en": "Trump expressed support for the return of Jensen Huang as Nvidia CEO, joining calls from Silicon Valley."
+        "ru": "Авиакомпания признала «техническую проблему, которая задержала вылеты рейсов» в последнем высокопрофильном сбое. Проблема устранена, задержек на текущих рейсах не было.",
+        "en": "United Airlines acknowledged a 'technology issue that delayed flight departures' in the latest high-profile outage. The issue has been resolved with no impact on flights in progress."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Технологии",
+        "en": "Technology"
       },
       "longBody": {
-        "ru": "Дональд Трамп выразил поддержку возвращению Дженсена Хуана на пост CEO Nvidia, присоединившись к требованиям, исходящим из Силиконовой долины. Это заявление сделано на фоне растущего давления со стороны технологической индустрии, которая стремится к восстановлению Хуана в роли лидера компании.\n\nТрамп отметил, что многие люди в индустрии хотели бы видеть Хуана снова на посту, что подчеркивает важность его роли в развитии Nvidia и технологий в целом. Это заявление также отражает более широкие тенденции в технологическом секторе, где лидеры и эксперты призывают к стабильности и продолжению инноваций.\n\nПоддержка Трампа может оказать значительное влияние на общественное мнение и дальнейшие действия по восстановлению Хуана на посту CEO, что может изменить динамику в Nvidia и в индустрии в целом.",
-        "en": "Donald Trump expressed support for the return of Jensen Huang as CEO of Nvidia, joining calls from Silicon Valley. This statement comes amid growing pressure from the tech industry, which is pushing for Huang's reinstatement as the leader of the company.\n\nTrump noted that many people in the industry would like to see Huang back in the role, highlighting the importance of his position in the development of Nvidia and technology as a whole. This statement also reflects broader trends in the tech sector, where leaders and experts are calling for stability and continued innovation.\n\nTrump's support could significantly influence public opinion and further actions regarding Huang's reinstatement as CEO, potentially altering the dynamics within Nvidia and the industry as a whole."
+        "ru": "Авиакомпания United Airlines признала наличие «технической проблемы, которая задержала вылеты рейсов» в результате недавнего сбоя системы. Проблема была устранена, и на текущие рейсы это не оказало влияния.\n\nСбой произошел всего через несколько дней после того, как Федеральная авиационная администрация ввела редкую общенациональную остановку всех рейсов в США. United Airlines сообщила, что хотя некоторые рейсы были задержаны, это не затронуло уже находящиеся в пути самолеты.\n\nКомпания продолжает работать над улучшением своей системы, чтобы избежать подобных инцидентов в будущем и обеспечить безопасность полетов.",
+        "en": "United Airlines acknowledged a 'technology issue that delayed flight departures' following a recent system outage. The issue has been resolved, and it did not impact flights in progress.\n\nThe outage occurred just days after the Federal Aviation Administration issued a rare nationwide ground stop on all US flights. United Airlines stated that while some flights were delayed, there was no impact on flights already in the air.\n\nThe airline continues to work on improving its systems to prevent similar incidents in the future and to ensure flight safety."
       }
     },
     {
-      "link": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss",
+      "link": "https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Rio Tinto согласилась выплатить 250 миллионов долларов для начала восстановления «разрушений», оставленных шахтой Пангуна",
+        "en": "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine"
+      },
+      "summary": {
+        "ru": "Сообщается, что фонд даст возможность найти решения «огромных проблем, с которыми мы живем с тех пор, как шахта работала». Компания согласилась начать очистку токсичной шахты.",
+        "en": "Community leaders say the fund gives a chance to find solutions to 'huge problems we have been living with since the days of the mine’s operation.' Rio Tinto has agreed to pay a quarter-of-a-billion dollars to begin the clean-up."
+      },
+      "category": {
+        "ru": "Катастрофа",
+        "en": "Disaster"
+      },
+      "longBody": {
+        "ru": "Компания Rio Tinto согласилась выплатить 250 миллионов долларов для начала очистки токсичной шахты Пангуна, которая была заброшена более трех десятилетий назад. Местные лидеры сообщества считают, что этот фонд даст возможность найти решения для «огромных проблем, с которыми мы живем с тех пор, как шахта работала».\n\nШахта Пангуна, когда-то одна из самых прибыльных в мире, была закрыта в 1989 году после насильственных протестов, связанных с экологическими последствиями и несправедливым распределением прибыли. Это решение компании стало важным шагом к исправлению экологического ущерба, причиненного в прошлом.\n\nОчистка шахты может помочь восстановить экосистему региона и улучшить жизнь местных жителей, которые страдают от последствий работы шахты.",
+        "en": "Rio Tinto has agreed to pay $250 million to begin the clean-up of the toxic Panguna mine site, which it abandoned over three decades ago. Community leaders believe that this fund provides an opportunity to find solutions to the 'huge problems we have been living with since the mine’s operation.'\n\nPanguna, once one of the world's most profitable mines, was closed in 1989 following violent protests over environmental damage and the inequitable distribution of profits. This decision by the company marks an important step towards addressing the environmental harm caused in the past.\n\nThe clean-up of the mine could help restore the region's ecosystem and improve the lives of local residents who have suffered from the mine's legacy."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "УЕФА поддерживает Филиппа Дьялло из Франции в борьбе с Инфантино на выборах в ФИФА",
-        "en": "UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election"
+        "ru": "Ирландский суд приговаривает мужчину к пожизненному заключению за ножевую атаку в Дублине, вызвавшую беспорядки",
+        "en": "Irish court jails man for life over Dublin knife attack that sparked riots"
       },
       "summary": {
-        "ru": "Глава Французской футбольной федерации Дьялло становится сильным соперником на предстоящих выборах президента ФИФА.",
-        "en": "French Football Federation chief Diallo emerges as a strong challenger in FIFA's upcoming presidential election."
+        "ru": "В результате атаки в 2023 году пострадали трое детей и женщина. Суд приговорил мужчину к пожизненному заключению.",
+        "en": "Three children and a woman were injured in the attack outside a central Dublin school in 2023. The court sentenced the man to life imprisonment."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Право",
+        "en": "Law"
       },
       "longBody": {
-        "ru": "Глава Французской футбольной федерации Филипп Дьялло становится сильным соперником на предстоящих выборах президента ФИФА. Его кандидатура поддерживается UEFA, что подчеркивает его значимость в международном футбольном сообществе.\n\nДьялло зарекомендовал себя как опытный лидер, и его участие в выборах может привести к значительным изменениям в управлении ФИФА. Он выступает за реформы и улучшение прозрачности в организации, что может привлечь внимание к важным вопросам в мире футбола.\n\nПоддержка UEFA может сыграть ключевую роль в его кампании, предоставляя ему необходимые ресурсы и платформу для продвижения своей кандидатуры.",
-        "en": "French Football Federation chief Philippe Diallo is emerging as a strong challenger in the upcoming FIFA presidential election. His candidacy is supported by UEFA, highlighting his significance in the international football community.\n\nDiallo has established himself as an experienced leader, and his participation in the election could lead to significant changes in FIFA's governance. He advocates for reforms and increased transparency within the organization, which may draw attention to important issues in the world of football.\n\nUEFA's support could play a crucial role in his campaign, providing him with the necessary resources and platform to promote his candidacy."
+        "ru": "Суд в Ирландии приговорил мужчину к пожизненному заключению за ножевую атаку, произошедшую в 2023 году в центре Дублина. В результате этой атаки пострадали трое детей и женщина, что вызвало общественное возмущение и обеспокоенность по поводу безопасности в общественных местах.\n\nСудебный процесс стал важным событием, подчеркивающим необходимость более строгих мер по обеспечению безопасности и предотвращению насилия в обществе. Общественность ожидает, что власти примут меры для повышения безопасности, особенно в местах, где могут находиться дети.\n\nЭтот случай также поднимает вопросы о психическом здоровье и о том, как оно может влиять на поведение людей в обществе.",
+        "en": "An Irish court sentenced a man to life imprisonment for a knife attack that occurred in 2023 in central Dublin. The attack resulted in injuries to three children and a woman, sparking public outrage and concern over safety in public spaces.\n\nThe trial has become a significant event, highlighting the need for stricter measures to ensure safety and prevent violence in society. The public expects authorities to take action to enhance security, especially in areas where children may be present.\n\nThis case also raises questions about mental health and how it can impact individuals' behavior in society."
       }
     },
     {
-      "link": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
+      "link": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
+      "source": "Al Jazeera",
       "title": {
-        "ru": "Скандал Nvidia: дилемма чипов Китая, соперничество США формируют гонку в области ИИ",
-        "en": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race"
+        "ru": "Великобритания стремится к более тесным связям с ЕС после провала Brexit",
+        "en": "UK seeks closer ties with EU after Brexit fail"
       },
       "summary": {
-        "ru": "Скандал вокруг Nvidia и ее бывшего CEO Дженсена Хуана привлек внимание к усиливающейся гонке в области ИИ между США и Китаем.",
-        "en": "The controversy surrounding Nvidia and its former CEO Jensen Huang has spotlighted the intensifying AI race between the US and China."
+        "ru": "Премьер-министр Энди Бернхэм заявил, что Великобритания потеряла больше, чем приобрела, после разрыва с блоком.",
+        "en": "Prime Minister Andy Burnham says the UK lost more than it gained after its divorce from the bloc."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Политика",
+        "en": "Politics"
       },
       "longBody": {
-        "ru": "Скандал вокруг Nvidia и ее бывшего CEO Дженсена Хуана привлек внимание к усиливающейся гонке в области искусственного интеллекта между США и Китаем. Этот инцидент подчеркивает важность технологий и их влияние на глобальную экономику и безопасность.\n\nСитуация с Nvidia демонстрирует, как корпоративные решения могут оказывать влияние на международные отношения и конкурентоспособность стран. В условиях растущей напряженности между США и Китаем, вопросы, связанные с технологиями и искусственным интеллектом, становятся все более актуальными.\n\nЭксперты предупреждают, что дальнейшее развитие технологий может привести к новым вызовам и возможностям, которые потребуют от стран адаптации и стратегического подхода к международной политике.",
-        "en": "The controversy surrounding Nvidia and its former CEO Jensen Huang has spotlighted the intensifying AI race between the U.S. and China. This incident underscores the importance of technology and its impact on the global economy and security.\n\nThe situation with Nvidia demonstrates how corporate decisions can influence international relations and the competitiveness of nations. Amid rising tensions between the U.S. and China, issues related to technology and artificial intelligence are becoming increasingly relevant.\n\nExperts warn that further technological advancements may lead to new challenges and opportunities that will require countries to adapt and take a strategic approach to international policy."
+        "ru": "Премьер-министр Великобритании Энди Бернхэм заявил, что страна потеряла больше, чем приобрела, после выхода из Европейского Союза. Это заявление подчеркивает растущее недовольство по поводу последствий Brexit для экономики и общества.\n\nБернхэм отметил, что многие аспекты, такие как торговля и миграция, были затронуты негативными последствиями разрыва с блоком. Это заявление может привести к дальнейшим дебатам о будущем отношений Великобритании с ЕС и о том, как страна может восстановить свои позиции.\n\nОбсуждение последствий Brexit продолжает оставаться актуальным в политической повестке, и многие эксперты призывают к пересмотру некоторых решений, принятых в ходе выхода из ЕС.",
+        "en": "Prime Minister Andy Burnham stated that the UK lost more than it gained after its divorce from the European Union. This statement underscores growing dissatisfaction regarding the consequences of Brexit for the economy and society.\n\nBurnham noted that many aspects, such as trade and migration, have been negatively impacted by the break from the bloc. This statement may lead to further debates about the future of the UK's relationship with the EU and how the country can restore its standing.\n\nThe discussion of Brexit's consequences remains a relevant topic in the political agenda, with many experts calling for a reassessment of some decisions made during the exit from the EU."
       }
     },
     {
-      "link": "https://www.dw.com/en/the-afd-and-neo-nazi-networks-how-close-are-the-connections/a-79961920?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
       "title": {
-        "ru": "Альтернатива для Германии и неонацистские сети: насколько близки связи?",
-        "en": "The AfD and neo-Nazi networks: how close are the connections?"
+        "ru": "Похищение, детский брак и бедность: почему миллионы детей в Нигерии не могут ходить в школу",
+        "en": "Kidnap, child marriage and poverty: Why millions of Nigerian children can't go to school"
       },
       "summary": {
-        "ru": "Партия «Альтернатива для Германии» (AfD) стала центром правых радикалов, многие ее члены связаны с этнонационалистическими или неонацистскими организациями.",
-        "en": "The Alternative for Germany party (AfD) has become a focal point for the far right, with many members tied to ethnonationalist or neo-Nazi organizations."
+        "ru": "BBC World Service запускает программу на хауса для детей, не посещающих школу в Западной Африке.",
+        "en": "BBC World Service launches a programme in Hausa for out-of-school children in West Africa."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Общество",
+        "en": "Society"
       },
       "longBody": {
-        "ru": "Партия «Альтернатива для Германии» (AfD) стала центром правых радикалов в стране, и многие ее члены имеют связи с этнонационалистическими или неонацистскими организациями. Это вызывает обеспокоенность среди общественности и политиков, которые боятся роста экстремизма.\n\nСвязи AfD с правыми радикальными группами поднимают вопросы о будущем политического ландшафта Германии и о том, как это может повлиять на демократические процессы. Обсуждения о влиянии этих связей на выборы и общественное мнение становятся все более актуальными.\n\nПолитические аналитики предупреждают, что AfD может продолжать набирать популярность, если не будет предпринято никаких мер для противодействия экстремизму и радикализму в стране.",
-        "en": "The Alternative for Germany party (AfD) has become a focal point for the far right in the country, with many of its members having ties to ethnonationalist or neo-Nazi organizations. This raises concerns among the public and politicians who fear the rise of extremism.\n\nThe connections of the AfD with far-right groups raise questions about the future political landscape of Germany and how this may impact democratic processes. Discussions about the influence of these ties on elections and public opinion are becoming increasingly relevant.\n\nPolitical analysts warn that the AfD may continue to gain popularity if no measures are taken to counter extremism and radicalism in the country."
+        "ru": "BBC World Service запускает новую программу на хауса для детей, не посещающих школу в Западной Африке. Эта инициатива направлена на решение проблемы образования для миллионов детей, которые не имеют доступа к школьному обучению.\n\nПрограмма будет охватывать различные темы, включая основы образования и навыки, необходимые для жизни. Она направлена на то, чтобы помочь детям, которые сталкиваются с трудностями, такими как нищета и детский брак, получить знания и возможности для улучшения своей жизни.\n\nЗапуск этой программы подчеркивает важность образования как средства борьбы с бедностью и улучшения будущего для детей в регионе.",
+        "en": "BBC World Service is launching a new program in Hausa for out-of-school children in West Africa. This initiative aims to address the educational needs of millions of children who lack access to schooling.\n\nThe program will cover various topics, including basic education and life skills. It is designed to help children facing challenges such as poverty and child marriage gain knowledge and opportunities to improve their lives.\n\nThe launch of this program highlights the importance of education as a means to combat poverty and improve futures for children in the region."
+      }
+    },
+    {
+      "link": "https://www.dw.com/en/germany-beat-netherlands-5-0-to-win-nations-league-group/a-79964394?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "title": {
+        "ru": "Германия обыграла Нидерланды 5-0 и выиграла группу Лиги наций",
+        "en": "Germany beat Netherlands 5-0 to win Nations League group"
+      },
+      "summary": {
+        "ru": "Флориан Вирц забил два гола, и Германия уверенно победила Нидерланды, квалифицировавшись в четвертьфинал Лиги наций в понедельник.",
+        "en": "Florian Wirtz scored twice as Germany cruised to a comfortable 5-0 win over the Netherlands to qualify for the Nations League quarter-finals on Monday."
+      },
+      "category": {
+        "ru": "Спорт",
+        "en": "Sport"
+      },
+      "longBody": {
+        "ru": "Сборная Германии уверенно победила Нидерланды со счетом 5-0, что позволило ей квалифицироваться в четвертьфинал Лиги наций. Флориан Вирц стал звездой матча, забив два гола и продемонстрировав отличную игру.\n\nЭта победа укрепила позиции Германии в турнире и повысила уверенность команды перед следующими матчами. Команда продемонстрировала высокое качество игры, что обнадеживает болельщиков и тренеров.\n\nПобеда над Нидерландами также подчеркивает силу немецкой сборной в международном футболе и ее амбиции на дальнейшие успехи в турнире.",
+        "en": "Germany cruised to a comfortable 5-0 victory over the Netherlands, qualifying for the Nations League quarter-finals. Florian Wirtz starred in the match, scoring two goals and showcasing excellent performance.\n\nThis victory solidified Germany's position in the tournament and boosted the team's confidence ahead of upcoming matches. The team displayed high-quality play, which reassures fans and coaches alike.\n\nThe win over the Netherlands also highlights the strength of the German national team in international football and its ambitions for further success in the tournament."
       }
     }
   ]
