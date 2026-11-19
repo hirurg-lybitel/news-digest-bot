@@ -1,651 +1,647 @@
 {
-  "generatedAt": "2026-11-18T18:04:29.207Z",
-  "date": "2026-11-18",
-  "slot": "evening",
-  "periodHours": 11.948015555555555,
+  "generatedAt": "2026-11-19T06:04:08.242Z",
+  "date": "2026-11-19",
+  "slot": "morning",
+  "periodHours": 11.947246388888889,
   "intro": {
     "ru": "Главные мировые события за последние несколько часов — 30 коротких новостей.",
     "en": "The latest major world events in 30 concise stories."
   },
   "stories": [
     {
-      "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
+      "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Международный суд вынесет решение по делу о геноциде рохинджа против Мьянмы: что на кону?",
+        "en": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?"
+      },
+      "summary": {
+        "ru": "Мировой суд вынесет ключевое решение по делу о геноциде, которое станет первым за более чем десять лет.",
+        "en": "The world court will issue a key verdict in its first genocide ruling in more than a decade."
+      },
+      "category": {
+        "ru": "Право",
+        "en": "Law"
+      },
+      "longBody": {
+        "ru": "Международный суд в Гааге готовится вынести важное решение по делу о геноциде, связанному с преследованием рохинджа в Мьянме. Это будет первое подобное решение за более чем десять лет, что подчеркивает его значимость для международного права и прав человека.\n\nДело против Мьянмы касается обвинений в массовых убийствах и других жестоких преступлениях, совершенных против рохинджа, мусульманского меньшинства в стране. Ожидается, что решение суда может повлиять на международные отношения и политику в отношении Мьянмы.\n\nРешение суда также может стать важным прецедентом для других случаев геноцида и нарушений прав человека в мире, что делает его ожидаемым событием для правозащитников и международных организаций.",
+        "en": "The International Court of Justice in The Hague is set to deliver a significant ruling on the genocide case concerning the persecution of the Rohingya in Myanmar. This will be the first such ruling in over a decade, highlighting its importance for international law and human rights.\n\nThe case against Myanmar involves allegations of mass killings and other atrocities committed against the Rohingya, a Muslim minority in the country. The court's decision is expected to influence international relations and policy towards Myanmar.\n\nThe ruling may also establish an important precedent for other cases of genocide and human rights violations worldwide, making it a highly anticipated event for human rights advocates and international organizations."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Mezhdunarodnyj-sud-vyneset-reshenie-po-delu-o-genocide-rohindzha-protiv-Myanmy-chto-na-konu-11-19",
+        "en": "https://telegra.ph/ICJ-to-rule-on-Rohingya-genocide-case-against-Myanmar-Whats-at-stake-11-19"
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
       "source": "New York Times",
       "title": {
-        "ru": "Израильские танки продвигаются через линию прекращения огня в Газе",
-        "en": "Israeli Tanks Advance Across Gaza Cease-Fire Line"
+        "ru": "Как война в Иране изменит глобальный энергетический порядок",
+        "en": "How the War in Iran Will Remake the Global Energy Order"
       },
       "summary": {
-        "ru": "Израильская армия сообщила о проведении ограниченной операции на территории, контролируемой ХАМАС, для устранения угрозы. Милитантная группа обвинила Израиль в нарушении перемирия.",
-        "en": "The Israeli military stated it was conducting a limited raid into Hamas-controlled territory to address a threat. The militant group accused Israel of violating the truce."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
-      },
-      "longBody": {
-        "ru": "Израильская армия сообщила о проведении ограниченной операции на территории, контролируемой ХАМАС, с целью устранения угрозы. Эта операция произошла на фоне продолжающегося перемирия, которое, по мнению ХАМАС, было нарушено действиями Израиля.\n\nМилитантная группа обвинила Израиль в нарушении условий перемирия, заявив, что такие действия подрывают усилия по достижению мира в регионе. Израильская сторона утверждает, что операция необходима для обеспечения безопасности своих граждан и предотвращения дальнейших атак.\n\nКонфликт в Газе продолжается уже много лет, и подобные инциденты подчеркивают хрупкость перемирия и сложность достижения долгосрочного мира в этом регионе.",
-        "en": "The Israeli military stated it was conducting a limited raid into Hamas-controlled territory to address a threat. This operation occurred amid an ongoing truce, which Hamas claims has been violated by Israel's actions.\n\nThe militant group accused Israel of breaching the terms of the ceasefire, asserting that such actions undermine efforts to achieve peace in the region. The Israeli side contends that the operation is necessary to ensure the safety of its citizens and prevent further attacks.\n\nThe conflict in Gaza has persisted for many years, and such incidents highlight the fragility of the truce and the complexities involved in achieving lasting peace in the area."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Izrailskie-tanki-prodvigayutsya-cherez-liniyu-prekrashcheniya-ognya-v-Gaze-11-18",
-        "en": "https://telegra.ph/Israeli-Tanks-Advance-Across-Gaza-Cease-Fire-Line-11-18"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-      "source": "New York Times",
-      "title": {
-        "ru": "Трамп, Си и Путин пожимают руки на встрече лидеров в Китае",
-        "en": "Trump, Xi and Putin Shake Hands as Leaders Gather in China"
-      },
-      "summary": {
-        "ru": "Лидер Китая Си Цзиньпин ранее обнял президента Трампа на взлетной полосе по прибытии на региональный саммит в Шэньчжэне. Ожидается, что в четверг они проведут трёхстороннюю встречу с президентом Путиным.",
-        "en": "China’s leader, Xi Jinping, hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Putin."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "Лидер Китая Си Цзиньпин приветствовал президента Трампа на взлетной полосе по прибытии на региональный саммит в Шэньчжэне. Это событие стало важной вехой в отношениях между двумя странами, которые продолжают обсуждать ключевые вопросы мировой политики.\n\nОжидается, что в четверг Трамп, Си и президент России Владимир Путин проведут трёхстороннюю встречу. Эта встреча может затронуть множество тем, включая торговлю, безопасность и климатические изменения, что делает её значимой для международных отношений.\n\nСобрание мировых лидеров в Китае подчеркивает важность сотрудничества между крупными державами в решении глобальных проблем и укреплении экономических связей.",
-        "en": "China’s leader, Xi Jinping, hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. This event marks a significant milestone in the relationship between the two countries, which continue to discuss key issues in global politics.\n\nOn Thursday, Trump, Xi, and Russian President Vladimir Putin are expected to hold a trilateral meeting. This meeting may address a range of topics, including trade, security, and climate change, making it significant for international relations.\n\nThe gathering of world leaders in China emphasizes the importance of cooperation among major powers in addressing global challenges and strengthening economic ties."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Tramp-Si-i-Putin-pozhimayut-ruki-na-vstreche-liderov-v-Kitae-11-18",
-        "en": "https://telegra.ph/Trump-Xi-and-Putin-Shake-Hands-as-Leaders-Gather-in-China-11-18"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "«Шокирующие» признаки изменения климата усиливают срочность переговоров COP31",
-        "en": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks"
-      },
-      "summary": {
-        "ru": "От Арктики до тропиков необычная погода и экстремальная жара вызывают беспокойство о том, как быстро человечество изменяет природные процессы Земли.",
-        "en": "From the Arctic to the tropics, unusual weather and extreme heat are raising concerns about how quickly humans are reshaping the Earth’s natural processes."
-      },
-      "category": {
-        "ru": "Климат",
-        "en": "Climate"
-      },
-      "longBody": {
-        "ru": "От Арктики до тропиков необычная погода и экстремальная жара вызывают беспокойство о том, как быстро человечество изменяет природные процессы Земли. Ученые подчеркивают, что такие изменения требуют немедленного внимания и действий на международном уровне.\n\nНа фоне этих климатических изменений проходит конференция COP31, на которой обсуждаются меры по борьбе с глобальным потеплением и его последствиями. Участники конференции стремятся найти решения, которые помогут смягчить последствия климатических изменений и защитить уязвимые регионы.\n\nУвеличение частоты экстремальных погодных явлений подчеркивает необходимость срочных действий для предотвращения дальнейшего ухудшения ситуации и обеспечения устойчивого будущего для планеты.",
-        "en": "From the Arctic to the tropics, unusual weather and extreme heat are raising concerns about how quickly humans are reshaping the Earth’s natural processes. Scientists emphasize that these changes require immediate attention and action at the international level.\n\nAmid these climate changes, the COP31 conference is taking place, where measures to combat global warming and its impacts are being discussed. Participants are seeking solutions that will help mitigate the effects of climate change and protect vulnerable regions.\n\nThe increasing frequency of extreme weather events underscores the urgent need for action to prevent further deterioration of the situation and ensure a sustainable future for the planet."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/SHokiruyushchie-priznaki-izmeneniya-klimata-usilivayut-srochnost-peregovorov-COP31-11-18",
-        "en": "https://telegra.ph/Shocking-Signs-of-Climate-Change-Add-Urgency-to-COP31-Talks-11-18-2"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Бактериальный токсин, производимый E. coli, подозревается в росте рака кишечника среди людей младше 50 лет",
-        "en": "Bacterial Toxin Produced by E. coli Leading Suspect in Rise in Bowel Cancer Among Under-50s"
-      },
-      "summary": {
-        "ru": "Ученые сообщили, что воздействие колибактина в раннем возрасте может быть потенциальным фактором роста колоректального рака. За последние два десятилетия случаи рака кишечника среди молодежи удвоились во многих странах.",
-        "en": "Scientists indicated that exposure to colibactin in early life may be a potential driver of early-onset colorectal cancer. Cases of early-onset bowel cancer have doubled in many countries over the past two decades."
-      },
-      "category": {
-        "ru": "Здоровье",
-        "en": "Health"
-      },
-      "longBody": {
-        "ru": "Ученые сообщили, что воздействие колибактина в раннем возрасте может быть потенциальным фактором роста колоректального рака. За последние два десятилетия случаи рака кишечника среди молодежи удвоились во многих странах, что вызывает серьезные опасения в области общественного здравоохранения.\n\nИсследования показывают, что, помимо увеличения случаев ожирения и снижения физической активности, существуют и другие факторы, способствующие этому росту. Колибактин, токсин, производимый бактериями E. coli, рассматривается как один из возможных виновников.\n\nЭто открытие подчеркивает необходимость дальнейших исследований и профилактических мер для снижения риска колоректального рака среди молодежи и повышения осведомленности о факторах риска.",
-        "en": "Scientists indicated that exposure to colibactin in early life may be a potential driver of early-onset colorectal cancer. Cases of early-onset bowel cancer have doubled in many countries over the past two decades, raising serious public health concerns.\n\nResearch shows that, in addition to rising obesity rates and decreased physical activity, there are other factors contributing to this increase. Colibactin, a toxin produced by E. coli bacteria, is considered one of the potential culprits.\n\nThis finding underscores the need for further research and preventive measures to reduce the risk of colorectal cancer among young people and to raise awareness about risk factors."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Bakterialnyj-toksin-proizvodimyj-E-coli-podozrevaetsya-v-roste-raka-kishechnika-sredi-lyudej-mladshe-50-let-11-18",
-        "en": "https://telegra.ph/Bacterial-Toxin-Produced-by-E-coli-Leading-Suspect-in-Rise-in-Bowel-Cancer-Among-Under-50s-11-18"
-      }
-    },
-    {
-      "link": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
-      "source": "Euronews",
-      "title": {
-        "ru": "Хаким Джеффрис приближается к тому, чтобы стать первым чернокожим спикером Палаты представителей США",
-        "en": "Hakeem Jeffries Moves Closer to Becoming First Black US House Speaker"
-      },
-      "summary": {
-        "ru": "Демократ из Нью-Йорка получил 251 голос за и 11 против, но сталкивается с давлением со стороны прогрессивных законодателей, требующих обязательств по вопросам здравоохранения, иммиграции и другим ключевым вопросам.",
-        "en": "The New York Democrat secured 251 votes in favor and 11 against, but faces pressure from progressive lawmakers demanding commitments on healthcare, immigration, and other key issues."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "Демократ из Нью-Йорка Хаким Джеффриз получил 251 голос за и 11 против на выборах спикера Палаты представителей США. Однако он сталкивается с давлением со стороны прогрессивных законодателей, которые требуют обязательств по вопросам здравоохранения, иммиграции и другим ключевым вопросам.\n\nДжеффриз может стать первым чернокожим спикером Палаты представителей, что является значительным шагом для представительства меньшинств в американской политике. Тем не менее, его поддержка среди прогрессивных законодателей может оказаться решающей для его успешного назначения.\n\nЭти выборы подчеркивают текущие разногласия внутри Демократической партии и необходимость нахождения компромиссов для достижения единства в важных вопросах.",
-        "en": "New York Democrat Hakeem Jeffries secured 251 votes in favor and 11 against in the race for Speaker of the U.S. House of Representatives. However, he faces pressure from progressive lawmakers demanding commitments on healthcare, immigration, and other key issues.\n\nJeffries could become the first Black Speaker of the House, marking a significant step for minority representation in American politics. Nevertheless, his support among progressive lawmakers may prove crucial for his successful appointment.\n\nThese elections highlight the current divisions within the Democratic Party and the need for compromises to achieve unity on important issues."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Hakim-Dzheffris-priblizhaetsya-k-tomu-chtoby-stat-pervym-chernokozhim-spikerom-Palaty-predstavitelej-SSHA-11-18",
-        "en": "https://telegra.ph/Hakeem-Jeffries-Moves-Closer-to-Becoming-First-Black-US-House-Speaker-11-18"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/mark-carney-canada-us-trade.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Марк Карни заявил, что Канада не отступит в торговых переговорах с США",
-        "en": "Mark Carney Says Canada Will Not Back Down in Trade Talks With U.S."
-      },
-      "summary": {
-        "ru": "В то же время премьер-министр Канады заявил, что переговоры с Китаем идут «исключительно хорошо».",
-        "en": "Conversely, the prime minister of Canada stated that talks with China were “going exceptionally well.”"
+        "ru": "Международное энергетическое агентство в своем самом полном анализе последствий войны обнаружило, что нефтяной шок может ускорить переход к альтернативным источникам энергии.",
+        "en": "The International Energy Agency found the oil shock could accelerate adoption of alternative power sources."
       },
       "category": {
         "ru": "Экономика",
         "en": "Economy"
       },
       "longBody": {
-        "ru": "Канадский премьер-министр заявил, что страна не собирается отступать в торговых переговорах с США. Он подчеркнул важность защиты интересов Канады в условиях сложных экономических отношений между двумя странами.\n\nВ то же время премьер-министр сообщил, что переговоры с Китаем идут «исключительно хорошо», что может указывать на возможность укрепления экономических связей с этой страной. Это заявление подчеркивает стратегический подход Канады к международной торговле.\n\nСитуация в международной торговле продолжает оставаться напряженной, и Канада стремится найти баланс между своими отношениями с США и другими странами, такими как Китай.",
-        "en": "The prime minister of Canada stated that the country will not back down in trade talks with the U.S. He emphasized the importance of protecting Canada’s interests amid the complex economic relations between the two countries.\n\nAt the same time, the prime minister noted that talks with China are “going exceptionally well,” which may indicate the potential for strengthening economic ties with that country. This statement underscores Canada’s strategic approach to international trade.\n\nThe situation in international trade remains tense, and Canada is seeking to find a balance between its relations with the U.S. and other countries, such as China."
+        "ru": "Международное энергетическое агентство представило свой самый полный анализ последствий войны в Иране, в котором отмечается, что нефтяной шок может ускорить переход к альтернативным источникам энергии. Это открывает новые перспективы для глобальной энергетической политики.\n\nАнализ подчеркивает, что в условиях нестабильности на рынке нефти страны могут начать активнее инвестировать в возобновляемые источники энергии. Это может привести к значительным изменениям в структуре мирового энергетического рынка.\n\nСобытия в Иране также подчеркивают важность энергетической безопасности и устойчивости, что становится все более актуальным в свете глобальных климатических изменений.",
+        "en": "The International Energy Agency has released its most comprehensive analysis of the fallout from the war in Iran, noting that the oil shock could accelerate the shift towards alternative power sources. This opens new avenues for global energy policy.\n\nThe analysis highlights that, amid oil market instability, countries may begin to invest more heavily in renewable energy sources. This could lead to significant changes in the structure of the global energy market.\n\nThe events in Iran also underscore the importance of energy security and resilience, which is becoming increasingly relevant in light of global climate change."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Mark-Karni-zayavil-chto-Kanada-ne-otstupit-v-torgovyh-peregovorah-s-SSHA-11-18",
-        "en": "https://telegra.ph/Mark-Carney-Says-Canada-Will-Not-Back-Down-in-Trade-Talks-With-US-11-18"
+        "ru": "https://telegra.ph/Kak-vojna-v-Irane-izmenit-globalnyj-ehnergeticheskij-poryadok-11-19",
+        "en": "https://telegra.ph/How-the-War-in-Iran-Will-Remake-the-Global-Energy-Order-11-19-4"
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html",
-      "source": "New York Times",
+      "link": "https://www.euronews.com/video/2026/11/19/china-xi-trump-and-putin-gather-ahead-of-trilateral-summit",
+      "source": "Euronews",
       "title": {
-        "ru": "Больницы спешат устранить уязвимости Java",
-        "en": "Hospitals Rush to Patch Java Vulnerabilities"
+        "ru": "Китай: Си, Трамп и Путин собрались перед трёхсторонним саммитом",
+        "en": "China: Xi, Trump and Putin gather ahead of trilateral summit"
       },
       "summary": {
-        "ru": "Искусственный интеллект ускоряет угрозы, с которыми сталкиваются системы здравоохранения, подвергающиеся атакам хакеров на протяжении многих лет.",
-        "en": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years."
-      },
-      "category": {
-        "ru": "Технологии",
-        "en": "Technology"
-      },
-      "longBody": {
-        "ru": "Системы здравоохранения сталкиваются с возрастающими угрозами со стороны хакеров, и искусственный интеллект ускоряет эти риски. Больницы спешат устранить уязвимости в своих системах, чтобы защитить данные пациентов и обеспечить безопасность медицинских услуг.\n\nАтаки на системы здравоохранения происходят на протяжении многих лет, и новые технологии, такие как искусственный интеллект, создают дополнительные вызовы. Эксперты предупреждают, что необходимо срочно принимать меры для защиты от киберугроз.\n\nУстойчивость систем здравоохранения к кибератакам становится критически важной для обеспечения безопасности пациентов и сохранения доверия к медицинским учреждениям.",
-        "en": "Health systems are facing increasing threats from hackers, and artificial intelligence is accelerating these risks. Hospitals are rushing to patch vulnerabilities in their systems to protect patient data and ensure the safety of medical services.\n\nCyberattacks on health systems have been occurring for years, and new technologies such as artificial intelligence present additional challenges. Experts warn that urgent measures are needed to protect against cyber threats.\n\nThe resilience of health systems to cyberattacks is becoming critically important for ensuring patient safety and maintaining trust in medical institutions."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Bolnicy-speshat-ustranit-uyazvimosti-Java-11-18",
-        "en": "https://telegra.ph/Hospitals-Rush-to-Patch-Java-Vulnerabilities-11-18-3"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Кувейт и Бахрейн сталкиваются с новыми атаками Ирана после удара США по острову Кешм",
-        "en": "Kuwait, Bahrain Face New Iran Attacks After US Strike on Qeshm Island"
-      },
-      "summary": {
-        "ru": "Иранские атаки на страны Персидского залива вызывают осуждение по всему региону.",
-        "en": "Iranian attacks on Gulf countries draw condemnation from across the region."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
-      },
-      "longBody": {
-        "ru": "Иранские атаки на страны Персидского залива вызывают осуждение по всему региону. Эти действия подчеркивают нарастающую напряженность в отношениях между Ираном и его соседями, а также с международным сообществом.\n\nПосле недавнего удара США по острову Кешм, Иран усилил свои военные действия, что вызывает опасения по поводу стабильности в регионе. Страны Персидского залива выражают обеспокоенность по поводу безопасности и возможных последствий для своих граждан.\n\nМеждународное сообщество призывает к деэскалации конфликта и поиску мирных решений для обеспечения безопасности в регионе.",
-        "en": "Iranian attacks on Gulf countries draw condemnation from across the region. These actions highlight the escalating tensions in relations between Iran and its neighbors, as well as with the international community.\n\nFollowing a recent U.S. strike on Qeshm Island, Iran has intensified its military actions, raising concerns about stability in the region. Gulf countries are expressing worries about security and potential consequences for their citizens.\n\nThe international community is calling for de-escalation of the conflict and seeking peaceful solutions to ensure safety in the region."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Kuvejt-i-Bahrejn-stalkivayutsya-s-novymi-atakami-Irana-posle-udara-SSHA-po-ostrovu-Keshm-11-18",
-        "en": "https://telegra.ph/Kuwait-Bahrain-Face-New-Iran-Attacks-After-US-Strike-on-Qeshm-Island-11-18"
-      }
-    },
-    {
-      "link": "https://www.dw.com/en/muslims-to-outnumber-christians-by-2035-research-shows/a-79984307?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "title": {
-        "ru": "Исследования показывают, что мусульмане превзойдут христиан по численности к 2035 году",
-        "en": "Muslims to Outnumber Christians by 2035, Research Shows"
-      },
-      "summary": {
-        "ru": "Прогнозы Pew Research Center показывают, что к 2035 году будет 2,57 миллиарда мусульман и 2,52 миллиарда христиан. Исследователи утверждают, что различия в рождаемости объясняют это изменение.",
-        "en": "Pew Research Center projections show that there will be 2.57 billion Muslims and 2.52 billion Christians by 2035. Researchers say differences in fertility rates account for the change."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "Прогнозы Pew Research Center показывают, что к 2035 году будет 2,57 миллиарда мусульман и 2,52 миллиарда христиан. Это изменение связано с различиями в рождаемости между двумя религиозными группами, что вызывает интерес и обсуждения в обществе.\n\nИсследователи утверждают, что различия в рождаемости являются основным фактором, способствующим этому изменению. Эти данные могут иметь значительные последствия для религиозной динамики и культурных взаимодействий в будущем.\n\nОбсуждение этих прогнозов подчеркивает важность понимания демографических изменений и их влияния на общество в целом.",
-        "en": "Pew Research Center projections show that there will be 2.57 billion Muslims and 2.52 billion Christians by 2035. This change is attributed to differences in fertility rates between the two religious groups, sparking interest and discussion in society.\n\nResearchers assert that differences in fertility rates are the primary factor driving this change. These figures could have significant implications for religious dynamics and cultural interactions in the future.\n\nThe discussion of these projections highlights the importance of understanding demographic changes and their impact on society as a whole."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Issledovaniya-pokazyvayut-chto-musulmane-prevzojdut-hristian-po-chislennosti-k-2035-godu-11-18",
-        "en": "https://telegra.ph/Muslims-to-Outnumber-Christians-by-2035-Research-Shows-11-18-2"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/christine-lagarde-european-central-bank.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Президент ЕЦБ Кристин Лагард объясняет, почему она уходит в отставку досрочно",
-        "en": "ECB President Christine Lagarde on Why She’s Stepping Down Early"
-      },
-      "summary": {
-        "ru": "Президент Европейского центрального банка заявила, что хочет использовать свой голос и многолетний опыт против того, что она назвала «фейковыми новостями» и «искажениями» на выборах в Европе.",
-        "en": "The president of the European Central Bank stated she wanted to use her voice and decades of experience against what she termed “fake news” and “misrepresentations” in European elections."
+        "ru": "Президент Китая Си Цзиньпин, президент США Дональд Трамп и президент России Владимир Путин встретились в Шэньчжэне перед трёхсторонним саммитом.",
+        "en": "Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin appeared together in Shenzhen ahead of a trilateral summit."
       },
       "category": {
         "ru": "Политика",
         "en": "Politics"
       },
       "longBody": {
-        "ru": "Президент Европейского центрального банка, Кристин Лагард, заявила, что хочет использовать свой голос и многолетний опыт против того, что она назвала «фейковыми новостями» и «искажениями» на выборах в Европе. Это заявление подчеркивает её стремление к прозрачности и честности в политическом процессе.\n\nЛагард отметила, что в условиях растущего недоверия к средствам массовой информации и политическим институтам важно бороться с дезинформацией. Она считает, что её опыт может помочь в этом процессе, особенно в контексте предстоящих выборов.\n\nЕё решение уйти в отставку раньше срока также может быть связано с желанием сосредоточиться на этих вопросах и внести свой вклад в улучшение ситуации в Европе.",
-        "en": "The president of the European Central Bank, Christine Lagarde, stated she wanted to use her voice and decades of experience against what she termed “fake news” and “misrepresentations” in European elections. This statement underscores her commitment to transparency and integrity in the political process.\n\nLagarde noted that in the context of growing distrust in media and political institutions, it is crucial to combat misinformation. She believes her experience can aid in this process, especially in the context of upcoming elections.\n\nHer decision to step down early may also be related to a desire to focus on these issues and contribute to improving the situation in Europe."
+        "ru": "Президент Китая Си Цзиньпин, президент США Дональд Трамп и президент России Владимир Путин встретились в Шэньчжэне перед трёхсторонним саммитом. Это событие привлекло внимание мировых лидеров и экспертов, так как оно может оказать влияние на международные отношения.\n\nВстреча прошла в контексте растущей напряженности между великими державами и обсуждения ключевых вопросов, касающихся глобальной безопасности и экономики. Лидеры позировали для группового фото, что символизирует их стремление к сотрудничеству.\n\nТрёхсторонний саммит может стать важной платформой для обсуждения совместных инициатив и стратегий, направленных на решение глобальных проблем.",
+        "en": "Chinese President Xi Jinping, US President Donald Trump, and Russian President Vladimir Putin met in Shenzhen ahead of a trilateral summit. This event has drawn the attention of world leaders and experts, as it may influence international relations.\n\nThe meeting took place against the backdrop of rising tensions among major powers and discussions on key issues related to global security and the economy. The leaders posed for a group photograph, symbolizing their commitment to cooperation.\n\nThe trilateral summit may serve as an important platform for discussing joint initiatives and strategies aimed at addressing global challenges."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Prezident-ECB-Kristin-Lagard-obyasnyaet-pochemu-ona-uhodit-v-otstavku-dosrochno-11-18",
-        "en": "https://telegra.ph/ECB-President-Christine-Lagarde-on-Why-Shes-Stepping-Down-Early-11-18-2"
+        "ru": "https://telegra.ph/Kitaj-Si-Tramp-i-Putin-sobralis-pered-tryohstoronnim-sammitom-11-19",
+        "en": "https://telegra.ph/China-Xi-Trump-and-Putin-gather-ahead-of-trilateral-summit-11-19"
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
+      "link": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
       "source": "New York Times",
       "title": {
-        "ru": "Тень Ялты нависает над саммитом Трампа в Китае",
-        "en": "The Shadow of Yalta Hangs Over Trump’s Summit in China"
+        "ru": "После крушения поезда Испания задается вопросом, не слишком ли быстро развивалась высокоскоростная железная дорога",
+        "en": "After Train Crash, Spain Asks if High-Speed Rail Grew Too Fast"
       },
       "summary": {
-        "ru": "Встреча 1945 года между Черчиллем, Сталиным и Франклином Рузвельтом определила курс Европы на десятилетия. Вот что произошло.",
-        "en": "A 1945 meeting of Churchill, Stalin, and Franklin Roosevelt set Europe’s course for decades. Here’s what happened."
+        "ru": "С приближением выборов железнодорожная катастрофа в Испании вызвала дебаты о том, успела ли инфраструктура за растущим населением.",
+        "en": "As an election nears, a railway disaster in Spain has sparked debate over whether infrastructure maintenance kept pace with its booming population."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Катастрофа",
+        "en": "Disaster"
       },
       "longBody": {
-        "ru": "Встреча 1945 года между Черчиллем, Сталиным и Франклином Рузвельтом в Ялте оказала значительное влияние на будущее Европы. Это событие стало основой для формирования послевоенного порядка и раздела сфер влияния между великими державами. В результате этой конференции были установлены новые границы и политические системы, которые определили судьбу стран на десятилетия вперед.\n\nСегодня, когда мир вновь сталкивается с геополитическими вызовами, тень Ялты продолжает оказывать влияние на международные отношения. Встреча Трампа в Китае может напомнить о тех исторических моментах, когда лидеры собирались для обсуждения судьбы целых континентов. Важно учитывать уроки прошлого при принятии решений в настоящем.\n\nТаким образом, события 1945 года остаются актуальными и служат напоминанием о том, как международные соглашения могут формировать будущее. Вопросы о том, как современные лидеры смогут справиться с текущими вызовами, остаются открытыми.",
-        "en": "The 1945 meeting between Churchill, Stalin, and Franklin Roosevelt in Yalta had a significant impact on Europe's future. This event laid the groundwork for the post-war order and the division of spheres of influence among the great powers. As a result of this conference, new borders and political systems were established that shaped the fate of countries for decades to come.\n\nToday, as the world faces geopolitical challenges once again, the shadow of Yalta continues to influence international relations. Trump's summit in China may evoke those historical moments when leaders gathered to discuss the fate of entire continents. It is essential to consider the lessons of the past when making decisions in the present.\n\nThus, the events of 1945 remain relevant and serve as a reminder of how international agreements can shape the future. Questions about how modern leaders will navigate current challenges remain open."
+        "ru": "С приближением выборов в Испании железнодорожная катастрофа вызвала общественные дебаты о том, насколько быстро развивалась инфраструктура в ответ на растущее население. Инцидент стал катализатором для обсуждения вопросов безопасности и обслуживания транспортной сети.\n\nМногие эксперты поднимают вопросы о том, соответствовала ли инфраструктура требованиям современного общества. Обсуждения касаются не только железнодорожного транспорта, но и более широкой проблемы управления городской инфраструктурой.\n\nЭти дебаты могут повлиять на политическую повестку и привести к изменениям в подходах к инвестициям в инфраструктуру в будущем.",
+        "en": "As elections approach in Spain, a railway disaster has sparked public debate over whether infrastructure development has kept pace with the growing population. The incident has become a catalyst for discussions about safety and maintenance of the transport network.\n\nMany experts are raising questions about whether the infrastructure meets the demands of modern society. The discussions are not only about rail transport but also about the broader issue of urban infrastructure management.\n\nThese debates may influence the political agenda and lead to changes in approaches to infrastructure investment in the future."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Posle-krusheniya-poezda-Ispaniya-zadaetsya-voprosom-ne-slishkom-li-bystro-razvivalas-vysokoskorostnaya-zheleznaya-doroga-11-19",
+        "en": "https://telegra.ph/After-Train-Crash-Spain-Asks-if-High-Speed-Rail-Grew-Too-Fast-11-19"
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
+      "link": "https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html",
       "source": "New York Times",
       "title": {
-        "ru": "Anthropic готовится к окончательному определению цен на сенсационное IPO",
-        "en": "Anthropic Is Set to Finalize Pricing for Blockbuster I.P.O."
+        "ru": "Непрерывные ава из Бразилии выходят из тропического леса в поисках еды",
+        "en": "Uncontacted Awá of Brazil Emerge From Rainforest Seeking Food"
       },
       "summary": {
-        "ru": "Компания ИИ ожидает официального определения цен на свои акции в среду, а торговля акциями начнется в четверг.",
-        "en": "The A.I. company is expected to officially price its shares on Wednesday, and its stock will begin trading on Thursday."
-      },
-      "category": {
-        "ru": "Технологии",
-        "en": "Technology"
-      },
-      "longBody": {
-        "ru": "Компания Anthropic, занимающаяся искусственным интеллектом, готовится к официальному определению цен на свои акции в среду. Ожидается, что торговля акциями начнется в четверг, что станет важным шагом для компании на фондовом рынке.\n\nЭта процедура может привлечь внимание инвесторов, так как Anthropic стремится занять свою нишу в быстро развивающемся секторе ИИ. Успех этого первичного публичного размещения может оказать влияние на другие компании в области технологий и искусственного интеллекта.\n\nВ то время как Anthropic готовится к выходу на рынок, обсуждения о том, как сбалансировать безопасность ИИ и его прогресс, продолжаются. Это подчеркивает важность ответственного подхода к разработке и внедрению технологий в будущем.",
-        "en": "The A.I. company Anthropic is set to officially price its shares on Wednesday. Trading is expected to begin on Thursday, marking an important step for the company in the stock market.\n\nThis process may attract investor attention, as Anthropic aims to carve out its niche in the rapidly evolving A.I. sector. The success of this initial public offering could influence other companies in the technology and A.I. space.\n\nAs Anthropic prepares for its market debut, discussions about how to balance A.I. safety and progress continue. This highlights the importance of a responsible approach to the development and implementation of technologies in the future."
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Город в Массачусетсе восстает против дронов доставки Amazon",
-        "en": "A Massachusetts Town Revolts Against Amazon’s Delivery Drones"
-      },
-      "summary": {
-        "ru": "Amazon хочет предложить более быструю доставку. Жители хотят тихого неба. Пригород Массачусетса ведет эпическую борьбу за контроль над своим воздушным пространством.",
-        "en": "Amazon wants to offer faster delivery. Residents want quiet skies. A Massachusetts suburb wages an epic battle for control of its airspace."
+        "ru": "Группа из 20 человек вышла из леса и попросила о еде, что вызывает опасения, что экологические разрушения заставили их обратиться за помощью.",
+        "en": "A group of 20 people emerged from the forest and asked for food, raising fears that environmental degradation left them with no choice."
       },
       "category": {
         "ru": "Общество",
         "en": "Society"
       },
       "longBody": {
-        "ru": "Amazon стремится предложить более быструю доставку с помощью дронов, однако жители одного из пригородов Массачусетса выступают против этого новшества. Они хотят сохранить спокойствие в своем небе и ведут активную борьбу за контроль над воздушным пространством.\n\nМестные жители выражают опасения по поводу шума и безопасности, которые могут возникнуть из-за увеличения числа дронов в их районе. Эта ситуация подчеркивает конфликт между желанием улучшить услуги доставки и потребностью в комфортной городской среде.\n\nБорьба за контроль над воздушным пространством может стать прецедентом для других сообществ, которые также могут столкнуться с подобными инициативами от крупных компаний. Вопросы о том, как сбалансировать инновации и интересы местных жителей, остаются актуальными.",
-        "en": "Amazon aims to offer faster delivery using drones, but residents of a Massachusetts suburb are pushing back against this innovation. They want to maintain quiet skies and are waging an active battle for control over their airspace.\n\nLocal residents express concerns about the noise and safety issues that may arise from an increased number of drones in their area. This situation highlights the conflict between the desire to improve delivery services and the need for a comfortable urban environment.\n\nThe struggle for airspace control could set a precedent for other communities that may also face similar initiatives from large companies. Questions about how to balance innovation with the interests of local residents remain relevant."
+        "ru": "Группа из 20 человек, представляющая неприкосновенную общину Ава в Бразилии, вышла из леса и попросила о еде, что вызывает опасения по поводу экологических разрушений, заставивших их обратиться за помощью. Это событие привлекло внимание правозащитников и экологов.\n\nЭксперты выражают тревогу по поводу воздействия вырубки лесов и других форм экологического разрушения на коренные народы. Появление группы может свидетельствовать о том, что их традиционный образ жизни стал невозможным из-за изменений в окружающей среде.\n\nЭто событие подчеркивает необходимость защиты прав коренных народов и сохранения их среды обитания в условиях глобальных изменений климата.",
+        "en": "A group of 20 individuals from the uncontacted Awá community in Brazil emerged from the forest and asked for food, raising concerns about environmental degradation that forced them to seek help. This event has drawn the attention of human rights advocates and environmentalists.\n\nExperts express alarm over the impact of deforestation and other forms of environmental degradation on Indigenous peoples. The emergence of the group may indicate that their traditional way of life has become untenable due to changes in their environment.\n\nThis event highlights the need to protect the rights of Indigenous peoples and preserve their habitats in the face of global climate change."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Nepreryvnye-ava-iz-Brazilii-vyhodyat-iz-tropicheskogo-lesa-v-poiskah-edy-11-19",
+        "en": "https://telegra.ph/Uncontacted-Awá-of-Brazil-Emerge-From-Rainforest-Seeking-Food-11-19"
       }
     },
     {
-      "link": "https://www.euronews.com/2026/11/18/waymo-pulls-driverless-taxis-off-us-highways-after-california-ban",
-      "source": "Euronews",
+      "link": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
       "title": {
-        "ru": "Waymo снимает беспилотные такси с американских шоссе после запрета в Калифорнии",
-        "en": "Waymo pulls driverless taxis off US highways after California ban"
+        "ru": "Лопается ли пузырь ИИ, когда Anthropic выходит на биржу?",
+        "en": "Is the AI bubble bursting just as Anthropic goes public?"
       },
       "summary": {
-        "ru": "Регуляторы назвали роботакси «непосредственной угрозой» после того, как одно из них попыталось обогнать полицейские машины, а три других заехали в зону дорожных работ.",
-        "en": "Regulators called the robotaxis an 'imminent hazard' after one tried to overtake police cars and three others drove into a live roadworks zone."
+        "ru": "Резкое падение акций технологий после промежуточных выборов в США и скандал с Nvidia ставят под сомнение IPO Anthropic.",
+        "en": "The sharp sell-off in tech stocks after the US midterms and the Nvidia scandal has cast doubt on Anthropic's IPO."
       },
       "category": {
         "ru": "Технологии",
         "en": "Technology"
       },
       "longBody": {
-        "ru": "Компания Waymo приостановила работу своих беспилотных такси на американских шоссе после запрета в Калифорнии. Регуляторы назвали роботакси «непосредственной угрозой» после инцидента, когда одно из такси попыталось обогнать полицейские машины, а три других заехали в зону дорожных работ.\n\nЭтот шаг подчеркивает растущие опасения по поводу безопасности автономных транспортных средств. В то время как Waymo готовится к расширению на европейские рынки, проблемы с безопасностью могут повлиять на их планы.\n\nРегуляторы продолжают внимательно следить за ситуацией, и будущее беспилотных автомобилей остается неопределенным. Вопросы о том, как обеспечить безопасность на дорогах, становятся все более актуальными в свете новых технологий.",
-        "en": "Waymo has pulled its driverless taxis off U.S. highways following a ban in California. Regulators labeled the robotaxis an 'imminent hazard' after one attempted to overtake police cars and three others drove into a live roadworks zone.\n\nThis move underscores growing concerns about the safety of autonomous vehicles. As Waymo prepares to expand into European markets, safety issues may impact their plans.\n\nRegulators continue to closely monitor the situation, and the future of driverless cars remains uncertain. Questions about how to ensure road safety are becoming increasingly relevant in light of new technologies."
+        "ru": "Резкое падение акций технологий после промежуточных выборов в США и скандал с Nvidia ставят под сомнение успешность IPO компании Anthropic. Инвесторы начинают пересматривать свои ожидания в свете текущих рыночных условий.\n\nНесмотря на это, в индустрии продолжают наблюдаться значительные инвестиции в искусственный интеллект, что указывает на то, что интерес к этому сектору все еще высок. Некоторые эксперты считают, что \"праздник\" в области ИИ все еще продолжается, несмотря на недавние колебания на рынке.\n\nСитуация с Anthropic может стать индикатором более широких тенденций на рынке технологий и инвестиций в будущее.",
+        "en": "The sharp sell-off in tech stocks following the US midterms and the Nvidia scandal has cast doubt on the success of Anthropic's IPO. Investors are beginning to reassess their expectations in light of the current market conditions.\n\nDespite this, significant investments in artificial intelligence continue to be observed in the industry, indicating that interest in this sector remains high. Some experts believe that the \"party\" in AI is still in full swing, despite recent market fluctuations.\n\nThe situation with Anthropic may serve as an indicator of broader trends in the technology market and future investment strategies."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Lopaetsya-li-puzyr-II-kogda-Anthropic-vyhodit-na-birzhu-11-19",
+        "en": "https://telegra.ph/Is-the-AI-bubble-bursting-just-as-Anthropic-goes-public-11-19"
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Google покупает данные работников Spirit Airlines для нового рынка ИИ",
-        "en": "Google Buys Worker Data From Spirit Airlines in a New Market to Feed A.I."
-      },
-      "summary": {
-        "ru": "Профсоюз стюардесс оспорил планы Google по защите личной информации в суде, заявив, что меры компании недостаточны для защиты сотрудников Spirit.",
-        "en": "A flight attendants’ union challenged Google’s plans to protect personal information in court, saying the company’s measures were not enough to protect Spirit’s employees."
-      },
-      "category": {
-        "ru": "Технологии",
-        "en": "Technology"
-      },
-      "longBody": {
-        "ru": "Google столкнулся с юридическими проблемами после того, как профсоюз стюардесс оспорил его планы по защите личной информации. Профсоюз утверждает, что меры, предложенные компанией, недостаточны для защиты сотрудников Spirit Airlines.\n\nЭтот случай подчеркивает важность защиты данных в эпоху цифровых технологий. Профсоюз выражает опасения по поводу того, как данные сотрудников могут быть использованы и защищены.\n\nСудебное разбирательство может иметь серьезные последствия как для Google, так и для других компаний, работающих с личной информацией. Вопросы о том, как обеспечить безопасность данных, становятся все более актуальными в современном мире.",
-        "en": "Google is facing legal challenges after a flight attendants’ union contested its plans to protect personal information. The union claims that the measures proposed by the company are not sufficient to protect Spirit Airlines employees.\n\nThis case highlights the importance of data protection in the digital age. The union expresses concerns about how employee data may be used and safeguarded.\n\nThe legal proceedings could have serious implications for both Google and other companies handling personal information. Questions about how to ensure data security are becoming increasingly relevant in today's world."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Крупнейший производитель яиц в США уничтожит 1,8 миллиона птиц после вспышки птичьего гриппа",
-        "en": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak"
-      },
-      "summary": {
-        "ru": "Cal-Maine сообщает о птичьем гриппе на своем объекте во Флориде, 2,7 процента всего стада пострадало.",
-        "en": "Cal-Maine reports avian influenza at Florida site, with 2.7 percent of its total flock affected."
-      },
-      "category": {
-        "ru": "Здоровье",
-        "en": "Health"
-      },
-      "longBody": {
-        "ru": "Cal-Maine, крупнейший производитель яиц в США, объявил о необходимости утилизировать 1,8 миллиона птиц после вспышки птичьего гриппа на своем объекте во Флориде. По данным компании, 2,7 процента всего стада пострадало от вируса.\n\nЭта ситуация подчеркивает серьезные риски, связанные с животноводством и безопасностью пищевых продуктов. Вспышки заболеваний могут иметь значительные последствия для производителей и потребителей.\n\nCal-Maine принимает меры для контроля ситуации и предотвращения дальнейшего распространения вируса. Вопросы о здоровье птиц и безопасности продуктов питания остаются в центре внимания общественности.",
-        "en": "Cal-Maine, the largest egg producer in the U.S., announced it will cull 1.8 million birds following an avian influenza outbreak at its Florida site. The company reports that 2.7 percent of its total flock has been affected by the virus.\n\nThis situation highlights the serious risks associated with livestock farming and food safety. Outbreaks of diseases can have significant consequences for producers and consumers alike.\n\nCal-Maine is taking measures to control the situation and prevent further spread of the virus. Questions about bird health and food safety remain at the forefront of public concern."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/sport/2026/nov/18/alexander-zverev-abuse-lawsuit-atp-finals-finals-brenda-patea",
+      "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
       "source": "The Guardian",
       "title": {
-        "ru": "Александр Зверев уведомлен о судебном иске от бывшей партнерши во время Финалов АТР",
-        "en": "Alexander Zverev notified of abuse lawsuit by ex-partner during ATP Finals"
+        "ru": "Центры обработки данных создадут на 70% больше углеродных выбросов к 2030 году, предупреждает IEA",
+        "en": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns"
       },
       "summary": {
-        "ru": "Мужской номер один в мире якобы нарушил условия соглашения. Адвокаты заявляют, что Зверев будет «защищаться от иска».",
-        "en": "Men’s world No 1 allegedly violated terms of settlement. Lawyers say Zverev will 'defend himself against lawsuit'."
+        "ru": "Глобальный энергетический надзор прогнозирует огромный рост выбросов, так как США и Китай обращаются к ископаемым видам топлива для поддержки своих программ роста ИИ.",
+        "en": "The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas."
       },
       "category": {
-        "ru": "Право",
-        "en": "Law"
+        "ru": "Климат",
+        "en": "Climate"
       },
       "longBody": {
-        "ru": "Александр Зверев, номер один в мире среди мужчин, был уведомлен о судебном иске, поданном его бывшей партнершей во время финалов ATP. По сообщениям, он нарушил условия соглашения, и его адвокаты заявляют, что Зверев будет «защищаться от иска».\n\nЭтот случай подчеркивает важность соблюдения условий соглашений и последствия, которые могут возникнуть при их нарушении. Зверев, как публичная фигура, находится под пристальным вниманием, и его действия могут повлиять на его карьеру.\n\nСудебное разбирательство может иметь долгосрочные последствия как для Зверева, так и для его бывшей партнерши. Вопросы о том, как справляться с личными и юридическими проблемами в публичной жизни, становятся все более актуальными.",
-        "en": "Alexander Zverev, the world No. 1 in men's tennis, has been notified of a lawsuit filed by his former partner during the ATP Finals. Reports indicate that he allegedly violated the terms of a settlement, and his lawyers state that Zverev will 'defend himself against the lawsuit.'\n\nThis case highlights the importance of adhering to settlement terms and the consequences that may arise from violations. Zverev, as a public figure, is under close scrutiny, and his actions could impact his career.\n\nThe legal proceedings could have long-term implications for both Zverev and his former partner. Questions about how to navigate personal and legal issues in public life are becoming increasingly relevant."
+        "ru": "Глобальный энергетический надзор предупреждает о том, что дата-центры создадут на 70% больше углеродных выбросов к 2030 году, поскольку США и Китай обращаются к ископаемым видам топлива для поддержки своих программ роста в области ИИ. Это вызывает серьезные опасения по поводу устойчивости и воздействия на климат.\n\nОтчет подчеркивает, что дата-центры будут потреблять в два раза больше электроэнергии к 2030 году по сравнению с сегодняшним днем, что связано с расширением искусственного интеллекта. Это может привести к значительному увеличению углеродного следа.\n\nНеобходимость перехода к более устойчивым источникам энергии становится все более актуальной в свете этих прогнозов и глобальных усилий по борьбе с изменением климата.",
+        "en": "The global energy watchdog warns that datacentres will create 70% more carbon emissions by 2030 as the US and China turn to fossil fuels to power their AI growth agendas. This raises serious concerns about sustainability and climate impact.\n\nThe report emphasizes that datacentres will consume twice as much electricity by 2030 compared to today, driven by the expansion of artificial intelligence. This could lead to a significant increase in carbon footprint.\n\nThe need for a transition to more sustainable energy sources is becoming increasingly urgent in light of these forecasts and global efforts to combat climate change."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Centry-obrabotki-dannyh-sozdadut-na-70-bolshe-uglerodnyh-vybrosov-k-2030-godu-preduprezhdaet-IEA-11-19",
+        "en": "https://telegra.ph/Datacentres-to-create-70-more-carbon-emissions-by-2030-IEA-report-warns-11-19"
       }
     },
     {
-      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
+      "link": "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547",
+      "source": "The Block",
       "title": {
-        "ru": "Grand Theft Auto 6 - шедевр, говорят критики",
-        "en": "Grand Theft Auto 6 is a masterpiece, say critics"
+        "ru": "Sygnum ожидает, что биткойн-карри-трейды обгонят казначейские облигации в 2027 году по мере восстановления финансирования",
+        "en": "Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers"
       },
       "summary": {
-        "ru": "Критики высказывают свое мнение о том, оправдывает ли GTA 6, самая ожидаемая видеоигра всех времен, свои ожидания.",
-        "en": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype."
+        "ru": "Финансирование биткойнов оставалось отрицательным в течение 67 дней до мая, прежде чем восстановилось до примерно 8% годовых к концу октября.",
+        "en": "Bitcoin funding stayed negative for 67 consecutive days into May before recovering to about 8% annualized by the end of October."
       },
       "category": {
-        "ru": "Культура",
-        "en": "Culture"
+        "ru": "Экономика",
+        "en": "Economy"
       },
       "longBody": {
-        "ru": "Критики высказывают свое мнение о том, оправдывает ли GTA 6, самая ожидаемая видеоигра всех времен, свои ожидания. Обсуждения о ее качестве и новшествах продолжаются, и многие фанаты с нетерпением ждут выхода игры.\n\nGTA 6 обещает быть значительным шагом вперед в игровой индустрии, и критики отмечают, что она может установить новые стандарты для будущих игр. Ожидания от игры высоки, и многие надеются, что она оправдает их надежды.\n\nВопросы о том, что делает GTA 6 более чем просто игрой, становятся актуальными, так как обсуждаются ее культурное влияние и инновационные элементы.",
-        "en": "Critics are weighing in on whether GTA 6, the most anticipated video game of all time, lives up to the hype. Discussions about its quality and innovations are ongoing, and many fans are eagerly awaiting the game's release.\n\nGTA 6 promises to be a significant step forward in the gaming industry, and critics note that it may set new standards for future games. Expectations for the game are high, and many hope it will meet their hopes.\n\nQuestions about what makes GTA 6 more than just a game are becoming relevant as its cultural impact and innovative elements are discussed."
+        "ru": "Финансирование биткойнов оставалось отрицательным в течение 67 дней до мая, прежде чем восстановилось до примерно 8% годовых к концу октября. Это изменение в финансировании может указывать на улучшение рыночных условий для криптовалют.\n\nИнвесторы и аналитики внимательно следят за динамикой рынка, так как это может повлиять на будущие инвестиции в биткойн и другие криптовалюты. Восстановление финансирования может свидетельствовать о растущем интересе к биткойну как к активу.\n\nСитуация на рынке криптовалют продолжает оставаться волатильной, и многие эксперты предсказывают дальнейшие изменения в ближайшие месяцы.",
+        "en": "Bitcoin funding stayed negative for 67 consecutive days into May before recovering to about 8% annualized by the end of October. This change in funding may indicate an improvement in market conditions for cryptocurrencies.\n\nInvestors and analysts are closely monitoring market dynamics, as this could influence future investments in Bitcoin and other cryptocurrencies. The recovery in funding may reflect a growing interest in Bitcoin as an asset.\n\nThe cryptocurrency market continues to remain volatile, and many experts predict further changes in the coming months."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Sygnum-ozhidaet-chto-bitkojn-karri-trejdy-obgonyat-kaznachejskie-obligacii-v-2027-godu-po-mere-vosstanovleniya-finansirovaniya-11-19",
+        "en": "https://telegra.ph/Sygnum-sees-bitcoin-carry-trades-beating-Treasury-bills-in-2027-as-funding-recovers-11-19"
       }
     },
     {
-      "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Хулио Иглесиас сталкивается с судебным расследованием по обвинениям в сексуальных преступлениях",
-        "en": "Julio Iglesias facing court investigation over alleged sexual offences"
-      },
-      "summary": {
-        "ru": "83-летний певец обвиняется в злоупотреблении двумя бывшими сотрудниками на карибских резиденциях в 2021 году.",
-        "en": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021."
-      },
-      "category": {
-        "ru": "Право",
-        "en": "Law"
-      },
-      "longBody": {
-        "ru": "83-летний певец Хулио Иглесиас стал объектом судебного расследования по обвинениям в сексуальных преступлениях. Его обвиняют в злоупотреблении двумя бывшими сотрудниками на карибских резиденциях в 2021 году.\n\nЭтот случай подчеркивает важность обсуждения вопросов согласия и злоупотребления властью в индустрии развлечений. Обвинения против известных личностей часто вызывают широкий общественный резонанс и могут повлиять на их карьеру.\n\nСудебное разбирательство может иметь серьезные последствия как для Иглесиаса, так и для его репутации. Вопросы о том, как справляться с обвинениями и их последствиями, становятся все более актуальными в современном обществе.",
-        "en": "The 83-year-old singer Julio Iglesias is facing a court investigation over allegations of sexual offenses. He is accused of abusing two former employees at Caribbean residences in 2021.\n\nThis case highlights the importance of discussing issues of consent and abuse of power in the entertainment industry. Allegations against high-profile figures often generate significant public attention and can impact their careers.\n\nThe legal proceedings could have serious implications for Iglesias and his reputation. Questions about how to handle accusations and their consequences are becoming increasingly relevant in modern society."
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Ирландец саботировал военный самолет США с помощью топора и химикатов, утверждают прокуроры",
-        "en": "Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say"
-      },
-      "summary": {
-        "ru": "Дайти О'Коррейн заперся внутри C-130 Национальной гвардии в аэропорту Шеннон в Ирландии на несколько часов, нанеся такой ущерб, что самолет был выведен из эксплуатации.",
-        "en": "Daithi O’Corrain sealed himself inside a National Guard C-130 at Ireland’s Shannon Airport in April for hours, causing so much damage that the aircraft was retired from service."
-      },
-      "category": {
-        "ru": "Право",
-        "en": "Law"
-      },
-      "longBody": {
-        "ru": "Дайти О'Коррейн заперся внутри C-130 Национальной гвардии в аэропорту Шеннон в Ирландии на несколько часов, нанеся такой ущерб, что самолет был выведен из эксплуатации. Прокуроры утверждают, что действия О'Коррейна представляют собой серьезное правонарушение.\n\nЭтот инцидент подчеркивает важность безопасности на авиабазах и необходимость соблюдения правил. Поведение, которое угрожает безопасности и целостности воздушных судов, может иметь серьезные последствия.\n\nСудебное разбирательство по этому делу может привести к значительным юридическим последствиям для О'Коррейна. Вопросы о том, как предотвратить подобные инциденты в будущем, остаются актуальными.",
-        "en": "Daithi O’Corrain sealed himself inside a National Guard C-130 at Ireland’s Shannon Airport for hours, causing so much damage that the aircraft was retired from service, prosecutors say.\n\nThis incident underscores the importance of safety at air bases and the need for adherence to regulations. Behavior that threatens the safety and integrity of aircraft can have serious repercussions.\n\nThe legal proceedings in this case may lead to significant legal consequences for O’Corrain. Questions about how to prevent similar incidents in the future remain relevant."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/opinions/2026/11/18/pax-silica-is-the-new-face-of-us-imperialism-in-the-philippines?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Pax Silica — новое лицо американского империализма на Филиппинах",
-        "en": "Pax Silica is the new face of US imperialism in the Philippines"
+        "ru": "Суд в Майами осудил пастора из США и Гаити за убийство президента в 2021 году",
+        "en": "Miami court convicts US-Haitian pastor over 2021 assassination of president"
       },
       "summary": {
-        "ru": "За обещаниями рабочих мест и инвестиций скрываются угрозы предков, безопасности воды и национальному суверенитету.",
-        "en": "Behind promises of jobs and investment lie threats to ancestral lands, water security, and national sovereignty."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "В последние годы Филиппины стали ареной для нового проявления американского империализма, известного как Pax Silica. Это явление сопровождается обещаниями создания рабочих мест и привлечения инвестиций, однако за этими обещаниями скрываются серьезные угрозы для коренных земель, безопасности водных ресурсов и национального суверенитета страны.\n\nМестные сообщества выражают опасения по поводу потери своих земель и ресурсов, которые являются жизненно важными для их существования. Программы, направленные на развитие инфраструктуры и экономики, могут привести к разрушению экосистем и культурных традиций.\n\nТаким образом, несмотря на привлекательные обещания, многие филиппинцы остаются настороженными и требуют защиты своих прав и интересов в условиях растущего иностранного влияния.",
-        "en": "In recent years, the Philippines has become a stage for a new manifestation of American imperialism known as Pax Silica. This phenomenon is accompanied by promises of job creation and investment attraction; however, behind these promises lie serious threats to ancestral lands, water security, and national sovereignty.\n\nLocal communities express concerns about the loss of their lands and resources, which are vital for their existence. Programs aimed at developing infrastructure and the economy could lead to the destruction of ecosystems and cultural traditions.\n\nThus, despite the appealing promises, many Filipinos remain cautious and demand protection of their rights and interests in the face of growing foreign influence."
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Внутри старого газопровода, где Украина ведет подземную войну с Россией",
-        "en": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia"
-      },
-      "summary": {
-        "ru": "BBC присоединилась к украинским силам, которые ведут бой под землей, вдали от российских дронов.",
-        "en": "The BBC joined Ukrainian forces taking the battle below ground, out of sight of Russian drones."
+        "ru": "Прокуроры обвинили Кристиана Эммануэля Санона в попытке заменить тогдашнего президента Гаити Мойза.",
+        "en": "Prosecutors accused Christian Emmanuel Sanon of seeking to replace then-Haitian President Moise."
       },
       "category": {
         "ru": "Конфликт",
         "en": "Conflict"
       },
       "longBody": {
-        "ru": "BBC присоединилась к украинским силам, которые ведут бой под землей, вдали от российских дронов. Это новое направление борьбы в конфликте с Россией позволяет украинским войскам избегать обнаружения и атак с воздуха, что становится все более важным в условиях современных боевых действий.\n\nПодземные операции требуют от солдат особой подготовки и стратегии, так как они сталкиваются с уникальными вызовами, связанными с ограниченным пространством и необходимостью поддерживать связь с командованием.\n\nТакой подход к ведению войны подчеркивает адаптивность украинских сил и их стремление использовать все доступные средства для защиты своей территории и населения.",
-        "en": "The BBC joined Ukrainian forces taking the battle below ground, out of sight of Russian drones. This new direction in the conflict with Russia allows Ukrainian troops to avoid detection and air attacks, which is becoming increasingly important in modern warfare.\n\nUnderground operations require soldiers to have special training and strategies as they face unique challenges related to limited space and the need to maintain communication with command.\n\nThis approach to warfare highlights the adaptability of Ukrainian forces and their determination to use all available means to protect their territory and population."
+        "ru": "В суде Майами был признан виновным христианский пастор Кристиан Эммануэль Санон, которого обвиняли в попытке свергнуть тогдашнего президента Гаити Жовенеля Мойза. Это дело привлекло внимание к политической нестабильности в стране и международным последствиям.\n\nСудебный процесс стал важным моментом в контексте усиливающихся конфликтов и насилия в Гаити. Обвинения против Санона подчеркивают сложные политические и социальные проблемы, с которыми сталкивается страна.\n\nРешение суда может иметь долгосрочные последствия для политической ситуации в Гаити и для международного сообщества, которое следит за развитием событий.",
+        "en": "In a Miami court, Christian pastor Christian Emmanuel Sanon was found guilty of attempting to overthrow then-Haitian President Jovenel Moïse. This case has drawn attention to the political instability in the country and its international ramifications.\n\nThe trial has become a significant moment amid escalating conflicts and violence in Haiti. The charges against Sanon highlight the complex political and social issues facing the country.\n\nThe court's decision may have long-term implications for the political situation in Haiti and for the international community, which is closely monitoring developments."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Sud-v-Majami-osudil-pastora-iz-SSHA-i-Gaiti-za-ubijstvo-prezidenta-v-2021-godu-11-19",
+        "en": "https://telegra.ph/Miami-court-convicts-US-Haitian-pastor-over-2021-assassination-of-president-11-19-2"
       }
     },
     {
-      "link": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
+      "link": "https://www.theguardian.com/science/2026/nov/19/weight-loss-drugs-nearly-one-in-10-homes-great-britain-study-finds",
+      "source": "The Guardian",
       "title": {
-        "ru": "Северная Корея расширила завод по обогащению урана, сообщает глава МАГАТЭ",
-        "en": "North Korea expanded uranium enrichment plant, says IAEA head"
+        "ru": "Препараты для похудения используются почти в каждом десятом доме в Великобритании, показывает исследование",
+        "en": "Weight-loss drugs used in nearly one in 10 homes in Great Britain, study finds"
       },
       "summary": {
-        "ru": "Глава МАГАТЭ Рафаэль Гросси заявил, что продолжающееся расширение программы обогащения урана Северной Кореи остается \"причиной серьезной озабоченности\".",
-        "en": "IAEA chief Rafael Grossi stated that the ongoing expansion of North Korea's uranium enrichment program remains \"a cause for serious concern.\""
+        "ru": "По данным исследования, в 8,5% домохозяйств Великобритании принимаются препараты для похудения, что превышает количество вегетарианцев и пескатарианцев.",
+        "en": "At least one person is taking weight-loss drugs in 8.5% of households in Great Britain, according to research."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Здоровье",
+        "en": "Health"
       },
       "longBody": {
-        "ru": "Глава МАГАТЭ Рафаэль Гросси заявил, что продолжающееся расширение программы обогащения урана Северной Кореи остается \"причиной серьезной озабоченности\". Это заявление подчеркивает растущие опасения международного сообщества относительно ядерных амбиций Пхеньяна.\n\nРасширение программы обогащения урана может привести к дальнейшему развитию ядерного арсенала Северной Кореи, что ставит под угрозу безопасность в регионе и за его пределами. МАГАТЭ продолжает следить за ситуацией и призывает к диалогу и дипломатическим усилиям для разрешения конфликта.\n\nТаким образом, международное сообщество остается настороженным в отношении действий Северной Кореи и их возможных последствий для глобальной безопасности.",
-        "en": "IAEA chief Rafael Grossi stated that the ongoing expansion of North Korea's uranium enrichment program remains \"a cause for serious concern.\" This statement underscores the growing worries of the international community regarding Pyongyang's nuclear ambitions.\n\nThe expansion of the uranium enrichment program could lead to further development of North Korea's nuclear arsenal, posing a threat to security in the region and beyond. The IAEA continues to monitor the situation and calls for dialogue and diplomatic efforts to resolve the conflict.\n\nThus, the international community remains cautious regarding North Korea's actions and their potential implications for global security."
+        "ru": "Согласно исследованию, препараты для похудения принимаются как минимум одним человеком в 8,5% домохозяйств Великобритании. Это превышает количество домохозяйств с вегетарианцами и пескатарианцами, что подчеркивает растущий интерес к средствам для контроля веса.\n\nИсследование также показывает, что около 2,6 миллиона взрослых используют такие препараты, что является значительным увеличением по сравнению с предыдущими годами. Это может быть связано с одобрением новых лекарств и увеличением числа пользователей среди мужчин.\n\nСитуация с использованием препаратов для похудения вызывает вопросы о здоровье и образе жизни населения, а также о влиянии рекламы и общественного мнения на выбор людей.",
+        "en": "According to research, at least one person is taking weight-loss drugs in 8.5% of households in Great Britain. This surpasses the number of households with vegetarians and pescatarians, highlighting the growing interest in weight management solutions.\n\nThe research also indicates that about 2.6 million adults are using such medications, representing a significant increase compared to previous years. This may be linked to the approval of new drugs and a rise in male users.\n\nThe situation regarding the use of weight-loss drugs raises questions about public health and lifestyle choices, as well as the influence of advertising and societal perceptions on individual choices."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Preparaty-dlya-pohudeniya-ispolzuyutsya-pochti-v-kazhdom-desyatom-dome-v-Velikobritanii-pokazyvaet-issledovanie-11-19",
+        "en": "https://telegra.ph/Weight-loss-drugs-used-in-nearly-one-in-10-homes-in-Great-Britain-study-finds-11-19"
       }
     },
     {
-      "link": "https://www.euronews.com/video/2026/11/18/latest-news-bulletin-november-18th-2026-evening",
+      "link": "https://www.theguardian.com/books/2026/nov/19/hannah-lillith-assadi-paradiso-17-wins-national-book-award",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Ханна Лилит Ассади выиграла Национальную книжную премию за роман «Парадисо 17»",
+        "en": "Hannah Lillith Assadi wins National Book Award for ‘Paradiso 17’"
+      },
+      "summary": {
+        "ru": "Роман Ассади вдохновлен историей ее покойного отца, палестинца, который в детстве сбежал от Накбы в 1948 году. Это третья книга Ассади, исследующая психические последствия перемещения мигрантов.",
+        "en": "Assadi's novel is inspired by her late father, a Palestinian who escaped the Nakba as a child in 1948. This is her third book, exploring the psychic toll of displacement on migrants."
+      },
+      "category": {
+        "ru": "Культура",
+        "en": "Culture"
+      },
+      "longBody": {
+        "ru": "Ханна Лилит Ассади была удостоена Национальной книжной премии за свой роман «Парадисо 17». Это третья книга автора, в которой она исследует психические последствия перемещения мигрантов. Роман вдохновлен историей ее покойного отца, палестинца, который в детстве сбежал от Накбы в 1948 году.\n\nАссади рассказывает о судьбе палестинца, который пережил ужасные события своего детства, когда более 700,000 палестинцев были вынуждены покинуть свои дома. В своей работе она стремится передать эмоциональные и психологические последствия таких травм, что делает ее роман актуальным и важным в контексте миграционных кризисов.\n\nЭта награда подчеркивает значимость литературы как средства для обсуждения социальных и исторических вопросов, а также роль Ассади в современном литературном дискурсе.",
+        "en": "Hannah Lillith Assadi has won the National Book Award for her novel 'Paradiso 17'. This is the author's third book, exploring the psychic toll of displacement on migrants. The novel is inspired by the story of her late father, a Palestinian who escaped the Nakba as a child in 1948.\n\nAssadi tells the story of a Palestinian man who endured the harrowing events of his childhood when more than 700,000 Palestinians were forced to flee their homes. In her work, she aims to convey the emotional and psychological consequences of such trauma, making her novel relevant and significant in the context of migration crises.\n\nThis award highlights the importance of literature as a means to discuss social and historical issues, as well as Assadi's role in contemporary literary discourse."
+      }
+    },
+    {
+      "link": "https://www.euronews.com/video/2026/11/19/gta-vi-launch-sparks-celebrations-in-miami-and-dublin",
       "source": "Euronews",
       "title": {
-        "ru": "Последний новостной бюллетень | 18 ноября 2026 – Вечер",
-        "en": "Latest news bulletin | November 18th, 2026 – Evening"
+        "ru": "Запуск GTA VI вызывает празднования в Майами и Дублине",
+        "en": "GTA VI launch sparks celebrations in Miami and Dublin"
       },
       "summary": {
-        "ru": "Подводим итоги самых важных событий из Европы и за ее пределами 18 ноября 2026 года.",
-        "en": "Catch up with the most important stories from around Europe and beyond this November 18th, 2026."
+        "ru": "После 13 лет ожидания, Grand Theft Auto VI наконец вышла. Фанаты отпраздновали на вечеринке в Дублине, а поклонники Miami Heat спешили купить ограниченные тиражи мерча Vice City.",
+        "en": "After 13 years of anticipation, Grand Theft Auto VI has finally arrived. Fans celebrated at a launch party in Dublin, while Miami Heat supporters rushed to buy limited-edition Vice City merchandise."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Культура",
+        "en": "Culture"
       },
       "longBody": {
-        "ru": "18 ноября 2026 года произошло множество значимых событий как в Европе, так и за ее пределами. В этот день были освещены важные новости, касающиеся политики, экономики и культуры, которые оказали влияние на международные отношения и общественное мнение.\n\nОбсуждения касались различных тем, включая бизнес, развлечения и путешествия, что подчеркивает разнообразие интересов и проблем, с которыми сталкиваются страны в современном мире.\n\nТаким образом, 18 ноября стал днем, когда внимание было сосредоточено на ключевых событиях, формирующих будущее Европы и других регионов.",
-        "en": "On November 18, 2026, many significant events took place both in Europe and beyond. This day featured important news concerning politics, economics, and culture that impacted international relations and public opinion.\n\nDiscussions covered various topics, including business, entertainment, and travel, highlighting the diversity of interests and issues that countries face in the modern world.\n\nThus, November 18 became a day when attention was focused on key events shaping the future of Europe and other regions."
+        "ru": "После 13 лет ожидания, наконец, вышла новая игра Grand Theft Auto VI. Фанаты отпраздновали это событие на вечеринке в Дублине, где атмосфера была наполнена радостью и волнением. В то же время поклонники Miami Heat спешили приобрести ограниченные тиражи мерча, связанного с Vice City.\n\nЗапуск игры стал значимым событием для геймеров, которые долго ждали продолжения одной из самых популярных игровых серий. Вечеринка в Дублине привлекла множество поклонников, которые собрались, чтобы отпраздновать этот долгожданный момент вместе.\n\nС выходом GTA VI ожидается, что игра привлечет еще больше поклонников и станет важной вехой в индустрии видеоигр.",
+        "en": "After 13 years of anticipation, Grand Theft Auto VI has finally been released. Fans celebrated this event at a launch party in Dublin, where the atmosphere was filled with joy and excitement. Meanwhile, Miami Heat supporters rushed to buy limited-edition Vice City merchandise.\n\nThe launch of the game marks a significant event for gamers who have been eagerly awaiting the continuation of one of the most popular gaming franchises. The party in Dublin attracted many fans who gathered to celebrate this long-awaited moment together.\n\nWith the release of GTA VI, it is expected that the game will attract even more fans and become an important milestone in the video game industry."
       }
     },
     {
-      "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Уильям и Кейт размышляют о 'долговечных' связях Великобритании и Индии с Моди",
-        "en": "William and Kate reflect on 'enduring' UK-India ties with Modi"
-      },
-      "summary": {
-        "ru": "Встреча в Нью-Дели была поздним дополнением к визиту королевской пары в Индию, который также включал их участие в ежегодной премии Earthshot.",
-        "en": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Встреча в Нью-Дели между принцем Уильямом, Кейт Миддлтон и премьер-министром Индии Нарендрой Моди стала поздним дополнением к визиту королевской пары в Индию. Этот визит также включал их участие в ежегодной премии Earthshot, что подчеркивает важность экологических инициатив.\n\nВо время встречи обсуждались вопросы, касающиеся устойчивого развития и укрепления связей между Великобританией и Индией. Оба лидера выразили заинтересованность в дальнейшем сотрудничестве в различных областях, включая экологию и технологии.\n\nТаким образом, встреча стала важным шагом в укреплении исторических и культурных связей между двумя странами.",
-        "en": "The meeting in New Delhi between Prince William, Kate Middleton, and Indian Prime Minister Narendra Modi was a late addition to the royal couple's visit to India. This visit also included their appearance at the annual Earthshot Prize, highlighting the importance of environmental initiatives.\n\nDuring the meeting, discussions focused on issues related to sustainable development and strengthening ties between the UK and India. Both leaders expressed interest in further cooperation in various areas, including ecology and technology.\n\nThus, the meeting became an important step in strengthening the historical and cultural ties between the two countries."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "link": "https://www.theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk",
       "source": "The Guardian",
       "title": {
-        "ru": "Маркуэйн Муллин защищает решение взять правительственный самолет на футбольный матч на фоне остановки рейсов — прямая трансляция политики США",
-        "en": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live"
+        "ru": "General Pants Co объявляет о добровольной администрации, ставя под угрозу сотни рабочих мест",
+        "en": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk"
       },
       "summary": {
-        "ru": "Секретарь по внутренней безопасности прилетел на колледжный матч в субботу после отмены тысяч рейсов.",
-        "en": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled."
+        "ru": "Австралийская модная сеть стала последним ритейлером, столкнувшимся с проблемами, ставя под угрозу почти 500 рабочих мест. Это произошло на фоне трудностей в розничной торговле в Австралии.",
+        "en": "The Australian fashion chain has become the latest major retailer to slide into voluntary administration, putting nearly 500 jobs at risk amid struggles in Australia’s retail sector."
+      },
+      "category": {
+        "ru": "Экономика",
+        "en": "Economy"
+      },
+      "longBody": {
+        "ru": "Австралийская модная сеть General Pants Co объявила о вступлении в добровольное управление, что ставит под угрозу почти 500 рабочих мест. Это событие произошло на фоне продолжающихся трудностей в розничной торговле в Австралии, где многие ритейлеры сталкиваются с финансовыми проблемами.\n\nСитуация в розничной торговле ухудшается из-за растущей конкуренции со стороны онлайн-магазинов и снижения покупательской способности. General Pants Co стала последним крупным ритейлером, который столкнулся с подобными трудностями, присоединившись к другим известным брендам, таким как David Jones и Cue.\n\nЭто событие подчеркивает сложные условия, с которыми сталкиваются австралийские ритейлеры, и необходимость адаптации к изменяющимся рыночным условиям.",
+        "en": "The Australian fashion chain General Pants Co has entered voluntary administration, putting nearly 500 jobs at risk. This event comes amid ongoing struggles in Australia’s retail sector, where many retailers are facing financial difficulties.\n\nThe situation in retail is worsening due to increasing competition from online stores and declining consumer spending. General Pants Co has become the latest major retailer to encounter such challenges, joining other well-known brands like David Jones and Cue.\n\nThis event highlights the tough conditions faced by Australian retailers and the need to adapt to changing market circumstances."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Что сказала временный CEO Nvidia, Коулетт Кресс, сотрудникам после отставки Дженсена Хуана",
+        "en": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation"
+      },
+      "summary": {
+        "ru": "На общем собрании с сотрудниками Коулетт Кресс пыталась оставить позади недоразумения с соучредителем Nvidia, Дженсеном Хуаном.",
+        "en": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them."
+      },
+      "category": {
+        "ru": "Технологии",
+        "en": "Technology"
+      },
+      "longBody": {
+        "ru": "На общем собрании с сотрудниками Коулетт Кресс, временный генеральный директор Nvidia, попыталась оставить позади недоразумения, связанные с соучредителем компании Дженсеном Хуаном. Это собрание стало важным моментом для команды, которая переживает изменения в руководстве.\n\nКресс подчеркнула необходимость сплоченности и фокуса на будущих целях компании, несмотря на недавние события. Она призвала сотрудников сосредоточиться на работе и продолжении инноваций, которые сделали Nvidia лидером в своей области.\n\nЭто собрание также стало возможностью для сотрудников задать вопросы и обсудить свои опасения, что важно для поддержания морального духа команды в период изменений.",
+        "en": "At an all-hands meeting with employees, Colette Kress, Nvidia's interim CEO, sought to put the indiscretions of the company's co-founder, Jensen Huang, behind them. This meeting was a significant moment for the team, which is experiencing changes in leadership.\n\nKress emphasized the need for unity and focus on the company's future goals, despite recent events. She urged employees to concentrate on their work and continue the innovations that have made Nvidia a leader in its field.\n\nThis meeting also provided an opportunity for employees to ask questions and voice their concerns, which is important for maintaining team morale during times of change."
+      }
+    },
+    {
+      "link": "https://www.euronews.com/2026/11/19/hegseth-in-colombia-to-deepen-anti-drug-ties-after-surprise-venezuela-stopover",
+      "source": "Euronews",
+      "title": {
+        "ru": "Хегсет в Колумбии для углубления антинаркотических связей после неожиданной остановки в Венесуэле",
+        "en": "Hegseth in Colombia to deepen anti-drug ties after surprise Venezuela stopover"
+      },
+      "summary": {
+        "ru": "Министр обороны Колумбии сообщил парламенту, что глава Пентагона передаст во время визита военный самолет C-130 Hercules.",
+        "en": "Colombian Defense Minister stated that the Pentagon chief would hand over a C-130 Hercules military aircraft during the visit."
+      },
+      "category": {
+        "ru": "Конфликт",
+        "en": "Conflict"
+      },
+      "longBody": {
+        "ru": "Министр обороны Колумбии сообщил парламенту, что во время визита главы Пентагона будет передан военный самолет C-130 Hercules. Это событие подчеркивает усилия Колумбии по укреплению своих военных связей с США в борьбе с наркотрафиком.\n\nПередача самолета является частью более широкого сотрудничества между двумя странами в области безопасности и обороны. Ожидается, что это поможет Колумбии в ее усилиях по борьбе с наркокартелями и улучшению ситуации с безопасностью в стране.\n\nВизит главы Пентагона также может способствовать дальнейшему укреплению двусторонних отношений и совместной работе в области безопасности.",
+        "en": "The Colombian Defense Minister stated in parliament that the Pentagon chief would hand over a C-130 Hercules military aircraft during the visit. This event underscores Colombia's efforts to strengthen its military ties with the U.S. in the fight against drug trafficking.\n\nThe transfer of the aircraft is part of a broader cooperation between the two countries in security and defense. It is expected to assist Colombia in its efforts to combat drug cartels and improve the security situation in the country.\n\nThe Pentagon chief's visit may also foster further strengthening of bilateral relations and collaborative work in the area of security."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest",
+      "source": "New York Times",
+      "title": {
+        "ru": "Вот последние новости.",
+        "en": "Here’s the latest."
+      },
+      "summary": {
+        "ru": "",
+        "en": ""
+      },
+      "category": {
+        "ru": "Политика",
+        "en": "Politics"
+      }
+    },
+    {
+      "link": "https://www.euronews.com/2026/11/19/zelenskyy-says-he-expects-debrief-from-us-envoys-on-trumps-talks-with-xi-and-putin",
+      "source": "Euronews",
+      "title": {
+        "ru": "Зеленский ожидает отчет от американских послов о переговорах Трампа с Си и Путиным",
+        "en": "Zelenskyy says he expects debrief from US envoys on Trump’s talks with Xi and Putin"
+      },
+      "summary": {
+        "ru": "Американские послы сообщили Киеву, что предоставят отчет о переговорах Трампа в Китае во время встреч в Берлине в четверг.",
+        "en": "The US envoys told Kyiv they would give a debrief on the talks being held by Trump in China during meetings in Berlin on Thursday."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Секретарь по внутренней безопасности США прилетел на колледжный матч в субботу, несмотря на отмену тысяч рейсов по стране. Это решение вызвало критику, так как многие граждане столкнулись с трудностями из-за массовых задержек в авиаперевозках.\n\nКритики указывают на то, что подобные действия могут восприниматься как пренебрежение к проблемам обычных людей, которые не смогли добраться до своих мест назначения. В то же время, чиновники подчеркивают необходимость поддерживать важные связи и присутствие на значимых мероприятиях.\n\nТаким образом, ситуация вокруг поездки секретаря по внутренней безопасности подчеркивает напряженность между официальными обязанностями и общественными ожиданиями в условиях кризиса в сфере авиаперевозок.",
-        "en": "The Secretary of Homeland Security flew to attend a college game Saturday, despite thousands of flights being canceled across the country. This decision has drawn criticism as many citizens faced difficulties due to widespread delays in air travel.\n\nCritics point out that such actions may be perceived as disregard for the issues faced by ordinary people who could not reach their destinations. Meanwhile, officials emphasize the need to maintain important connections and presence at significant events.\n\nThus, the situation surrounding the Secretary's trip highlights the tension between official duties and public expectations in the context of a crisis in air travel."
+        "ru": "Президент Украины Владимир Зеленский сообщил, что американские послы предоставят Киеву отчет о переговорах, которые ведет Дональд Трамп в Китае. Это заявление было сделано во время встреч в Берлине, где обсуждаются важные вопросы международной политики.\n\nЗеленский подчеркнул важность получения информации о переговорах, которые могут повлиять на ситуацию в Украине. Ожидается, что отчет поможет Киеву лучше понять позицию США и возможные последствия для украинской политики.\n\nЭти встречи в Берлине подчеркивают продолжающееся сотрудничество между Украиной и США в условиях глобальных вызовов.",
+        "en": "Ukrainian President Volodymyr Zelenskyy stated that U.S. envoys would provide Kyiv with a debrief on the talks being held by Donald Trump in China. This statement was made during meetings in Berlin, where important issues of international policy are being discussed.\n\nZelenskyy emphasized the importance of receiving information about negotiations that could impact the situation in Ukraine. The report is expected to help Kyiv better understand the U.S. position and potential implications for Ukrainian policy.\n\nThese meetings in Berlin highlight the ongoing cooperation between Ukraine and the U.S. in the face of global challenges."
       }
     },
     {
-      "link": "https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee",
+      "link": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
       "source": "The Guardian",
       "title": {
-        "ru": "Комитет Сената отклонил кандидата Трампа на пост главы Национального научного фонда",
-        "en": "Senate committee rejects Trump nominee to lead National Science Foundation"
+        "ru": "‘Удивительная удача’: обнаружены останки первого австралийского военного корабля ровно через 128 лет после его затопления",
+        "en": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking"
       },
       "summary": {
-        "ru": "Председатель комитета Билл Кэссиди заявил, что Джим О'Нил \"не сделал достаточно для защиты науки\" на предыдущих должностях.",
-        "en": "Committee chair Bill Cassidy stated that Jim O’Neill ‘did not do enough to stand up for science’ in previous posts."
+        "ru": "Останки первого местного военного корабля Австралии были обнаружены 128 лет спустя после его затопления у побережья Квинсленда.",
+        "en": "The wreck of Australia’s first locally built warship has been discovered 128 years after sinking off the coast of far north Queensland."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Комитет Сената отклонил кандидатуру Джима О'Нила на пост главы Национального научного фонда. Председатель комитета Билл Кэссиди заявил, что О'Нил \"не сделал достаточно для защиты науки\" на предыдущих должностях, что стало причиной его отказа.\n\nЭта ситуация подчеркивает важность научной политики и необходимость назначения квалифицированных специалистов на ключевые позиции. О'Нил не пройдет слушания по подтверждению своей кандидатуры, что ставит под сомнение будущее Национального научного фонда в условиях сокращения бюджета и замораживания грантов.\n\nТаким образом, отклонение кандидатуры О'Нила может повлиять на научное сообщество и его финансирование в США.",
-        "en": "The Senate committee rejected Jim O’Neill’s nomination to lead the National Science Foundation. Committee chair Bill Cassidy stated that O’Neill ‘did not do enough to stand up for science’ in previous posts, which led to the rejection.\n\nThis situation underscores the importance of science policy and the need for qualified individuals to be appointed to key positions. O’Neill will not undergo a confirmation hearing, raising questions about the future of the National Science Foundation amid budget cuts and grant freezes.\n\nThus, the rejection of O’Neill’s nomination may impact the scientific community and its funding in the U.S."
+        "ru": "Обнаружены останки первого австралийского военного корабля, построенного в стране, ровно через 128 лет после его затопления у побережья Квинсленда. Эта находка была сделана морскими археологами, которые исследовали район, где затонул Ex HMCS Spitfire в 1898 году.\n\nКорабль был построен для защиты Австралии от возможных угроз со стороны российских военных во время Крымской войны. Его обнаружение стало важным событием для историков и археологов, так как оно позволяет лучше понять морскую историю Австралии.\n\nЭта находка также подчеркивает важность сохранения морского наследия и дальнейших исследований в этой области.",
+        "en": "The wreck of Australia’s first locally built warship has been discovered 128 years after sinking off the coast of far north Queensland. This finding was made by marine archaeologists who were exploring the area where Ex HMCS Spitfire sank in 1898.\n\nThe ship was commissioned to protect Australia from potential threats posed by Russian military forces during the Crimean War. Its discovery is a significant event for historians and archaeologists, as it allows for a better understanding of Australia’s maritime history.\n\nThis finding also underscores the importance of preserving maritime heritage and the need for further research in this area."
       }
     },
     {
-      "link": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
+      "link": "https://www.theguardian.com/environment/2026/nov/19/phil-bar-tailed-godwit-bird-tracked-round-trip-siberia",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Встречайте Фила, бар-ногу, отслеженного на круговом маршруте в 6800 миль в Сибирь",
+        "en": "Meet Phil, the bar-tailed godwit tracked on a 6,800-mile round trip to Siberia"
+      },
+      "summary": {
+        "ru": "Ученые используют легкий трекер для картирования необычной миграции этой птицы с Норфолка в Арктику и обратно.",
+        "en": "Scientists use a lightweight tracker to map the extraordinary migration of a bar-tailed godwit from Norfolk to Siberia and back."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Ученые использовали легкий трекер для картирования необычной миграции бар-тайлд гудвита по имени Фил, который совершил 6,800 мильный путь из Норфолка в Сибирь и обратно. Это исследование стало первым в своем роде, позволяющим лучше понять поведение этой птицы.\n\nБар-тайлд гудвит известен тем, что совершает самые длинные зарегистрированные непрерывные миграционные полеты среди птиц. Исследование его маршрута поможет ученым изучить влияние изменений климата и среды обитания на миграцию.\n\nЭто открытие также подчеркивает важность использования технологий для изучения миграционных паттернов и сохранения видов, находящихся под угрозой.",
+        "en": "Scientists used a lightweight tracker to map the extraordinary migration of a bar-tailed godwit named Phil, who completed a 6,800-mile journey from Norfolk to Siberia and back. This research marks the first of its kind, allowing for a better understanding of the bird's behavior.\n\nThe bar-tailed godwit is known for making the longest recorded non-stop migratory flights of any bird. Studying its route will help scientists examine the impact of climate change and habitat alterations on migration.\n\nThis discovery also underscores the importance of using technology to study migratory patterns and conserve threatened species."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Что произошло с $18 миллиардов, обещанных Совету мира Трампа для Газы?",
-        "en": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?"
+        "ru": "Далеко от встречи Трампа и Путина, Европа подсчитает стоимость обороны Украины",
+        "en": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence"
       },
       "summary": {
-        "ru": "С момента 'перемирия' в 2025 году было обещано миллиарды для Газы, но восстановление не началось, и атаки Израиля продолжаются.",
-        "en": "Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue."
+        "ru": "Европейские лидеры собираются встретиться в Берлине, поскольку Киеву грозит дефицит финансирования в 25 миллиардов евро в следующем году.",
+        "en": "European leaders set to meet in Berlin as Kyiv faces a 25 billion-euro financing gap next year."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "С момента 'перемирия' в 2025 году было обещано миллиарды долларов для восстановления Газы, однако фактические работы по восстановлению еще не начались, а атаки Израиля продолжаются. Это вызывает серьезные вопросы о том, куда ушли обещанные средства и как они могут быть использованы для помощи пострадавшим.\n\nМестные жители выражают разочарование по поводу отсутствия прогресса в восстановлении, несмотря на международные обещания. Ситуация в Газе остается напряженной, и многие семьи продолжают страдать от последствий конфликта.\n\nТаким образом, отсутствие действий по восстановлению подчеркивает необходимость более эффективного управления международной помощью и ответственности за обещания, данные в условиях кризиса.",
-        "en": "Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue. This raises serious questions about where the promised funds have gone and how they might be used to assist those affected.\n\nLocal residents express frustration over the lack of progress in rebuilding despite international promises. The situation in Gaza remains tense, and many families continue to suffer the consequences of the conflict.\n\nThus, the absence of action on rebuilding highlights the need for more effective management of international aid and accountability for promises made in times of crisis."
+        "ru": "Европейские лидеры собираются встретиться в Берлине, поскольку Украина сталкивается с дефицитом финансирования в размере 25 миллиардов евро в следующем году. Это собрание станет важной возможностью для обсуждения поддержки Украины в условиях продолжающегося конфликта.\n\nЛидеры обсудят, как Европа может помочь Киеву справиться с финансовыми трудностями и обеспечить необходимую помощь для защиты страны. Ожидается, что встреча приведет к новым инициативам и соглашениям, направленным на поддержку Украины.\n\nЭти обсуждения подчеркивают важность единства Европы в вопросах безопасности и стабильности в регионе.",
+        "en": "European leaders are set to meet in Berlin as Kyiv faces a 25 billion-euro financing gap next year. This meeting will provide an important opportunity to discuss support for Ukraine amid the ongoing conflict.\n\nLeaders will discuss how Europe can assist Kyiv in addressing financial difficulties and provide the necessary aid for the country's defense. The meeting is expected to lead to new initiatives and agreements aimed at supporting Ukraine.\n\nThese discussions highlight the importance of European unity on issues of security and stability in the region."
       }
     },
     {
-      "link": "https://www.theguardian.com/society/2026/nov/18/traces-of-filler-found-in-heart-and-brain-of-woman-who-died-after-cosmetic-procedure-uk-inquest-hears",
-      "source": "The Guardian",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
+      "source": "Al Jazeera",
       "title": {
-        "ru": "Следы наполнителя найдены в сердце и мозге женщины, умершей после косметической процедуры, слышал коронер в Великобритании",
-        "en": "Traces of filler found in heart and brain of woman who died after cosmetic procedure, UK inquest hears"
+        "ru": "Трамп хочет обсудить ядерное разоружение с Путиным и Си",
+        "en": "Trump wants to talk nuclear with Putin and Xi"
       },
       "summary": {
-        "ru": "Присяжные узнали, что Джордан Парке ввел семь раз больше наполнителя, чем его учили использовать, во время 'бразильского подтяжки ягодиц'.",
-        "en": "A jury was told that Jordan Parke injected seven times the amount of filler he’d been taught to use during Alice Webb’s ‘Brazilian butt lift’."
+        "ru": "Президент США Дональд Трамп заявил, что планирует поднять вопрос о ядерном нераспространении с Си Цзиньпином и Владимиром Путиным.",
+        "en": "US President Donald Trump says he plans to raise nuclear non-proliferation with China’s Xi and Russia’s Putin."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "На судебном разбирательстве выяснилось, что Джордан Парке ввел семь раз больше наполнителя, чем ему было разрешено, во время проведения процедуры 'бразильского подтяжки ягодиц' на Алисе Уэбб. Присяжные узнали, что следы наполнителя были обнаружены в сердце, легких и мозге погибшей женщины.\n\nЭтот случай подчеркивает важность соблюдения стандартов безопасности в косметической хирургии и необходимость строгого контроля за практикой таких процедур. Общественность выражает обеспокоенность по поводу потенциальных рисков, связанных с некомпетентностью специалистов.\n\nТаким образом, трагедия с Алисе Уэбб служит напоминанием о необходимости повышения стандартов в области косметической хирургии и защиты пациентов.",
-        "en": "A jury was told that Jordan Parke injected seven times the amount of filler he’d been taught to use during Alice Webb’s ‘Brazilian butt lift’. Traces of the filler injected into Alice Webb, 33, were discovered in her heart, lungs, brain, and kidneys.\n\nThis case highlights the importance of adhering to safety standards in cosmetic surgery and the need for strict oversight of such procedures. The public expresses concern over the potential risks associated with the incompetence of practitioners.\n\nThus, the tragedy involving Alice Webb serves as a reminder of the need to raise standards in cosmetic surgery and protect patients."
+        "ru": "Президент США Дональд Трамп заявил, что планирует поднять вопрос о ядерном нераспространении на предстоящих встречах с лидерами Китая и России, Си Цзиньпином и Владимиром Путиным. Это заявление подчеркивает важность обсуждения вопросов глобальной безопасности в условиях растущих ядерных угроз.\n\nТрамп отметил, что диалог по ядерному нераспространению необходим для поддержания стабильности и предотвращения потенциальных конфликтов. Ожидается, что эти обсуждения будут частью более широких переговоров, касающихся международной безопасности и сотрудничества.\n\nСитуация вокруг ядерного оружия остается актуальной, и Трамп стремится укрепить позиции США в этом вопросе на международной арене.",
+        "en": "US President Donald Trump has stated that he plans to raise the issue of nuclear non-proliferation in upcoming meetings with China's Xi Jinping and Russia's Vladimir Putin. This statement highlights the importance of discussing global security issues amid rising nuclear threats.\n\nTrump emphasized that dialogue on nuclear non-proliferation is essential for maintaining stability and preventing potential conflicts. These discussions are expected to be part of broader negotiations concerning international security and cooperation.\n\nThe situation surrounding nuclear weapons remains pressing, and Trump aims to strengthen the US position on this issue on the international stage."
       }
     },
     {
-      "link": "https://www.theguardian.com/us-news/2026/nov/18/illinois-ethanol-plant-bomb-threat-charges",
-      "source": "The Guardian",
+      "link": "https://www.aljazeera.com/news/2026/11/19/elon-musk-says-he-feels-pretty-foolish-about-us-midterm-spending?traffic_source=rss",
+      "source": "Al Jazeera",
       "title": {
-        "ru": "Мужчина обвинен в связи с угрозой взрыва на этанольном заводе в Иллинойсе",
-        "en": "Man charged in connection to bomb threat at Illinois ethanol plant"
+        "ru": "Илон Маск говорит, что чувствует себя «довольно глупо» из-за трат на выборы в США",
+        "en": "Elon Musk says he feels ‘pretty foolish’ about US midterm spending"
       },
       "summary": {
-        "ru": "41-летний мужчина был обвинен в связи с угрозой взрыва на заводе в Пеории, штат Иллинойс.",
-        "en": "A 41-year-old man has been charged in connection to last week’s bomb threat at an ethanol plant in Peoria, Illinois."
+        "ru": "Маск заявил, что деньги на кампании не могут решить исход выборов, несмотря на то, что он щедро финансировал республиканцев в Техасе.",
+        "en": "Musk says campaign cash alone cannot decide elections, even as he heavily funded Republican candidates in Texas."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "41-летний мужчина был обвинен в связи с угрозой взрыва на заводе по производству этанола в Пеории, штат Иллинойс. Эндрю М. Козак, 41, был арестован после того, как на заводе было найдено взрывное устройство.\n\nОбвинения включают передачу угрозы через межгосударственную или иностранную торговлю с целью незаконного повреждения или уничтожения завода с использованием огня и взрывного устройства. Это дело подчеркивает важность обеспечения безопасности на производственных объектах и необходимость строгого контроля за угрозами подобного рода.\n\nТаким образом, инцидент в Пеории вызывает серьезные вопросы о безопасности и защите на рабочих местах в США.",
-        "en": "A 41-year-old man has been charged in connection to last week’s bomb threat at an ethanol plant in Peoria, Illinois. Andrew M. Kozak, 41, was arrested after an explosive device was found at the facility.\n\nThe charges include transmitting a threat through interstate or foreign commerce to unlawfully damage or destroy the plant using fire and an explosive. This case underscores the importance of ensuring safety at manufacturing facilities and the need for strict oversight of such threats.\n\nThus, the incident in Peoria raises serious questions about workplace safety and security in the U.S."
+        "ru": "Элон Маск выразил мнение, что деньги на кампании не могут решить исход выборов, несмотря на то, что он щедро финансировал республиканцев в Техасе. Это заявление подчеркивает его скептицизм относительно влияния финансов на политические результаты.\n\nМаск отметил, что даже значительные вложения в кампании не гарантируют успеха кандидатов. Это мнение может вызвать обсуждение о роли денег в политике и о том, как они влияют на выборы.\n\nВ условиях растущей политической поляризации в США, такие комментарии Маска подчеркивают необходимость более глубокого анализа факторов, влияющих на выборы.",
+        "en": "Elon Musk expressed the view that campaign cash alone cannot decide election outcomes, even as he heavily funded Republican candidates in Texas. This statement underscores his skepticism regarding the influence of money on political results.\n\nMusk noted that even significant investments in campaigns do not guarantee candidates' success. This opinion may spark discussions about the role of money in politics and how it affects elections.\n\nIn the context of increasing political polarization in the US, Musk's comments highlight the need for a deeper analysis of the factors influencing elections."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-this-ancient-swahili-town-at-risk-from-kenyas-energy-boom?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Под угрозой ли этот древний суахилийский город из-за энергетического бума в Кении?",
+        "en": "Is this ancient Swahili town at risk from Kenya’s energy boom"
+      },
+      "summary": {
+        "ru": "Восточная Африка инвестирует миллиарды в нефтяную инфраструктуру для укрепления энергетической безопасности и снижения зависимости от импорта.",
+        "en": "East Africa is betting billions on oil infrastructure to strengthen energy security and reduce dependence on imports."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Восточная Африка делает крупные инвестиции в нефтяную инфраструктуру, стремясь укрепить свою энергетическую безопасность и снизить зависимость от импорта. Эти усилия направлены на создание устойчивой энергетической системы в регионе.\n\nИнвестиции в нефтяную инфраструктуру могут привести к экономическому росту и созданию рабочих мест, однако также вызывают опасения по поводу экологических последствий и устойчивости местных сообществ.\n\nСтраны региона рассматривают эти проекты как способ повысить свою независимость в энергетической сфере, что может изменить динамику энергетической политики в Восточной Африке.",
+        "en": "East Africa is making significant investments in oil infrastructure, aiming to strengthen its energy security and reduce dependence on imports. These efforts are focused on creating a sustainable energy system in the region.\n\nInvestments in oil infrastructure could lead to economic growth and job creation, but they also raise concerns about environmental impacts and the sustainability of local communities.\n\nCountries in the region view these projects as a way to enhance their energy independence, which could shift the dynamics of energy policy in East Africa."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Это замечательный дипломатический момент для Си в Китае, но он сопряжен с рисками",
+        "en": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls"
+      },
+      "summary": {
+        "ru": "Встреча сопряжена с вызовами, так как есть темы, которые Си не хочет обсуждать с Путиным и Трампом.",
+        "en": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Встреча между лидерами Китая, России и США сопряжена с вызовами, так как есть темы, которые Си Цзиньпин не хочет обсуждать с Путиным и Трампом. Это создает напряженность в преддверии переговоров, которые могут затронуть важные международные вопросы.\n\nСи, как ожидается, будет осторожен в своих подходах, чтобы избежать конфронтации по вопросам, которые могут вызвать разногласия. Это может повлиять на ход переговоров и их результаты.\n\nВ условиях глобальной политической нестабильности, такие встречи становятся важными для поддержания диалога, однако они также могут обострить существующие разногласия.",
+        "en": "The meeting between the leaders of China, Russia, and the US comes with challenges, as there are topics that Xi Jinping does not appear keen to discuss with Putin and Trump. This creates tension ahead of negotiations that may touch on significant international issues.\n\nXi is expected to be cautious in his approaches to avoid confrontation on matters that could lead to disagreements. This may impact the course of the negotiations and their outcomes.\n\nIn the context of global political instability, such meetings become crucial for maintaining dialogue, but they can also exacerbate existing differences."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Крымский мост снова атакован, говорит российский чиновник",
+        "en": "Crimean Bridge attacked again, Russian official says"
+      },
+      "summary": {
+        "ru": "Глава Крыма сообщил, что движение было приостановлено после новой атаки на мост между Россией и оккупированной территорией.",
+        "en": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Глава Крыма сообщил, что движение по Крымскому мосту было приостановлено после новой атаки на инфраструктуру, соединяющую Россию с оккупированной территорией. Это событие подчеркивает продолжающуюся напряженность в регионе.\n\nАтака на мост произошла в контексте обострения конфликта и может повлиять на транспортные и экономические связи между Россией и Крымом. Это также вызывает вопросы о безопасности и устойчивости инфраструктуры в условиях конфликта.\n\nСитуация вокруг Крымского моста остается напряженной, и дальнейшие события могут привести к новым эскалациям конфликта.",
+        "en": "The head of Crimea reported that traffic on the Crimean Bridge was suspended following another attack on the infrastructure linking Russia to the occupied territory. This event underscores the ongoing tension in the region.\n\nThe attack on the bridge occurred amid escalating conflict and may impact transportation and economic ties between Russia and Crimea. It also raises concerns about the safety and resilience of infrastructure in conflict conditions.\n\nThe situation surrounding the Crimean Bridge remains tense, and further developments could lead to new escalations in the conflict."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-hug-shenzhen.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Как расшифровать объятие Си и Трампа",
+        "en": "How to Decode the Xi-Trump Hug"
+      },
+      "summary": {
+        "ru": "Приветствие, которое лидер Китая Си Цзиньпин предложил президенту Трампу, похоже, отражает желание стабильности в условиях растущих разногласий.",
+        "en": "The welcome China’s leader, Xi Jinping, offered President Trump appeared to reflect a desire for a measure of stability at a time of growing disagreements."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Приветствие, которое лидер Китая Си Цзиньпин предложил президенту Трампу, похоже, отражает желание стабильности в условиях растущих разногласий между двумя странами. Это событие может стать важным моментом в китайско-американских отношениях.\n\nСи, вероятно, стремится установить более конструктивный диалог, несмотря на существующие разногласия по ряду вопросов. Это может помочь в смягчении напряженности и поиске общих интересов.\n\nВ условиях глобальных вызовов, таких как изменение климата и безопасность, такие встречи могут сыграть ключевую роль в формировании будущего сотрудничества между Китаем и США.",
+        "en": "The welcome that China's leader Xi Jinping offered President Trump appears to reflect a desire for stability amid growing disagreements between the two countries. This event could mark an important moment in Sino-American relations.\n\nXi is likely seeking to establish a more constructive dialogue despite existing differences on various issues. This could help ease tensions and find common interests.\n\nIn the face of global challenges such as climate change and security, such meetings can play a crucial role in shaping the future of cooperation between China and the US."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/media/2026/nov/19/shame-old-aussies-to-fresh-chaos-what-the-uk-papers-say-about-bancrofts-explosive-ball-tampering-claims-ntwnfb",
+      "source": "The Guardian",
+      "title": {
+        "ru": "«Стыдные старые австралийцы» и «новый хаос»: что пишут британские газеты о шокирующих обвинениях Банкрафта в подделке мяча",
+        "en": "‘Shame old Aussies’ to ‘fresh chaos’: what the UK papers say about Bancroft’s explosive ball tampering claims"
+      },
+      "summary": {
+        "ru": "Спортивные разделы британских газет обсуждают развивающийся кризис в австралийском крикете после обвинений Банкрафта, что вся команда знала о плане подделки мяча в 2018 году.",
+        "en": "Sports sections of British newspapers deliver their take on the unfolding Cricket Australia sandpaper saga after Bancroft alleged everyone on the team knew about the 2018 plot."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Спортивные разделы британских газет активно обсуждают развивающийся кризис в австралийском крикете после обвинений Банкрафта о том, что вся команда знала о плане подделки мяча в 2018 году. Это заявление поднимает вопросы о честности и этике в спорте.\n\nОбвинения Банкрафта произошли всего через несколько дней после пресс-конференции капитана сборной Австралии, на которой он отрицал, что вся команда была в курсе плана. Это создает дополнительные сложности для команды и ее руководства.\n\nКризис в австралийском крикете продолжает развиваться, и его последствия могут оказать значительное влияние на репутацию спорта в стране.",
+        "en": "Sports sections of British newspapers are actively discussing the unfolding crisis in Australian cricket following Bancroft's allegations that the entire team was aware of the ball tampering plot in 2018. This statement raises questions about honesty and ethics in sports.\n\nBancroft's allegations came just days after a press conference by the Australian team captain, during which he denied that the entire team was aware of the plan. This creates additional complications for the team and its management.\n\nThe crisis in Australian cricket continues to develop, and its repercussions could significantly impact the sport's reputation in the country."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Каждая четвертая женщина в мире не может отказать в сексе в браке, говорит ООН",
+        "en": "One in four women globally unable to refuse sex within marriage, says UN"
+      },
+      "summary": {
+        "ru": "По данным ООН, каждая четвертая женщина в мире не может отказать в сексе, если ее муж или партнер требует этого.",
+        "en": "One in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "По данным ООН, каждая четвертая женщина в мире не может отказать в сексе, если ее муж или партнер требует этого. Этот отчет подчеркивает серьезные проблемы с правами женщин и вопросами согласия в различных культурах.\n\nВ западной и центральной Африке почти половина женщин (45%) не могут сказать \"нет\" в своих браках, что подчеркивает необходимость изменений в отношении к правам женщин. Это также касается других регионов, где женщины сталкиваются с аналогичными трудностями.\n\nОтчет ООН призывает к действиям для улучшения ситуации и защиты прав женщин, что является важным шагом к достижению гендерного равенства.",
+        "en": "According to a UN report, one in four women around the world have no power of consent if their husband or partner demands sex. This report highlights serious issues regarding women's rights and consent in various cultures.\n\nIn west and central Africa, nearly half of women (45%) are unable to say no in their marriages, emphasizing the need for changes in attitudes toward women's rights. This also applies to other regions where women face similar challenges.\n\nThe UN report calls for action to improve the situation and protect women's rights, which is an important step toward achieving gender equality."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Карни и Трамп провели незапланированную встречу по торговле на саммите в Азии",
+        "en": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit"
+      },
+      "summary": {
+        "ru": "Двусторонняя встреча между соседями состоялась после торговых успехов премьер-министра Канады на этой неделе с Китаем и Филиппинами.",
+        "en": "The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Двусторонняя встреча между Канадой и США состоялась после недавних торговых успехов премьер-министра Канады с Китаем и Филиппинами. Эта встреча подчеркивает важность торговых отношений между соседними странами.\n\nОбсуждения на встрече могут затронуть вопросы, касающиеся торговли, инвестиций и экономического сотрудничества. Ожидается, что обе стороны будут стремиться к укреплению связей и поиску новых возможностей для совместной работы.\n\nВ условиях глобальной экономической неопределенности, такие встречи становятся важными для поддержания стабильности и развития двусторонних отношений.",
+        "en": "A bilateral meeting between Canada and the US took place following recent trade successes for Canada's prime minister with China and the Philippines. This meeting underscores the importance of trade relations between neighboring countries.\n\nDiscussions at the meeting may address issues related to trade, investment, and economic cooperation. Both sides are expected to seek to strengthen ties and explore new opportunities for collaboration.\n\nIn the context of global economic uncertainty, such meetings become crucial for maintaining stability and developing bilateral relations."
+      }
+    },
+    {
+      "link": "https://www.dw.com/en/crimean-bridge-has-been-attacked-again-russian-official-says/a-79986700?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "title": {
+        "ru": "Крымский мост снова подвергся атаке, говорит российский чиновник",
+        "en": "Crimean Bridge has been attacked again, Russian official says"
+      },
+      "summary": {
+        "ru": "Крымский мост снова подвергся атаке, сообщил губернатор Крыма. Атака произошла накануне совместных переговоров Путина с Трампом и Си в Китае.",
+        "en": "The Crimean Bridge has been attacked again, Crimea's Russian-installed governor said. The attack comes as Vladimir Putin prepares to sit down with Donald Trump and Xi Jinping for joint talks in China."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Губернатор Крыма сообщил, что Крымский мост снова подвергся атаке. Эта атака произошла накануне совместных переговоров Путина с Трампом и Си в Китае, что добавляет напряженности к уже сложной ситуации в регионе.\n\nАтака на мост может повлиять на транспортные связи и экономические отношения между Россией и оккупированной территорией. Это также поднимает вопросы о безопасности и устойчивости инфраструктуры в условиях конфликта.\n\nСитуация вокруг Крымского моста продолжает оставаться напряженной, и дальнейшие события могут привести к новым эскалациям конфликта.",
+        "en": "Crimea's governor reported that the Crimean Bridge has been attacked again. This attack occurred just before joint talks between Putin, Trump, and Xi in China, adding tension to an already complex situation in the region.\n\nThe attack on the bridge may impact transportation links and economic relations between Russia and the occupied territory. It also raises questions about the safety and resilience of infrastructure in conflict conditions.\n\nThe situation surrounding the Crimean Bridge remains tense, and further developments could lead to new escalations in the conflict."
       }
     }
   ]
