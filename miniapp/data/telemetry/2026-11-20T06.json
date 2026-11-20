@@ -1,0 +1,1259 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.955813611111111,
+  "poolSize": 127,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 2,
+      "title": "US sells first deep-sea mining leases off American Samoa, days after court ruled against process",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/20/us-sells-first-deep-sea-mining-leases-off-american-samoa-days-after-court-ruled-against-pr"
+    },
+    {
+      "index": 3,
+      "title": "Love and Carjackings in a Video Game",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html"
+    },
+    {
+      "index": 4,
+      "title": "More climate money for Africa? Europe says use what's already pledged",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 5,
+      "title": "Kellie Sloane says she’s ‘pretty sure’ NSW Liberals exodus is over after Mark Speakman resigns",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues"
+    },
+    {
+      "index": 6,
+      "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss"
+    },
+    {
+      "index": 7,
+      "title": "A Summit Gives Putin the Win He Craves: Equal Stature With Superpowers",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html"
+    },
+    {
+      "index": 8,
+      "title": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html"
+    },
+    {
+      "index": 9,
+      "title": "Easing Back From Brexit: What to Expect at U.K. Summit With E.U.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html"
+    },
+    {
+      "index": 10,
+      "title": "Race to be next UN secretary general exposes divisions among world powers",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers"
+    },
+    {
+      "index": 11,
+      "title": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests"
+    },
+    {
+      "index": 12,
+      "title": "Patient ‘horrified’ to find her sensitive discussions were shared with more than 100,000 NHS staff",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/20/patient-confidentiality-sensitive-discussion-records-shared-nhs-staff"
+    },
+    {
+      "index": 13,
+      "title": "Contaminated petrol leaves Yemeni drivers struggling to make ends meet",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss"
+    },
+    {
+      "index": 14,
+      "title": "Beau Lamarre-Condon’s explanations of body disposal ‘ring hollow’, court hears",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/20/beau-lamarre-condons-attempts-to-explain-disposal-alleged-victims-bodies-ring-hollow-court-hears-ntwnfb"
+    },
+    {
+      "index": 15,
+      "title": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss"
+    },
+    {
+      "index": 16,
+      "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne"
+    },
+    {
+      "index": 17,
+      "title": "UK and EU to agree youth mobility scheme, BBC understands",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 18,
+      "title": "Senate Passes Major Permitting Bill to Speed Up Energy Projects",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html"
+    },
+    {
+      "index": 19,
+      "title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152"
+    },
+    {
+      "index": 20,
+      "title": "White House replaces cyber security chief after tech outages",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 21,
+      "title": "‘Perfect weapon’: diabetic woman found guilty of murdering her 94-year-old parents with insulin",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/20/diabetic-woman-found-guilty-murdering-94-year-old-parents-with-insulin-ntwnfb"
+    },
+    {
+      "index": 22,
+      "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 23,
+      "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal-2?traffic_source=rss"
+    },
+    {
+      "index": 24,
+      "title": "Thousands protest Colombia’s tax plans amid row over US military role",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss"
+    },
+    {
+      "index": 25,
+      "title": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss"
+    },
+    {
+      "index": 26,
+      "title": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat"
+    },
+    {
+      "index": 27,
+      "title": "Is it time to change the UK age of consent? – podcast",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/news/audio/2026/nov/20/is-it-time-to-change-the-uk-age-of-consent-podcast"
+    },
+    {
+      "index": 28,
+      "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates"
+    },
+    {
+      "index": 29,
+      "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 30,
+      "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss"
+    },
+    {
+      "index": 31,
+      "title": "Hippo Fiona dies days after swallowing visitor’s hat",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss"
+    },
+    {
+      "index": 32,
+      "title": "Texas botches execution of Reinaldo Dennes as staffers struggle to find vein",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas"
+    },
+    {
+      "index": 33,
+      "title": "Judge Allows Trump’s $15 Billion Case Against The Times to Proceed",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html"
+    },
+    {
+      "index": 34,
+      "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html"
+    },
+    {
+      "index": 35,
+      "title": "Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senate win",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate"
+    },
+    {
+      "index": 36,
+      "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust"
+    },
+    {
+      "index": 37,
+      "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss"
+    },
+    {
+      "index": 38,
+      "title": "Delaware Regulator Says It Was ‘Misled’ About Mark Walter’s Insurance Assets",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/19/business/delaware-regulator-mark-walters-insurance.html"
+    },
+    {
+      "index": 39,
+      "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html"
+    },
+    {
+      "index": 40,
+      "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html"
+    },
+    {
+      "index": 41,
+      "title": "Google Disrupts Its Search Advertising With Its Embrace of A.I.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html"
+    },
+    {
+      "index": 42,
+      "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html"
+    },
+    {
+      "index": 43,
+      "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss"
+    },
+    {
+      "index": 44,
+      "title": "New Ukraine talks including Europe to be held 'soon' — Merz",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/new-ukraine-talks-including-europe-to-be-held-soon-merz/a-79997961?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 45,
+      "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html"
+    },
+    {
+      "index": 46,
+      "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss"
+    },
+    {
+      "index": 47,
+      "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss"
+    },
+    {
+      "index": 48,
+      "title": "Cincinnati's famous hippo Fiona dies after eating visitor's hat",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 49,
+      "title": "How Virtual Cells Could Transform Medicine",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/18/science/ai-virtual-human-cells.html"
+    },
+    {
+      "index": 50,
+      "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec"
+    },
+    {
+      "index": 51,
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 52,
+      "title": "Haiti police say 34 gang members killed in capital raid",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss"
+    },
+    {
+      "index": 53,
+      "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html"
+    },
+    {
+      "index": 54,
+      "title": "El Salvador’s Bukele expected to formalise bid for third presidential term",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss"
+    },
+    {
+      "index": 55,
+      "title": "Religion should be removed from terrorism definition under Australian law as it gives ‘false credibility’, watchdog says",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/law/2026/nov/20/religion-should-removed-from-terrorism-definition-australian-law-gives-false-credibility-watchdog-ntwnfb"
+    },
+    {
+      "index": 56,
+      "title": "Why Canada is embracing AI data centres while the US pushes back",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 57,
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 58,
+      "title": "Airbnb's divisive new house rules come into force",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 59,
+      "title": "Four bodies recovered after Senegal boat capsizes amid migration surge",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss"
+    },
+    {
+      "index": 60,
+      "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 61,
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 62,
+      "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss"
+    },
+    {
+      "index": 63,
+      "title": "How did Anthropic's stock market debut unfold?",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 64,
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 65,
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 66,
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 67,
+      "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 68,
+      "title": "Price tag for US war in Iran barrels past $48 billion",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/price-tag-for-us-war-in-iran-barrels-past-48-billion/a-79998255?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 69,
+      "title": "Ukraine: Russian strikes damage Austrian and Dutch embassies in Kyiv",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/20/ukraine-russian-strikes-damage-austrian-and-dutch-embassies-in-kyiv"
+    },
+    {
+      "index": 70,
+      "title": "With GTA 6 Release, DoorDash and Other Food Delivery Apps Are Making a Killing",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/19/dining/grand-theft-auto-food-delivery.html"
+    },
+    {
+      "index": 71,
+      "title": "Six killed in suspected gas explosion at Georgia apartment building",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss"
+    },
+    {
+      "index": 72,
+      "title": "California targets Nvidia in China AI chip probe",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 73,
+      "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss"
+    },
+    {
+      "index": 74,
+      "title": "From premature baby to social media star - Famed hippo Fiona dies",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 75,
+      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 76,
+      "title": "How Much Anthropic Are You About to Own?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/19/upshot/anthropic-ipo-stock.html"
+    },
+    {
+      "index": 77,
+      "title": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html"
+    },
+    {
+      "index": 78,
+      "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html"
+    },
+    {
+      "index": 79,
+      "title": "Thomas Markle, Meghan’s father, is competent to face child sex abuse images case",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent"
+    },
+    {
+      "index": 80,
+      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 42,
+      "memberIndices": [
+        42,
+        6,
+        62,
+        24,
+        11
+      ],
+      "score": 95,
+      "category": "conflict",
+      "rationale": "The International Court of Justice's ruling on Myanmar's genocide against the Rohingya marks a significant moment in international law and human rights."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18,
+        20,
+        15,
+        19,
+        80
+      ],
+      "score": 90,
+      "category": "politics",
+      "rationale": "The Senate's passage of a major permitting bill to expedite energy projects reflects critical shifts in U.S. energy policy amid ongoing climate challenges."
+    },
+    {
+      "representativeIndex": 7,
+      "memberIndices": [
+        7,
+        50,
+        39,
+        44
+      ],
+      "score": 85,
+      "category": "world",
+      "rationale": "Putin's summit with Trump and Xi symbolizes a significant geopolitical alignment that could reshape international relations."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4,
+        25,
+        51,
+        17,
+        9
+      ],
+      "score": 80,
+      "category": "climate",
+      "rationale": "The demand for increased climate funding at the UN summit highlights the urgent need for global cooperation in addressing climate change."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        49,
+        34,
+        66,
+        77
+      ],
+      "score": 75,
+      "category": "technology",
+      "rationale": "The anticipated arrival of the spacecraft at Mercury represents a major milestone in space exploration and scientific discovery."
+    },
+    {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12,
+        21,
+        79,
+        14,
+        32
+      ],
+      "score": 70,
+      "category": "law",
+      "rationale": "The investigation into the sharing of sensitive patient data raises critical questions about privacy and ethics in healthcare."
+    },
+    {
+      "representativeIndex": 30,
+      "memberIndices": [
+        30,
+        69,
+        68,
+        71
+      ],
+      "score": 65,
+      "category": "disaster",
+      "rationale": "The ongoing humanitarian crisis in Yemen, exacerbated by the conflict and recent events, underscores the dire need for international attention and aid."
+    },
+    {
+      "representativeIndex": 8,
+      "memberIndices": [
+        8,
+        10,
+        28
+      ],
+      "score": 60,
+      "category": "society",
+      "rationale": "The rise of Gen Z in global politics signifies a transformative shift in societal values and activism."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2,
+        23,
+        56
+      ],
+      "score": 55,
+      "category": "economy",
+      "rationale": "The U.S. sale of deep-sea mining leases amidst legal challenges highlights the tensions between economic interests and environmental protections."
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52,
+        13,
+        47,
+        59
+      ],
+      "score": 50,
+      "category": "conflict",
+      "rationale": "The struggles of Gaza Civil Defence amid ongoing conflict illustrate the dire humanitarian situation in the region.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        70,
+        29
+      ],
+      "score": 45,
+      "category": "culture",
+      "rationale": "The cultural impact of video games like GTA reflects broader societal discussions on morality and entertainment."
+    },
+    {
+      "representativeIndex": 31,
+      "memberIndices": [
+        31,
+        65,
+        74,
+        48,
+        26
+      ],
+      "score": 40,
+      "category": "society",
+      "rationale": "The death of Fiona the hippo, a beloved zoo animal, resonates with public sentiment and highlights issues of animal care."
+    },
+    {
+      "representativeIndex": 37,
+      "memberIndices": [
+        37,
+        36
+      ],
+      "score": 35,
+      "category": "law",
+      "rationale": "The postponement of the U.S. army's chemical detonation plan due to public outcry emphasizes the importance of community safety in military operations."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5
+      ],
+      "score": 25,
+      "category": "politics",
+      "rationale": "The resignation of multiple Liberal MPs in New South Wales signals potential shifts in political dynamics ahead of elections."
+    },
+    {
+      "representativeIndex": 22,
+      "memberIndices": [
+        22
+      ],
+      "score": 10,
+      "category": "society",
+      "rationale": "The warning issued by China regarding climbing Mount Fuji reflects ongoing concerns about safety and public awareness."
+    },
+    {
+      "representativeIndex": 16,
+      "memberIndices": [
+        16
+      ],
+      "score": 19.8,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 27,
+      "memberIndices": [
+        27
+      ],
+      "score": 19.6625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 33,
+      "memberIndices": [
+        33
+      ],
+      "score": 19.5875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 35,
+      "memberIndices": [
+        35
+      ],
+      "score": 19.5625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38
+      ],
+      "score": 19.525,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 40,
+      "memberIndices": [
+        40
+      ],
+      "score": 19.5,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 41,
+      "memberIndices": [
+        41
+      ],
+      "score": 19.4875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 43,
+      "memberIndices": [
+        43
+      ],
+      "score": 19.4625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 19.4375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46
+      ],
+      "score": 19.425,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 54,
+      "memberIndices": [
+        54
+      ],
+      "score": 19.325,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 19.3125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 57,
+      "memberIndices": [
+        57
+      ],
+      "score": 19.2875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 19.275,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60
+      ],
+      "score": 19.25,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 61,
+      "memberIndices": [
+        61
+      ],
+      "score": 19.2375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 19.2125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64
+      ],
+      "score": 19.2,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 67,
+      "memberIndices": [
+        67
+      ],
+      "score": 19.1625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 72,
+      "memberIndices": [
+        72
+      ],
+      "score": 19.1,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 73,
+      "memberIndices": [
+        73
+      ],
+      "score": 19.0875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 75,
+      "memberIndices": [
+        75
+      ],
+      "score": 19.0625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76
+      ],
+      "score": 19.05,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 78,
+      "memberIndices": [
+        78
+      ],
+      "score": 19.025,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 13557,
+      "usage": {
+        "inputTokens": 7227,
+        "outputTokens": 972,
+        "totalTokens": 8199
+      },
+      "estimatedCostUsd": 0.00166725,
+      "returnedCount": 19,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 16856,
+      "usage": {
+        "inputTokens": 1393,
+        "outputTokens": 1143,
+        "totalTokens": 2536
+      },
+      "estimatedCostUsd": 0.00089475,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 17793,
+      "usage": {
+        "inputTokens": 1284,
+        "outputTokens": 1208,
+        "totalTokens": 2492
+      },
+      "estimatedCostUsd": 0.0009174,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 15382,
+      "usage": {
+        "inputTokens": 880,
+        "outputTokens": 1140,
+        "totalTokens": 2020
+      },
+      "estimatedCostUsd": 0.000816,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 28584,
+      "usage": {
+        "inputTokens": 2024,
+        "outputTokens": 2517,
+        "totalTokens": 4541
+      },
+      "estimatedCostUsd": 0.0018138,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 33301,
+      "usage": {
+        "inputTokens": 1983,
+        "outputTokens": 2748,
+        "totalTokens": 4731
+      },
+      "estimatedCostUsd": 0.00194625,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 34008,
+      "usage": {
+        "inputTokens": 1547,
+        "outputTokens": 2862,
+        "totalTokens": 4409
+      },
+      "estimatedCostUsd": 0.00194925,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-11-20T06:04:23.920Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.0100047,
+    "complete": true,
+    "inputTokens": 16338,
+    "outputTokens": 12590,
+    "totalTokens": 28928,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+          "source": "New York Times",
+          "title_en": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html",
+          "source": "New York Times",
+          "title_en": "Senate Passes Major Permitting Bill to Speed Up Energy Projects"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+          "source": "New York Times",
+          "title_en": "A Summit Gives Putin the Win He Craves: Equal Stature With Superpowers"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "More climate money for Africa? Europe says use what's already pledged"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/nov/20/patient-confidentiality-sensitive-discussion-records-shared-nhs-staff",
+          "source": "The Guardian",
+          "title_en": "Patient ‘horrified’ to find her sensitive discussions were shared with more than 100,000 NHS staff"
+        },
+        {
+          "link": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
+          "source": "New York Times",
+          "title_en": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/20/us-sells-first-deep-sea-mining-leases-off-american-samoa-days-after-court-ruled-against-pr",
+          "source": "Euronews",
+          "title_en": "US sells first deep-sea mining leases off American Samoa, days after court ruled against process"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Haiti police say 34 gang members killed in capital raid"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html",
+          "source": "New York Times",
+          "title_en": "Love and Carjackings in a Video Game"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Hippo Fiona dies days after swallowing visitor’s hat"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+          "source": "The Guardian",
+          "title_en": "Kellie Sloane says she’s ‘pretty sure’ NSW Liberals exodus is over after Mark Speakman resigns"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
+          "source": "The Guardian",
+          "title_en": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne"
+        },
+        {
+          "link": "https://www.theguardian.com/news/audio/2026/nov/20/is-it-time-to-change-the-uk-age-of-consent-podcast",
+          "source": "The Guardian",
+          "title_en": "Is it time to change the UK age of consent? – podcast"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html",
+          "source": "New York Times",
+          "title_en": "Judge Allows Trump’s $15 Billion Case Against The Times to Proceed"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate",
+          "source": "The Guardian",
+          "title_en": "Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senate win"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/19/business/delaware-regulator-mark-walters-insurance.html",
+          "source": "New York Times",
+          "title_en": "Delaware Regulator Says It Was ‘Misled’ About Mark Walter’s Insurance Assets"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
+          "source": "New York Times",
+          "title_en": "4 British Men Convicted of Sexually Assaulting Joanne Young"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
+          "source": "New York Times",
+          "title_en": "Google Disrupts Its Search Advertising With Its Embrace of A.I."
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Meta Rethinks 2030 Climate Goals as AI Data Centres Drive Emissions Up"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
+          "source": "New York Times",
+          "title_en": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Democrats Say Law Firm Gave $11.8m in Free Services to Trump Administration"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+          "source": "New York Times",
+          "title_en": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "El Salvador’s Bukele Expected to Formalise Bid for Third Presidential Term"
+        },
+        {
+          "link": "https://www.theguardian.com/law/2026/nov/20/religion-should-removed-from-terrorism-definition-australian-law-gives-false-credibility-watchdog-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Religion Should Be Removed from Terrorism Definition Under Australian Law, Watchdog Says"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "'I Tell My Son It's Just Fireworks': People Inside Besieged Yemeni City Speak to BBC"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Airbnb's Divisive New House Rules Come into Force"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Fish and Eggs Al Desko? The Dos and Don'ts of the Lunch Break"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+          "source": "New York Times",
+          "title_en": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html",
+          "source": "New York Times",
+          "title_en": "Senate Passes Major Permitting Bill to Speed Up Energy Projects"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+          "source": "New York Times",
+          "title_en": "A Summit Gives Putin the Win He Craves: Equal Stature With Superpowers"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "More climate money for Africa? Europe says use what's already pledged"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/nov/20/patient-confidentiality-sensitive-discussion-records-shared-nhs-staff",
+          "source": "The Guardian",
+          "title_en": "Patient ‘horrified’ to find her sensitive discussions were shared with more than 100,000 NHS staff"
+        },
+        {
+          "link": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
+          "source": "New York Times",
+          "title_en": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/20/us-sells-first-deep-sea-mining-leases-off-american-samoa-days-after-court-ruled-against-pr",
+          "source": "Euronews",
+          "title_en": "US sells first deep-sea mining leases off American Samoa, days after court ruled against process"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Haiti police say 34 gang members killed in capital raid"
+        }
+      ],
+      "contentHashes": {
+        "ru": "6ae6e2ba1ee98e935fcdc303cc249d64a73004b24cd805d1d861f4f243ea06ee",
+        "en": "351e70f2d51eeb2f18a21d21c4d35cf9e1bf2ca57c73879a5a96bf5a7801a4fc"
+      }
+    }
+  }
+}
