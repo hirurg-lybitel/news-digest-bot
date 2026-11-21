@@ -1,591 +1,59 @@
 {
-  "generatedAt": "2026-11-21T06:04:11.969Z",
+  "generatedAt": "2026-11-21T18:06:47.211Z",
   "date": "2026-11-21",
-  "slot": "morning",
-  "periodHours": 11.943771111111111,
+  "slot": "evening",
+  "periodHours": 11.951856388888888,
   "intro": {
     "ru": "Главные мировые события за последние несколько часов — 30 коротких новостей.",
     "en": "The latest major world events in 30 concise stories."
   },
   "stories": [
     {
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
+      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+      "source": "New York Times",
       "title": {
-        "ru": "Зеленский называет Путина «убийцей» после того, как Трамп назвал российского лидера другом",
-        "en": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend"
+        "ru": "Арестован главный наркобарон Мексики, начав стрельбу",
+        "en": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts"
       },
       "summary": {
-        "ru": "Комментарии Трампа прозвучали после того, как Россия запустила «самые крупные атаки в этом году» против Украины.",
-        "en": "Trump's comments came after Russia launched its \"biggest attacks this year\" against Ukraine."
+        "ru": "Арест Фаусто Исидро Меса Флореса, известного как Эль Чапо Исидро, стал победой для мексиканского правительства.",
+        "en": "The arrest of Fausto Isidro Meza Flores, known as El Chapo Isidro, was a victory for the Mexican government."
       },
       "category": {
         "ru": "Конфликт",
         "en": "Conflict"
       },
       "longBody": {
-        "ru": "Президент Украины Владимир Зеленский назвал российского лидера Владимира Путина \"убийцей\" после того, как бывший президент США Дональд Трамп охарактеризовал Путина как друга. Эти комментарии Трампа прозвучали на фоне недавних масштабных атак России на Украину, которые стали самыми крупными в этом году.\n\nЗеленский, комментируя слова Трампа, подчеркнул, что действия Путина против Украины и его агрессия против мирного населения не могут быть оправданы. Он призвал международное сообщество более активно поддерживать Украину в её борьбе против российской агрессии.\n\nЭти события подчеркивают растущее напряжение между Западом и Россией, а также важность единства среди стран, поддерживающих Украину в её стремлении к независимости и безопасности.",
-        "en": "Ukrainian President Volodymyr Zelensky referred to Russian leader Vladimir Putin as a 'killer' after former U.S. President Donald Trump described Putin as a friend. Trump's comments came in the wake of Russia's recent large-scale attacks on Ukraine, which have been the biggest this year.\n\nZelensky, responding to Trump's remarks, emphasized that Putin's actions against Ukraine and his aggression towards civilians cannot be justified. He called on the international community to more actively support Ukraine in its fight against Russian aggression.\n\nThese events highlight the growing tension between the West and Russia, as well as the importance of unity among countries supporting Ukraine in its pursuit of independence and security."
+        "ru": "Арест Фаусто Исидро Меса Флореса, известного как Эль Чапо Исидро, стал значимой победой для мексиканского правительства. Он был одним из десяти самых разыскиваемых преступников ФБР и возглавлял крупный наркокартель в Мексике. Операция по его задержанию была проведена мексиканскими спецподразделениями, что свидетельствует о серьезности усилий правительства в борьбе с организованной преступностью.\n\nЗадержание Эль Чапо Исидро может повлиять на наркоторговлю в регионе и укрепить позиции мексиканских властей. Однако, как показала практика, аресты высокопрофильных наркобаронов часто приводят к насилию и конфликтам между различными картелями, что вызывает опасения о возможных последствиях.\n\nПравительство Мексики надеется, что этот арест станет шагом к улучшению безопасности в стране и уменьшению влияния наркокартелей на общество.",
+        "en": "The arrest of Fausto Isidro Meza Flores, known as El Chapo Isidro, marks a significant victory for the Mexican government. He was one of the FBI's ten most wanted criminals and led a major drug cartel in Mexico. The operation to capture him was carried out by Mexican special forces, indicating the seriousness of the government's efforts to combat organized crime.\n\nThe capture of El Chapo Isidro could impact drug trafficking in the region and strengthen the position of Mexican authorities. However, as past experiences have shown, the arrests of high-profile drug lords often lead to violence and conflicts between rival cartels, raising concerns about potential repercussions.\n\nThe Mexican government hopes that this arrest will be a step towards improving security in the country and reducing the influence of drug cartels on society."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Zelenskij-nazyvaet-Putina-ubijcej-posle-togo-kak-Tramp-nazval-rossijskogo-lidera-drugom-11-21",
-        "en": "https://telegra.ph/Zelensky-says-Putin-is-a-killer-after-Trump-calls-Russian-leader-a-friend-11-21"
+        "ru": "https://telegra.ph/Arestovan-glavnyj-narkobaron-Meksiki-nachav-strelbu-11-21",
+        "en": "https://telegra.ph/Top-Drug-Kingpin-Is-Captured-by-Mexican-Army-as-Gunfire-Erupts-11-21"
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Суд одобрил соглашение на сумму 7 миллиардов долларов по искам о том, что Рондуп вызвал рак",
-        "en": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer"
-      },
-      "summary": {
-        "ru": "Решение в рамках общенационального иска ожидается, что положит конец десяткам тысяч исков от людей, утверждающих, что Рондуп вызвал неходжкинскую лимфому.",
-        "en": "The ruling in a nationwide class-action suit is expected to end tens of thousands of lawsuits claiming that Roundup caused non-Hodgkin lymphoma."
-      },
-      "category": {
-        "ru": "Право",
-        "en": "Law"
-      },
-      "longBody": {
-        "ru": "Суд одобрил соглашение на сумму 7 миллиардов долларов в рамках общенационального иска, который, как ожидается, положит конец десяткам тысяч исков от людей, утверждающих, что гербицид Рондуп вызвал неходжкинскую лимфому. Это решение стало значительным шагом в разрешении многолетних споров о безопасности данного продукта.\n\nМногие истцы утверждали, что использование Рондупа связано с развитием рака, что привело к большому количеству судебных разбирательств. Соглашение, если оно будет окончательно утверждено, позволит пострадавшим получить компенсацию и, возможно, улучшит контроль над использованием гербицидов в будущем.\n\nЭто дело подчеркивает важность обсуждения вопросов безопасности химических веществ и их воздействия на здоровье человека, а также необходимость более строгого регулирования в этой области.",
-        "en": "A judge has approved a $7 billion settlement in a nationwide class-action lawsuit, which is expected to end tens of thousands of lawsuits from individuals claiming that the herbicide Roundup caused non-Hodgkin lymphoma. This ruling marks a significant step in resolving years of disputes over the safety of this product.\n\nMany plaintiffs have argued that the use of Roundup is linked to the development of cancer, leading to a large number of legal battles. If the settlement is finalized, it will allow affected individuals to receive compensation and may improve oversight of herbicide use in the future.\n\nThis case underscores the importance of discussing the safety of chemical substances and their impact on human health, as well as the need for stricter regulations in this area."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Sud-odobril-soglashenie-na-summu-7-milliardov-dollarov-po-iskam-o-tom-chto-Rondup-vyzval-rak-11-21",
-        "en": "https://telegra.ph/Judge-Approves-7-Billion-Settlement-Over-Claims-That-Roundup-Caused-Cancer-11-21-2"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Протесты поколения Z охватывают Европу из-за войн, растущих цен и климата",
-        "en": "Gen Z protests sweep Europe over wars, rising costs and climate"
+        "ru": "Российский удар убивает двоих, ранит 60 в родном городе Зеленского",
+        "en": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown"
       },
       "summary": {
-        "ru": "Тысячи протестующих поколения Z собрались в 25 европейских странах из-за роста цен на жизнь, военных расходов и климата.",
-        "en": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending, and climate."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "Тысячи протестующих поколения Z собрались в 25 европейских странах, выражая недовольство по поводу роста цен на жизнь, военных расходов и климатических изменений. Эти акции протеста подчеркивают растущее беспокойство молодежи о будущем и их стремление к переменам.\n\nУчастники акций призывают правительства обратить внимание на проблемы, которые затрагивают их поколение, такие как доступное жилье, образование и устойчивое развитие. Протесты также направлены на осуждение увеличения военных расходов в условиях глобальных кризисов.\n\nЭти события показывают, что молодое поколение активно участвует в общественной жизни и готово отстаивать свои права и интересы на международной арене.",
-        "en": "Thousands of Gen Z protesters rallied across 25 European countries, expressing their dissatisfaction over rising living costs, military spending, and climate change. These protests highlight the growing concern among youth about the future and their desire for change.\n\nParticipants are calling on governments to address issues affecting their generation, such as affordable housing, education, and sustainable development. The protests also condemn the increase in military spending amid global crises.\n\nThese events demonstrate that the younger generation is actively engaging in public life and is ready to advocate for their rights and interests on the international stage."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Protesty-pokoleniya-Z-ohvatyvayut-Evropu-iz-za-vojn-rastushchih-cen-i-klimata-11-21",
-        "en": "https://telegra.ph/Gen-Z-protests-sweep-Europe-over-wars-rising-costs-and-climate-11-21"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
-      "source": "The Guardian",
-      "title": {
-        "ru": "«Новый рекорд для развлечений»: продажи Grand Theft Auto VI достигли 3,8 миллиарда долларов в первый день выпуска, сообщает разработчик",
-        "en": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says"
-      },
-      "summary": {
-        "ru": "По данным Rockstar Games, GTA VI уже заработала больше, чем весь прокат самого кассового фильма всех времен, собрав 3,79 миллиарда долларов в первый день.",
-        "en": "According to Rockstar Games, GTA VI has already earned more than the entire box office run of the highest-grossing film of all time, generating $3.79bn in retail sales on its first day."
-      },
-      "category": {
-        "ru": "Культура",
-        "en": "Culture"
-      },
-      "longBody": {
-        "ru": "Разработчик Rockstar Games сообщил, что продажи Grand Theft Auto VI достигли 3,79 миллиарда долларов в первый день релиза, что делает его самым успешным запуском в истории развлечений. Эта сумма превышает весь прокат самого кассового фильма всех времен, что подчеркивает огромный интерес к игре.\n\nGTA VI не только установила рекорд по продажам, но и продемонстрировала высокие предварительные заказы, составившие 32,5 миллиона единиц. Это событие стало значимым моментом в индустрии видеоигр и развлечений в целом.\n\nУспех GTA VI также поднимает вопросы о будущем игровой индустрии и о том, как разработчики могут использовать такие достижения для привлечения аудитории и увеличения продаж.",
-        "en": "Developer Rockstar Games announced that Grand Theft Auto VI generated $3.79 billion in retail sales on its first day of release, making it the most successful launch in entertainment history. This figure surpasses the entire box office run of the highest-grossing film of all time, highlighting the immense interest in the game.\n\nGTA VI not only set a sales record but also demonstrated high pre-orders totaling 32.5 million units. This event marks a significant moment in the video game and entertainment industry as a whole.\n\nThe success of GTA VI also raises questions about the future of the gaming industry and how developers can leverage such achievements to attract audiences and increase sales."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Novyj-rekord-dlya-razvlechenij-prodazhi-Grand-Theft-Auto-VI-dostigli-38-milliarda-dollarov-v-pervyj-den-vypuska-soobshchaet-razr-11-21",
-        "en": "https://telegra.ph/A-new-record-for-entertainment-Grand-Theft-Auto-VI-sales-hit-38bn-on-first-day-of-release-developer-says-11-21"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Элис Хуан, обвиняемая в шпионаже за CEO Nvidia, связана с фирмами, имеющими связи с военными Китая",
-        "en": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military"
-      },
-      "summary": {
-        "ru": "Компании, связанные с Элис Хуан, находятся в сети китайских технологических компаний и оборонных подрядчиков, которым нужна передовая вычислительная мощность.",
-        "en": "Companies linked to Alice Huang are part of a network of Chinese tech firms and defense contractors that need advanced computing power."
-      },
-      "category": {
-        "ru": "Технологии",
-        "en": "Technology"
-      },
-      "longBody": {
-        "ru": "Элис Хуан, обвиняемая в шпионаже за генеральным директором Nvidia, связана с компаниями, которые входят в сеть китайских технологических фирм и оборонных подрядчиков, нуждающихся в передовой вычислительной мощности. Это дело привлекло внимание к вопросам безопасности и шпионажа в высоких технологиях.\n\nКомпании, связанные с Хуан, находятся под пристальным вниманием властей, поскольку они могут представлять угрозу для национальной безопасности из-за своих связей с военными структурами Китая. Это поднимает важные вопросы о регулировании технологий и защите интеллектуальной собственности.\n\nСитуация вокруг Элис Хуан подчеркивает необходимость более строгого контроля за международными бизнес-связями в области технологий, особенно в свете растущих опасений по поводу шпионажа и киберугроз.",
-        "en": "Alice Huang, accused of spying on Nvidia's CEO, is linked to companies that are part of a network of Chinese tech firms and defense contractors needing advanced computing power. This case has drawn attention to issues of security and espionage in high technology.\n\nThe companies associated with Huang are under close scrutiny by authorities, as they may pose a national security threat due to their ties to Chinese military entities. This raises important questions about the regulation of technology and the protection of intellectual property.\n\nThe situation surrounding Alice Huang underscores the need for stricter oversight of international business relations in technology, especially in light of growing concerns about espionage and cyber threats."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/EHlis-Huan-obvinyaemaya-v-shpionazhe-za-CEO-Nvidia-svyazana-s-firmami-imeyushchimi-svyazi-s-voennymi-Kitaya-11-21",
-        "en": "https://telegra.ph/Alice-Huang-Accused-of-Spying-on-Nvidias-CEO-Is-Linked-to-Firms-With-Ties-to-Chinas-Military-11-21"
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Мужчина признан виновным в поджоге лесного пожара в Палисадес, Лос-Анджелес",
-        "en": "Man convicted of starting Palisades fire in Los Angeles"
-      },
-      "summary": {
-        "ru": "30-летний житель Лос-Анджелеса был признан виновным в поджоге, приведшем к лесным пожарам, унесшим 12 жизней и уничтожившим более 6800 зданий.",
-        "en": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
-      },
-      "category": {
-        "ru": "Катастрофа",
-        "en": "Disaster"
-      },
-      "longBody": {
-        "ru": "30-летний житель Лос-Анджелеса был признан виновным в поджоге, который привел к лесным пожарам, унесшим 12 жизней и уничтожившим более 6800 зданий. Этот случай стал важным напоминанием о серьезных последствиях поджогов и необходимости строгого наказания для виновных.\n\nПожары, вызванные действиями обвиняемого, нанесли значительный ущерб как людям, так и окружающей среде. Судебный процесс привлек внимание к проблеме лесных пожаров и их влиянию на сообщества.\n\nДанный случай также подчеркивает важность профилактики поджогов и повышения осведомленности о рисках, связанных с такими преступлениями.",
-        "en": "A 30-year-old Los Angeles resident has been convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings. This case serves as an important reminder of the serious consequences of arson and the need for strict penalties for offenders.\n\nThe fires caused by the defendant's actions inflicted significant damage on both people and the environment. The trial has drawn attention to the issue of wildfires and their impact on communities.\n\nThis case also highlights the importance of arson prevention and raising awareness about the risks associated with such crimes."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Muzhchina-priznan-vinovnym-v-podzhoge-lesnogo-pozhara-v-Palisades-Los-Andzheles-11-21",
-        "en": "https://telegra.ph/Man-convicted-of-starting-Palisades-fire-in-Los-Angeles-11-21-5"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "На пути с премьер-министром Испании, который пытается добиться победы",
-        "en": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win"
-      },
-      "summary": {
-        "ru": "Педро Санчес, самый заметный левый лидер Европы, похоже, готов потерять власть на выборах на следующей неделе.",
-        "en": "Pedro Sánchez, Europe’s most prominent left-wing leader, seems set to lose power in an election next week."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "Премьер-министр Испании Педро Санчес, наиболее заметный левый лидер Европы, похоже, готов потерять власть на предстоящих выборах. Его последние усилия по изменению хода кампании были освещены в репортаже, который следил за его действиями в последние дни перед выборами.\n\nСанчес сталкивается с растущими вызовами со стороны оппозиции и недовольством избирателей по поводу экономических и социальных вопросов. Его правительство должно было справиться с множеством проблем, включая экономический кризис и вопросы миграции.\n\nЭти выборы могут стать решающими для будущего левого движения в Европе и для самой Испании, так как результаты могут повлиять на политический ландшафт страны.",
-        "en": "Spain's Prime Minister Pedro Sánchez, Europe’s most prominent left-wing leader, seems set to lose power in the upcoming elections. His last-ditch efforts to turn his campaign around have been covered in a report that followed his actions in the final days before the election.\n\nSánchez is facing growing challenges from the opposition and voter dissatisfaction over economic and social issues. His government has had to deal with numerous problems, including an economic crisis and migration issues.\n\nThese elections could be pivotal for the future of the left movement in Europe and for Spain itself, as the results may impact the country's political landscape."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Na-puti-s-premer-ministrom-Ispanii-kotoryj-pytaetsya-dobitsya-pobedy-11-21",
-        "en": "https://telegra.ph/On-the-Trail-With-Spains-Prime-Minister-as-He-Tries-to-Pull-Out-a-Win-11-21"
-      }
-    },
-    {
-      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
-      "source": "The Block",
-      "title": {
-        "ru": "JPMorgan сообщает, что падение цены биткойна давит на майнеров, Сенат принимает законопроект о «Ставках на смерть» и другое",
-        "en": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more"
-      },
-      "summary": {
-        "ru": "В сегодняшнем информационном бюллетене JPMorgan сообщает, что падение цены биткойна создает дополнительное давление на майнеров; Сенат принял законопроект о запрете рынков предсказаний, связанных со смертью и войной.",
-        "en": "In today's newsletter, JPMorgan says bitcoin's price drop puts more pressure on miners; Senate passes a bill to ban prediction markets tied to death and war."
-      },
-      "category": {
-        "ru": "Экономика",
-        "en": "Economy"
-      },
-      "longBody": {
-        "ru": "В сегодняшнем информационном бюллетене JPMorgan сообщается, что падение цены биткойна создает дополнительное давление на майнеров. Это падение цен вызывает беспокойство среди участников рынка, поскольку многие из них зависят от стабильных цен для обеспечения своей деятельности.\n\nКроме того, Сенат принял законопроект, запрещающий рынки предсказаний, связанные со смертью и войной, что также привлекло внимание к вопросам этики в финансовых рынках. Эти события подчеркивают необходимость регулирования в области криптовалют и новых финансовых инструментов.\n\nОбсуждения вокруг этих вопросов продолжаются, и эксперты призывают к более строгому контролю за финансовыми рынками и новыми технологиями.",
-        "en": "In today's newsletter, JPMorgan reports that bitcoin's price drop is putting more pressure on miners. This decline in prices raises concerns among market participants, as many rely on stable prices to sustain their operations.\n\nAdditionally, the Senate has passed a bill banning prediction markets tied to death and war, which has also drawn attention to ethical issues in financial markets. These events highlight the need for regulation in the area of cryptocurrencies and new financial instruments.\n\nDiscussions around these issues are ongoing, and experts are calling for stricter oversight of financial markets and new technologies."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/JPMorgan-soobshchaet-chto-padenie-ceny-bitkojna-davit-na-majnerov-Senat-prinimaet-zakonoproekt-o-Stavkah-na-smert-i-drugoe-11-21",
-        "en": "https://telegra.ph/JPMorgan-says-bitcoins-price-drop-pressures-miners-Senate-passes-Death-Bets-Act-and-more-11-21"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Соглашение COP31 застопорилось, поскольку страны пытаются согласовать климатический план",
-        "en": "COP31 deal stalls as nations struggle to agree on climate plan"
-      },
-      "summary": {
-        "ru": "Соглашение COP31 застопорилось, поскольку страны пытаются согласовать климатический план.",
-        "en": "COP31 deal stalls as nations struggle to agree on a climate plan."
-      },
-      "category": {
-        "ru": "Климат",
-        "en": "Climate"
-      },
-      "longBody": {
-        "ru": "Соглашение COP31 застопорилось, поскольку страны не могут прийти к единому мнению по климатическому плану. Это затруднение в переговорах подчеркивает сложность достижения консенсуса среди стран с различными экономическими интересами и экологическими приоритетами.\n\nУчастники конференции продолжают обсуждать важные вопросы, касающиеся сокращения выбросов углерода и финансирования экологически чистых технологий. Однако разногласия между развитыми и развивающимися странами остаются значительными.\n\nЭти события показывают, что международные усилия по борьбе с изменением климата требуют времени и компромиссов, а также настойчивости со стороны всех участников.",
-        "en": "The COP31 deal has stalled as nations struggle to agree on a climate plan. This impasse in negotiations underscores the complexity of reaching consensus among countries with varying economic interests and environmental priorities.\n\nConference participants continue to discuss critical issues related to carbon emission reductions and funding for clean technologies. However, disagreements between developed and developing countries remain significant.\n\nThese events demonstrate that international efforts to combat climate change require time and compromises, as well as persistence from all parties involved."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Soglashenie-COP31-zastoporilos-poskolku-strany-pytayutsya-soglasovat-klimaticheskij-plan-11-21",
-        "en": "https://telegra.ph/COP31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan-11-21"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Al Jazeera объясняет: гонка США и Китая в области ИИ вступает в новую фазу",
-        "en": "Al Jazeera explains: The US-China AI race is entering a new phase"
-      },
-      "summary": {
-        "ru": "Matthew Torres из Al Jazeera разбирает последние события в мире искусственного интеллекта.",
-        "en": "Al Jazeera’s Matthew Torres unpacks the latest from the world of artificial intelligence."
-      },
-      "category": {
-        "ru": "Технологии",
-        "en": "Technology"
-      },
-      "longBody": {
-        "ru": "Matthew Torres из Al Jazeera разбирает последние события в мире искусственного интеллекта, подчеркивая, что гонка между США и Китаем в этой области вступает в новую фазу. Конкуренция за лидерство в технологиях искусственного интеллекта становится все более напряженной, с акцентом на разработку новых решений и инноваций.\n\nСитуация требует от стран активизации усилий в области исследований и разработок, чтобы не отстать от соперников. Это также поднимает вопросы о безопасности и этике использования искусственного интеллекта в различных сферах.\n\nАнализ текущих событий в области ИИ подчеркивает важность международного сотрудничества и регулирования для обеспечения безопасного и этичного использования технологий.",
-        "en": "Al Jazeera’s Matthew Torres unpacks the latest from the world of artificial intelligence, emphasizing that the U.S.-China race in this field is entering a new phase. The competition for leadership in AI technologies is becoming increasingly intense, with a focus on developing new solutions and innovations.\n\nThis situation requires countries to ramp up their efforts in research and development to avoid falling behind their competitors. It also raises questions about the safety and ethics of using artificial intelligence across various sectors.\n\nThe analysis of current events in AI underscores the importance of international cooperation and regulation to ensure the safe and ethical use of technologies."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Al-Jazeera-obyasnyaet-gonka-SSHA-i-Kitaya-v-oblasti-II-vstupaet-v-novuyu-fazu-11-21",
-        "en": "https://telegra.ph/Al-Jazeera-explains-The-US-China-AI-race-is-entering-a-new-phase-11-21"
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/in-frances-angry-autumn-tv-news-channels-are-accused-of-stirring-the-pot.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "В гневной осени Франции телеканалы обвиняются в разжигании ненависти",
-        "en": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot"
-      },
-      "summary": {
-        "ru": "Критики утверждают, что CNews и BFM TV использовали расистский язык в освещении протестов. Каналы это отрицают.",
-        "en": "Critics say that CNews and BFM TV have used racist language in protest coverage. The channels deny it."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "Критики утверждают, что два крупных новостных канала во Франции, CNews и BFM TV, использовали расистский язык в своем освещении протестов, которые охватили страну этой осенью. Эти обвинения поднимают важные вопросы о том, как медиа представляют протестные движения и как это может влиять на общественное мнение.\n\nНесмотря на обвинения, сами каналы отрицают использование расистского языка и утверждают, что их освещение событий было объективным. Они подчеркивают, что стремятся предоставить сбалансированную информацию о протестах и их причинах.\n\nЭти споры о языке и представлении протестов приходят на фоне более широких социальных волнений во Франции, где недовольство по поводу расовых и социальных вопросов продолжает нарастать.",
-        "en": "Critics claim that two major news channels in France, CNews and BFM TV, have used racist language in their coverage of protests that have swept the country this autumn. These allegations raise important questions about how media represents protest movements and how this can influence public opinion.\n\nDespite the accusations, the channels deny using racist language and assert that their coverage of events has been objective. They emphasize their commitment to providing balanced information about the protests and their underlying causes.\n\nThese disputes over language and the representation of protests come amid broader social unrest in France, where dissatisfaction regarding racial and social issues continues to grow."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/funeral-held-for-new-york-teen-shot-while-walking-to-school?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Похороны подростка из Нью-Йорка, застреленного по дороге в школу",
-        "en": "Funeral held for New York teen shot while walking to school"
-      },
-      "summary": {
-        "ru": "Похороны подростка из Нью-Йорка, застреленного по дороге в школу.",
-        "en": "Funeral held for New York teen shot while walking to school."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "В Нью-Йорке прошли похороны подростка, который был застрелен, когда шел в школу. Это трагическое событие привлекло внимание общественности и вызвало обсуждения о насилии с применением оружия в городе.\n\nСемья и друзья собрались, чтобы почтить память молодого человека, который стал жертвой насилия. Похороны стали моментом скорби и размышлений о том, как можно предотвратить подобные трагедии в будущем.\n\nОбщество продолжает обсуждать вопросы безопасности и необходимость изменений в законодательстве о контроле за оружием, чтобы защитить молодежь и предотвратить дальнейшие потери.",
-        "en": "Funeral services were held for a New York teenager who was shot while walking to school. This tragic event has drawn public attention and sparked discussions about gun violence in the city.\n\nFamily and friends gathered to honor the memory of the young individual who became a victim of violence. The funeral served as a moment of mourning and reflection on how to prevent such tragedies in the future.\n\nThe community continues to discuss issues of safety and the need for changes in gun control legislation to protect youth and prevent further loss."
-      }
-    },
-    {
-      "link": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "title": {
-        "ru": "Бывший президент Бразилии Жаир Болсонару госпитализирован с abdominal болью",
-        "en": "Brazil ex-President Jair Bolsonaro taken to hospital over abdominal pain"
-      },
-      "summary": {
-        "ru": "Жаир Болсонару был госпитализирован в Бразилиа с кишечной непроходимостью. Его сын сообщил, что бывший лидер получает обезболивающие.",
-        "en": "Jair Bolsonaro has been hospitalized in Brasilia with intestinal obstruction. His son Carlos said the former leader is receiving pain medications."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "Бывший президент Бразилии Жаир Болсонару был госпитализирован в Бразилиа с кишечной непроходимостью. По словам его сына, бывший лидер получает обезболивающие, что вызывает беспокойство о его состоянии.\n\nБолсонару, который занимал пост президента до недавнего времени, продолжает оставаться важной фигурой в бразильской политике. Его здоровье стало предметом обсуждения среди сторонников и противников.\n\nСитуация с его состоянием здоровья подчеркивает важность медицинского обслуживания для политиков и их влияние на общественное мнение в стране.",
-        "en": "Former Brazilian President Jair Bolsonaro has been hospitalized in Brasilia due to intestinal obstruction. His son has stated that the former leader is receiving pain medications, raising concerns about his health condition.\n\nBolsonaro, who held the presidency until recently, remains a significant figure in Brazilian politics. His health has become a topic of discussion among both supporters and opponents.\n\nThe situation regarding his health highlights the importance of medical care for politicians and their influence on public opinion in the country."
-      }
-    },
-    {
-      "link": "https://www.dw.com/en/uk-anti-migrant-activist-jailed-for-slashing-channel-dinghy/a-80007576?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "title": {
-        "ru": "Активист против мигрантов в Великобритании приговорен к тюремному заключению за порез лодки",
-        "en": "UK anti-migrant activist jailed for slashing Channel dinghy"
-      },
-      "summary": {
-        "ru": "Дэниел Томас, известный как \"Дэнни Томмо\", порезал лодку ножом, пока на борту находился французский спасатель. Инцидент был в прямом эфире в социальных сетях.",
-        "en": "Daniel Thomas, known as \"Danny Tommo,\" slashed a dinghy with a knife while a French rescue worker was on board. The incident was livestreamed to a large social media audience."
-      },
-      "category": {
-        "ru": "Право",
-        "en": "Law"
-      },
-      "longBody": {
-        "ru": "Дэниел Томас, известный как \"Дэнни Томмо\", был осужден за то, что порезал лодку ножом, находясь на борту с французским спасателем. Инцидент произошел в прямом эфире в социальных сетях, что привлекло внимание к растущему напряжению вокруг миграции.\n\nЭтот инцидент стал символом более широких проблем, связанных с миграцией и безопасностью на море. Общественность активно обсуждает действия активистов и их последствия для мигрантов, пытающихся пересечь Ла-Манш.\n\nСудебное разбирательство поднимает вопросы о законности и морали в отношении мигрантов и о том, как общество реагирует на подобные действия.",
-        "en": "Daniel Thomas, known as \"Danny Tommo,\" was sentenced for slashing a dinghy with a knife while a French rescue worker was on board. The incident was livestreamed on social media, drawing attention to the growing tensions surrounding migration.\n\nThis incident has become emblematic of broader issues related to migration and maritime safety. The public is actively discussing the actions of activists and their implications for migrants attempting to cross the Channel.\n\nThe court proceedings raise questions about the legality and morality regarding migrants and how society responds to such actions."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Рохинджа, сбежавшие от геноцида в Мьянме, рассказывают свои истории",
-        "en": "Rohingya who escaped Myanmar’s genocide tell their stories"
-      },
-      "summary": {
-        "ru": "Выжившие вспоминают реки, окрашенные кровью, и сожженные деревни, служащие срочным предупреждением покинуть свои дома. Дым часто был сигналом к бегству.",
-        "en": "Survivors recount rivers red with blood and burning nearby villages serving as an urgent warning to flee their homes. Smoke was often the signal to run."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "Выжившие после геноцида рохинджа вспоминают ужасающие события, когда реки были окрашены кровью, а деревни сжигались. Эти воспоминания служат срочным предупреждением для тех, кто еще остается в Мьянме, чтобы покинуть свои дома.\n\nСвидетели рассказывают, как дым от сожженных деревень стал сигналом к бегству, а реки, наполненные телами, напоминали о трагедии, произошедшей в их общинах. Эти истории подчеркивают ужасные последствия насилия и необходимость международного внимания к ситуации.\n\nОбщественность продолжает призывать к действиям для защиты прав рохинджа и предотвращения повторения подобных трагедий в будущем.",
-        "en": "Survivors of the Rohingya genocide recount horrifying events where rivers ran red with blood and villages were burned. These memories serve as urgent warnings for those still remaining in Myanmar to flee their homes.\n\nWitnesses describe how the smoke from burning villages became a signal to escape, while rivers filled with bodies reminded them of the tragedy that occurred in their communities. These stories highlight the horrific consequences of violence and the need for international attention to the situation.\n\nThe public continues to call for action to protect the rights of the Rohingya and to prevent the recurrence of such tragedies in the future."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Сможет ли Маурисио Почеттино спасти Манчестер Юнайтед от вылета из Премьер-лиги?",
-        "en": "Can Mauricio Pochettino save Man United from Premier League relegation?"
-      },
-      "summary": {
-        "ru": "Маурисио Почеттино впервые возглавит Манчестер Юнайтед в воскресенье в поездке к соперникам Ливерпулю.",
-        "en": "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool."
-      },
-      "category": {
-        "ru": "Спорт",
-        "en": "Sport"
-      },
-      "longBody": {
-        "ru": "Маурисио Почеттино готовится впервые возглавить Манчестер Юнайтед в предстоящем матче против Ливерпуля. Это событие вызывает интерес среди болельщиков и экспертов, так как команда сталкивается с вызовами в Премьер-лиге.\n\nПочеттино, известный своими успехами в других клубах, надеется изменить ход сезона для Манчестер Юнайтед и вернуть команду на путь побед. Его назначение стало предметом обсуждения среди фанатов и аналитиков, которые ожидают, как он справится с давлением.\n\nМатч против Ливерпуля обещает быть напряженным, и успех Почеттино может стать ключевым моментом для клуба в этом сезоне.",
-        "en": "Mauricio Pochettino is set to take charge of Manchester United for the first time in an upcoming match against Liverpool. This event has generated interest among fans and experts as the team faces challenges in the Premier League.\n\nPochettino, known for his successes at other clubs, hopes to change the course of the season for Manchester United and steer the team back to winning ways. His appointment has been a topic of discussion among fans and analysts, who are eager to see how he handles the pressure.\n\nThe match against Liverpool promises to be intense, and Pochettino's success could be a pivotal moment for the club this season."
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/quiz/2026/11/18/science/voyager-lightday.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Насколько хорошо вы знаете миссию NASA «Вояджер»?",
-        "en": "How Much Do You Know About NASA’s Voyager Mission?"
-      },
-      "summary": {
-        "ru": "«Вояджеры 1 и 2» прошли дальше и продлились дольше, чем любые другие космические аппараты, отправленные людьми. Проверьте свои знания об их эпическом путешествии.",
-        "en": "Voyagers 1 and 2 have gone farther and lasted longer than any other spacecraft that humans have sent out into the cosmos. Test your knowledge about their epic journey."
-      },
-      "category": {
-        "ru": "Наука",
-        "en": "Science"
-      },
-      "longBody": {
-        "ru": "Космические аппараты «Вояджер 1» и «Вояджер 2» стали самыми дальними и долговечными из всех, что когда-либо отправлялись человечеством в космос. Эти миссии продолжают вдохновлять ученых и любителей астрономии по всему миру.\n\nПутешествие «Вояджеров» охватывает множество открытий и достижений, которые расширили наше понимание солнечной системы и за ее пределами. Эти аппараты предоставили ценную информацию о планетах, лунах и других небесных телах.\n\nПроверка знаний о миссии «Вояджер» позволяет оценить, насколько важны эти исследования для будущих поколений и как они изменили наше восприятие космоса.",
-        "en": "The Voyager 1 and Voyager 2 spacecraft have become the farthest and longest-lasting of any sent by humanity into space. These missions continue to inspire scientists and astronomy enthusiasts around the world.\n\nThe journey of the Voyagers encompasses numerous discoveries and achievements that have expanded our understanding of the solar system and beyond. These spacecraft have provided valuable information about planets, moons, and other celestial bodies.\n\nTesting knowledge about the Voyager mission allows for an appreciation of how crucial these explorations are for future generations and how they have changed our perception of the cosmos."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Дания высылает российского дипломата из-за предполагаемого заговора по убийству украинского рэпера",
-        "en": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper"
-      },
-      "summary": {
-        "ru": "Копенгаген обвиняет Москву в планировании убийства с участием запрещенной местной банды; Россия утверждает, что нет доказательств обвинения.",
-        "en": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation."
+        "ru": "Атака на Кривой Рог произошла на фоне падения российских ракет в Польше, члене НАТО.",
+        "en": "The attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland."
       },
       "category": {
         "ru": "Конфликт",
         "en": "Conflict"
       },
       "longBody": {
-        "ru": "Копенгаген выдворил русского дипломата, обвинив Москву в планировании убийства с участием запрещенной местной банды. Это решение стало частью растущего напряжения между Данией и Россией.\n\nДатские власти утверждают, что у них есть доказательства, подтверждающие эти обвинения, однако Россия отрицает все обвинения и настаивает на отсутствии доказательств. Эта ситуация подчеркивает сложные отношения между двумя странами и вызывает опасения по поводу безопасности.\n\nОбострение дипломатических отношений может иметь последствия для международной политики и сотрудничества в различных сферах.",
-        "en": "Copenhagen has expelled a Russian diplomat, accusing Moscow of planning an assassination involving a banned local gang. This decision is part of the growing tension between Denmark and Russia.\n\nDanish authorities claim to have evidence supporting these allegations, while Russia denies all accusations and insists there is no evidence. This situation highlights the complex relationship between the two countries and raises concerns about security.\n\nThe escalation of diplomatic relations may have implications for international politics and cooperation in various areas."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Трое французских полицейских приговорены за расистское нападение на чернокожего мужчину",
-        "en": "Three French police officers sentenced over racist assault on Black man"
+        "ru": "Атака на Кривой Рог, родной город президента Украины Владимира Зеленского, привела к гибели двух человек и ранениям более 60. Этот инцидент произошел на фоне падения российских ракет на территории Польши, члена НАТО, что добавляет напряженности в региональную безопасность.\n\nУдары по Кривому Рогу подчеркивают продолжающийся конфликт между Украиной и Россией, который продолжает уносить жизни мирных граждан. Напряженная ситуация также затрудняет усилия по мирному разрешению конфликта, так как международные усилия сталкиваются с неопределенностью.\n\nСитуация в Украине остается критической, и такие атаки лишь усугубляют страдания населения и подчеркивают необходимость международной поддержки и вмешательства.",
+        "en": "The attack on Kryvyi Rih, the hometown of Ukrainian President Volodymyr Zelenskyy, resulted in the deaths of two people and injuries to over 60. This incident occurred against the backdrop of Russian missiles landing in NATO member Poland, adding to the regional security tensions.\n\nThe strikes on Kryvyi Rih highlight the ongoing conflict between Ukraine and Russia, which continues to claim the lives of civilians. The tense situation also complicates efforts for a peaceful resolution to the conflict, as international initiatives face uncertainty.\n\nThe situation in Ukraine remains critical, and such attacks only exacerbate the suffering of the population and underscore the need for international support and intervention."
       },
-      "summary": {
-        "ru": "Парижский уголовный суд установил, что расизм был отягчающим обстоятельством в нападении на чернокожего музыкального продюсера Мишеля Зеклера в 2020 году.",
-        "en": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "Парижский уголовный суд признал, что расизм был отягчающим обстоятельством в нападении на чернокожего музыкального продюсера Мишеля Зеклера в 2020 году. Это решение стало важным шагом в борьбе с расовой дискриминацией в полиции.\n\nСудебное разбирательство привлекло внимание к проблемам расизма и насилия со стороны правоохранительных органов во Франции. Общественность активно обсуждает необходимость реформ в полиции и более строгого контроля за действиями сотрудников правоохранительных органов.\n\nЭто дело подчеркивает важность справедливости и ответственности в отношении расовых преступлений и создает прецедент для будущих дел.",
-        "en": "The Paris criminal court found that racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler. This ruling marks an important step in the fight against racial discrimination within the police.\n\nThe court proceedings have drawn attention to issues of racism and police violence in France. The public is actively discussing the need for reforms in policing and stricter oversight of law enforcement actions.\n\nThis case underscores the importance of justice and accountability regarding racial crimes and sets a precedent for future cases."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Туристы бросают меньше монет в фонтан Треви в Риме – виноват ли входной сбор в €2?",
-        "en": "Tourists are throwing fewer coins into Rome’s Trevi fountain – is €2 entry fee to blame?"
-      },
-      "summary": {
-        "ru": "Благотворительная организация, собирающая монеты, сообщает о снижении пожертвований на £200,000 после установки барьера для ограничения доступа.",
-        "en": "Charity that collects the coins says donations are down by £200,000 after a barrier was put in place to restrict access."
-      },
-      "category": {
-        "ru": "Культура",
-        "en": "Culture"
-      },
-      "longBody": {
-        "ru": "Благотворительная организация, собирающая монеты из римского фонтана Треви, сообщила о снижении пожертвований на £200,000 после установки барьера для ограничения доступа к фонтану. Это решение вызвало споры среди туристов и местных жителей.\n\nМногие туристы, которые ранее бросали монеты в фонтан, теперь сталкиваются с трудностями из-за нового ограничения. Это повлияло на традицию, которая существовала на протяжении многих лет и приносила средства на благотворительность.\n\nОбсуждения о том, как лучше управлять доступом к таким историческим местам, продолжаются, и общественность выражает разные мнения по этому поводу.",
-        "en": "A charity that collects coins from Rome's Trevi Fountain has reported a £200,000 drop in donations following the installation of a barrier to restrict access to the fountain. This decision has sparked debates among tourists and locals.\n\nMany tourists who previously tossed coins into the fountain are now facing difficulties due to the new restrictions. This has affected a long-standing tradition that has raised funds for charity over the years.\n\nDiscussions about how to better manage access to such historic sites continue, with the public expressing varied opinions on the matter."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Подросток якобы организовал поджоги и похищения в Мельбурне",
-        "en": "Teenager allegedly organised arsons and kidnapping in Melbourne"
-      },
-      "summary": {
-        "ru": "Полиция Виктории утверждает, что 17-летний мальчик поручил другим совершить серию поджогов и похищений. Он общался с преступниками под ником «Onepercent» в приложении Signal.",
-        "en": "Victoria police allege a 17-year-old boy tasked others with carrying out a series of arsons and kidnappings. He communicated with offenders under the username 'Onepercent' on Signal."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "Полиция Виктории утверждает, что 17-летний мальчик поручил другим совершить серию поджогов и похищений. Он общался с преступниками под ником «Onepercent» в приложении Signal. По сообщениям, эти действия включали поджоги, домашние вторжения и похищение по ошибке, в результате которого жертва потеряла часть пальца.\n\nМальчик был арестован в пятницу после того, как полиция начала расследование. В ходе следствия выяснилось, что он использовал зашифрованное приложение для связи с преступниками, что усложнило работу правоохранительных органов. Полиция продолжает расследование, чтобы выяснить все детали и возможные связи с другими преступлениями в регионе.",
-        "en": "Victoria police allege a 17-year-old boy tasked others with carrying out a series of arsons and kidnappings. He communicated with offenders under the username 'Onepercent' on Signal. Reports indicate that these actions included arsons, home invasions, and a mistaken identity kidnapping that resulted in a victim losing part of a finger.\n\nThe boy was arrested on Friday after police initiated an investigation. It was revealed during the investigation that he used an encrypted app to communicate with offenders, complicating law enforcement efforts. Police are continuing their investigation to uncover all details and possible connections to other crimes in the area."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Может ли новое кредитное агентство Африки изменить оценку континента?",
-        "en": "Can Africa’s new credit rating agency change how the continent is assessed?"
-      },
-      "summary": {
-        "ru": "Новое африканское агентство стремится повысить прозрачность кредитных рейтингов.",
-        "en": "The new African agency aims to enhance transparency in credit ratings."
-      },
-      "category": {
-        "ru": "Экономика",
-        "en": "Economy"
-      },
-      "longBody": {
-        "ru": "Новое африканское агентство стремится повысить прозрачность кредитных рейтингов. Это инициатива направлена на то, чтобы улучшить понимание и доступность кредитных оценок для стран континента.\n\nАгентство надеется изменить традиционные подходы к оценке кредитоспособности, которые часто подвергаются критике за недостаток прозрачности и справедливости. Ожидается, что это нововведение поможет привлечь больше инвестиций в африканские страны и улучшить экономическую ситуацию.\n\nСоздание этого агентства является важным шагом в направлении повышения финансовой независимости и устойчивости стран Африки.",
-        "en": "The new African agency aims to enhance transparency in credit ratings. This initiative is designed to improve the understanding and accessibility of credit assessments for countries on the continent.\n\nThe agency hopes to change traditional approaches to creditworthiness evaluation, which are often criticized for lacking transparency and fairness. This development is expected to help attract more investments into African countries and improve economic conditions.\n\nThe establishment of this agency marks a significant step towards increasing financial independence and resilience for African nations."
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Технологии сейчас",
-        "en": "Tech Now"
-      },
-      "summary": {
-        "ru": "Аласдер Кин в Неаполе исследует, как технологии трансформируют гонку America's Cup.",
-        "en": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race."
-      },
-      "category": {
-        "ru": "Технологии",
-        "en": "Technology"
-      },
-      "longBody": {
-        "ru": "Аласдер Кин в Неаполе исследует, как технологии трансформируют гонку America's Cup. Он рассматривает, как новые разработки и инновации влияют на традиционные аспекты этого исторического соревнования.\n\nТехнологические достижения, такие как использование новых материалов и автоматизированных систем, меняют подход команд к подготовке и стратегии гонок. Это также открывает новые возможности для зрителей и участников.\n\nКин подчеркивает, что эти изменения могут не только улучшить результаты гонок, но и изменить восприятие самого события в глазах публики.",
-        "en": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race. He examines how new developments and innovations are impacting the traditional aspects of this historic competition.\n\nTechnological advancements, such as the use of new materials and automated systems, are changing teams' approaches to preparation and race strategies. This also opens up new opportunities for spectators and participants.\n\nKeane emphasizes that these changes could not only enhance race outcomes but also alter the public's perception of the event."
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Мамдани объявляет о планах закрыть тюрьму Рикерс в Нью-Йорке к 2032 году",
-        "en": "Mamdani announces plan to close New York's Rikers Island jail by 2032"
-      },
-      "summary": {
-        "ru": "Планы по закрытию проблемного заведения начались в 2019 году, когда городской совет впервые проголосовал за его закрытие.",
-        "en": "Plans to shutter the troubled facility date back to 2019 when the city council first voted to close it."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "Планы по закрытию проблемного заведения, тюрьмы Рикерс в Нью-Йорке, начались в 2019 году, когда городской совет впервые проголосовал за его закрытие. С тех пор возникли задержки, связанные с вопросами размещения заключенных.\n\nМэр Мамдани объявил о новом плане, который должен привести к окончательному закрытию тюрьмы к 2032 году. Это решение вызвало смешанные реакции среди общественности и правозащитников.\n\nЗакрытие Рикерса стало важной частью более широкой реформы уголовной юстиции в Нью-Йорке, направленной на улучшение условий содержания заключенных и снижение уровня преступности.",
-        "en": "Plans to shutter the troubled facility, Rikers Island jail in New York, date back to 2019 when the city council first voted to close it. Since then, delays have arisen over where to place inmates.\n\nMayor Mamdani has announced a new plan that aims to lead to the facility's closure by 2032. This decision has elicited mixed reactions from the public and human rights advocates.\n\nThe closure of Rikers is seen as an important part of a broader criminal justice reform in New York, aimed at improving conditions for inmates and reducing crime rates."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
-      "source": "The Guardian",
-      "title": {
-        "ru": "«Ну и что, если есть дыра? Она не обрушилась»: жители Киева не беспокоятся о российских атаках на мосты города",
-        "en": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges"
-      },
-      "summary": {
-        "ru": "Несмотря на повреждения, люди уверены в инфраструктуре города и не беспокоятся о том, что еще не произошло.",
-        "en": "Despite the damage, people are confident in the city’s infrastructure and are not worried about what has not happened yet."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Несмотря на повреждения, люди в Киеве уверены в инфраструктуре города и не беспокоятся о том, что еще не произошло. Местные жители продолжают использовать поврежденные мосты, такие как Северный мост, который пострадал от ракетного удара.\n\nАвтобусы остаются единственным транспортом, разрешенным на этом мосту, и водители должны обходить поврежденные участки. Однако жители уверены, что инфраструктура выдержит испытания.\n\nМестные жители, такие как Николай, продолжают свою повседневную жизнь, несмотря на угрозы, и выражают надежду на восстановление и улучшение ситуации в будущем.",
-        "en": "Despite the damage, people in Kyiv are confident in the city’s infrastructure and are not worried about what has not happened yet. Locals continue to use damaged bridges, such as the Northern Bridge, which was hit by a missile strike.\n\nBuses remain the only mode of transport allowed on this bridge, and drivers must navigate around the damaged areas. However, residents are confident that the infrastructure will withstand the challenges.\n\nLocals like Mykola continue their daily lives despite the threats, expressing hope for recovery and improvement in the future."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Трамп призывает Nvidia вернуть «гениального» Дженсена Хуана",
-        "en": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang"
-      },
-      "summary": {
-        "ru": "Президент США призывает технологического гиганта дать бывшему CEO «второй шанс» и настоятельно просит его «извиниться».",
-        "en": "US president calls on the tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Президент США призывает технологического гиганта Nvidia дать бывшему CEO «второй шанс» и настоятельно просит его «извиниться». Это заявление сделано в контексте недавних изменений в руководстве компании.\n\nПрезидент считает, что возвращение Дженсена Хуана на пост CEO может принести пользу как компании, так и всей отрасли. Он подчеркивает важность лидерства и опыта в быстро меняющемся мире технологий.\n\nЭто заявление также отражает более широкие вопросы о корпоративном управлении и ответственности в технологическом секторе.",
-        "en": "The US president calls on tech giant Nvidia to give former CEO 'a second chance' and urges him to 'make a big apology.' This statement comes in the context of recent changes in the company's leadership.\n\nThe president believes that bringing Jensen Huang back as CEO could benefit both the company and the industry as a whole. He emphasizes the importance of leadership and experience in the rapidly changing tech world.\n\nThis statement also reflects broader issues regarding corporate governance and accountability in the tech sector."
-      }
-    },
-    {
-      "link": "https://www.nytimes.com/2026/11/19/well/mind/marsha-linehan-dead.html",
-      "source": "New York Times",
-      "title": {
-        "ru": "Марша Линехан скончалась. Она преобразила лечение расстройства личности.",
-        "en": "Marsha Linehan Has Died. She Transformed Treatment for Personality Disorder."
-      },
-      "summary": {
-        "ru": "После того как ее методы оказались эффективными, она призналась, что в детстве боролась с пограничным расстройством личности.",
-        "en": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "После того как ее методы оказались эффективными, Марша Линехан призналась, что в детстве боролась с пограничным расстройством личности. Она была известным психологом и разработала методы лечения, которые изменили подход к этому расстройству.\n\nЛинехан внесла значительный вклад в психиатрию, и ее работа помогла многим людям справиться с трудностями, связанными с пограничным расстройством. Ее подходы стали основой для многих терапевтических программ.\n\nЕе наследие продолжает жить, и многие специалисты по психическому здоровью признают ее влияние на лечение расстройств личности.",
-        "en": "After her methods proved effective, Marsha Linehan revealed that she had battled her own borderline personality disorder as a child. She was a prominent psychologist who developed treatment methods that transformed the approach to this disorder.\n\nLinehan made significant contributions to psychiatry, and her work has helped many individuals cope with the challenges associated with borderline personality disorder. Her approaches have become foundational for many therapeutic programs.\n\nHer legacy continues to live on, and many mental health professionals acknowledge her influence on the treatment of personality disorders."
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Rossijskij-udar-ubivaet-dvoih-ranit-60-v-rodnom-gorode-Zelenskogo-11-21",
+        "en": "https://telegra.ph/Russian-strike-kills-two-wounds-60-in-Zelenskyys-hometown-11-21"
       }
     },
     {
@@ -596,56 +64,588 @@
         "en": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude"
       },
       "summary": {
-        "ru": "Если это подтвердится, доказательство гипотезы Римана укрепит мнение о том, что ни одна нерешенная проблема не в безопасности от искусственного интеллекта.",
-        "en": "If confirmed, the proof of the Riemann hypothesis would cement the belief that no unsolved problem is safe from artificial intelligence."
+        "ru": "Если подтвердится, доказательство гипотезы Римана укрепит мнение о том, что ИИ способен решать любые задачи в этой области.",
+        "en": "If confirmed, the proof of the Riemann hypothesis would cement the belief that A.I. might master any problem in the field."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Наука",
+        "en": "Science"
       },
       "longBody": {
-        "ru": "Если это подтвердится, доказательство гипотезы Римана укрепит мнение о том, что ни одна нерешенная проблема не в безопасности от искусственного интеллекта. Это заявление сделано математиком из компании Anthropic, который утверждает, что смог решить одну из самых известных математических задач.\n\nГипотеза Римана является одной из самых значительных нерешенных проблем в математике, и ее решение может иметь далеко идущие последствия для теории чисел и других областей.\n\nЕсли доказательство будет признано верным, это может изменить представление о возможностях искусственного интеллекта в решении сложных математических задач.",
-        "en": "If confirmed, the proof of the Riemann hypothesis would cement the belief that no unsolved problem is safe from artificial intelligence. This statement comes from a mathematician at Anthropic who claims to have solved one of the most famous mathematical problems.\n\nThe Riemann hypothesis is one of the most significant unsolved problems in mathematics, and its resolution could have far-reaching implications for number theory and other fields.\n\nIf the proof is validated, it could change perceptions of artificial intelligence's capabilities in solving complex mathematical problems."
+        "ru": "Ученый из компании Anthropic заявил о возможном доказательстве гипотезы Римана с помощью искусственного интеллекта. Если это доказательство подтвердится, оно может укрепить мнение о том, что ИИ способен решать сложные математические задачи, которые оставались неразрешенными на протяжении многих лет.\n\nГипотеза Римана является одной из самых известных и сложных математических проблем, и ее решение могло бы иметь значительные последствия для теории чисел и других областей математики. Успех в этом направлении также мог бы повысить доверие к возможностям искусственного интеллекта в научных исследованиях.\n\nТем не менее, необходимо провести дополнительные проверки и рецензирование, прежде чем можно будет говорить о подтверждении этого результата.",
+        "en": "A mathematician from Anthropic has claimed to have potentially proven the Riemann hypothesis with the help of artificial intelligence. If confirmed, this proof could solidify the belief that A.I. is capable of solving complex mathematical problems that have remained unsolved for many years.\n\nThe Riemann hypothesis is one of the most famous and challenging mathematical problems, and its resolution could have significant implications for number theory and other areas of mathematics. Success in this area could also enhance confidence in the capabilities of artificial intelligence in scientific research.\n\nHowever, further verification and peer review are necessary before this result can be considered confirmed."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Matematik-Anthropic-utverzhdaet-chto-reshil-gipotezu-Rimana-s-pomoshchyu-Claude-11-21",
+        "en": "https://telegra.ph/Anthropic-Mathematician-Claims-to-Solve-Riemann-Hypothesis-With-Help-From-Claude-11-21"
       }
     },
     {
-      "link": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
-      "source": "The Guardian",
+      "link": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
       "title": {
-        "ru": "Зеленые Виктории требуют срочного судебного запрета на карты голосования, имитирующие бренд партии",
-        "en": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding"
+        "ru": "ЕС и Индонезия подписали торговое соглашение",
+        "en": "EU and Indonesia sign trade deal"
       },
       "summary": {
-        "ru": "Зеленые Виктории требуют от Верховного суда остановить распространение карт голосования, которые якобы имитируют их брендинг и призывают голосовать за независимого кандидата последним.",
-        "en": "The Victorian Greens are seeking an urgent injunction to stop how-to-vote cards that allegedly mimic their branding and urge voters to preference an independent candidate last."
+        "ru": "Соглашение, охватывающее 730 миллионов человек, обещает снижение тарифов и новые инвестиционные возможности.",
+        "en": "The deal covering 730 million people promises lower tariffs and new investment opportunities."
       },
       "category": {
-        "ru": "Мир",
-        "en": "World"
+        "ru": "Экономика",
+        "en": "Economy"
       },
       "longBody": {
-        "ru": "Зеленые Виктории требуют от Верховного суда остановить распространение карт голосования, которые якобы имитируют их брендинг и призывают голосовать за независимого кандидата последним. Это заявление сделано на фоне предвыборной кампании.\n\nКампания независимого кандидата Тоша-Джейка Финнигана раздает карты, которые используют цветовую схему и шрифт Зеленых, что вызывает путаницу среди избирателей. Партия утверждает, что это вводит в заблуждение и нарушает их права.\n\nЗеленые надеются на быстрое решение суда, чтобы защитить свою репутацию и обеспечить честные выборы.",
-        "en": "The Victorian Greens are seeking an urgent injunction from the supreme court to stop an independent candidate from distributing how-to-vote cards that allegedly mimic their branding and urge voters to preference it last. This statement comes amid the election campaign.\n\nThe campaign of independent candidate Tosh-Jake Finnigan is distributing cards that use the Greens' color scheme and font, causing confusion among voters. The party claims this is misleading and infringes on their rights.\n\nThe Greens are hoping for a swift court resolution to protect their reputation and ensure fair elections."
+        "ru": "Европейский Союз и Индонезия подписали новое торговое соглашение, которое охватывает 730 миллионов человек. Это соглашение обещает снижение тарифов и создание новых возможностей для инвестиций, что может способствовать экономическому развитию обеих сторон.\n\nСоглашение является частью стратегии ЕС по диверсификации торговых связей на фоне растущих глобальных экономических напряжений. Оно также подчеркивает важность сотрудничества между развитыми и развивающимися странами в условиях изменяющегося мирового порядка.\n\nОжидается, что это соглашение принесет выгоды как для европейских, так и для индонезийских компаний, открывая новые рынки и возможности для бизнеса.",
+        "en": "The European Union and Indonesia have signed a new trade agreement covering 730 million people. This agreement promises lower tariffs and the creation of new investment opportunities, which could foster economic development for both parties.\n\nThe agreement is part of the EU's strategy to diversify trade ties amid growing global economic tensions. It also highlights the importance of cooperation between developed and developing countries in a changing world order.\n\nThis agreement is expected to benefit both European and Indonesian companies by opening new markets and business opportunities."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/ES-i-Indoneziya-podpisali-torgovoe-soglashenie-11-21",
+        "en": "https://telegra.ph/EU-and-Indonesia-sign-trade-deal-11-21"
       }
     },
     {
-      "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
-      "source": "The Guardian",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
       "title": {
-        "ru": "Трамп превращает пресс-конференцию в Белом доме в прослушивание преемников 2028 года",
-        "en": "Trump turns White House press conference into a 2028 succession audition"
+        "ru": "Борьба за ископаемое топливо оставляет климатические переговоры COP31 в тупике",
+        "en": "Fight over fossil fuels leaves COP31 climate talks in deadlock"
       },
       "summary": {
-        "ru": "Президент, похоже, проверяет Ванса и Рубио как потенциальных преемников, хотя Стивен Миллер неожиданно привлекает внимание.",
-        "en": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight."
+        "ru": "Страны из почти 200 стран находятся в тупике, пытаясь достичь нового глобального климатического соглашения.",
+        "en": "Countries from nearly 200 countries are in a deadlock trying to get a new global climate agreement."
+      },
+      "category": {
+        "ru": "Климат",
+        "en": "Climate"
+      },
+      "longBody": {
+        "ru": "Страны, участвующие в переговорах по климату на COP31, столкнулись с тупиком в попытках достичь нового глобального климатического соглашения. Представители почти 200 стран не смогли прийти к единому мнению по ключевым вопросам, что ставит под угрозу усилия по борьбе с изменением климата.\n\nТупик в переговорах подчеркивает сложность достижения консенсуса в международной политике, особенно когда речь идет о таких критически важных вопросах, как изменение климата. Участники конференции выражают опасения, что отсутствие соглашения может привести к дальнейшему ухудшению экологической ситуации в мире.\n\nНеобходимость в новом глобальном климатическом соглашении остается актуальной, и страны должны продолжать искать пути для достижения компромисса и совместных действий.",
+        "en": "Countries participating in climate negotiations at COP31 have reached a deadlock in their attempts to achieve a new global climate agreement. Representatives from nearly 200 countries were unable to come to a consensus on key issues, jeopardizing efforts to combat climate change.\n\nThe deadlock in negotiations highlights the difficulty of reaching consensus in international politics, especially on critically important issues like climate change. Conference participants express concerns that the lack of an agreement could lead to further deterioration of the global environmental situation.\n\nThe need for a new global climate agreement remains pressing, and countries must continue to seek ways to achieve compromise and collaborative action."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Borba-za-iskopaemoe-toplivo-ostavlyaet-klimaticheskie-peregovory-COP31-v-tupike-11-21",
+        "en": "https://telegra.ph/Fight-over-fossil-fuels-leaves-COP31-climate-talks-in-deadlock-11-21-6"
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/21/business/used-car-auctions-manheim-prices.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Рынок подержанных автомобилей процветает. Этот кампус в Н.J. устанавливает цены.",
+        "en": "The Used Car Industry Is Booming. This N.J. Campus Is Setting the Price."
+      },
+      "summary": {
+        "ru": "С ростом цен на новые автомобили рынок подержанных стал гораздо более важным для потребителей и автомобильной промышленности.",
+        "en": "As new car prices rise, the used market has become much more important for consumers and the auto industry."
+      },
+      "category": {
+        "ru": "Экономика",
+        "en": "Economy"
+      },
+      "longBody": {
+        "ru": "С ростом цен на новые автомобили рынок подержанных автомобилей стал значительно более важным для потребителей и автомобильной промышленности. Поскольку новые автомобили становятся недоступными для многих покупателей, интерес к подержанным автомобилям растет.\n\nЭтот сдвиг в потребительских предпочтениях также влияет на цены на подержанные автомобили, которые, как ожидается, будут продолжать расти. Автопроизводители и дилеры должны адаптироваться к этим изменениям, чтобы оставаться конкурентоспособными на рынке.\n\nРынок подержанных автомобилей становится ключевым фактором в экономике, и его развитие может иметь долгосрочные последствия для всей автомобильной отрасли.",
+        "en": "As new car prices rise, the used car market has become significantly more important for consumers and the auto industry. With new vehicles becoming unaffordable for many buyers, interest in used cars is increasing.\n\nThis shift in consumer preferences is also impacting prices for used vehicles, which are expected to continue rising. Automakers and dealers must adapt to these changes to remain competitive in the market.\n\nThe used car market is becoming a key factor in the economy, and its development could have long-term implications for the entire automotive industry."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Rynok-poderzhannyh-avtomobilej-procvetaet-EHtot-kampus-v-NJ-ustanavlivaet-ceny-11-21",
+        "en": "https://telegra.ph/The-Used-Car-Industry-Is-Booming-This-NJ-Campus-Is-Setting-the-Price-11-21-2"
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Вэнс не поддерживает утверждение Трампа о том, что Иран близок к ядерному оружию",
+        "en": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon"
+      },
+      "summary": {
+        "ru": "Вице-президент США говорит, что не его дело ставить под сомнение президента, но воздерживается от поддержки утверждения Трампа.",
+        "en": "US vice-president says it’s not his place to second-guess the president, but refrains from endorsing Trump’s claim."
+      },
+      "category": {
+        "ru": "Политика",
+        "en": "Politics"
+      },
+      "longBody": {
+        "ru": "Вице-президент США заявил, что не его дело ставить под сомнение президента, но воздержался от поддержки утверждения Дональда Трампа о том, что Иран был близок к созданию ядерного оружия. Это заявление было сделано на пресс-конференции в Белом доме, где обсуждались вопросы, касающиеся безопасности и внешней политики.\n\nТрамп утверждал, что Иран был настолько близок к получению ядерного оружия, что это оправдывало необходимость военного вмешательства США. Однако вице-президент не стал поддерживать это утверждение, что может указывать на разногласия внутри администрации по вопросам внешней политики.\n\nСитуация с Ираном продолжает оставаться напряженной, и такие заявления могут повлиять на дальнейшие дипломатические усилия и стратегию США в регионе.",
+        "en": "The U.S. vice president stated that it is not his place to second-guess the president but refrained from endorsing Donald Trump's claim that Iran was close to obtaining nuclear weapons. This statement was made at a White House news conference where security and foreign policy issues were discussed.\n\nTrump claimed that Iran was so close to acquiring nuclear weapons that it justified the need for U.S. military intervention. However, the vice president did not support this assertion, which may indicate disagreements within the administration on foreign policy matters.\n\nThe situation with Iran remains tense, and such statements could impact further diplomatic efforts and the U.S. strategy in the region."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Vehns-ne-podderzhivaet-utverzhdenie-Trampa-o-tom-chto-Iran-blizok-k-yadernomu-oruzhiyu-11-21",
+        "en": "https://telegra.ph/Vance-stops-short-of-endorsing-Trumps-claim-that-Iran-was-close-to-nuclear-weapon-11-21"
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "В гневе осени во Франции телеканалы обвиняются в разжигании ненависти",
+        "en": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot"
+      },
+      "summary": {
+        "ru": "Критики утверждают, что CNews и BFM TV использовали расистский язык в освещении протестов.",
+        "en": "Critics say that CNews and BFM TV have used racist language in protest coverage."
+      },
+      "category": {
+        "ru": "Общество",
+        "en": "Society"
+      },
+      "longBody": {
+        "ru": "В условиях осенних протестов во Франции, телеканалы CNews и BFM TV подверглись критике за использование расистского языка в освещении событий. Критики утверждают, что такие подходы лишь подогревают напряженность и недовольство среди протестующих.\n\nОбсуждение роли СМИ в освещении протестов поднимает важные вопросы о том, как информация может влиять на общественное мнение и восприятие событий. Телеканалы отвергли обвинения, заявив, что их освещение было объективным и беспристрастным.\n\nТем не менее, продолжающаяся полемика вокруг освещения протестов подчеркивает необходимость более ответственного подхода со стороны медиа в отношении чувствительных тем.",
+        "en": "In the context of autumn protests in France, the news channels CNews and BFM TV have been criticized for using racist language in their coverage of the events. Critics argue that such approaches only inflame tensions and dissatisfaction among protesters.\n\nThe discussion about the media's role in covering protests raises important questions about how information can influence public opinion and perceptions of events. The channels have denied the allegations, stating that their coverage was objective and impartial.\n\nNevertheless, the ongoing debate surrounding the coverage of protests highlights the need for a more responsible approach from the media regarding sensitive topics."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/V-gneve-oseni-vo-Francii-telekanaly-obvinyayutsya-v-razzhiganii-nenavisti-11-21",
+        "en": "https://telegra.ph/In-Frances-Angry-Autumn-TV-News-Channels-Are-Accused-of-Stirring-the-Pot-11-21"
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Международные переговоры ООН по контролю за автономным оружием провалились",
+        "en": "International UN talks on controlling use of autonomous weapons collapse"
+      },
+      "summary": {
+        "ru": "Неделя переговоров не смогла установить мандат на переговоры по контролю за автономным оружием после возражений России.",
+        "en": "Week-long efforts to agree on a negotiating mandate for controlling autonomous weapons collapsed after Russian objections."
+      },
+      "category": {
+        "ru": "Право",
+        "en": "Law"
+      },
+      "longBody": {
+        "ru": "Международные переговоры по контролю за использованием автономного оружия завершились неудачей после возражений России. На протяжении недели участники пытались согласовать мандат для переговоров, однако все усилия оказались безуспешными.\n\nОтсутствие согласия подчеркивает сложности, с которыми сталкиваются страны при попытках установить международные нормы в области новых технологий и вооружений. Несмотря на желание большинства государств достичь соглашения, необходимость консенсуса привела к тому, что конференция приняла более слабый вариант.\n\nПровал переговоров оставляет открытым вопрос о будущем регулирования автономного оружия и необходимости дальнейших усилий для достижения международного согласия.",
+        "en": "International negotiations on controlling the use of autonomous weapons ended in failure following objections from Russia. Over the course of a week, participants attempted to agree on a negotiating mandate, but all efforts proved unsuccessful.\n\nThe lack of consensus highlights the challenges countries face in trying to establish international norms regarding new technologies and weaponry. Despite the desire of the majority of states to reach an agreement, the need for consensus led the conference to adopt a much weaker option.\n\nThe failure of the negotiations leaves open the question of the future regulation of autonomous weapons and the need for further efforts to achieve international consensus."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Mezhdunarodnye-peregovory-OON-po-kontrolyu-za-avtonomnym-oruzhiem-provalilis-11-21",
+        "en": "https://telegra.ph/International-UN-talks-on-controlling-use-of-autonomous-weapons-collapse-11-21"
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "ФБР, по сообщениям, расследует предполагаемую хакерскую атаку на свою криминальную базу данных",
+        "en": "FBI reportedly investigating apparent hack of its criminal database"
+      },
+      "summary": {
+        "ru": "База данных Национального центра преступности используется федеральными и местными правоохранительными органами для обмена информацией.",
+        "en": "The National Crime Information Center database is used by federal and local law enforcement to share information."
+      },
+      "category": {
+        "ru": "Технологии",
+        "en": "Technology"
+      },
+      "longBody": {
+        "ru": "ФБР проводит расследование по поводу предполагаемого взлома своей базы данных о преступниках. Национальный центр преступной информации используется как федеральными, так и местными правоохранительными органами для обмена информацией о преступлениях и подозреваемых.\n\nВзлом базы данных вызывает серьезные опасения по поводу безопасности и конфиденциальности данных, которые могут быть использованы для расследований. Это также поднимает вопросы о том, как правоохранительные органы защищают информацию и какие меры принимаются для предотвращения подобных инцидентов в будущем.\n\nРасследование продолжается, и ожидается, что оно приведет к более строгим мерам безопасности в отношении данных правоохранительных органов.",
+        "en": "The FBI is reportedly investigating an apparent hack of its criminal database. The National Crime Information Center database is used by both federal and local law enforcement agencies to share information about crimes and suspects.\n\nThe breach of the database raises serious concerns about the security and confidentiality of data that could be used for investigations. It also raises questions about how law enforcement agencies protect information and what measures are being taken to prevent such incidents in the future.\n\nThe investigation is ongoing, and it is expected to lead to stricter security measures regarding law enforcement data."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/FBR-po-soobshcheniyam-rassleduet-predpolagaemuyu-hakerskuyu-ataku-na-svoyu-kriminalnuyu-bazu-dannyh-11-21",
+        "en": "https://telegra.ph/FBI-reportedly-investigating-apparent-hack-of-its-criminal-database-11-21-20"
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Плавание в Ормузе подчеркивает экологические последствия войны",
+        "en": "Hormuz swim highlights environmental cost of war"
+      },
+      "summary": {
+        "ru": "Эколог Льюис Пью завершил вызов в Ормузе и предупредил о длительном экологическом ущербе.",
+        "en": "Ocean campaigner Lewis Pugh completed the Hormuz challenge and warned of lasting environmental damage."
+      },
+      "category": {
+        "ru": "Климат",
+        "en": "Climate"
+      },
+      "longBody": {
+        "ru": "Эколог Льюис Пью завершил свой вызов в Ормузе, проплыв через стратегически важный водный путь, который стал ареной конфликтов и экологических катастроф. Пью использует свои достижения, чтобы привлечь внимание к экологическим последствиям войн, подчеркивая, что такие действия наносят долгосрочный ущерб морской экосистеме.\n\nПо словам Пью, многие люди не осознают, как войны влияют на окружающую среду. Он призывает к более серьезному подходу к защите океанов и морей, которые страдают от загрязнения и разрушения в результате военных действий. Пью надеется, что его плавание станет стимулом для обсуждения этих вопросов на международной арене.\n\nВызов в Ормузе стал не только спортивным событием, но и важной акцией по защите окружающей среды. Пью подчеркивает, что необходимо объединить усилия для сохранения морских ресурсов и защиты экосистем от разрушительных последствий конфликтов.",
+        "en": "Ocean campaigner Lewis Pugh has completed his challenge in the Strait of Hormuz, swimming through a strategically significant waterway that has been a site of conflict and environmental disaster. Pugh uses his achievements to highlight the environmental consequences of wars, emphasizing that such actions cause lasting damage to marine ecosystems.\n\nAccording to Pugh, many people are unaware of how wars impact the environment. He calls for a more serious approach to protecting the oceans and seas that suffer from pollution and destruction due to military actions. Pugh hopes that his swim will serve as a catalyst for discussing these issues on the international stage.\n\nThe Hormuz challenge has become not only a sporting event but also an important campaign for environmental protection. Pugh stresses the need to unite efforts to preserve marine resources and protect ecosystems from the destructive effects of conflicts."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Ливерпуль против Манчестер Юнайтед: Премьер-лига – команды, прогноз, составы",
+        "en": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups"
+      },
+      "summary": {
+        "ru": "Одна из крупнейших спортивных Rivality на сцене, когда Ливерпуль принимает Ман Юнайтед, находящийся в зоне вылета Премьер-лиги.",
+        "en": "One of sport's biggest rivalries takes center stage as Liverpool hosts a Man United side in the EPL relegation zone."
+      },
+      "category": {
+        "ru": "Спорт",
+        "en": "Sport"
+      },
+      "longBody": {
+        "ru": "В преддверии важного матча в Премьер-лиге Ливерпуль принимает Манчестер Юнайтед, который в данный момент находится в зоне вылета. Это противостояние является одним из самых значимых в английском футболе, и обе команды стремятся к победе, чтобы улучшить свои позиции в таблице.\n\nЛиверпуль, обладая сильным составом, надеется на поддержку своих болельщиков, чтобы одержать победу над традиционным соперником. С другой стороны, Манчестер Юнайтед, находясь под давлением, будет бороться за каждое очко, чтобы избежать вылета из Премьер-лиги.\n\nМатч обещает быть напряженным и полным эмоций, так как обе команды имеют богатую историю противостояний. Футбольные эксперты и болельщики ожидают захватывающего зрелища на стадионе, где каждая ошибка может стоить команде важного очка.",
+        "en": "As Liverpool prepares to host Manchester United in a crucial Premier League match, the latter finds itself in the relegation zone. This rivalry is one of the most significant in English football, with both teams eager for victory to improve their standings in the league.\n\nLiverpool, boasting a strong squad, hopes to leverage the support of their fans to secure a win against their traditional rivals. Meanwhile, Manchester United, under pressure, will fight for every point to avoid relegation from the Premier League.\n\nThe match promises to be tense and emotional, as both teams have a rich history of confrontations. Football experts and fans alike are looking forward to an exciting spectacle at the stadium, where every mistake could cost the team crucial points."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Nvidia, по сообщениям, сталкивается с расследованием SEC по своим бухгалтерским практикам",
+        "en": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices"
+      },
+      "summary": {
+        "ru": "Вопросы о бухгалтерии компании возникли на фоне разоблачений о сомнительных продажах чипов в Азии.",
+        "en": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia."
+      },
+      "category": {
+        "ru": "Технологии",
+        "en": "Technology"
+      },
+      "longBody": {
+        "ru": "В Nvidia возникли вопросы относительно бухгалтерских практик компании на фоне разоблачений о сомнительных продажах чипов в Азии. Эти обвинения привлекли внимание регулирующих органов, и теперь компания может столкнуться с расследованием со стороны Комиссии по ценным бумагам и биржам США.\n\nСитуация усугубляется тем, что Nvidia является одним из ведущих производителей графических процессоров, и любые проблемы с отчетностью могут негативно сказаться на ее репутации и финансовых показателях. Инвесторы и аналитики внимательно следят за развитием событий, поскольку это может повлиять на стоимость акций компании.\n\nВ условиях растущего давления на Nvidia, компания должна будет предоставить ясные объяснения своих действий и подтвердить свою приверженность к соблюдению норм бухгалтерского учета и прозрачности в бизнесе.",
+        "en": "Questions have arisen regarding Nvidia's accounting practices amid revelations about questionable chip sales in Asia. These allegations have drawn the attention of regulatory bodies, and the company may now face an investigation by the U.S. Securities and Exchange Commission.\n\nThe situation is compounded by the fact that Nvidia is one of the leading manufacturers of graphics processors, and any issues with its reporting could negatively impact its reputation and financial performance. Investors and analysts are closely monitoring the developments, as this could affect the company's stock value.\n\nUnder increasing pressure, Nvidia will need to provide clear explanations of its actions and reaffirm its commitment to adhering to accounting standards and transparency in its business practices."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Жители Флориды обращаются к каякам и плотам, так как улицы затоплены",
+        "en": "Florida residents turn to kayaks and rafts as floods swamp streets"
+      },
+      "summary": {
+        "ru": "Дни сильного дождя затопили улицы Флориды, заставляя жителей находить креативные способы передвижения.",
+        "en": "Days of heavy rain have flooded streets across Florida, forcing residents to find creative ways to get around."
+      },
+      "category": {
+        "ru": "Катастрофа",
+        "en": "Disaster"
+      },
+      "longBody": {
+        "ru": "В результате дней сильного дождя улицы Флориды оказались затоплены, и местные жители были вынуждены искать креативные способы передвижения. Многие из них начали использовать каяки и плотики, чтобы добраться до работы и выполнять повседневные дела.\n\nСитуация усугубляется тем, что некоторые районы оказались полностью изолированными от обычного транспорта. Власти работают над устранением последствий наводнения, однако прогнозы погоды не предвещают скорого улучшения.\n\nЖители Флориды, сталкиваясь с такими условиями, проявляют изобретательность и находят способы адаптироваться к новым реалиям, однако они также выражают обеспокоенность по поводу возможных долгосрочных последствий таких погодных явлений.",
+        "en": "Days of heavy rain have flooded streets across Florida, forcing residents to find creative ways to get around. Many have turned to kayaks and rafts to reach work and carry out daily tasks.\n\nThe situation is exacerbated by the fact that some areas have become completely isolated from regular transportation. Authorities are working to address the aftermath of the flooding, but weather forecasts do not indicate any immediate improvement.\n\nFacing these conditions, Floridians are showing ingenuity and finding ways to adapt to the new realities, yet they also express concern about the potential long-term consequences of such weather events."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Российские ракеты ударили по Польше: что произошло и может ли НАТО ответить?",
+        "en": "Russian missiles hit Poland: What happened, and could NATO respond?"
+      },
+      "summary": {
+        "ru": "Варшава обвиняет Москву в намеренной провокации, но планка для активации коллективной обороны НАТО остается высокой.",
+        "en": "Warsaw accuses Moscow of intentional provocation, but the bar for triggering NATO's collective defense clause remains high."
+      },
+      "category": {
+        "ru": "Конфликт",
+        "en": "Conflict"
+      },
+      "longBody": {
+        "ru": "Варшава обвинила Москву в намеренной провокации после того, как российские ракеты попали на территорию Польши. Этот инцидент вызывает серьезные опасения относительно безопасности в регионе и может повлиять на отношения между Россией и НАТО.\n\nНесмотря на обострение ситуации, порог для активации коллективной обороны НАТО остается высоким. Это означает, что, хотя инцидент вызывает напряженность, ответ НАТО может быть ограничен, если не будет доказано, что произошла явная угроза.\n\nПольша продолжает следить за ситуацией и готова к возможным последствиям, однако дипломатические усилия остаются в центре внимания для предотвращения дальнейшей эскалации конфликта.",
+        "en": "Warsaw has accused Moscow of intentional provocation after Russian missiles struck Polish territory. This incident raises serious concerns about security in the region and could impact relations between Russia and NATO.\n\nDespite the escalating situation, the threshold for triggering NATO's collective defense remains high. This means that while the incident raises tensions, NATO's response may be limited unless there is clear evidence of an overt threat.\n\nPoland continues to monitor the situation and is prepared for potential consequences, but diplomatic efforts remain a priority to prevent further escalation of the conflict."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Танкеры пострадали в Ормузе, так как Иран усиливает контроль над судоходством",
+        "en": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping"
+      },
+      "summary": {
+        "ru": "Британское морское агентство сообщает о двух инцидентах у Омана, в то время как Иран утверждает, что танкер загорелся из-за морской мины.",
+        "en": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to a naval mine."
+      },
+      "category": {
+        "ru": "Катастрофа",
+        "en": "Disaster"
+      },
+      "longBody": {
+        "ru": "Британское морское агентство сообщило о двух инцидентах в Ормузе, связанных с танкерами, что подчеркивает растущую напряженность в этом стратегически важном регионе. Иран утверждает, что один из танкеров загорелся из-за морской мины, что вызывает опасения по поводу безопасности судоходства в этом районе.\n\nЭти события происходят на фоне усиливающегося контроля Ирана над морскими путями, что вызывает беспокойство у международного сообщества. Британское агентство подчеркивает необходимость обеспечения безопасности судов и защиты от возможных атак.\n\nСитуация в Ормузе остается напряженной, и дальнейшие инциденты могут привести к серьезным последствиям для международной торговли и стабильности в регионе.",
+        "en": "The British maritime agency has reported two incidents involving tankers in the Strait of Hormuz, highlighting the increasing tension in this strategically important region. Iran claims that one of the tankers caught fire due to a naval mine, raising concerns about the safety of shipping in the area.\n\nThese events occur against the backdrop of Iran's tightening grip on maritime routes, which raises alarms in the international community. The British agency emphasizes the need to ensure the safety of vessels and protect against potential attacks.\n\nThe situation in Hormuz remains tense, and further incidents could have serious repercussions for international trade and stability in the region."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Принцесса Уэльская говорит о влиянии диагноза рака в фильме BBC Heal",
+        "en": "Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal"
+      },
+      "summary": {
+        "ru": "Документальный фильм фиксирует, как Кэтрин принимает участие в вызове Three Peaks и находит «чувство надежды наряду с неопределенностью».",
+        "en": "Documentary records Catherine taking on the Three Peaks challenge and finding ‘sense of hope alongside uncertainty’."
+      },
+      "category": {
+        "ru": "Здоровье",
+        "en": "Health"
+      },
+      "longBody": {
+        "ru": "Принцесса Уэльская Кэтрин открыто говорит о влиянии диагноза рака в новом документальном фильме BBC под названием \"Heal\". В фильме она принимает участие в вызове Three Peaks и делится своими мыслями о надежде и неопределенности, связанных с болезнью.\n\nКэтрин подчеркивает, что рак меняет не только тело, но и внутреннее состояние человека. Она делится своими переживаниями и тем, как справляется с вызовами, которые ставит перед ней болезнь. Фильм стремится показать, как важно находить поддержку и надежду в трудные времена.\n\nДокументальный фильм будет показан позже в этом месяце и уже вызывает интерес у зрителей, желающих узнать больше о личной борьбе принцессы и ее взглядах на жизнь после диагноза.",
+        "en": "The Princess of Wales, Catherine, speaks candidly about the impact of her cancer diagnosis in a new BBC documentary titled \"Heal.\" In the film, she participates in the Three Peaks challenge and shares her thoughts on hope and uncertainty associated with the illness.\n\nCatherine emphasizes that cancer changes not only the body but also a person's inner state. She shares her experiences and how she copes with the challenges posed by the disease. The documentary aims to highlight the importance of finding support and hope during difficult times.\n\nThe documentary will air later this month and is already generating interest among viewers eager to learn more about the princess's personal struggle and her perspectives on life after diagnosis."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "Сессии предлагают советы по растущим затратам на энергию",
+        "en": "Sessions offer advice on rising energy costs"
+      },
+      "summary": {
+        "ru": "Совет призывает людей искать поддержку в связи с растущими затратами на отопление этой зимой.",
+        "en": "A council is urging people to seek support with rising energy costs for heating this winter."
+      },
+      "category": {
+        "ru": "Общество",
+        "en": "Society"
+      },
+      "longBody": {
+        "ru": "Совет призывает жителей искать поддержку в связи с растущими затратами на отопление этой зимой. С учетом увеличения цен на энергоносители, многие домохозяйства могут столкнуться с финансовыми трудностями.\n\nВласти предлагают различные программы помощи, чтобы помочь людям справиться с высокими счетами за отопление. Это включает в себя советы по экономии энергии и доступ к субсидиям для тех, кто испытывает трудности.\n\nСовет настоятельно рекомендует жителям не стесняться обращаться за помощью и использовать доступные ресурсы, чтобы обеспечить комфортное отопление в зимний период.",
+        "en": "A council is urging residents to seek support with rising energy costs for heating this winter. With energy prices increasing, many households may face financial difficulties.\n\nAuthorities are offering various assistance programs to help people cope with high heating bills. This includes advice on energy savings and access to subsidies for those in need.\n\nThe council strongly encourages residents not to hesitate in seeking help and to utilize available resources to ensure comfortable heating during the winter months."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Мексика захватывает главу картеля, разыскиваемого ФБР, в военной операции",
+        "en": "Mexico captures FBI-wanted cartel boss in military raid"
+      },
+      "summary": {
+        "ru": "Военные Мексики захватили разыскиваемого ФБР главу картеля «Эль Чапо Исидро» в Гвасаве, Синалоа.",
+        "en": "Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa."
+      },
+      "category": {
+        "ru": "Конфликт",
+        "en": "Conflict"
+      },
+      "longBody": {
+        "ru": "Военные Мексики захватили разыскиваемого ФБР главу картеля «Эль Чапо Исидро» в результате операции в Гвасаве, штат Синалоа. Этот арест стал значительным достижением в борьбе с организованной преступностью в стране.\n\n«Эль Чапо Исидро» был одним из самых разыскиваемых преступников, и его задержание может повлиять на структуру картелей в регионе. Мексиканские власти подчеркивают важность этого ареста для повышения безопасности и борьбы с наркоторговлей.\n\nОперация по захвату преступника была тщательно спланирована, и власти надеются, что это станет шагом к снижению уровня насилия и преступности в стране.",
+        "en": "Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in a raid in Guasave, Sinaloa. This arrest marks a significant achievement in the fight against organized crime in the country.\n\n‘El Chapo Isidro’ was one of the most wanted criminals, and his capture could impact the structure of cartels in the region. Mexican authorities emphasize the importance of this arrest for enhancing security and combating drug trafficking.\n\nThe operation to apprehend the criminal was meticulously planned, and authorities hope this will be a step towards reducing violence and crime levels in the country."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Гаитяне взволнованы, но обеспокоены, когда войска Эль-Сальвадора сражаются с бандами",
+        "en": "Haitians excited but uneasy as El Salvador troops fight gangs"
+      },
+      "summary": {
+        "ru": "Иностранные бойцы в Порт-о-Пренс приветствуются многими после лет контроля банд, но некоторые опасаются, что наступление может усугубить ситуацию.",
+        "en": "Foreign combatants in Port-au-Prince are welcomed by many after years of gang control, but some fear the offensive could exacerbate the volatile situation."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Президент, похоже, проверяет Ванса и Рубио как потенциальных преемников, хотя Стивен Миллер неожиданно привлекает внимание. Это произошло во время пресс-конференции в Белом доме, где обсуждались вопросы преемственности.\n\nПрезидент задавал вопросы, которые напоминали сцену из \"Короля Лира\", где отец проверяет своих дочерей на преданность. Это вызвало спекуляции о том, кто может занять его место в будущем.\n\nСитуация подчеркивает внутренние политические игры и борьбу за влияние в республиканской партии.",
-        "en": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight. This occurred during a White House press conference where succession issues were discussed.\n\nThe president posed questions reminiscent of a scene from 'King Lear,' where a father tests his daughters' loyalty. This sparked speculation about who might take his place in the future.\n\nThe situation highlights the internal political maneuvering and power struggles within the Republican Party."
+        "ru": "Иностранные бойцы, прибывшие в Порт-о-Пренс, приветствуются многими местными жителями после долгих лет контроля банд. Однако некоторые выражают опасения, что военное вмешательство может усугубить ситуацию в стране.\n\nМестные жители надеются, что иностранные силы помогут восстановить порядок и безопасность, которые были подорванные действиями банд. Тем не менее, есть опасения, что такая операция может привести к новым конфликтам и насилию.\n\nСитуация в Гаити остается напряженной, и многие жители ждут, как будут развиваться события, надеясь на лучшее, но опасаясь худшего.",
+        "en": "Foreign combatants in Port-au-Prince are welcomed by many after years of gang control, but some fear the offensive could exacerbate the volatile situation. \n\nLocals hope that foreign forces will help restore order and security that have been undermined by gang activities. However, there are concerns that such an operation could lead to new conflicts and violence.\n\nThe situation in Haiti remains tense, and many residents are watching closely to see how events unfold, hoping for the best but fearing the worst."
+      }
+    },
+    {
+      "link": "https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-evening",
+      "source": "Euronews",
+      "title": {
+        "ru": "Последние новости | 21 ноября 2026 года – Вечер",
+        "en": "Latest news bulletin | November 21st, 2026 – Evening"
+      },
+      "summary": {
+        "ru": "Подводим итоги самых важных событий из Европы и других регионов на 21 ноября 2026 года.",
+        "en": "Catch up with the most important stories from around Europe and beyond this November 21st, 2026."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "21 ноября 2026 года стал важным днем для Европы и других регионов, когда были подведены итоги ключевых событий. В этот день освещались новости из различных областей, включая политику, бизнес, культуру и развлечения.\n\nВечерний выпуск новостей предоставил зрителям возможность ознакомиться с последними событиями, которые формируют общественное мнение и влияют на международные отношения. Обсуждались также культурные события и достижения, которые привлекли внимание широкой аудитории.\n\nТаким образом, 21 ноября стал днем, насыщенным важными новостями, которые будут иметь долгосрочные последствия для общества и экономики.",
+        "en": "November 21, 2026, marked an important day for Europe and beyond, as key events were summarized. This day featured news from various sectors, including politics, business, culture, and entertainment.\n\nThe evening news bulletin provided viewers with an opportunity to catch up on the latest happenings that shape public opinion and influence international relations. Cultural events and achievements that captured the attention of a wide audience were also discussed.\n\nThus, November 21 became a day filled with significant news that will have long-term implications for society and the economy."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Оппозиция Индии проводит протесты против Meta из-за удаления аккаунтов",
+        "en": "India’s opposition stages protests against Meta over account removals"
+      },
+      "summary": {
+        "ru": "Индийский молодежный конгресс выдал семидневный 'ультиматум' американскому технологическому гиганту, призывая снять все ограничения.",
+        "en": "The Indian Youth Congress issued a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Индийский молодежный конгресс объявил о семидневном 'ультиматуме' к американскому технологическому гиганту Meta. Они требуют снять все ограничения, которые были наложены на аккаунты пользователей.\n\nПротесты против Meta стали ответом на недовольство, вызванное удалением аккаунтов, что, по мнению оппозиции, нарушает свободу слова и права пользователей. Молодежный конгресс подчеркивает важность восстановления доступа к социальным сетям для всех граждан.\n\nТаким образом, данная акция протеста подчеркивает растущее напряжение между технологическими компаниями и пользователями в Индии, а также важность диалога между ними.",
+        "en": "The Indian Youth Congress has issued a seven-day 'ultimatum' to the US technology giant Meta, demanding the lifting of all restrictions imposed on user accounts.\n\nProtests against Meta have emerged in response to dissatisfaction caused by account removals, which the opposition argues violate freedom of speech and user rights. The Youth Congress emphasizes the importance of restoring access to social networks for all citizens.\n\nThus, this protest highlights the growing tension between tech companies and users in India, as well as the need for dialogue between them."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Ребёнок в Вирджинии стал первой жертвой кори в штате в 2026 году",
+        "en": "Virginia child dies in state’s first measles-associated death of 2026"
+      },
+      "summary": {
+        "ru": "Смерть добавляет к национальному всплеску кори, который недавно лишил США статуса по ликвидации кори после 26 лет.",
+        "en": "The death adds to a national measles outbreak that recently cost the US its measles elimination status after 26 years."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "В Вирджинии зарегистрирован первый случай смерти от кори в 2026 году, что добавляет к национальному всплеску заболевания. Это событие произошло на фоне недавнего утраты США статуса по ликвидации кори после 26 лет.\n\nДетский возраст жертвы составляет четыре года или меньше, однако подробности, включая статус вакцинации, не были раскрыты в интересах семьи. Это событие вызывает серьезные опасения по поводу вспышки кори в стране и важности вакцинации.\n\nТаким образом, смерть ребенка подчеркивает необходимость усиления мер по вакцинации и информированию населения о рисках, связанных с инфекционными заболеваниями.",
+        "en": "Virginia has reported its first measles-associated death of 2026, adding to a national outbreak of the disease. This incident comes amid the recent loss of the US's measles elimination status after 26 years.\n\nThe child involved was four years old or younger, but additional details, including vaccination status, have not been disclosed for the family's privacy. This event raises serious concerns about the measles outbreak in the country and the importance of vaccination.\n\nThus, the child's death underscores the need for enhanced vaccination measures and public awareness regarding the risks associated with infectious diseases."
+      }
+    },
+    {
+      "link": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
+      "source": "The Block",
+      "title": {
+        "ru": "Цена токена FLIP Chainflip упала на 34% после атаки на $4,86 миллиона",
+        "en": "Chainflip’s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise"
+      },
+      "summary": {
+        "ru": "Цена токена FLIP Chainflip упала на 34% после, по всей видимости, автоматической атаки.",
+        "en": "Chainflip's FLIP token dropped 34% in price in the wake of the apparently automated attack."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Цена токена FLIP Chainflip упала на 34% после того, как произошло, по всей видимости, автоматическое нападение, в результате которого было похищено 4,86 миллиона долларов из хранилища.\n\nЭто событие стало значительным ударом для платформы, и многие инвесторы выражают беспокойство по поводу безопасности своих активов. Аналитики подчеркивают необходимость повышения мер безопасности в криптовалютной сфере.\n\nТаким образом, падение цены токена FLIP отражает более широкие проблемы, с которыми сталкивается индустрия криптовалют в свете недавних атак и утечек средств.",
+        "en": "Chainflip's FLIP token dropped 34% in price following what appears to be an automated attack that drained $4.86 million from its vault.\n\nThis incident has dealt a significant blow to the platform, and many investors are expressing concerns about the security of their assets. Analysts emphasize the need for enhanced security measures in the cryptocurrency sector.\n\nThus, the price drop of the FLIP token reflects broader issues facing the cryptocurrency industry in light of recent attacks and fund leaks."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Дьялло присутствует, когда Мотсепе из Африки повторяет поддержку Инфантино",
+        "en": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino"
+      },
+      "summary": {
+        "ru": "Африканская CAF присоединилась к южноамериканской КОНМЕБОЛ в единодушной поддержке переизбрания президента ФИФА Джанни Инфантино.",
+        "en": "Africa's CAF joined South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Африканская конфедерация футбола (CAF) выразила единодушную поддержку переизбрания президента ФИФА Джанни Инфантино, присоединившись к южноамериканской КОНМЕБОЛ в этом вопросе.\n\nЭто решение подчеркивает важность единства среди футбольных организаций на континенте и их стремление к стабильности в управлении международным футболом. Инфантино, в свою очередь, продолжает получать поддержку от ключевых региональных ассоциаций.\n\nТаким образом, поддержка CAF может сыграть важную роль в будущих выборах и в формировании политики ФИФА.",
+        "en": "Africa's CAF has expressed unanimous support for the re-election of FIFA President Gianni Infantino, joining South America's CONMEBOL in this regard.\n\nThis decision highlights the importance of unity among football organizations on the continent and their desire for stability in the governance of international football. Infantino continues to receive backing from key regional associations.\n\nThus, CAF's support may play a significant role in upcoming elections and in shaping FIFA's policies."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Британец вспоминает 'отчаяние' после смерти сына, упавшего из окна на Кипре",
+        "en": "British man recalls ‘despair’ over son’s death after fall from Cyprus window"
+      },
+      "summary": {
+        "ru": "Британский отец, которому был назначен штраф после падения сына с четвертого этажа, рассказал о своем 'отчаянии'.",
+        "en": "A British father who was fined after his two-year-old son fell from a fourth-floor window recalled his 'despair'."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Британский отец, которому был назначен штраф после падения его двухлетнего сына с четвертого этажа, поделился своими чувствами 'отчаяния'. Это трагическое событие произошло во время семейного отдыха на Кипре.\n\nОтец, Джошуа Фостер, был оштрафован на €3,000 после признания вины в причинении смерти по неосторожности. Прокуроры на Кипре отказались прекратить дело против него, несмотря на его горе.\n\nТаким образом, это происшествие подчеркивает важность безопасности детей и последствия, которые могут возникнуть в результате несчастных случаев.",
+        "en": "A British father who was fined after his two-year-old son fell from a fourth-floor window recalled his 'despair' over the incident. This tragic event occurred during a family holiday in Cyprus.\n\nFather Joshua Foster was handed a €3,000 fine after pleading guilty to a charge of causing death through recklessness. Prosecutors in Cyprus refused to drop the case against him despite his grief.\n\nThus, this incident highlights the importance of child safety and the consequences that can arise from accidents."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Скетч SNL 'Сестра' отражает тихую боль заботы о близких для женщин",
+        "en": "SNL’s skit Sister captures the quiet agony of caregiving for women"
+      },
+      "summary": {
+        "ru": "Вирусный скетч 'Сестра' быстро стал популярным на этой неделе за сатиризацию бремени заботы о пожилых членах семьи.",
+        "en": "The viral sketch titled Sister quickly went viral this week for its satirization of the caregiving burden."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Скетч под названием 'Сестра' из программы Saturday Night Live быстро стал вирусным на этой неделе, сатиризируя бремя заботы о пожилых членах семьи, которое ложится на женщин и дочерей.\n\nВ этом пародийном рекламном ролике комик Джон Мулани описывает 'Сестру' как 'поставщика ухода за пожилыми людьми, который живет с вами 24/7 и совершенно бесплатен'. Это вызвало отклик у многих зрителей, которые узнали в этом свои собственные переживания.\n\nТаким образом, скетч подчеркивает важные социальные вопросы, касающиеся роли женщин в уходе за пожилыми родственниками и общественного восприятия этой ответственности.",
+        "en": "The sketch titled 'Sister' from Saturday Night Live quickly went viral this week for its satirization of the caregiving burden placed on women and daughters.\n\nIn this parody commercial, comedian John Mulaney describes 'Sister' as 'a live-in 24/7 elder care provider that is completely free, and also your sister.' This resonated with many viewers who recognized their own experiences in the sketch.\n\nThus, the sketch highlights important social issues regarding the role of women in caring for elderly relatives and the societal perception of this responsibility."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Федеральный судья отклоняет запрос о освобождении мужчины, раненого агентами иммиграции в Нью-Йорке",
+        "en": "Federal judge denies request to release man shot by immigration agents in New York"
+      },
+      "summary": {
+        "ru": "Федеральный судья отказал в освобождении мужчины, который был ранен иммиграционными офицерами в Нью-Йорке в октябре.",
+        "en": "A federal judge declined to release a man who was shot and wounded by immigration officers in New York in October."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Федеральный судья отказал в освобождении мужчины, который был ранен иммиграционными офицерами в Нью-Йорке в октябре. Этот случай привлек внимание общественности и вызвал обсуждения о методах работы иммиграционных служб.\n\nОскар Бельгаль, доминиканский гражданин, был ранен агентами ICE во время ареста, когда он вез своего пятилетнего сына домой из школы. Судья отметил, что хотя агенты могли совершить процедурную ошибку, это не является основанием для освобождения Бельгала.\n\nТаким образом, данный случай подчеркивает сложные вопросы, связанные с иммиграцией и правами человека в США.",
+        "en": "A federal judge declined to release a man who was shot and wounded by immigration officers in New York in October. This case has drawn public attention and sparked discussions about the methods used by immigration agencies.\n\nOscar Belgal, a Dominican national, was shot by ICE agents while driving his five-year-old son home from school. The judge noted that while the agents may have made a procedural error, this does not warrant Belgal's release.\n\nThus, this case highlights the complex issues surrounding immigration and human rights in the United States."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Холод сменяется дождем в некоторых частях Великобритании, выпущено предупреждение о погоде для юго-западной Англии",
+        "en": "Cold gives way to rain in parts of UK as weather warning issued for south-west England"
+      },
+      "summary": {
+        "ru": "Выпущено предупреждение о медленно движущемся дожде в юго-западной Англии с прогнозом более 100 мм осадков.",
+        "en": "A weather warning has been issued for south-west England as heavy rain is expected, with over 100mm predicted."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "В юго-западной Англии было выпущено предупреждение о погоде, так как ожидаются сильные дожди, с прогнозом более 100 мм осадков. Это предупреждение касается районов Девона и Корнуолла.\n\nМетеорологическая служба сообщила о медленно движущемся фронте дождя, который может привести к наводнениям и отключениям электроэнергии. Ожидается, что предупреждение будет действовать с 6 утра до полуночи в воскресенье.\n\nТаким образом, данное предупреждение подчеркивает необходимость подготовки к неблагоприятным погодным условиям и потенциальным последствиям для местного населения.",
+        "en": "A weather warning has been issued for south-west England as heavy rain is expected, with over 100mm predicted. This warning pertains to areas of Devon and Cornwall.\n\nThe Met Office reported a slow-moving band of rain that could lead to flooding and power outages. The warning is expected to be in effect from 6am until midnight on Sunday.\n\nThus, this warning underscores the need for preparedness for adverse weather conditions and the potential consequences for local residents."
+      }
+    },
+    {
+      "link": "https://www.euronews.com/2026/11/21/jair-bolsonaro-hospitalised-with-abdominal-pain-while-under-house-arrest",
+      "source": "Euronews",
+      "title": {
+        "ru": "Жаир Болсонару госпитализирован с abdominal pain во время домашнего ареста",
+        "en": "Jair Bolsonaro hospitalised with abdominal pain while under house arrest"
+      },
+      "summary": {
+        "ru": "Бывший президент Бразилии был госпитализирован с abdominal pain под охраной военных.",
+        "en": "The former Brazilian president was taken to hospital with abdominal pain, accompanied by military police."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Бывший президент Бразилии Жаир Болсонару был госпитализирован с abdominal pain, находясь под охраной военных. Это событие привлекло внимание как местных, так и международных СМИ.\n\nБолсонару был переведен в больницу для получения медицинской помощи, однако подробности о его состоянии здоровья остаются ограниченными. Это происшествие подчеркивает продолжающиеся проблемы, с которыми сталкивается бывший президент после его ухода с поста.\n\nТаким образом, госпитализация Болсонару вызывает вопросы о его здоровье и будущем, а также о его статусе после президентства.",
+        "en": "Former Brazilian President Jair Bolsonaro was hospitalized with abdominal pain while under military police custody. This event has attracted attention from both local and international media.\n\nBolsonaro was taken to the hospital for medical assistance, but details about his health condition remain limited. This incident underscores the ongoing challenges faced by the former president following his departure from office.\n\nThus, Bolsonaro's hospitalization raises questions about his health and future, as well as his status after the presidency."
       }
     }
   ]
