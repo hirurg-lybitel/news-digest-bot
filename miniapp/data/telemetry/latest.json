@@ -1,659 +1,700 @@
 {
   "model": "gpt-4o-mini",
-  "periodHours": 11.907810555555555,
-  "poolSize": 71,
-  "candidateCount": 71,
+  "periodHours": 23.951654722222223,
+  "poolSize": 145,
+  "candidateCount": 80,
   "maxStories": 30,
   "telegramTopN": 10,
   "candidates": [
     {
       "index": 1,
-      "title": "COP31: Fossil fuels still missing from draft deal at UN climate summit",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-all-1573-rdf"
+      "title": "UN mission in Libya urges probe after Russian ship hit by drones off Benghazi",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/23/un-mission-in-libya-urges-probe-after-russian-ship-hit-by-drones-off-benghazi"
     },
     {
       "index": 2,
-      "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
+      "title": "Who is Alberto Feijoo, the conservative seeking to become Spain’s new PM?",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss"
+      "link": "https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm?traffic_source=rss"
     },
     {
       "index": 3,
-      "title": "New draft deal aims to avert collapse of talks at climate summit",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss"
+      "title": "Behind China’s A.I. Anxieties, Fear of a Nuclear Checkmate",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html"
     },
     {
       "index": 4,
-      "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss"
+      "title": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857"
     },
     {
       "index": 5,
-      "title": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
+      "title": "Australian politics live: NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb"
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb"
     },
     {
       "index": 6,
-      "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html"
+      "title": "US intelligence chief warns of more tech outages as Delta suffers fresh Atlanta failure",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/23/us-intelligence-chief-warns-of-more-tech-outages-as-delta-suffers-fresh-atlanta-failure"
     },
     {
       "index": 7,
-      "title": "ICE agents detain two people at Seattle airport",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss"
+      "title": "A Landmark Genocide Ruling",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html"
     },
     {
       "index": 8,
-      "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+      "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss"
     },
     {
       "index": 9,
-      "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html"
+      "title": "What's next after no deal at COP31 climate talks?",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 10,
-      "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss"
+      "title": "In Vietnam, an Electric Vehicle Revolution Without Cars",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html"
     },
     {
       "index": 11,
-      "title": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/first-images-of-mexican-cartel-boss-el-chapo-isidro-after-arrest?traffic_source=rss"
+      "title": "How Homeowners Are Powering Vietnam’s E-Bike Surge",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html"
     },
     {
       "index": 12,
-      "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html"
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 13,
-      "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html"
+      "title": "Taiwan warns Canada against deeper China trade ties as Carney seeks to diversify",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/23/taiwan-warns-canada-against-deeper-china-trade-ties-as-carney-seeks-to-diversify"
     },
     {
       "index": 14,
-      "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss"
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 15,
-      "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss"
+      "title": "Built to Whisper, E.V.s Look to Mimic the Growl of Gas Engines",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/business/evs-electric-engine-sounds.html"
     },
     {
       "index": 16,
-      "title": "Man found dead on Flinders Island believed to have been shot by officer, police say",
+      "title": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say"
+      "link": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report"
     },
     {
       "index": 17,
-      "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss"
+      "title": "Nine people injured after gunfire at central California concert",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/23/nine-people-injured-after-gunfire-at-central-california-concert"
     },
     {
       "index": 18,
-      "title": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb"
+      "title": "Child rescued in Ukraine after Russian drone attack kills 10",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss"
     },
     {
       "index": 19,
-      "title": "Bessent confirms he’s living on US military base over Iran fears",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss"
+      "title": "Love made a fool of Beau Lamarre-Condon but did not make him a murderer, defence argues",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb"
     },
     {
       "index": 20,
-      "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html"
+      "title": "‘Difficult geopolitical times’: Albanese defends Bowen after Cop31 deal failure",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure"
     },
     {
       "index": 21,
-      "title": "International Mission Arrives at Mercury to Study Its Mysteries",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/20/science/mercury-bepi-colombo-orbit.html"
+      "title": "Unemployment to surpass 5% and ‘things will get a bit harder’, treasurer Jim Chalmers warns",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns"
     },
     {
       "index": 22,
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+      "title": "Doula thought self-described birth keeper was clinically trained before NSW baby death, inquest hears",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/23/doula-thought-self-described-birth-keeper-was-clinically-trained-before-nsw-baby-death-inquest-hears-ntwnfb"
     },
     {
       "index": 23,
-      "title": "Moviegoers head for the exits as quake strikes Peru",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss"
+      "title": "Pip assessments need 'fundamental overhaul', report to say",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 24,
+      "title": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report"
+    },
+    {
+      "index": 25,
+      "title": "Pochettino’s nightmare start as Man U thrashed by Liverpool",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/pochettinos-nightmare-start-as-man-u-thrashed-by-liverpool?traffic_source=rss"
+    },
+    {
+      "index": 26,
+      "title": "Manchester’s Co-op Live arena evacuated after ‘unknown substance’ released in crowd at Don Toliver concert",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/23/manchester-co-op-live-arena-evacuated-tear-gas-don-toliver-concert"
+    },
+    {
+      "index": 27,
+      "title": "Don Toliver concert chaos after ‘substance’ let off in crowd",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/don-toliver-concert-chaos-after-substance-let-off-in-crowd?traffic_source=rss"
+    },
+    {
+      "index": 28,
+      "title": "Belgium’s airports set to shut down due to anti-austerity strike",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss"
+    },
+    {
+      "index": 29,
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 30,
+      "title": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport"
+    },
+    {
+      "index": 31,
+      "title": "Indonesia confirms 24 killed in candy factory fire as search continues",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss"
+    },
+    {
+      "index": 32,
+      "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss"
+    },
+    {
+      "index": 33,
+      "title": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss"
+    },
+    {
+      "index": 34,
+      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html"
+    },
+    {
+      "index": 35,
+      "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss"
+    },
+    {
+      "index": 36,
+      "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss"
+    },
+    {
+      "index": 37,
+      "title": "Israeli forces continue house demolitions in southern Lebanon",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-forces-continue-house-demolitions-in-southern-lebanon?traffic_source=rss"
+    },
+    {
+      "index": 38,
+      "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html"
+    },
+    {
+      "index": 39,
+      "title": "Is Mexico Stepping Up in the War on Drugs?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html"
+    },
+    {
+      "index": 40,
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 41,
+      "title": "S&P 500 Futures Rise After Tough Week",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html"
+    },
+    {
+      "index": 42,
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 43,
+      "title": "US army to blow up bomb-making chemicals despite safety concerns",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa"
+    },
+    {
+      "index": 44,
+      "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss"
+    },
+    {
+      "index": 45,
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 46,
+      "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin"
+    },
+    {
+      "index": 47,
+      "title": "What is going on with Poundland?",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 48,
+      "title": "Asian stock markets tumble as AI bubble fears mount",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss"
+    },
+    {
+      "index": 49,
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 50,
+      "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss"
+    },
+    {
+      "index": 51,
+      "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss"
+    },
+    {
+      "index": 52,
+      "title": "Mystery of the red stream in Turkiye",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss"
+    },
+    {
+      "index": 53,
+      "title": "Lion on the loose in Turkiye sparks fear among residents",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss"
+    },
+    {
+      "index": 54,
+      "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss"
+    },
+    {
+      "index": 55,
+      "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838"
+    },
+    {
+      "index": 56,
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 57,
+      "title": "Ukraine war spilling into NATO territory",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory"
+    },
+    {
+      "index": 58,
+      "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners"
+    },
+    {
+      "index": 59,
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 60,
+      "title": "Trump to host private dinner for largest owners of his meme coin",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss"
+    },
+    {
+      "index": 61,
+      "title": "Morocco: A surreal sculpture park turns the world upside down",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/22/morocco-a-surreal-sculpture-park-turns-the-world-upside-down"
+    },
+    {
+      "index": 62,
+      "title": "Democrats win largest House majority since 1992 with North Carolina seat",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss"
+    },
+    {
+      "index": 63,
+      "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss"
+    },
+    {
+      "index": 64,
+      "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name"
+    },
+    {
+      "index": 65,
+      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit"
+    },
+    {
+      "index": 66,
+      "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+    },
+    {
+      "index": 67,
+      "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss"
+    },
+    {
+      "index": 68,
+      "title": "Turkey: Thousands protest closure of critical media outlets",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/turkey-thousands-protest-closure-of-critical-media-outlets/a-80015347?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 69,
+      "title": "Midterms: US Democrats secure biggest House majority in decades",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/22/midterms-us-democrats-secure-biggest-house-majority-in-decades"
+    },
+    {
+      "index": 70,
+      "title": "Heartbreak in US capital as Washington Spirit lose women’s football final",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss"
+    },
+    {
+      "index": 71,
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 72,
+      "title": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828"
+    },
+    {
+      "index": 73,
+      "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend"
+    },
+    {
+      "index": 74,
+      "title": "Fire breaks out at popular tourist hotspot in Zanzibar",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/fire-breaks-out-at-popular-tourist-hotspot-in-zanzibar?traffic_source=rss"
+    },
+    {
+      "index": 75,
+      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy"
+    },
+    {
+      "index": 76,
+      "title": "How the U.S. Economy Is Tied to A.I.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html"
+    },
+    {
+      "index": 77,
       "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
       "source": "New York Times",
       "link": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html"
     },
     {
-      "index": 25,
-      "title": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy"
-    },
-    {
-      "index": 26,
-      "title": "Clashes erupt across France in another night of protest",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss"
-    },
-    {
-      "index": 27,
-      "title": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92"
-    },
-    {
-      "index": 28,
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 29,
-      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 30,
-      "title": "How a teen gamer and his mother helped rescue a missing girl",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 31,
-      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss"
-    },
-    {
-      "index": 32,
-      "title": "Nigeria: At least 24 dead after boat capsizes",
+      "index": 78,
+      "title": "Sudan: Drones hit UN building, residential area in Khartoum",
       "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/nigeria-at-least-24-dead-after-boat-capsizes/a-80011248?maca=en-rss-en-all-1573-rdf"
+      "link": "https://www.dw.com/en/sudan-drones-hit-un-building-residential-area-in-khartoum/a-80015122?maca=en-rss-en-all-1573-rdf"
     },
     {
-      "index": 33,
-      "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss"
-    },
-    {
-      "index": 34,
-      "title": "Iran faces a ‘silent economic war’, says Iranian president",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss"
-    },
-    {
-      "index": 35,
-      "title": "The Penny Is Dead. Now It’s Official.",
+      "index": 79,
+      "title": "Donald Hooton Sr., Who Crusaded Against Steroids in Sports, Has Died",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html"
+      "link": "https://www.nytimes.com/2026/11/22/us/donald-hooton-sr-dead.html"
     },
     {
-      "index": 36,
-      "title": "Ukraine: Dashcam captures massive explosion on Lviv street",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street"
-    },
-    {
-      "index": 37,
-      "title": "Will COP31 end with a new global climate deal?",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 38,
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 39,
-      "title": "Bahrain says Iranian attack hits industrial facility",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss"
-    },
-    {
-      "index": 40,
-      "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit"
-    },
-    {
-      "index": 41,
-      "title": "Highlights and challenges from covering an historic month in South America",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america"
-    },
-    {
-      "index": 42,
-      "title": "A grieving family in Lebanon returns to their village",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village"
-    },
-    {
-      "index": 43,
-      "title": "Lock of former US President George Washington's hair sells for $4,000",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 44,
-      "title": "Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
-    },
-    {
-      "index": 45,
-      "title": "Bahrain says Iranian attack causes fire at industrial facility",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
-    },
-    {
-      "index": 46,
-      "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+      "index": 80,
+      "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
       "source": "The Block",
-      "link": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813"
-    },
-    {
-      "index": 47,
-      "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html"
-    },
-    {
-      "index": 48,
-      "title": "Impunity fuels surge in settler violence across occupied West Bank",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss"
-    },
-    {
-      "index": 49,
-      "title": "Indian man jailed over plot to kill Sikh separatist in US",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss"
-    },
-    {
-      "index": 50,
-      "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss"
-    },
-    {
-      "index": 51,
-      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss"
-    },
-    {
-      "index": 52,
-      "title": "Thousands protest across Europe over living costs and housing",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss"
-    },
-    {
-      "index": 53,
-      "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss"
-    },
-    {
-      "index": 54,
-      "title": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html"
-    },
-    {
-      "index": 55,
-      "title": "Video shows Mexican forces capturing 'El Chapo Isidro', FBI most-wanted cartel boss",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/21/video-shows-mexican-forces-capturing-el-chapo-isidro-fbi-most-wanted-cartel-boss"
-    },
-    {
-      "index": 56,
-      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
-    },
-    {
-      "index": 57,
-      "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss"
-    },
-    {
-      "index": 58,
-      "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html"
-    },
-    {
-      "index": 59,
-      "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss"
-    },
-    {
-      "index": 60,
-      "title": "Man charged with attempted murder after councillor stabbed in Bradford",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford"
-    },
-    {
-      "index": 61,
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "index": 62,
-      "title": "G.T.A. VI Is a Monumental Human Achievement",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html"
-    },
-    {
-      "index": 63,
-      "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"
-    },
-    {
-      "index": 64,
-      "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
-      "source": "The Block",
-      "link": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810"
-    },
-    {
-      "index": 65,
-      "title": "Louisiana man charged with killing woman on hiking trail and murdering co-worker with crossbow",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges"
-    },
-    {
-      "index": 66,
-      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss"
-    },
-    {
-      "index": 67,
-      "title": "Getting rid of antibiotic resistance: Challenges and possible solutions",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/getting-rid-of-antibiotic-resistance-challenges-and-possible-solutions/a-80010693?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 68,
-      "title": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 69,
-      "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby"
-    },
-    {
-      "index": 70,
-      "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
-    },
-    {
-      "index": 71,
-      "title": "Trump orders contractors to check with White House over any congressional inquiries",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order"
+      "link": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829"
     }
   ],
   "clusters": [
     {
-      "representativeIndex": 1,
+      "representativeIndex": 7,
       "memberIndices": [
-        1,
-        3,
-        10,
-        38
-      ],
-      "score": 85,
-      "category": "climate",
-      "rationale": "The ongoing COP31 climate summit highlights critical global negotiations on fossil fuels, essential for addressing climate change."
-    },
-    {
-      "representativeIndex": 4,
-      "memberIndices": [
-        4,
-        15,
-        32
-      ],
-      "score": 80,
-      "category": "disaster",
-      "rationale": "The humanitarian crisis in Sudan is exacerbated by aid cuts, leading to severe winter conditions for displaced families."
-    },
-    {
-      "representativeIndex": 13,
-      "memberIndices": [
-        13,
-        14,
-        22,
-        70
-      ],
-      "score": 75,
-      "category": "conflict",
-      "rationale": "The violent protests in Bangladesh over the exiled former leader reflect significant political instability and unrest."
-    },
-    {
-      "representativeIndex": 8,
-      "memberIndices": [
+        7,
         8,
-        26
+        24,
+        12,
+        18
       ],
-      "score": 70,
-      "category": "society",
-      "rationale": "The resignation of South Korea's education minister amid an AI cheating scandal raises serious concerns about integrity in education."
+      "score": 95,
+      "category": "conflict",
+      "rationale": "The landmark genocide ruling against Myanmar has significant implications for international law and human rights, particularly in relation to ongoing violence in Gaza."
     },
     {
-      "representativeIndex": 6,
+      "representativeIndex": 14,
       "memberIndices": [
-        6,
-        12
-      ],
-      "score": 65,
-      "category": "culture",
-      "rationale": "The controversy surrounding Taiwanese comedian Huang Yi-hao's targeting for political satire underscores the intersection of culture and politics."
-    },
-    {
-      "representativeIndex": 17,
-      "memberIndices": [
-        17,
-        66
+        14,
+        9,
+        20,
+        34,
+        6
       ],
       "score": 90,
-      "category": "conflict",
-      "rationale": "The ongoing Israeli airstrikes and protests in Gaza represent a significant escalation in the Israeli-Palestinian conflict."
+      "category": "climate",
+      "rationale": "The collapse of COP31 talks highlights the urgent need for global climate action amid deep geopolitical divisions."
     },
     {
-      "representativeIndex": 19,
+      "representativeIndex": 21,
       "memberIndices": [
-        19,
-        31,
-        44
+        21,
+        4,
+        41,
+        48,
+        76
       ],
-      "score": 75,
-      "category": "conflict",
-      "rationale": "Iran's military actions against US bases signal a dangerous escalation in tensions in the Gulf region."
+      "score": 85,
+      "category": "economy",
+      "rationale": "Warnings of rising unemployment and economic slowdown in Australia reflect broader concerns about global economic stability."
     },
     {
-      "representativeIndex": 50,
+      "representativeIndex": 66,
       "memberIndices": [
-        50,
-        34
-      ],
-      "score": 60,
-      "category": "health",
-      "rationale": "Former Brazilian President Jair Bolsonaro's health crisis highlights ongoing political and social issues in Brazil."
-    },
-    {
-      "representativeIndex": 60,
-      "memberIndices": [
-        60,
-        5
-      ],
-      "score": 70,
-      "category": "law",
-      "rationale": "The attempted murder charge against a councillor in Bradford raises concerns about public safety and political violence."
-    },
-    {
-      "representativeIndex": 36,
-      "memberIndices": [
+        66,
+        1,
+        29,
+        63,
         36
       ],
       "score": 80,
       "category": "conflict",
-      "rationale": "The deadly drone attacks in Ukraine illustrate the ongoing and severe impact of the war on civilian life.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 28,
-      "memberIndices": [
-        28,
-        58
-      ],
-      "score": 65,
-      "category": "technology",
-      "rationale": "The FBI's investigation into a hack of its criminal database raises significant concerns about cybersecurity and data protection."
-    },
-    {
-      "representativeIndex": 2,
-      "memberIndices": [
-        2,
-        7
-      ],
-      "score": 55,
-      "category": "politics",
-      "rationale": "Kenya's proposed internet metering law raises critical issues of privacy and affordability in the digital age."
-    },
-    {
-      "representativeIndex": 49,
-      "memberIndices": [
-        49
-      ],
-      "score": 70,
-      "category": "law",
-      "rationale": "The sentencing of an Indian national for plotting an assassination in the US highlights international legal and security challenges."
+      "rationale": "The suspected Ukrainian drone attack on a Russian warship in Libya escalates tensions in an already volatile region."
     },
     {
       "representativeIndex": 59,
       "memberIndices": [
         59,
-        30
-      ],
-      "score": 50,
-      "category": "sport",
-      "rationale": "Arsenal's recent match highlights the ongoing excitement and unpredictability in the world of sports."
-    },
-    {
-      "representativeIndex": 11,
-      "memberIndices": [
-        11
-      ],
-      "score": 60,
-      "category": "conflict",
-      "rationale": "The violent aftermath of the capture of a Mexican cartel leader underscores the ongoing struggle against organized crime.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 68,
-      "memberIndices": [
-        68,
-        55
+        57,
+        78
       ],
       "score": 75,
       "category": "conflict",
-      "rationale": "The capture of a major drug kingpin in Mexico marks a significant moment in the fight against drug trafficking."
+      "rationale": "The ongoing humanitarian crisis in Ukraine, marked by civilian casualties from drone strikes, underscores the war's devastating impact.",
+      "repaired": true
     },
     {
-      "representativeIndex": 29,
+      "representativeIndex": 19,
       "memberIndices": [
-        29,
-        52
-      ],
-      "score": 65,
-      "category": "society",
-      "rationale": "Youth engagement in Nigeria's elections is critical for the future of democracy in the country."
-    },
-    {
-      "representativeIndex": 33,
-      "memberIndices": [
-        33,
-        39
+        19,
+        30,
+        17,
+        70,
+        62
       ],
       "score": 70,
-      "category": "politics",
-      "rationale": "Lebanon's political landscape is further complicated by calls for Israeli withdrawal and Iranian influence."
+      "category": "society",
+      "rationale": "The public outcry over ICE detaining a father and daughter at an airport highlights ongoing debates about immigration policies in the US."
     },
     {
-      "representativeIndex": 67,
+      "representativeIndex": 31,
       "memberIndices": [
-        67,
-        56
+        31,
+        74,
+        28,
+        26,
+        27
+      ],
+      "score": 65,
+      "category": "disaster",
+      "rationale": "The tragic candy factory fire in Indonesia, resulting in multiple fatalities, raises concerns about workplace safety regulations."
+    },
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        32,
+        39
       ],
       "score": 60,
-      "category": "science",
-      "rationale": "The challenges of antibiotic resistance pose a significant threat to global health, necessitating urgent action."
+      "category": "technology",
+      "rationale": "China's anxieties over AI and nuclear vulnerabilities reflect broader global concerns about technological advancements and security."
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 55,
+      "category": "economy",
+      "rationale": "The significant outflows from bitcoin ETFs signal a shift in investor sentiment amid fears of economic instability.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 43,
+      "memberIndices": [
+        43,
+        44,
+        50
+      ],
+      "score": 50,
+      "category": "society",
+      "rationale": "The US intelligence chief's comments on technology outages highlight vulnerabilities in critical infrastructure affecting daily life.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2,
+        54,
+        67,
+        69
+      ],
+      "score": 45,
+      "category": "politics",
+      "rationale": "The political landscape in the US is shifting with the Democrats securing a significant House majority, impacting future legislative agendas."
+    },
+    {
+      "representativeIndex": 10,
+      "memberIndices": [
+        10,
+        11,
+        15,
+        49
+      ],
+      "score": 40,
+      "category": "technology",
+      "rationale": "Vietnam's electric vehicle revolution represents a significant shift in transportation and energy consumption patterns."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5,
+        22,
+        23
+      ],
+      "score": 35,
+      "category": "law",
+      "rationale": "The inquest into baby deaths during home births raises critical questions about healthcare regulations and safety."
+    },
+    {
+      "representativeIndex": 25,
+      "memberIndices": [
+        25,
+        40
+      ],
+      "score": 25,
+      "category": "sport",
+      "rationale": "The loss of the Washington Spirit in the NWSL final highlights ongoing challenges in women's sports and the pursuit of equality."
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45,
+        71,
+        79,
+        60,
+        72
+      ],
+      "score": 20,
+      "category": "culture",
+      "rationale": "The marriage of Miley Cyrus marks a cultural moment in celebrity news, reflecting ongoing public interest in personal lives of stars."
     },
     {
       "representativeIndex": 46,
       "memberIndices": [
-        46,
-        64
+        46
       ],
-      "score": 55,
+      "score": 15,
       "category": "economy",
-      "rationale": "The investigation into Kalshi's operations reflects broader concerns about regulatory practices in financial markets."
+      "rationale": "Trump's involvement in cryptocurrency ventures raises ethical questions amid ongoing scrutiny of his financial dealings."
     },
     {
-      "representativeIndex": 71,
+      "representativeIndex": 38,
       "memberIndices": [
-        71
+        38,
+        37,
+        35
       ],
-      "score": 65,
-      "category": "politics",
-      "rationale": "Trump's executive order regarding congressional inquiries raises significant questions about transparency and oversight."
+      "score": 5,
+      "category": "conflict",
+      "rationale": "Israeli actions in the West Bank continue to draw international condemnation, reflecting ongoing tensions in the region."
     },
     {
-      "representativeIndex": 9,
+      "representativeIndex": 13,
       "memberIndices": [
-        9
+        13
       ],
-      "score": 19.87323943661972,
+      "score": 19.8375,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -663,117 +704,17 @@
       "memberIndices": [
         16
       ],
-      "score": 19.774647887323944,
+      "score": 19.8,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 18,
+      "representativeIndex": 33,
       "memberIndices": [
-        18
+        33
       ],
-      "score": 19.746478873239436,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 20,
-      "memberIndices": [
-        20
-      ],
-      "score": 19.718309859154928,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 21,
-      "memberIndices": [
-        21
-      ],
-      "score": 19.704225352112676,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 23,
-      "memberIndices": [
-        23
-      ],
-      "score": 19.676056338028168,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 24,
-      "memberIndices": [
-        24
-      ],
-      "score": 19.661971830985916,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 25,
-      "memberIndices": [
-        25
-      ],
-      "score": 19.647887323943664,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 27,
-      "memberIndices": [
-        27
-      ],
-      "score": 19.619718309859156,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 35,
-      "memberIndices": [
-        35
-      ],
-      "score": 19.507042253521128,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 37,
-      "memberIndices": [
-        37
-      ],
-      "score": 19.47887323943662,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 40,
-      "memberIndices": [
-        40
-      ],
-      "score": 19.43661971830986,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 41,
-      "memberIndices": [
-        41
-      ],
-      "score": 19.422535211267604,
+      "score": 19.5875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -783,27 +724,7 @@
       "memberIndices": [
         42
       ],
-      "score": 19.408450704225352,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 43,
-      "memberIndices": [
-        43
-      ],
-      "score": 19.3943661971831,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 45,
-      "memberIndices": [
-        45
-      ],
-      "score": 19.366197183098592,
+      "score": 19.475,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -813,17 +734,7 @@
       "memberIndices": [
         47
       ],
-      "score": 19.338028169014084,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 48,
-      "memberIndices": [
-        48
-      ],
-      "score": 19.323943661971832,
+      "score": 19.4125,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -833,7 +744,17 @@
       "memberIndices": [
         51
       ],
-      "score": 19.281690140845072,
+      "score": 19.3625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 19.35,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -843,27 +764,27 @@
       "memberIndices": [
         53
       ],
-      "score": 19.253521126760564,
+      "score": 19.3375,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 54,
+      "representativeIndex": 56,
       "memberIndices": [
-        54
+        56
       ],
-      "score": 19.239436619718308,
+      "score": 19.3,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 57,
+      "representativeIndex": 58,
       "memberIndices": [
-        57
+        58
       ],
-      "score": 19.197183098591548,
+      "score": 19.275,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -873,27 +794,17 @@
       "memberIndices": [
         61
       ],
-      "score": 19.140845070422536,
+      "score": 19.2375,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 62,
+      "representativeIndex": 64,
       "memberIndices": [
-        62
+        64
       ],
-      "score": 19.12676056338028,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 63,
-      "memberIndices": [
-        63
-      ],
-      "score": 19.112676056338028,
+      "score": 19.2,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -903,17 +814,57 @@
       "memberIndices": [
         65
       ],
-      "score": 19.08450704225352,
+      "score": 19.1875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 69,
+      "representativeIndex": 68,
       "memberIndices": [
-        69
+        68
       ],
-      "score": 19.028169014084508,
+      "score": 19.15,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 73,
+      "memberIndices": [
+        73
+      ],
+      "score": 19.0875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 75,
+      "memberIndices": [
+        75
+      ],
+      "score": 19.0625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 77,
+      "memberIndices": [
+        77
+      ],
+      "score": 19.0375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 19,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -926,14 +877,14 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 13409,
+      "latencyMs": 17484,
       "usage": {
-        "inputTokens": 6347,
-        "outputTokens": 914,
-        "totalTokens": 7261
+        "inputTokens": 7244,
+        "outputTokens": 962,
+        "totalTokens": 8206
       },
-      "estimatedCostUsd": 0.0015004499999999997,
-      "returnedCount": 21,
+      "estimatedCostUsd": 0.0016637999999999998,
+      "returnedCount": 19,
       "acceptedCount": 30
     },
     {
@@ -942,13 +893,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 21793,
+      "latencyMs": 18356,
       "usage": {
-        "inputTokens": 1138,
-        "outputTokens": 1353,
-        "totalTokens": 2491
+        "inputTokens": 1586,
+        "outputTokens": 1095,
+        "totalTokens": 2681
       },
-      "estimatedCostUsd": 0.0009825,
+      "estimatedCostUsd": 0.0008949,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -958,13 +909,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 16784,
+      "latencyMs": 18477,
       "usage": {
-        "inputTokens": 1055,
-        "outputTokens": 1163,
-        "totalTokens": 2218
+        "inputTokens": 1164,
+        "outputTokens": 1108,
+        "totalTokens": 2272
       },
-      "estimatedCostUsd": 0.0008560499999999999,
+      "estimatedCostUsd": 0.0008394,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -974,13 +925,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 18922,
+      "latencyMs": 19422,
       "usage": {
-        "inputTokens": 1214,
-        "outputTokens": 1260,
-        "totalTokens": 2474
+        "inputTokens": 1123,
+        "outputTokens": 1293,
+        "totalTokens": 2416
       },
-      "estimatedCostUsd": 0.0009381,
+      "estimatedCostUsd": 0.00094425,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -990,13 +941,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 25827,
+      "latencyMs": 35775,
       "usage": {
-        "inputTokens": 1993,
-        "outputTokens": 2482,
-        "totalTokens": 4475
+        "inputTokens": 2201,
+        "outputTokens": 3020,
+        "totalTokens": 5221
       },
-      "estimatedCostUsd": 0.00178815,
+      "estimatedCostUsd": 0.0021421500000000002,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1006,13 +957,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 29608,
+      "latencyMs": 38677,
       "usage": {
-        "inputTokens": 1733,
-        "outputTokens": 2813,
-        "totalTokens": 4546
+        "inputTokens": 1772,
+        "outputTokens": 2946,
+        "totalTokens": 4718
       },
-      "estimatedCostUsd": 0.00194775,
+      "estimatedCostUsd": 0.0020334,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1022,25 +973,25 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 30025,
+      "latencyMs": 29159,
       "usage": {
-        "inputTokens": 1960,
-        "outputTokens": 2844,
-        "totalTokens": 4804
+        "inputTokens": 1909,
+        "outputTokens": 2362,
+        "totalTokens": 4271
       },
-      "estimatedCostUsd": 0.0020004,
+      "estimatedCostUsd": 0.0017035499999999999,
       "returnedCount": 10,
       "acceptedCount": 10
     }
   ],
-  "generatedAt": "2026-11-22T06:04:19.419Z",
+  "generatedAt": "2026-11-23T06:04:50.326Z",
   "cost": {
     "currency": "USD",
-    "estimatedTotalUsd": 0.010013399999999999,
+    "estimatedTotalUsd": 0.01022145,
     "complete": true,
-    "inputTokens": 15440,
-    "outputTokens": 12829,
-    "totalTokens": 28269,
+    "inputTokens": 16999,
+    "outputTokens": 12786,
+    "totalTokens": 29785,
     "inputUsdPerMillion": 0.15,
     "outputUsdPerMillion": 0.6
   },
@@ -1049,154 +1000,154 @@
       "storyCount": 30,
       "stories": [
         {
-          "link": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Displaced Palestinians protest as Israeli air strikes continue in Gaza"
-        },
-        {
-          "link": "https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "title_en": "COP31: Fossil fuels still missing from draft deal at UN climate summit"
-        },
-        {
-          "link": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Displaced Darfur families face volatile winter as Sudan aid cuts bite"
-        },
-        {
-          "link": "https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street",
-          "source": "Euronews",
-          "title_en": "Ukraine: Dashcam captures massive explosion on Lviv street"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+          "link": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html",
           "source": "New York Times",
-          "title_en": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know."
+          "title_en": "A Landmark Genocide Ruling"
         },
         {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Bessent confirms he’s living on US military base over Iran fears"
+          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Longest-ever UN climate talks end with no deal as deep divisions exposed"
         },
         {
-          "link": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "title_en": "Mexican special forces arrest drug kingpin 'Chapo Isidro'"
-        },
-        {
-          "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns",
           "source": "The Guardian",
-          "title_en": "South Korea education minister resigns after AI cheating scandal engulfs university exams"
+          "title_en": "Unemployment to surpass 5% and ‘things will get a bit harder’, treasurer Jim Chalmers warns"
         },
         {
-          "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Lebanese president demands Israel withdrawal, decries Iran’s interference"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Indian man jailed over plot to kill Sikh separatist in US"
-        },
-        {
-          "link": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
+          "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
           "source": "The Guardian",
-          "title_en": "Man charged with attempted murder after councillor stabbed in Bradford"
+          "title_en": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack"
         },
         {
-          "link": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
+          "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Love made a fool of Beau Lamarre-Condon but did not make him a murderer, defence argues"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Indonesia confirms 24 killed in candy factory fire as search continues"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
           "source": "New York Times",
-          "title_en": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds"
+          "title_en": "Behind China’s A.I. Anxieties, Fear of a Nuclear Checkmate"
         },
         {
-          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "FBI reportedly investigating apparent hack of its criminal database"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Nigerian youth have shown their power in the past - why aren't they shaping this election?"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
-          "source": "The Guardian",
-          "title_en": "Trump orders contractors to check with White House over any congressional inquiries"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/first-images-of-mexican-cartel-boss-el-chapo-isidro-after-arrest?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction"
-        },
-        {
-          "link": "https://www.dw.com/en/getting-rid-of-antibiotic-resistance-challenges-and-possible-solutions/a-80010693?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "title_en": "Getting rid of antibiotic resistance: Challenges and possible solutions"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Kenya’s internet metering bill raises privacy and affordability concerns"
-        },
-        {
-          "link": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+          "link": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
           "source": "The Block",
-          "title_en": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide"
+          "title_en": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge"
         },
         {
-          "link": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
+          "link": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa",
+          "source": "The Guardian",
+          "title_en": "US army to blow up bomb-making chemicals despite safety concerns"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured"
+          "title_en": "Who is Alberto Feijoo, the conservative seeking to become Spain’s new PM?"
         },
         {
-          "link": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
+          "link": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
           "source": "New York Times",
-          "title_en": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy"
+          "title_en": "In Vietnam, an Electric Vehicle Revolution Without Cars"
         },
         {
-          "link": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+          "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
           "source": "The Guardian",
-          "title_en": "Man found dead on Flinders Island believed to have been shot by officer, police say"
+          "title_en": "Australian politics live: NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community"
         },
         {
-          "link": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
-          "source": "The Guardian",
-          "title_en": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
-          "source": "New York Times",
-          "title_en": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/20/science/mercury-bepi-colombo-orbit.html",
-          "source": "New York Times",
-          "title_en": "International Mission Arrives at Mercury to Study Its Mysteries"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/pochettinos-nightmare-start-as-man-u-thrashed-by-liverpool?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Moviegoers head for the exits as quake strikes Peru"
+          "title_en": "Pochettino’s nightmare start as Man U thrashed by Liverpool"
         },
         {
-          "link": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
-          "source": "New York Times",
-          "title_en": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die"
+          "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Italian jeweller and businessman Paolo Bulgari dies aged 89"
         },
         {
-          "link": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
+          "link": "https://www.euronews.com/2026/11/23/taiwan-warns-canada-against-deeper-china-trade-ties-as-carney-seeks-to-diversify",
+          "source": "Euronews",
+          "title_en": "Taiwan warns Canada against deeper China trade ties as Carney seeks to diversify"
+        },
+        {
+          "link": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
           "source": "The Guardian",
-          "title_en": "‘No time for a culture war’: Victoria’s electricity supply is at risk."
+          "title_en": "Fewer than half in UK will pay TV licence fee within a decade, report warns"
         },
         {
-          "link": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92",
+          "link": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Energy bills will soar - here's how you can ease the pain"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "What is going on with Poundland?"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Mystery of the red stream in Turkiye"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Lion on the loose in Turkiye sparks fear among residents"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'"
+        },
+        {
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+          "source": "NPR",
+          "title_en": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's"
+        },
+        {
+          "link": "https://www.euronews.com/video/2026/11/22/morocco-a-surreal-sculpture-park-turns-the-world-upside-down",
+          "source": "Euronews",
+          "title_en": "Morocco: A surreal sculpture park turns the world upside down"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
           "source": "The Guardian",
-          "title_en": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92"
+          "title_en": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+          "source": "The Guardian",
+          "title_en": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker"
+        },
+        {
+          "link": "https://www.dw.com/en/turkey-thousands-protest-closure-of-critical-media-outlets/a-80015347?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Turkey: Thousands protest closure of critical media outlets"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+          "source": "The Guardian",
+          "title_en": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’"
         }
       ]
     },
@@ -1204,59 +1155,59 @@
       "storyCount": 10,
       "stories": [
         {
-          "link": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Displaced Palestinians protest as Israeli air strikes continue in Gaza"
-        },
-        {
-          "link": "https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "title_en": "COP31: Fossil fuels still missing from draft deal at UN climate summit"
-        },
-        {
-          "link": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Displaced Darfur families face volatile winter as Sudan aid cuts bite"
-        },
-        {
-          "link": "https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street",
-          "source": "Euronews",
-          "title_en": "Ukraine: Dashcam captures massive explosion on Lviv street"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+          "link": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html",
           "source": "New York Times",
-          "title_en": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know."
+          "title_en": "A Landmark Genocide Ruling"
         },
         {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Bessent confirms he’s living on US military base over Iran fears"
+          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Longest-ever UN climate talks end with no deal as deep divisions exposed"
         },
         {
-          "link": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "title_en": "Mexican special forces arrest drug kingpin 'Chapo Isidro'"
-        },
-        {
-          "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns",
           "source": "The Guardian",
-          "title_en": "South Korea education minister resigns after AI cheating scandal engulfs university exams"
+          "title_en": "Unemployment to surpass 5% and ‘things will get a bit harder’, treasurer Jim Chalmers warns"
         },
         {
-          "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Lebanese president demands Israel withdrawal, decries Iran’s interference"
+          "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+          "source": "The Guardian",
+          "title_en": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack"
         },
         {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+          "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Love made a fool of Beau Lamarre-Condon but did not make him a murderer, defence argues"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Indian man jailed over plot to kill Sikh separatist in US"
+          "title_en": "Indonesia confirms 24 killed in candy factory fire as search continues"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
+          "source": "New York Times",
+          "title_en": "Behind China’s A.I. Anxieties, Fear of a Nuclear Checkmate"
+        },
+        {
+          "link": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+          "source": "The Block",
+          "title_en": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa",
+          "source": "The Guardian",
+          "title_en": "US army to blow up bomb-making chemicals despite safety concerns"
         }
       ],
       "contentHashes": {
-        "ru": "900949d1fe5cbf9fcc3cc251e2a55303a9898cafef419324883541e3d5cf6e68",
-        "en": "48e29d4e9b99b995b4a2bd9bfe8ba1057bd69164ef0cc5821b75286a9b979eb8"
+        "ru": "01f02c5b9eadf5158d070a4ca113e7d18984266f0e743016dff119be8fc784b9",
+        "en": "a8c061b2a6c02d1bacbace9f706ed52ac84aba282ac3ace920471b5a08806720"
       }
     }
   }
