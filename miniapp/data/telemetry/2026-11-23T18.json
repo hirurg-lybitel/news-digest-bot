@@ -1,0 +1,1450 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.942368055555555,
+  "poolSize": 163,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "Pip assessments need 'fundamental overhaul', report to say",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 2,
+      "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html"
+    },
+    {
+      "index": 3,
+      "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates"
+    },
+    {
+      "index": 4,
+      "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – UK politics live",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates"
+    },
+    {
+      "index": 5,
+      "title": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html"
+    },
+    {
+      "index": 6,
+      "title": "‘Scapegoating’: green groups condemn plan to axe Environmental Agency and Natural England",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh"
+    },
+    {
+      "index": 7,
+      "title": "How Homeowners Are Powering Vietnam’s E-Bike Surge",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html"
+    },
+    {
+      "index": 8,
+      "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 9,
+      "title": "What tactics will Burnham use to sell his EU plans? – podcast",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/audio/2026/nov/23/what-tactics-will-burnham-use-to-sell-his-eu-plans-podcast"
+    },
+    {
+      "index": 10,
+      "title": "Tajikistan moves to leave ICC amid US push against court",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss"
+    },
+    {
+      "index": 11,
+      "title": "Here’s the latest.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang"
+    },
+    {
+      "index": 12,
+      "title": "Sky cofounder weighs SKY sale to repay $77 million as stUSDS pool runs dry",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/defi/2026-11-23-sky-cofounder-weighs-sky-sale-repay-77-million-stusds-pool-runs-dry-445373"
+    },
+    {
+      "index": 13,
+      "title": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html"
+    },
+    {
+      "index": 14,
+      "title": "Have You Worked With Nvidia? We Want to Hear From You.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/technology/employee-callout-tips.html"
+    },
+    {
+      "index": 15,
+      "title": "Abolishing Natural England would be travesty, say campaigners",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/environment/2026/nov/23/abolishing-natural-england-would-be-travesty-say-campaigners"
+    },
+    {
+      "index": 16,
+      "title": "Jensen Huang reinstated as Nvidia CEO",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive"
+    },
+    {
+      "index": 17,
+      "title": "Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html"
+    },
+    {
+      "index": 18,
+      "title": "What failure of COP31 reveals about a divided world",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 19,
+      "title": "Mamdani says New York will cap ebike fares to ‘significantly’ cut cost of rides",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/23/nyc-ebike-cost-capped-mamdani"
+    },
+    {
+      "index": 20,
+      "title": "Cop31 collapses: why did climate talks fall apart? - The Latest",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/news/audio/2026/nov/23/cop31-collapses-why-did-climate-talks-fall-apart-the-latest"
+    },
+    {
+      "index": 21,
+      "title": "Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html"
+    },
+    {
+      "index": 22,
+      "title": "Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe"
+    },
+    {
+      "index": 23,
+      "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html"
+    },
+    {
+      "index": 24,
+      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 25,
+      "title": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html"
+    },
+    {
+      "index": 26,
+      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 27,
+      "title": "Democrats to hold a dozen 2028 presidential primary debates starting in June",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/23/dnc-democrats-presidential-primary-debates"
+    },
+    {
+      "index": 28,
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 29,
+      "title": "Trump’s Own Stock Portfolio Likely Benefits From Nvidia’s Rise",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html"
+    },
+    {
+      "index": 30,
+      "title": "Latest news bulletin | November 23rd, 2026 – Evening",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/23/latest-news-bulletin-november-23rd-2026-evening"
+    },
+    {
+      "index": 31,
+      "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations"
+    },
+    {
+      "index": 32,
+      "title": "Jensen Huang’s Return as Nvidia CEO Feels Like Déjà Vu in Silicon Valley",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-ceo-return-silicon-valley.html"
+    },
+    {
+      "index": 33,
+      "title": "Florida city cancels Christmas parade after tax amendment forces budget cuts",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/23/deltona-florida-christmas-parade-amendment-3"
+    },
+    {
+      "index": 34,
+      "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html"
+    },
+    {
+      "index": 35,
+      "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates"
+    },
+    {
+      "index": 36,
+      "title": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning"
+    },
+    {
+      "index": 37,
+      "title": "Burnham: I won’t listen to ex-Tory PMs who left UK with ‘bad Brexit deal’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu"
+    },
+    {
+      "index": 38,
+      "title": "Why did COP31 climate talks collapse without a deal?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/why-did-cop31-climate-talks-collapse-without-a-deal?traffic_source=rss"
+    },
+    {
+      "index": 39,
+      "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss"
+    },
+    {
+      "index": 40,
+      "title": "Gaza mourns UNRWA worker killed in Israeli strike",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-mourns-unrwa-worker-killed-in-israeli-strike?traffic_source=rss"
+    },
+    {
+      "index": 41,
+      "title": "Ian Huntley killer felt ‘sick of him’ and that he had nothing to lose, court told",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/23/ian-huntley-killed-by-inmate-court-trial"
+    },
+    {
+      "index": 42,
+      "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss"
+    },
+    {
+      "index": 43,
+      "title": "US and UK to host Women's World Cups in 2031 and 2035",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/us-and-uk-to-host-women-s-world-cups-in-2031-and-2035/a-80023786?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 44,
+      "title": "COP31 Climate Talks Broke Down. Now What?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html"
+    },
+    {
+      "index": 45,
+      "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html"
+    },
+    {
+      "index": 46,
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 47,
+      "title": "Turkey: Authorities search for lioness on the loose in Istanbul",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/turkey-authorities-search-for-lioness-on-the-loose-in-istanbul/a-80020913?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 48,
+      "title": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war"
+    },
+    {
+      "index": 49,
+      "title": "Russia’s war dead: the hidden toll of the Ukraine conflict",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/23/russia-war-dead-hidden-toll-ukraine-conflict"
+    },
+    {
+      "index": 50,
+      "title": "After Japan's APEC snub, what's next for its China ties?",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 51,
+      "title": "Ukraine releases footage of strikes on two Russian vessels off Libya",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/23/ukraine-releases-footage-of-strikes-on-two-russian-vessels-off-libya"
+    },
+    {
+      "index": 52,
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 53,
+      "title": "Village's concern over sewage discharge in dry river",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c60rkq78g05vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 54,
+      "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html"
+    },
+    {
+      "index": 55,
+      "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html"
+    },
+    {
+      "index": 56,
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 57,
+      "title": "Israeli soldiers assault Palestinian after raiding his home",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-soldiers-assault-palestinian-after-raiding-his-home?traffic_source=rss"
+    },
+    {
+      "index": 58,
+      "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html"
+    },
+    {
+      "index": 59,
+      "title": "H.I.V. Research Networks May Again Seek Federal Funding, With a Twist",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/20/science/hiv-research-funding-nih.html"
+    },
+    {
+      "index": 60,
+      "title": "South Korea’s education minister resigns after backlash over AI exam cheating rules",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/23/south-koreas-education-minister-resigns-after-backlash-over-ai-exam-cheating-rules"
+    },
+    {
+      "index": 61,
+      "title": "DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/markets/2026-11-23-defi-development-dfdv-solana-treasury-11-consecutive-weeks-444950"
+    },
+    {
+      "index": 62,
+      "title": "Gukesh to defend chess crown against rising star Sindarov",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/gukesh-to-defend-chess-crown-against-rising-star-sindarov/a-80021806?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 63,
+      "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss"
+    },
+    {
+      "index": 64,
+      "title": "Brazil coach mistaken for pitch invader, put in headlock",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/brazil-coach-mistaken-for-pitch-invader-put-in-headlock?traffic_source=rss"
+    },
+    {
+      "index": 65,
+      "title": "Police investigating bomb threats against schools in Germany and Denmark",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/23/police-investigating-bomb-threats-against-schools-in-germany-and-denmark?traffic_source=rss"
+    },
+    {
+      "index": 66,
+      "title": "Bitmine adds 7,819 ETH as Tom Lee makes the ‘hard money’ case",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948"
+    },
+    {
+      "index": 67,
+      "title": "Bitcoin, crypto and tech stocks rally as Nvidia reinstates Jensen Huang as CEO; NVDA jumps 30%",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952"
+    },
+    {
+      "index": 68,
+      "title": "Marcia Ann Gillespie, Editor in Chief of Essence and Ms., Has Died",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/business/media/marcia-ann-gillespie-dead.html"
+    },
+    {
+      "index": 69,
+      "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 70,
+      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 71,
+      "title": "Nvidia reinstates CEO after affair with alleged spy",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 72,
+      "title": "Nepal's new PM eyes closer ties with India amid lingering disputes",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 73,
+      "title": "At least 24 people killed in Indonesia factory fire, police say",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/23/at-least-24-people-killed-in-indonesia-factory-fire-police-say"
+    },
+    {
+      "index": 74,
+      "title": "Nigeria's president says he is also hit by water and power cuts plaguing country",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 75,
+      "title": "Nvidia board reinstates Jensen Huang as CEO",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss"
+    },
+    {
+      "index": 76,
+      "title": "Is Mexico Stepping Up in the War on Drugs?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html"
+    },
+    {
+      "index": 77,
+      "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 78,
+      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 79,
+      "title": "Deadly Fire Rips Through Candy Factory in Indonesia",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html"
+    },
+    {
+      "index": 80,
+      "title": "OKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2,
+        48,
+        49
+      ],
+      "score": 95,
+      "category": "conflict",
+      "rationale": "The staggering death toll of over 700,000 Russian soldiers in Ukraine highlights the severe human cost of the ongoing conflict."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18,
+        20,
+        38,
+        44
+      ],
+      "score": 90,
+      "category": "climate",
+      "rationale": "The collapse of COP31 marks a significant failure in global climate negotiations, impacting future climate action and policy."
+    },
+    {
+      "representativeIndex": 21,
+      "memberIndices": [
+        21,
+        51,
+        56
+      ],
+      "score": 85,
+      "category": "conflict",
+      "rationale": "Ukraine's naval drone attacks on Russian vessels signify a critical escalation in the maritime conflict, showcasing the war's expanding scope."
+    },
+    {
+      "representativeIndex": 25,
+      "memberIndices": [
+        25,
+        39,
+        40
+      ],
+      "score": 80,
+      "category": "conflict",
+      "rationale": "Israeli attacks in Gaza, resulting in civilian casualties, underscore the ongoing humanitarian crisis and geopolitical tensions in the region."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4,
+        9,
+        37
+      ],
+      "score": 75,
+      "category": "politics",
+      "rationale": "The UK Prime Minister's commitment to a referendum on EU rejoining reflects significant political shifts and public sentiment regarding Brexit."
+    },
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        8,
+        34,
+        67
+      ],
+      "score": 70,
+      "category": "economy",
+      "rationale": "Nvidia's stock surge following Jensen Huang's reinstatement as CEO indicates major implications for the tech industry and broader market recovery."
+    },
+    {
+      "representativeIndex": 10,
+      "memberIndices": [
+        10,
+        42
+      ],
+      "score": 65,
+      "category": "law",
+      "rationale": "Tajikistan's move to leave the ICC amid geopolitical pressures raises concerns about international law and accountability."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5,
+        73,
+        79
+      ],
+      "score": 60,
+      "category": "disaster",
+      "rationale": "The deadly factory fire in Indonesia that killed at least 24 people highlights ongoing safety issues in industrial sectors."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        15
+      ],
+      "score": 55,
+      "category": "society",
+      "rationale": "The proposed overhaul of the personal independence payment system reflects significant societal implications for disability support in the UK."
+    },
+    {
+      "representativeIndex": 43,
+      "memberIndices": [
+        43
+      ],
+      "score": 50,
+      "category": "sport",
+      "rationale": "The announcement of the Women's World Cups in 2031 and 2035 marks a pivotal moment for women's sports on a global stage."
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60
+      ],
+      "score": 45,
+      "category": "society",
+      "rationale": "The resignation of South Korea's education minister over AI exam cheating rules highlights the intersection of technology and education policy."
+    },
+    {
+      "representativeIndex": 19,
+      "memberIndices": [
+        19
+      ],
+      "score": 40,
+      "category": "society",
+      "rationale": "New York's cap on ebike fares aims to improve accessibility and affordability in urban transportation."
+    },
+    {
+      "representativeIndex": 12,
+      "memberIndices": [
+        12
+      ],
+      "score": 35,
+      "category": "economy",
+      "rationale": "Sky's potential sale to repay debts reflects the ongoing financial challenges in the media sector."
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70
+      ],
+      "score": 30,
+      "category": "conflict",
+      "rationale": "The attack on Mexican soldiers following a drug lord's arrest illustrates the ongoing violence and instability in the region."
+    },
+    {
+      "representativeIndex": 36,
+      "memberIndices": [
+        36
+      ],
+      "score": 25,
+      "category": "politics",
+      "rationale": "The UK education minister's visit to China amid security concerns raises questions about international academic collaborations."
+    },
+    {
+      "representativeIndex": 11,
+      "memberIndices": [
+        11
+      ],
+      "score": 20,
+      "category": "society",
+      "rationale": "The resignation of Jensen Huang from Nvidia due to personal scandals reflects the complexities of leadership in high-stakes industries."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6
+      ],
+      "score": 15,
+      "category": "society",
+      "rationale": "The proposal to abolish environmental agencies in the UK raises significant concerns about the future of environmental protection."
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 10,
+      "category": "law",
+      "rationale": "The bomb threats against schools in Germany and Denmark highlight ongoing security concerns in educational institutions."
+    },
+    {
+      "representativeIndex": 74,
+      "memberIndices": [
+        74
+      ],
+      "score": 5,
+      "category": "society",
+      "rationale": "The Nigerian president's personal experience with water and power cuts illustrates the broader infrastructural challenges facing the country."
+    },
+    {
+      "representativeIndex": 62,
+      "memberIndices": [
+        62
+      ],
+      "score": 3,
+      "category": "sport",
+      "rationale": "The World Chess Championship featuring Gukesh and Sindarov showcases the rising prominence of chess in global sports."
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 1,
+      "category": "culture",
+      "rationale": "Catherine, Princess of Wales, documenting her cancer journey reflects the intersection of personal health narratives and public engagement."
+    },
+    {
+      "representativeIndex": 7,
+      "memberIndices": [
+        7
+      ],
+      "score": 19.9125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 13,
+      "memberIndices": [
+        13
+      ],
+      "score": 19.8375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14
+      ],
+      "score": 19.825,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 16,
+      "memberIndices": [
+        16
+      ],
+      "score": 19.8,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        17
+      ],
+      "score": 19.7875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 22,
+      "memberIndices": [
+        22
+      ],
+      "score": 19.725,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 24,
+      "memberIndices": [
+        24
+      ],
+      "score": 19.7,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 26,
+      "memberIndices": [
+        26
+      ],
+      "score": 19.675,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 27,
+      "memberIndices": [
+        27
+      ],
+      "score": 19.6625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 28,
+      "memberIndices": [
+        28
+      ],
+      "score": 19.65,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 29,
+      "memberIndices": [
+        29
+      ],
+      "score": 19.6375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 30,
+      "memberIndices": [
+        30
+      ],
+      "score": 19.625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 31,
+      "memberIndices": [
+        31
+      ],
+      "score": 19.6125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32
+      ],
+      "score": 19.6,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 33,
+      "memberIndices": [
+        33
+      ],
+      "score": 19.5875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 35,
+      "memberIndices": [
+        35
+      ],
+      "score": 19.5625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 41,
+      "memberIndices": [
+        41
+      ],
+      "score": 19.4875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 19.4375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46
+      ],
+      "score": 19.425,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 47,
+      "memberIndices": [
+        47
+      ],
+      "score": 19.4125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 50,
+      "memberIndices": [
+        50
+      ],
+      "score": 19.375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 19.35,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 54,
+      "memberIndices": [
+        54
+      ],
+      "score": 19.325,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 57,
+      "memberIndices": [
+        57
+      ],
+      "score": 19.2875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 19.275,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 59,
+      "memberIndices": [
+        59
+      ],
+      "score": 19.2625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 61,
+      "memberIndices": [
+        61
+      ],
+      "score": 19.2375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 63,
+      "memberIndices": [
+        63
+      ],
+      "score": 19.2125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64
+      ],
+      "score": 19.2,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 66,
+      "memberIndices": [
+        66
+      ],
+      "score": 19.175,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 68,
+      "memberIndices": [
+        68
+      ],
+      "score": 19.15,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 69,
+      "memberIndices": [
+        69
+      ],
+      "score": 19.1375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 71,
+      "memberIndices": [
+        71
+      ],
+      "score": 19.1125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 72,
+      "memberIndices": [
+        72
+      ],
+      "score": 19.1,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 75,
+      "memberIndices": [
+        75
+      ],
+      "score": 19.0625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76
+      ],
+      "score": 19.05,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 77,
+      "memberIndices": [
+        77
+      ],
+      "score": 19.0375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 78,
+      "memberIndices": [
+        78
+      ],
+      "score": 19.025,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 19,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 19295,
+      "usage": {
+        "inputTokens": 7568,
+        "outputTokens": 949,
+        "totalTokens": 8517
+      },
+      "estimatedCostUsd": 0.0017046,
+      "returnedCount": 21,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 18661,
+      "usage": {
+        "inputTokens": 1310,
+        "outputTokens": 1123,
+        "totalTokens": 2433
+      },
+      "estimatedCostUsd": 0.0008703,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 20716,
+      "usage": {
+        "inputTokens": 1082,
+        "outputTokens": 1266,
+        "totalTokens": 2348
+      },
+      "estimatedCostUsd": 0.0009219,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 20642,
+      "usage": {
+        "inputTokens": 1099,
+        "outputTokens": 1190,
+        "totalTokens": 2289
+      },
+      "estimatedCostUsd": 0.00087885,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 29429,
+      "usage": {
+        "inputTokens": 1953,
+        "outputTokens": 2667,
+        "totalTokens": 4620
+      },
+      "estimatedCostUsd": 0.0018931500000000001,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 33818,
+      "usage": {
+        "inputTokens": 1927,
+        "outputTokens": 3021,
+        "totalTokens": 4948
+      },
+      "estimatedCostUsd": 0.00210165,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 19845,
+      "usage": {
+        "inputTokens": 1789,
+        "outputTokens": 1791,
+        "totalTokens": 3580
+      },
+      "estimatedCostUsd": 0.0013429499999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-11-23T18:04:32.914Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.0097134,
+    "complete": true,
+    "inputTokens": 16728,
+    "outputTokens": 12007,
+    "totalTokens": 28735,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
+          "source": "New York Times",
+          "title_en": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "What failure of COP31 reveals about a divided world"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+          "source": "New York Times",
+          "title_en": "Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
+          "source": "New York Times",
+          "title_en": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+          "source": "The Guardian",
+          "title_en": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+          "source": "The Guardian",
+          "title_en": "Trump says he spoke to Nvidia board directly about Jensen Huang"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Tajikistan moves to leave ICC amid US push against court"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
+          "source": "New York Times",
+          "title_en": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Pip assessments need 'fundamental overhaul', report to say"
+        },
+        {
+          "link": "https://www.dw.com/en/us-and-uk-to-host-women-s-world-cups-in-2031-and-2035/a-80023786?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "US and UK to host Women's World Cups in 2031 and 2035"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/23/south-koreas-education-minister-resigns-after-backlash-over-ai-exam-cheating-rules",
+          "source": "Euronews",
+          "title_en": "South Korea’s education minister resigns after backlash over AI exam cheating rules"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/23/nyc-ebike-cost-capped-mamdani",
+          "source": "The Guardian",
+          "title_en": "Mamdani says New York will cap ebike fares to ‘significantly’ cut cost of rides"
+        },
+        {
+          "link": "https://www.theblock.co/news/defi/2026-11-23-sky-cofounder-weighs-sky-sale-repay-77-million-stusds-pool-runs-dry-445373",
+          "source": "The Block",
+          "title_en": "Sky cofounder weighs SKY sale to repay $77 million as stUSDS pool runs dry"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Mexican soldiers attacked in wake of drug lord's arrest"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
+          "source": "The Guardian",
+          "title_en": "Lucy Powell to visit China to promote UK education weeks after MI5 warning"
+        },
+        {
+          "link": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang",
+          "source": "New York Times",
+          "title_en": "Here’s the latest."
+        },
+        {
+          "link": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
+          "source": "New York Times",
+          "title_en": "How Homeowners Are Powering Vietnam’s E-Bike Surge"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
+          "source": "New York Times",
+          "title_en": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/23/technology/employee-callout-tips.html",
+          "source": "New York Times",
+          "title_en": "Have You Worked With Nvidia? We Want to Hear From You."
+        },
+        {
+          "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+          "source": "The Guardian",
+          "title_en": "Jensen Huang reinstated as Nvidia CEO"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
+          "source": "New York Times",
+          "title_en": "Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict"
+        },
+        {
+          "link": "https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe",
+          "source": "The Guardian",
+          "title_en": "Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+          "source": "New York Times",
+          "title_en": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Faisal Islam: Why Jensen Huang proved too big to fire"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/23/dnc-democrats-presidential-primary-debates",
+          "source": "The Guardian",
+          "title_en": "Democrats to hold a dozen 2028 presidential primary debates starting in June"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html",
+          "source": "New York Times",
+          "title_en": "Trump’s Own Stock Portfolio Likely Benefits From Nvidia’s Rise"
+        },
+        {
+          "link": "https://www.euronews.com/video/2026/11/23/latest-news-bulletin-november-23rd-2026-evening",
+          "source": "Euronews",
+          "title_en": "Latest news bulletin | November 23rd, 2026 – Evening"
+        },
+        {
+          "link": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
+          "source": "The Guardian",
+          "title_en": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
+          "source": "New York Times",
+          "title_en": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "What failure of COP31 reveals about a divided world"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+          "source": "New York Times",
+          "title_en": "Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
+          "source": "New York Times",
+          "title_en": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+          "source": "The Guardian",
+          "title_en": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+          "source": "The Guardian",
+          "title_en": "Trump says he spoke to Nvidia board directly about Jensen Huang"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Tajikistan moves to leave ICC amid US push against court"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
+          "source": "New York Times",
+          "title_en": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Pip assessments need 'fundamental overhaul', report to say"
+        },
+        {
+          "link": "https://www.dw.com/en/us-and-uk-to-host-women-s-world-cups-in-2031-and-2035/a-80023786?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "US and UK to host Women's World Cups in 2031 and 2035"
+        }
+      ],
+      "contentHashes": {
+        "ru": "934465f1d3fad4b46e5e0b106fb1570ec1d32eb519881cd82c2435fd4c4492c0",
+        "en": "46ad05252a7dbb05d21ae88c138d4afb246cd9d3ab5ecc425ce7448ce31a9d03"
+      }
+    }
+  }
+}
