@@ -1,789 +1,782 @@
 {
   "model": "gpt-4o-mini",
-  "periodHours": 11.947212222222221,
-  "poolSize": 108,
+  "periodHours": 23.936488611111113,
+  "poolSize": 237,
   "candidateCount": 80,
   "maxStories": 30,
   "telegramTopN": 10,
   "candidates": [
     {
       "index": 1,
-      "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai"
+      "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 2,
-      "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
+      "title": "Australian politics live: ‘A tragedy in the life of our nation’: prime minister apologises to LGBTQ+ veterans",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar"
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb"
     },
     {
       "index": 3,
-      "title": "Australian politics live: Government lacks ‘moral authority’ on decarbonisation, Monique Ryan says; eight teens arrested over alleged schoolies assault",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb"
+      "title": "National Security vs. the Stock Market",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html"
     },
     {
       "index": 4,
-      "title": "Beau Lamarre-Condon could have told crown ‘do your worst’ and not given evidence, defence says",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb"
+      "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss"
     },
     {
       "index": 5,
-      "title": "The Return of Jensen Huang",
+      "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html"
+      "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html"
     },
     {
       "index": 6,
-      "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html"
+      "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+      "source": "The Block",
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074"
     },
     {
       "index": 7,
-      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss"
+      "title": "China sends first foreign astronaut to its space station as Pakistani joins Shenzhou 24 crew",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/25/china-sends-first-foreign-astronaut-to-its-space-station-as-pakistani-joins-shenzhou-24-cr"
     },
     {
       "index": 8,
-      "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html"
+      "title": "The Gambia election: Can the next president deliver on a decade of promise",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss"
     },
     {
       "index": 9,
-      "title": "Ebikes, screens and failing manners pose challenge for Dutch cycling culture",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/24/ebikes-screens-and-failing-manners-pose-challenge-for-dutch-cycling-culture"
+      "title": "Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html"
     },
     {
       "index": 10,
-      "title": "Channel 4 hit as Unilever switches from TV to influencer marketing",
+      "title": "In charts: how power could shift in Europe’s big year of elections",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing"
+      "link": "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right"
     },
     {
       "index": 11,
-      "title": "Pennsylvania reports ninth measles death in ongoing state outbreak",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss"
+      "title": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden"
     },
     {
       "index": 12,
-      "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html"
+      "title": "North Korea expels Swiss diplomat and orders Bern's new Pyongyang office to close",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/25/north-korea-expels-swiss-diplomat-and-orders-berns-new-pyongyang-office-to-close"
     },
     {
       "index": 13,
-      "title": "Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss"
+      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 14,
-      "title": "Car bomb strikes governor’s office in Meta, Colombia",
+      "title": "UK warns companies of potential Russian sabotage threat",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss"
+      "link": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss"
     },
     {
       "index": 15,
-      "title": "India’s best known bottled water under scrutiny",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/indias-best-known-bottled-water-under-scrutiny?traffic_source=rss"
+      "title": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 16,
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+      "title": "India news: US prepares new tariffs after trade probe",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/india-news-us-prepares-new-tariffs-after-trade-probe/live-80042306?maca=en-rss-en-all-1573-rdf"
     },
     {
       "index": 17,
-      "title": "WHO chief visits Cuba as healthcare system deteriorates",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/24/who-chief-visits-cuba-as-healthcare-system-deteriorates?traffic_source=rss"
+      "title": "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/libya-2-dead-after-ukrainian-attack-on-russian-warship-in-benghazi/a-80042348?maca=en-rss-en-all-1573-rdf"
     },
     {
       "index": 18,
-      "title": "India: Report warns of deepening authoritarianism under Modi",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/india-report-warns-of-deepening-authoritarianism-under-modi/live-80027405?maca=en-rss-en-all-1573-rdf"
+      "title": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute"
     },
     {
       "index": 19,
-      "title": "Kalshi halts operations in Utah while dodging immediate ban in New York",
-      "source": "The Block",
-      "link": "https://www.theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456"
+      "title": "Protesters clash with police over Venezuela’s poor minimum wage",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/protesters-clash-with-police-over-venezuelas-poor-minimum-wage?traffic_source=rss"
     },
     {
       "index": 20,
-      "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach"
+      "title": "Israeli strike kills four people in Gaza",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss"
     },
     {
       "index": 21,
-      "title": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws"
+      "title": "Galatasaray says Israel complained to UEFA over Palestine banners",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss"
     },
     {
       "index": 22,
-      "title": "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss"
+      "title": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090"
     },
     {
       "index": 23,
-      "title": "California court terminates lawsuit against Coinbase over TerraUSD purchases",
-      "source": "The Block",
-      "link": "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448"
+      "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket"
     },
     {
       "index": 24,
-      "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – as it happened",
+      "title": "Australia’s inflation rate jumping to 4.9% a ‘very serious moment’ for economy, Chalmers declares",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates"
+      "link": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures"
     },
     {
       "index": 25,
-      "title": "Myanmar has been found guilty of genocide. Should Israel be worried? – podcast",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/news/audio/2026/nov/24/myanmar-found-guilty-genocide-should-israel-be-worried-podcast"
+      "title": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html"
     },
     {
       "index": 26,
-      "title": "China sentences official to death for spying for foreign country",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets"
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 27,
-      "title": "Excavator threatens sacred alpine lake in the Himalayas",
+      "title": "Asia’s stock markets dive as doubts swirl over AI boom",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss"
+      "link": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss"
     },
     {
       "index": 28,
-      "title": "UN chief calls for world to agree on AI oversight within a year",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss"
+      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 29,
-      "title": "Federal court clears way for army to detonate bomb-making chemicals in Iowa",
+      "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court"
+      "link": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb"
     },
     {
       "index": 30,
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
+      "title": "The Russian army’s secret death toll – podcast",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast"
     },
     {
       "index": 31,
-      "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia"
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 32,
-      "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html"
+      "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates"
     },
     {
       "index": 33,
-      "title": "Why Trump Put Jensen Huang Back in Charge at Nvidia",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/23/podcasts/why-trump-put-jensen-huang-back-in-charge-at-nvidia.html"
+      "title": "China launches Shenzhou-24 to Tiangong station",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/china-launches-shenzhou-24-to-tiangong-station/a-80042281?maca=en-rss-en-all-1573-rdf"
     },
     {
       "index": 34,
-      "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss"
+      "title": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html"
     },
     {
       "index": 35,
-      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
+      "title": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082"
     },
     {
       "index": 36,
-      "title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
+      "title": "Pakistani astronaut launches into space aboard Chinese rocket",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss"
     },
     {
       "index": 37,
-      "title": "Israeli minister approves return of Flydubai flights to Tel Aviv",
+      "title": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss"
+      "link": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss"
     },
     {
       "index": 38,
-      "title": "Bukele shares details on deaths of El Salvador’s troops in Haiti",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss"
+      "title": "Al Gore buys local, family-owned newspaper in central Tennessee",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee"
     },
     {
       "index": 39,
-      "title": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html"
+      "title": "WHO chief urges end to US fuel blockade on Cuba",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss"
     },
     {
       "index": 40,
-      "title": "US adds Megaspeed to trade blacklist as Nvidia’s Huang returns as CEO",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss"
+      "title": "Rescue crews search for six people after plane crash off Mississippi coast",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash"
     },
     {
       "index": 41,
-      "title": "What could Democrats do with their expanding congressional majority?",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss"
+      "title": "US jury convicts Huawei of violating sanctions, stealing trade secrets",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/us-jury-convicts-huawei-of-violating-sanctions-stealing-trade-secrets/a-80042172?maca=en-rss-en-all-1573-rdf"
     },
     {
       "index": 42,
-      "title": "Turns out it wasn’t a lion afterall",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss"
+      "title": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 43,
-      "title": "24 Killed After Fire Rips Through Candy Factory in Indonesia",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html"
+      "title": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence"
     },
     {
       "index": 44,
-      "title": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
-      "source": "The Block",
-      "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435"
+      "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 45,
-      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss"
+      "title": "Senegal fans celebrate AFCON legal victory over Morocco",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss"
     },
     {
       "index": 46,
-      "title": "Jensen Huang Returns to Nvidia After President Trump Intervenes",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/23/business/nvidia-jensen-huang.html"
+      "title": "China investigates politburo star in Xi Jinping’s latest purge",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge"
     },
     {
       "index": 47,
-      "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
+      "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss"
+      "link": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss"
     },
     {
       "index": 48,
-      "title": "Borno school enrolment nearly doubles after years of conflict",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/24/borno-school-enrolment-nearly-doubles-after-years-of-conflict?traffic_source=rss"
+      "title": "DealBook Summit 2026: It’s Time to Fix Health Care",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/24/business/dealbook/health-care-task-force.html"
     },
     {
       "index": 49,
-      "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss"
+      "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss"
     },
     {
       "index": 50,
-      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss"
+      "title": "Poll finds US voters want government to end Iran war regardless of terms",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss"
     },
     {
       "index": 51,
-      "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons"
+      "title": "Will there be a White Christmas this year?",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 52,
-      "title": "Robert Macfarlane says trust in Cop to deliver change on climate is ‘misplaced’",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced"
+      "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 53,
-      "title": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss"
+      "title": "The rising cost of putting food on the table in India",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 54,
-      "title": "Mamdani blasts AI-reliant stock market after Jensen Huang’s return",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/mamdani-blasts-ai-reliant-stock-market-after-jensen-huangs-return?traffic_source=rss"
+      "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 55,
-      "title": "Drone attack on police base in Colombia injures three, including infant",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss"
+      "title": "Middle-aged women in England least likely to successfully quit smoking, study finds",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/25/middle-aged-women-quit-smoking-england-study"
     },
     {
       "index": 56,
-      "title": "Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html"
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 57,
-      "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss"
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 58,
-      "title": "Republicans Break With Trump Over Jensen Huang’s Reinstatement at Nvidia",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html"
+      "title": "One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon"
     },
     {
       "index": 59,
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
       "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 60,
-      "title": "Russian incursions into NATO territory are increasing",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing"
+      "title": "Gunmen hold dozens hostage in Colombia supermarket",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss"
     },
     {
       "index": 61,
-      "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss"
+      "title": "Trump Administration Pauses Joint Operations With Ecuador",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html"
     },
     {
       "index": 62,
-      "title": "Outrage after ICE arrest father and daughter at Seattle airport",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss"
+      "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html"
     },
     {
       "index": 63,
-      "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss"
+      "title": "US preparing to unveil plan for new tariffs on global trading partners",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 64,
-      "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner"
+      "title": "Why tiny cars are taking off across Europe",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 65,
-      "title": "US adds Megaspeed, at center of Nvidia scandal, to a trade blacklist",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-rdf"
+      "title": "What will the energy cap changes mean for my bills?",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 66,
-      "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+      "title": "US army to detonate 68 barrels of toxic lead in Iowa on day before Thanksgiving",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive"
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation"
     },
     {
       "index": 67,
-      "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct"
+      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 68,
-      "title": "Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html"
+      "title": "Households braced for soaring energy bills with new price cap to be announced",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 69,
-      "title": "Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook",
-      "source": "The Block",
-      "link": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418"
+      "title": "Alaska ends deal to give voter records to US Justice Department",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss"
     },
     {
       "index": 70,
-      "title": "Grayscale’s new 2x leveraged Zcash ETF takes 13% opening day tumble",
-      "source": "The Block",
-      "link": "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407"
+      "title": "Latest review of Met police culture finds little has changed since last one",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/25/latest-review-of-met-police-culture-finds-little-has-changed-since-last-one"
     },
     {
       "index": 71,
-      "title": "Tanzania: Towering flames engulf beachfront hotels in Zanzibar",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/video/2026/11/23/tanzania-towering-flames-engulf-beachfront-hotels-in-zanzibar"
+      "title": "UK to launch world’s first licensing scheme for knife sales",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme"
     },
     {
       "index": 72,
-      "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html"
+      "title": "England has largest frailty gap out of 31 countries, study finds",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/25/england-has-largest-frailty-gap-out-of-31-countries-study-finds"
     },
     {
       "index": 73,
-      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss"
+      "title": "Coastal areas in England at risk of erosion to receive £11m in new funding",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/environment/2026/nov/25/coastal-areas-england-at-risk-erosion-11m-funding-drones-ea"
     },
     {
       "index": 74,
-      "title": "Audra Fordin Fixes Cars, and Eases Women’s Fears",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/23/business/small-business/women-cars.html"
+      "title": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss"
     },
     {
       "index": 75,
-      "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss"
+      "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us"
     },
     {
       "index": 76,
-      "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html"
+      "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss"
     },
     {
       "index": 77,
-      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss"
+      "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss"
     },
     {
       "index": 78,
-      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
+      "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html"
     },
     {
       "index": 79,
-      "title": "The Woman Who Took Canada to Court Over Genocide",
+      "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/23/world/canada/nakuset-montreal.html"
+      "link": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html"
     },
     {
       "index": 80,
-      "title": "Israel’s southern Syria incursion triggers fear and destruction",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss"
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "clusters": [
     {
-      "representativeIndex": 1,
-      "memberIndices": [
-        1,
-        28
-      ],
-      "score": 85,
-      "category": "law",
-      "rationale": "The global push against AI copyright infringement highlights significant concerns over intellectual property rights in the digital age."
-    },
-    {
-      "representativeIndex": 2,
-      "memberIndices": [
-        2,
-        25
-      ],
-      "score": 90,
-      "category": "conflict",
-      "rationale": "Malaysia's decision to repatriate migrants amidst genocide findings in Myanmar underscores the ongoing humanitarian crisis affecting the Rohingya."
-    },
-    {
-      "representativeIndex": 3,
-      "memberIndices": [
-        3,
-        21
-      ],
-      "score": 75,
-      "category": "politics",
-      "rationale": "Australia's new online safety laws represent a significant shift in the accountability of tech companies for user harm."
-    },
-    {
-      "representativeIndex": 4,
-      "memberIndices": [
-        4,
-        67
-      ],
-      "score": 70,
-      "category": "law",
-      "rationale": "The trial of Beau Lamarre-Condon for murder raises critical issues about police accountability and the justice system."
-    },
-    {
       "representativeIndex": 5,
       "memberIndices": [
         5,
-        12
+        4,
+        11,
+        20,
+        19
+      ],
+      "score": 90,
+      "category": "conflict",
+      "rationale": "The Solomon Islands' security treaty with Australia significantly impacts regional geopolitics, countering China's influence."
+    },
+    {
+      "representativeIndex": 24,
+      "memberIndices": [
+        24,
+        27,
+        16,
+        63,
+        53
+      ],
+      "score": 85,
+      "category": "economy",
+      "rationale": "Australia's inflation surge to 4.9% signals a critical economic moment, raising fears of recession amid a cost-of-living crisis."
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        17
       ],
       "score": 80,
-      "category": "economy",
-      "rationale": "Jensen Huang's return as Nvidia CEO has led to a significant market rally, reflecting the importance of leadership in tech companies."
+      "category": "conflict",
+      "rationale": "The ongoing violence in Gaza, including recent airstrikes, highlights the escalating humanitarian crisis and geopolitical tensions."
     },
     {
-      "representativeIndex": 6,
+      "representativeIndex": 12,
       "memberIndices": [
-        6,
-        40
+        12
       ],
       "score": 75,
-      "category": "economy",
-      "rationale": "The US sanctions on Megaspeed amid the Nvidia scandal highlight the intersection of technology and international trade."
-    },
-    {
-      "representativeIndex": 7,
-      "memberIndices": [
-        7,
-        18
-      ],
-      "score": 65,
-      "category": "politics",
-      "rationale": "Saurav Das's immigration issues reflect broader concerns about political repression and human rights in India."
+      "category": "conflict",
+      "rationale": "North Korea's expulsion of a Swiss diplomat underscores rising tensions and diplomatic challenges in the region."
     },
     {
       "representativeIndex": 8,
       "memberIndices": [
         8,
-        60
+        10,
+        56
       ],
-      "score": 80,
+      "score": 70,
+      "category": "politics",
+      "rationale": "The upcoming Gambian elections amidst economic hardship reflect significant political stakes and potential for change."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6,
+        3,
+        26,
+        32,
+        41
+      ],
+      "score": 65,
+      "category": "technology",
+      "rationale": "The recognition of cryptocurrencies by the CFTC marks a pivotal moment for the financial technology landscape."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        7,
+        28,
+        33,
+        36
+      ],
+      "score": 60,
+      "category": "science",
+      "rationale": "The return of a spacecraft studying an asteroid collision represents a significant advancement in space exploration."
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14
+      ],
+      "score": 50,
+      "category": "law",
+      "rationale": "The UK's warning about potential Russian sabotage highlights ongoing security concerns and legal implications for businesses."
+    },
+    {
+      "representativeIndex": 25,
+      "memberIndices": [
+        25,
+        42,
+        29,
+        34,
+        44
+      ],
+      "score": 45,
+      "category": "society",
+      "rationale": "The conviction of a former police officer for double murder raises critical questions about law enforcement accountability."
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70,
+        39,
+        73,
+        72,
+        71
+      ],
+      "score": 40,
+      "category": "society",
+      "rationale": "The report on the Metropolitan police's culture reflects ongoing issues of institutional racism and public trust."
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60,
+        23
+      ],
+      "score": 35,
       "category": "conflict",
-      "rationale": "The psychological operations targeting Russian troops illustrate the complexities of modern warfare and information strategies."
+      "rationale": "The hostage situation in Colombia underscores the persistent violence and instability affecting civilian life."
+    },
+    {
+      "representativeIndex": 50,
+      "memberIndices": [
+        50,
+        49
+      ],
+      "score": 30,
+      "category": "politics",
+      "rationale": "The US public's desire to end the Iran war reflects shifting political sentiments and potential policy changes."
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38,
+        79
+      ],
+      "score": 20,
+      "category": "culture",
+      "rationale": "Al Gore's purchase of a local newspaper signifies a return to grassroots journalism and community engagement."
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76,
+        77,
+        78,
+        80
+      ],
+      "score": 15,
+      "category": "conflict",
+      "rationale": "The retreat of a rebel group in DR Congo indicates ongoing conflict dynamics and the complexities of peace negotiations."
+    },
+    {
+      "representativeIndex": 61,
+      "memberIndices": [
+        61,
+        62,
+        64,
+        65
+      ],
+      "score": 10,
+      "category": "politics",
+      "rationale": "The US administration's pause on military operations in Ecuador reflects the intricate balance of international relations."
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46,
+        47,
+        48
+      ],
+      "score": 5,
+      "category": "politics",
+      "rationale": "The investigation into a Chinese politburo member illustrates the internal power struggles within the Communist Party."
+    },
+    {
+      "representativeIndex": 74,
+      "memberIndices": [
+        74,
+        75
+      ],
+      "score": 3,
+      "category": "disaster",
+      "rationale": "The Saudi-led coalition's strikes in Yemen highlight the ongoing humanitarian disaster and conflict in the region."
+    },
+    {
+      "representativeIndex": 66,
+      "memberIndices": [
+        66,
+        67,
+        68,
+        69
+      ],
+      "score": 2,
+      "category": "disaster",
+      "rationale": "The planned detonation of toxic lead by the US Army raises environmental and public safety concerns."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2
+      ],
+      "score": 19.975,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
     },
     {
       "representativeIndex": 9,
       "memberIndices": [
-        9,
-        19
+        9
       ],
-      "score": 60,
-      "category": "society",
-      "rationale": "The challenges facing Dutch cycling culture highlight the need for public awareness and safety in urban transportation."
-    },
-    {
-      "representativeIndex": 10,
-      "memberIndices": [
-        10,
-        23
-      ],
-      "score": 70,
-      "category": "economy",
-      "rationale": "Unilever's shift from TV to influencer marketing signals a major change in advertising strategies impacting traditional media."
-    },
-    {
-      "representativeIndex": 11,
-      "memberIndices": [
-        11,
-        48
-      ],
-      "score": 85,
-      "category": "health",
-      "rationale": "The measles outbreak in Pennsylvania underscores the critical importance of vaccination and public health measures."
-    },
-    {
-      "representativeIndex": 78,
-      "memberIndices": [
-        78
-      ],
-      "score": 90,
-      "category": "economy",
-      "rationale": "Nvidia's stock surge following Huang's reinstatement reflects the significant impact of corporate leadership on market dynamics.",
+      "score": 19.8875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
       "representativeIndex": 13,
       "memberIndices": [
-        13,
-        22
+        13
       ],
-      "score": 70,
-      "category": "law",
-      "rationale": "Denmark's Supreme Court ruling on the 'ghetto law' raises important questions about housing rights and social justice."
-    },
-    {
-      "representativeIndex": 14,
-      "memberIndices": [
-        14,
-        55
-      ],
-      "score": 75,
-      "category": "disaster",
-      "rationale": "The car bomb in Colombia highlights the ongoing violence and instability in the region."
+      "score": 19.8375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
     },
     {
       "representativeIndex": 15,
       "memberIndices": [
-        15,
-        17
+        15
       ],
-      "score": 65,
-      "category": "health",
-      "rationale": "Concerns over bottled water safety in India reflect broader issues of public health and consumer protection."
-    },
-    {
-      "representativeIndex": 16,
-      "memberIndices": [
-        16,
-        39
-      ],
-      "score": 80,
-      "category": "politics",
-      "rationale": "Trump's intervention in Nvidia's leadership raises significant questions about the influence of politics on corporate governance."
-    },
-    {
-      "representativeIndex": 75,
-      "memberIndices": [
-        75
-      ],
-      "score": 70,
-      "category": "health",
-      "rationale": "The WHO chief's visit to Cuba amidst a healthcare crisis highlights the impact of international relations on public health.",
+      "score": 19.8125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 34,
+      "representativeIndex": 18,
       "memberIndices": [
-        34
+        18
       ],
-      "score": 75,
-      "category": "politics",
-      "rationale": "The report on authoritarianism in India under Modi reflects critical concerns about democracy and human rights.",
+      "score": 19.775,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 29,
+      "representativeIndex": 21,
       "memberIndices": [
-        29
+        21
       ],
-      "score": 70,
-      "category": "disaster",
-      "rationale": "The US Army's decision to detonate chemicals in Iowa raises safety and environmental concerns.",
+      "score": 19.7375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 20,
+      "representativeIndex": 22,
       "memberIndices": [
-        20,
+        22
+      ],
+      "score": 19.725,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 30,
+      "memberIndices": [
         30
       ],
-      "score": 85,
-      "category": "conflict",
-      "rationale": "Russian military incursions into South Korean airspace heighten tensions in the region and raise security concerns."
+      "score": 19.625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
     },
     {
       "representativeIndex": 31,
       "memberIndices": [
         31
       ],
-      "score": 75,
-      "category": "law",
-      "rationale": "Australia's new digital duty of care laws represent a significant step towards holding tech companies accountable.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 44,
-      "memberIndices": [
-        44
-      ],
-      "score": 65,
-      "category": "economy",
-      "rationale": "The court's decision on Coinbase reflects ongoing legal challenges in the cryptocurrency market.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 24,
-      "memberIndices": [
-        24,
-        58
-      ],
-      "score": 80,
-      "category": "politics",
-      "rationale": "Republican lawmakers breaking with Trump over Nvidia's leadership illustrates the evolving dynamics within the party."
-    },
-    {
-      "representativeIndex": 53,
-      "memberIndices": [
-        53
-      ],
-      "score": 90,
-      "category": "conflict",
-      "rationale": "The ICJ's ruling on Myanmar's genocide against the Rohingya is a landmark decision in international human rights law.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 26,
-      "memberIndices": [
-        26,
-        59
-      ],
-      "score": 70,
-      "category": "law",
-      "rationale": "The sentencing of a Chinese official for espionage underscores the ongoing tensions in international relations."
-    },
-    {
-      "representativeIndex": 27,
-      "memberIndices": [
-        27,
-        71
-      ],
-      "score": 75,
-      "category": "disaster",
-      "rationale": "The fire in Zanzibar highlights the risks faced by tourism-dependent economies."
-    },
-    {
-      "representativeIndex": 54,
-      "memberIndices": [
-        54
-      ],
-      "score": 65,
-      "category": "technology",
-      "rationale": "The UN's call for AI oversight reflects growing concerns about the implications of artificial intelligence.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 63,
-      "memberIndices": [
-        63
-      ],
-      "score": 70,
-      "category": "disaster",
-      "rationale": "The postponement of the US Army's detonation plan raises safety and environmental concerns.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 32,
-      "memberIndices": [
-        32
-      ],
-      "score": 19.6,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 33,
-      "memberIndices": [
-        33
-      ],
-      "score": 19.5875,
+      "score": 19.6125,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -799,16 +792,6 @@
       "repaired": true
     },
     {
-      "representativeIndex": 36,
-      "memberIndices": [
-        36
-      ],
-      "score": 19.55,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
       "representativeIndex": 37,
       "memberIndices": [
         37
@@ -819,31 +802,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 38,
+      "representativeIndex": 40,
       "memberIndices": [
-        38
+        40
       ],
-      "score": 19.525,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 41,
-      "memberIndices": [
-        41
-      ],
-      "score": 19.4875,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 42,
-      "memberIndices": [
-        42
-      ],
-      "score": 19.475,
+      "score": 19.5,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -869,46 +832,6 @@
       "repaired": true
     },
     {
-      "representativeIndex": 46,
-      "memberIndices": [
-        46
-      ],
-      "score": 19.425,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 47,
-      "memberIndices": [
-        47
-      ],
-      "score": 19.4125,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 49,
-      "memberIndices": [
-        49
-      ],
-      "score": 19.3875,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 50,
-      "memberIndices": [
-        50
-      ],
-      "score": 19.375,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
       "representativeIndex": 51,
       "memberIndices": [
         51
@@ -929,11 +852,21 @@
       "repaired": true
     },
     {
-      "representativeIndex": 56,
+      "representativeIndex": 54,
       "memberIndices": [
-        56
+        54
       ],
-      "score": 19.3,
+      "score": 19.325,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 19.3125,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -949,151 +882,21 @@
       "repaired": true
     },
     {
-      "representativeIndex": 61,
+      "representativeIndex": 58,
       "memberIndices": [
-        61
+        58
       ],
-      "score": 19.2375,
+      "score": 19.275,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 62,
+      "representativeIndex": 59,
       "memberIndices": [
-        62
+        59
       ],
-      "score": 19.225,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 64,
-      "memberIndices": [
-        64
-      ],
-      "score": 19.2,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 65,
-      "memberIndices": [
-        65
-      ],
-      "score": 19.1875,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 66,
-      "memberIndices": [
-        66
-      ],
-      "score": 19.175,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 68,
-      "memberIndices": [
-        68
-      ],
-      "score": 19.15,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 69,
-      "memberIndices": [
-        69
-      ],
-      "score": 19.1375,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 70,
-      "memberIndices": [
-        70
-      ],
-      "score": 19.125,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 72,
-      "memberIndices": [
-        72
-      ],
-      "score": 19.1,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 73,
-      "memberIndices": [
-        73
-      ],
-      "score": 19.0875,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 74,
-      "memberIndices": [
-        74
-      ],
-      "score": 19.075,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 76,
-      "memberIndices": [
-        76
-      ],
-      "score": 19.05,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 77,
-      "memberIndices": [
-        77
-      ],
-      "score": 19.0375,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 79,
-      "memberIndices": [
-        79
-      ],
-      "score": 19.0125,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 80,
-      "memberIndices": [
-        80
-      ],
-      "score": 19,
+      "score": 19.2625,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -1106,14 +909,14 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 21917,
+      "latencyMs": 17964,
       "usage": {
-        "inputTokens": 7312,
-        "outputTokens": 1287,
-        "totalTokens": 8599
+        "inputTokens": 7469,
+        "outputTokens": 1025,
+        "totalTokens": 8494
       },
-      "estimatedCostUsd": 0.001869,
-      "returnedCount": 30,
+      "estimatedCostUsd": 0.0017353499999999999,
+      "returnedCount": 21,
       "acceptedCount": 30
     },
     {
@@ -1122,13 +925,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 20056,
+      "latencyMs": 21680,
       "usage": {
-        "inputTokens": 1235,
-        "outputTokens": 1276,
-        "totalTokens": 2511
+        "inputTokens": 1394,
+        "outputTokens": 1256,
+        "totalTokens": 2650
       },
-      "estimatedCostUsd": 0.00095085,
+      "estimatedCostUsd": 0.0009627,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1138,13 +941,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 19359,
+      "latencyMs": 18913,
       "usage": {
-        "inputTokens": 1358,
-        "outputTokens": 1187,
-        "totalTokens": 2545
+        "inputTokens": 1098,
+        "outputTokens": 1071,
+        "totalTokens": 2169
       },
-      "estimatedCostUsd": 0.0009158999999999999,
+      "estimatedCostUsd": 0.0008072999999999999,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1154,13 +957,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 21683,
+      "latencyMs": 17758,
       "usage": {
-        "inputTokens": 1011,
-        "outputTokens": 1223,
-        "totalTokens": 2234
+        "inputTokens": 1016,
+        "outputTokens": 1125,
+        "totalTokens": 2141
       },
-      "estimatedCostUsd": 0.00088545,
+      "estimatedCostUsd": 0.0008273999999999999,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1170,13 +973,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 42227,
+      "latencyMs": 45428,
       "usage": {
-        "inputTokens": 1990,
-        "outputTokens": 3065,
-        "totalTokens": 5055
+        "inputTokens": 2124,
+        "outputTokens": 2984,
+        "totalTokens": 5108
       },
-      "estimatedCostUsd": 0.0021375,
+      "estimatedCostUsd": 0.002109,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1186,13 +989,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 40500,
+      "latencyMs": 38868,
       "usage": {
-        "inputTokens": 1989,
-        "outputTokens": 3100,
-        "totalTokens": 5089
+        "inputTokens": 1663,
+        "outputTokens": 2824,
+        "totalTokens": 4487
       },
-      "estimatedCostUsd": 0.00215835,
+      "estimatedCostUsd": 0.00194385,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1202,25 +1005,25 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 35730,
+      "latencyMs": 40599,
       "usage": {
-        "inputTokens": 1757,
-        "outputTokens": 2645,
-        "totalTokens": 4402
+        "inputTokens": 1667,
+        "outputTokens": 2745,
+        "totalTokens": 4412
       },
-      "estimatedCostUsd": 0.0018505499999999999,
+      "estimatedCostUsd": 0.00189705,
       "returnedCount": 10,
       "acceptedCount": 10
     }
   ],
-  "generatedAt": "2026-11-24T06:05:12.348Z",
+  "generatedAt": "2026-11-25T06:05:12.589Z",
   "cost": {
     "currency": "USD",
-    "estimatedTotalUsd": 0.010767599999999999,
+    "estimatedTotalUsd": 0.01028265,
     "complete": true,
-    "inputTokens": 16652,
-    "outputTokens": 13783,
-    "totalTokens": 30435,
+    "inputTokens": 16431,
+    "outputTokens": 13030,
+    "totalTokens": 29461,
     "inputUsdPerMillion": 0.15,
     "outputUsdPerMillion": 0.6
   },
@@ -1229,154 +1032,154 @@
       "storyCount": 30,
       "stories": [
         {
-          "link": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
-          "source": "The Guardian",
-          "title_en": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns"
-        },
-        {
-          "link": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
-          "source": "The Guardian",
-          "title_en": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Pennsylvania reports ninth measles death in ongoing state outbreak"
-        },
-        {
-          "link": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
-          "source": "The Guardian",
-          "title_en": "South Korea tells island residents to take shelter after Russian military aircraft approach"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+          "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
           "source": "New York Times",
-          "title_en": "The Return of Jensen Huang"
+          "title_en": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China"
         },
         {
-          "link": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
-          "source": "New York Times",
-          "title_en": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+          "link": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
           "source": "The Guardian",
-          "title_en": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement"
+          "title_en": "Australia’s inflation rate jumping to 4.9% a ‘very serious moment’ for economy, Chalmers declares"
         },
         {
-          "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-          "source": "The Guardian",
-          "title_en": "Australian politics live: Government lacks ‘moral authority’ on decarbonisation, Monique Ryan says; eight teens arrested over alleged schoolies assault"
+          "link": "https://www.dw.com/en/libya-2-dead-after-ukrainian-attack-on-russian-warship-in-benghazi/a-80042348?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi"
         },
         {
-          "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-          "source": "New York Times",
-          "title_en": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal"
+          "link": "https://www.euronews.com/2026/11/25/north-korea-expels-swiss-diplomat-and-orders-berns-new-pyongyang-office-to-close",
+          "source": "Euronews",
+          "title_en": "North Korea expels Swiss diplomat and orders Bern's new Pyongyang office to close"
         },
         {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Car bomb strikes governor’s office in Meta, Colombia"
+          "title_en": "The Gambia election: Can the next president deliver on a decade of promise"
         },
         {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Excavator threatens sacred alpine lake in the Himalayas"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
-          "source": "The Guardian",
-          "title_en": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Qatar PM looks to revive US-Iran talks after meeting Rubio"
-        },
-        {
-          "link": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
-          "source": "The Guardian",
-          "title_en": "Beau Lamarre-Condon could have told crown ‘do your worst’ and not given evidence, defence says"
-        },
-        {
-          "link": "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
-          "source": "The Guardian",
-          "title_en": "Channel 4 hit as Unilever switches from TV to influencer marketing"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents"
-        },
-        {
-          "link": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
-          "source": "The Guardian",
-          "title_en": "China sentences official to death for spying for foreign country"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
-          "source": "The Guardian",
-          "title_en": "Federal court clears way for army to detonate bomb-making chemicals in Iowa"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Trump postpones US Army plan to detonate toxic explosives in Iowa"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "US escalates sanctions on Iran, targets ‘shadow banking’ networks"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "India's 'cockroach' party leader says he was stopped from flying to UK"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/indias-best-known-bottled-water-under-scrutiny?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "India’s best known bottled water under scrutiny"
-        },
-        {
-          "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+          "link": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
           "source": "The Block",
-          "title_en": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses"
+          "title_en": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more"
         },
         {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/mamdani-blasts-ai-reliant-stock-market-after-jensen-huangs-return?traffic_source=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Mamdani blasts AI-reliant stock market after Jensen Huang’s return"
+          "title_en": "UK warns companies of potential Russian sabotage threat"
         },
         {
-          "link": "https://www.theguardian.com/world/2026/nov/24/ebikes-screens-and-failing-manners-pose-challenge-for-dutch-cycling-culture",
+          "link": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
+          "source": "New York Times",
+          "title_en": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/nov/25/latest-review-of-met-police-culture-finds-little-has-changed-since-last-one",
           "source": "The Guardian",
-          "title_en": "Ebikes, screens and failing manners pose challenge for Dutch cycling culture"
+          "title_en": "Latest review of Met police culture finds little has changed since last one"
         },
         {
-          "link": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
-          "source": "New York Times",
-          "title_en": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Gunmen hold dozens hostage in Colombia supermarket"
         },
         {
-          "link": "https://www.nytimes.com/2026/11/23/podcasts/why-trump-put-jensen-huang-back-in-charge-at-nvidia.html",
+          "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Poll finds US voters want government to end Iran war regardless of terms"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee",
+          "source": "The Guardian",
+          "title_en": "Al Gore buys local, family-owned newspaper in central Tennessee"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Australian politics live: ‘A tragedy in the life of our nation’: prime minister apologises to LGBTQ+ veterans"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html",
           "source": "New York Times",
-          "title_en": "Why Trump Put Jensen Huang Back in Charge at Nvidia"
+          "title_en": "Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin."
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "China's Shenzhou-24 carries Pakistan's first astronaut into space"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
+          "source": "The Guardian",
+          "title_en": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Galatasaray says Israel complained to UEFA over Palestine banners"
+        },
+        {
+          "link": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090",
+          "source": "The Block",
+          "title_en": "Utah moves to drop criminal charges against Kalshi after platform halts operations"
+        },
+        {
+          "link": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
+          "source": "The Guardian",
+          "title_en": "The Russian army’s secret death toll – podcast"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Huawei found guilty of stealing trade secrets but acquitted of racketeering"
+        },
+        {
+          "link": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082",
+          "source": "The Block",
+          "title_en": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash",
+          "source": "The Guardian",
+          "title_en": "Rescue crews search for six people after plane crash off Mississippi coast"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
+          "source": "The Guardian",
+          "title_en": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Senegal fans celebrate AFCON legal victory over Morocco"
+        },
+        {
+          "link": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Will there be a White Christmas this year?"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict"
         }
       ]
     },
@@ -1384,59 +1187,59 @@
       "storyCount": 10,
       "stories": [
         {
-          "link": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
-          "source": "The Guardian",
-          "title_en": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns"
-        },
-        {
-          "link": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
-          "source": "The Guardian",
-          "title_en": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Pennsylvania reports ninth measles death in ongoing state outbreak"
-        },
-        {
-          "link": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
-          "source": "The Guardian",
-          "title_en": "South Korea tells island residents to take shelter after Russian military aircraft approach"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+          "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
           "source": "New York Times",
-          "title_en": "The Return of Jensen Huang"
+          "title_en": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China"
         },
         {
-          "link": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
-          "source": "New York Times",
-          "title_en": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC",
-          "title_en": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+          "link": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
           "source": "The Guardian",
-          "title_en": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement"
+          "title_en": "Australia’s inflation rate jumping to 4.9% a ‘very serious moment’ for economy, Chalmers declares"
+        },
+        {
+          "link": "https://www.dw.com/en/libya-2-dead-after-ukrainian-attack-on-russian-warship-in-benghazi/a-80042348?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/25/north-korea-expels-swiss-diplomat-and-orders-berns-new-pyongyang-office-to-close",
+          "source": "Euronews",
+          "title_en": "North Korea expels Swiss diplomat and orders Bern's new Pyongyang office to close"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "The Gambia election: Can the next president deliver on a decade of promise"
+        },
+        {
+          "link": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+          "source": "The Block",
+          "title_en": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "UK warns companies of potential Russian sabotage threat"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
+          "source": "New York Times",
+          "title_en": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101"
+        },
+        {
+          "link": "https://www.theguardian.com/uk-news/2026/nov/25/latest-review-of-met-police-culture-finds-little-has-changed-since-last-one",
+          "source": "The Guardian",
+          "title_en": "Latest review of Met police culture finds little has changed since last one"
         }
       ],
       "contentHashes": {
-        "ru": "95d2d617ef3f0267b81503fa3e55a134ba50da496c974b4e416490f84e331603",
-        "en": "9abbc2d22e788a797a01bd79dc904d1ae666ea96a587e169886cd7ef3235744d"
+        "ru": "05191d4361a65618b9e00a7b9d8ccfc35666ed476da2c654091bf95e239c1fcf",
+        "en": "ff641eae856377fcb521408e71b01743122a6031a321ebfa563b4e2c9d3641f7"
       }
     }
   }
