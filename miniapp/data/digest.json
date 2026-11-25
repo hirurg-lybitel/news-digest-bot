@@ -1,203 +1,511 @@
 {
-  "generatedAt": "2026-11-25T06:05:12.589Z",
+  "generatedAt": "2026-11-25T18:05:06.095Z",
   "date": "2026-11-25",
-  "slot": "morning",
-  "periodHours": 23.936488611111113,
+  "slot": "evening",
+  "periodHours": 11.935942777777777,
   "intro": {
     "ru": "Главные мировые события за последние несколько часов — 30 коротких новостей.",
     "en": "The latest major world events in 30 concise stories."
   },
   "stories": [
     {
-      "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
-      "source": "New York Times",
+      "link": "https://www.euronews.com/2026/11/25/russian-strikes-kill-seven-in-ukraine-as-kyiv-hits-three-refineries",
+      "source": "Euronews",
       "title": {
-        "ru": "Соломоновы Острова заключают договор о безопасности с Австралией, нанося удар по Китаю",
-        "en": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China"
+        "ru": "Российские удары убивают семерых в Украине, Киев атакует три нефтеперерабатывающих завода",
+        "en": "Russian strikes kill seven in Ukraine as Kyiv hits three refineries"
       },
       "summary": {
-        "ru": "Соглашение Соломоновых Островов с Китаем в 2022 году вызывало опасения по поводу возможного военного присутствия Пекина на острове. Новый договор исключает такие базы.",
-        "en": "A 2022 Solomon Islands agreement with China raised concerns about a potential military presence from Beijing. The new accord precludes such bases."
+        "ru": "Российская атака дронов убила людей в шести украинских регионах и нанесла удары по газовому производственному объекту Нафтогаза и тепловой электростанции DTEK. Украинские дроны атаковали нефтеперерабатывающие заводы в Самарской и Ростовской областях и авиабазу в Нижнем Новгороде.",
+        "en": "Russia's drone attack killed people in six Ukrainian regions and hit a Naftogaz gas production facility and a DTEK thermal power plant. Ukrainian drones struck Russian refineries in Samara and Rostov regions and an airbase in Nizhny Novgorod region."
       },
       "category": {
         "ru": "Конфликт",
         "en": "Conflict"
       },
       "longBody": {
-        "ru": "Соломоновы Острова подписали новый договор о безопасности с Австралией, который исключает возможность создания военных баз Китая на островах. Это соглашение стало ответом на опасения, вызванные предыдущим соглашением с Китаем в 2022 году, которое могло бы позволить Пекину установить военное присутствие в регионе.\n\nНовый договор подчеркивает стремление Соломоновых Островов укрепить свои связи с Австралией и снизить влияние Китая в Тихом океане. Это решение также отражает изменяющуюся геополитическую ситуацию в регионе, где конкуренция между великими державами становится все более напряженной.\n\nТаким образом, Соломоновы Острова делают выбор в пользу безопасности и стабильности, что может повлиять на будущие отношения с Китаем и другими странами региона.",
-        "en": "The Solomon Islands have signed a new security treaty with Australia, which precludes the establishment of Chinese military bases on the islands. This agreement comes in response to concerns raised by a previous 2022 agreement with China that could have allowed Beijing to establish a military presence in the region.\n\nThe new treaty underscores the Solomon Islands' desire to strengthen ties with Australia and reduce Chinese influence in the Pacific. This decision also reflects the changing geopolitical landscape in the region, where competition among great powers is intensifying.\n\nThus, the Solomon Islands are opting for security and stability, which may impact future relations with China and other countries in the region."
+        "ru": "Российская атака дронов привела к гибели семи человек в шести украинских регионах. Удары были нанесены по газовому производственному объекту Нафтогаза и тепловой электростанции DTEK, что усугубило уже сложную гуманитарную ситуацию в стране.\n\nВ ответ на эти атаки, украинские дроны провели операции против российских нефтеперерабатывающих заводов в Самарской и Ростовской областях, а также атаковали авиабазу в Нижнем Новгороде. Эти действия подчеркивают продолжающееся напряжение и эскалацию конфликта между двумя странами.\n\nВласти Украины продолжают усиливать свою оборону и предпринимать меры для защиты граждан, в то время как российские силы продолжают наносить удары по критически важным объектам инфраструктуры.",
+        "en": "Russia's drone attack resulted in the deaths of seven people across six Ukrainian regions. Strikes targeted a Naftogaz gas production facility and a DTEK thermal power plant, exacerbating the already dire humanitarian situation in the country.\n\nIn retaliation, Ukrainian drones conducted operations against Russian refineries in the Samara and Rostov regions, as well as attacking an airbase in Nizhny Novgorod. These actions highlight the ongoing tension and escalation of conflict between the two nations.\n\nUkrainian authorities continue to bolster their defenses and take measures to protect civilians, while Russian forces persist in targeting critical infrastructure."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Solomonovy-Ostrova-zaklyuchayut-dogovor-o-bezopasnosti-s-Avstraliej-nanosya-udar-po-Kitayu-11-25",
-        "en": "https://telegra.ph/Solomon-Islands-Enters-Security-Treaty-With-Australia-in-a-Blow-to-China-11-25"
+        "ru": "https://telegra.ph/Rossijskie-udary-ubivayut-semeryh-v-Ukraine-Kiev-atakuet-tri-neftepererabatyvayushchih-zavoda-11-25",
+        "en": "https://telegra.ph/Russian-strikes-kill-seven-in-Ukraine-as-Kyiv-hits-three-refineries-11-25"
       }
     },
     {
-      "link": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
-      "source": "The Guardian",
+      "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
       "title": {
-        "ru": "Инфляция в Австралии подскочила до 4,9% — «очень серьезный момент» для экономики, заявляет Чалмерс",
-        "en": "Australia’s inflation rate jumping to 4.9% a ‘very serious moment’ for economy, Chalmers declares"
+        "ru": "Poundland обанкротился, ставя под угрозу 11,000 рабочих мест",
+        "en": "Poundland collapses putting 11,000 jobs at risk"
       },
       "summary": {
-        "ru": "Инфляция выросла с 4,3% в сентябре и почти вдвое превышает целевой уровень Резервного банка в 2,5%. Чалмерс заявил о «очень серьезном моменте для нашей экономики».",
-        "en": "The inflation rate rose from 4.3% in September, nearly doubling the Reserve Bank’s target of 2.5%. Chalmers declared it a 'very serious moment for our economy'."
+        "ru": "Сеть дискаунтеров обанкротилась после того, как ее владельцы не смогли найти покупателя.",
+        "en": "The discount chain has collapsed into administration after its owners failed to find a buyer."
       },
       "category": {
         "ru": "Экономика",
         "en": "Economy"
       },
       "longBody": {
-        "ru": "Инфляция в Австралии достигла 4,9% в годовом исчислении, что значительно превышает целевой уровень Резервного банка в 2,5%. Министр финансов Джим Чалмерс охарактеризовал это как «очень серьезный момент для нашей экономики», поскольку рост цен усугубляет кризис стоимости жизни в стране.\n\nСравнительно с предыдущим месяцем, когда инфляция составляла 4,3%, этот рост вызывает опасения о возможной рецессии в следующем году. В преддверии Рождества и на фоне растущей безработицы, которая достигла пятилетнего максимума, давление на бюджет домохозяйств усиливается.\n\nАвстралийское правительство сталкивается с вызовами, связанными с необходимостью справиться с инфляцией и поддержать экономический рост, что требует принятия срочных мер для стабилизации ситуации.",
-        "en": "Australia's inflation rate has surged to 4.9% year-on-year, significantly exceeding the Reserve Bank's target of 2.5%. Finance Minister Jim Chalmers described this as a 'very serious moment for our economy', as rising prices exacerbate the country's cost-of-living crisis.\n\nCompared to the previous month, when inflation was at 4.3%, this increase raises concerns about a potential recession next year. With Christmas approaching and unemployment reaching a five-year high, the pressure on household budgets is intensifying.\n\nThe Australian government faces challenges in addressing inflation and supporting economic growth, necessitating urgent measures to stabilize the situation."
+        "ru": "Сеть дискаунтеров Poundland обанкротилась, что поставило под угрозу 11,000 рабочих мест. Владельцы компании не смогли найти покупателя, что привело к ее переходу в администрацию.\n\nПроблемы с финансами и изменениями в потребительских предпочтениях стали основными факторами, способствующими краху сети. Теперь работники и клиенты остаются в неведении относительно будущего компании и возможных последствий для местных сообществ.\n\nЭксперты отмечают, что это событие может повлиять на рынок дискаунтеров в Великобритании, поскольку конкуренция усиливается, а экономические условия остаются нестабильными.",
+        "en": "The discount chain Poundland has collapsed, putting 11,000 jobs at risk. The company's owners failed to find a buyer, leading to its administration.\n\nFinancial troubles and changing consumer preferences have been key factors contributing to the chain's downfall. Now, employees and customers are left uncertain about the company's future and the potential impacts on local communities.\n\nExperts note that this event could affect the discount retail market in the UK, as competition intensifies and economic conditions remain unstable."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Inflyaciya-v-Avstralii-podskochila-do-49--ochen-sereznyj-moment-dlya-ehkonomiki-zayavlyaet-CHalmers-11-25",
-        "en": "https://telegra.ph/Australias-inflation-rate-jumping-to-49-a-very-serious-moment-for-economy-Chalmers-declares-11-25"
+        "ru": "https://telegra.ph/Poundland-obankrotilsya-stavya-pod-ugrozu-11000-rabochih-mest-11-25",
+        "en": "https://telegra.ph/Poundland-collapses-putting-11000-jobs-at-risk-11-25-3"
       }
     },
     {
-      "link": "https://www.dw.com/en/libya-2-dead-after-ukrainian-attack-on-russian-warship-in-benghazi/a-80042348?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
+      "link": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
+      "source": "The Guardian",
       "title": {
-        "ru": "Ливия: 2 человека погибли после украинской атаки на российский военный корабль в Бенгази",
-        "en": "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi"
+        "ru": "Пляжи Калифорнии закрыты из-за рекордных приливов и угрозы сильного наводнения",
+        "en": "California beaches close as record-breaking tides and major flooding loom"
       },
       "summary": {
-        "ru": "Глава восточной администрации Ливии подтвердил, что два ливийских солдата скончались от полученных ранений. Министр иностранных дел Украины защитил атаку как попытку противостоять российской агрессии.",
-        "en": "The head of the eastern administration in Libya confirmed that two Libyan soldiers died from their injuries. Ukraine's foreign minister defended the attack as a counter to Russian aggression."
+        "ru": "В Калифорнии ожидается сильное наводнение, так как второй день подряд наблюдаются рекордные высокие приливы. Местные власти готовятся к возможным последствиям наводнения во время недели празднования Дня благодарения.",
+        "en": "Major flooding is expected in California today as a second day of record-breaking high tides hits the west coast. Local officials have been preparing for weeks for the risk that flooding will disrupt travel during Thanksgiving week."
       },
       "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
+        "ru": "Климат",
+        "en": "Climate"
       },
       "longBody": {
-        "ru": "Восточная администрация Ливии подтвердила, что два ливийских солдата погибли в результате ранения, полученного в ходе украинской атаки на российский военный корабль в Бенгази. Министр иностранных дел Украины защитил эту атаку, заявив, что она является попыткой противостоять российской агрессии.\n\nЭта ситуация подчеркивает продолжающийся конфликт в Ливии и сложные международные отношения, в которых Украина стремится отразить действия России, поддерживая свои интересы в регионе. Ответственность за гибель солдат вызывает вопросы о последствиях подобного военного вмешательства.\n\nТаким образом, инцидент стал очередным напоминанием о том, как международные конфликты могут иметь серьезные последствия для местного населения и военных на местах.",
-        "en": "The eastern administration in Libya confirmed that two Libyan soldiers died from injuries sustained during a Ukrainian attack on a Russian warship in Benghazi. Ukraine's foreign minister defended the attack as an effort to counter Russian aggression.\n\nThis situation highlights the ongoing conflict in Libya and the complex international relations in which Ukraine seeks to reflect its interests in the region by countering Russian actions. The casualties raise questions about the consequences of such military interventions.\n\nThus, the incident serves as a reminder of how international conflicts can have serious repercussions for local populations and military personnel on the ground."
+        "ru": "В Калифорнии ожидается сильное наводнение, так как второй день подряд наблюдаются рекордные высокие приливы. Местные власти готовятся к возможным последствиям наводнения, особенно в преддверии недели празднования Дня благодарения.\n\nНесмотря на то, что прогнозы указывают на то, что большинство штата может избежать худшего сценария, местные чиновники принимают меры предосторожности, чтобы минимизировать риски для путешественников и жителей.\n\nЭто событие подчеркивает важность готовности к природным катастрофам, особенно в периоды, когда ожидается большое количество людей на дорогах.",
+        "en": "Major flooding is expected in California today as a second day of record-breaking high tides hits the west coast. Local officials have been preparing for potential flooding impacts, especially ahead of Thanksgiving week celebrations.\n\nWhile forecasts suggest that most of the state may avoid the worst-case scenario, local officials are taking precautions to minimize risks for travelers and residents.\n\nThis event underscores the importance of disaster preparedness, particularly during times when large numbers of people are expected on the roads."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Liviya-2-cheloveka-pogibli-posle-ukrainskoj-ataki-na-rossijskij-voennyj-korabl-v-Bengazi-11-25",
-        "en": "https://telegra.ph/Libya-2-dead-after-Ukrainian-attack-on-Russian-warship-in-Benghazi-11-25"
+        "ru": "https://telegra.ph/Plyazhi-Kalifornii-zakryty-iz-za-rekordnyh-prilivov-i-ugrozy-silnogo-navodneniya-11-25",
+        "en": "https://telegra.ph/California-beaches-close-as-record-breaking-tides-and-major-flooding-loom-11-25"
       }
     },
     {
-      "link": "https://www.euronews.com/2026/11/25/north-korea-expels-swiss-diplomat-and-orders-berns-new-pyongyang-office-to-close",
-      "source": "Euronews",
+      "link": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
+      "source": "New York Times",
       "title": {
-        "ru": "Северная Корея выдворяет швейцарского дипломата и приказывает закрыть новое офис в Пхеньяне",
-        "en": "North Korea expels Swiss diplomat and orders Bern's new Pyongyang office to close"
+        "ru": "Ограничения Medicare на хосписы оставляют пациентов без ухода",
+        "en": "Medicare Hospice Caps Leave Patients Without Care"
       },
       "summary": {
-        "ru": "Швейцария открыла офис 19 октября, когда министр иностранных дел Игнацио Кассис посетил Пхеньян и встретился с высокопоставленными чиновниками.",
-        "en": "Switzerland opened the office on October 19, when Foreign Minister Ignazio Cassis visited Pyongyang and met senior officials."
+        "ru": "Критики утверждают, что ограничения по выплатам компаниям наказывают пациентов, которые не умирают в соответствии с графиком правительства.",
+        "en": "Critics say the payment limits to companies penalize patients who are not dying on the government’s timetable."
       },
       "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
+        "ru": "Здоровье",
+        "en": "Health"
       },
       "longBody": {
-        "ru": "Швейцария открыла новый офис в Пхеньяне 19 октября, когда министр иностранных дел Игнацио Кассис посетил Северную Корею и встретился с высокопоставленными чиновниками. Однако теперь Северная Корея приняла решение выдворить швейцарского дипломата и закрыть офис, что указывает на ухудшение дипломатических отношений.\n\nЭто решение может быть связано с растущей напряженностью в регионе и недовольством Северной Кореи вмешательством иностранных государств в свои внутренние дела. Закрытие офиса также подчеркивает сложные и часто напряженные отношения между Северной Кореей и Западом.\n\nТаким образом, инцидент служит напоминанием о хрупкости дипломатических отношений и о том, как быстро они могут измениться в ответ на политические обстоятельства.",
-        "en": "Switzerland opened a new office in Pyongyang on October 19, when Foreign Minister Ignazio Cassis visited North Korea and met with senior officials. However, North Korea has now decided to expel the Swiss diplomat and close the office, indicating a deterioration in diplomatic relations.\n\nThis decision may be linked to rising tensions in the region and North Korea's dissatisfaction with foreign interference in its internal affairs. The closure of the office also highlights the complex and often strained relations between North Korea and the West.\n\nThus, the incident serves as a reminder of the fragility of diplomatic relations and how quickly they can change in response to political circumstances."
+        "ru": "Критики системы Medicare утверждают, что ограничения по выплатам компаниям наказывают пациентов, которые не умирают в соответствии с графиком правительства. Эти ограничения могут привести к недостаточному уходу для людей, нуждающихся в помощи.\n\nСистема Medicare, предназначенная для поддержки пожилых людей и людей с ограниченными возможностями, сталкивается с растущими проблемами, связанными с финансированием и доступом к качественному медицинскому обслуживанию.\n\nОбсуждение этих вопросов становится все более актуальным, так как общество стремится найти баланс между контролем расходов и обеспечением необходимого ухода для пациентов.",
+        "en": "Critics of the Medicare system argue that payment limits to companies penalize patients who are not dying on the government's timetable. These limits may result in inadequate care for individuals in need.\n\nThe Medicare system, designed to support the elderly and disabled, faces growing challenges related to funding and access to quality healthcare.\n\nThe discussion of these issues is becoming increasingly relevant as society seeks to find a balance between cost control and ensuring necessary care for patients."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Severnaya-Koreya-vydvoryaet-shvejcarskogo-diplomata-i-prikazyvaet-zakryt-novoe-ofis-v-Phenyane-11-25",
-        "en": "https://telegra.ph/North-Korea-expels-Swiss-diplomat-and-orders-Berns-new-Pyongyang-office-to-close-11-25"
+        "ru": "https://telegra.ph/Ogranicheniya-Medicare-na-hospisy-ostavlyayut-pacientov-bez-uhoda-11-25",
+        "en": "https://telegra.ph/Medicare-Hospice-Caps-Leave-Patients-Without-Care-11-25"
       }
     },
     {
-      "link": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
-      "source": "Al Jazeera",
+      "link": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
+      "source": "New York Times",
       "title": {
-        "ru": "Выборы в Гамбии: сможет ли следующий президент выполнить десятилетние обещания",
-        "en": "The Gambia election: Can the next president deliver on a decade of promise"
+        "ru": "Лидер Японии, в отличие от США, защищает Международный уголовный суд",
+        "en": "Japan’s Leader, in Break With U.S., Defends International Criminal Court"
       },
       "summary": {
-        "ru": "Гамбийцы идут на выборы на фоне экономических трудностей и невыполненных обещаний реформ и справедливости.",
-        "en": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice."
+        "ru": "Санаэ Такаичи приветствовала президента суда и пообещала ускорить финансовую поддержку, несмотря на усилия администрации Трампа по подрыву глобального органа.",
+        "en": "Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body."
       },
       "category": {
         "ru": "Политика",
         "en": "Politics"
       },
       "longBody": {
-        "ru": "Гамбийцы готовятся к выборам на фоне экономических трудностей и невыполненных обещаний реформ и справедливости. Эти выборы становятся важным моментом для страны, которая стремится преодолеть проблемы, связанные с управлением и экономическим развитием.\n\nМногие избиратели выражают недовольство по поводу отсутствия прогресса в реализации обещанных реформ, что создает атмосферу недоверия к политическим институтам. Ожидается, что результаты выборов могут повлиять на будущее страны и её политическую стабильность.\n\nТаким образом, выборы в Гамбии представляют собой возможность для граждан выразить свои надежды и требования к будущему, несмотря на существующие вызовы.",
-        "en": "Gambians are heading to the polls amid economic hardship and unfulfilled promises of reform and justice. These elections represent a crucial moment for a country striving to overcome challenges related to governance and economic development.\n\nMany voters express dissatisfaction with the lack of progress in implementing promised reforms, creating an atmosphere of distrust towards political institutions. The election results are expected to influence the country's future and its political stability.\n\nThus, the elections in The Gambia present an opportunity for citizens to express their hopes and demands for the future, despite the existing challenges."
+        "ru": "Санаэ Такаичи, министр Японии, приветствовала президента Международного уголовного суда и пообещала ускорить финансовую поддержку, несмотря на усилия администрации Трампа по подрыву этого глобального органа.\n\nЭто заявление подчеркивает стремление Японии поддерживать международные правовые нормы и сотрудничество в области правосудия, даже когда другие страны могут проявлять скептицизм.\n\nТакое поведение Японии может укрепить ее позиции на международной арене и продемонстрировать приверженность к правам человека и международному правосудию.",
+        "en": "Sanae Takaichi, Japan's minister, welcomed the president of the International Criminal Court and vowed to accelerate financial support despite efforts by the Trump administration to undermine the global body.\n\nThis statement underscores Japan's commitment to uphold international legal standards and cooperation in the field of justice, even as other countries may express skepticism.\n\nSuch behavior from Japan could strengthen its position on the international stage and demonstrate a commitment to human rights and international justice."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Vybory-v-Gambii-smozhet-li-sleduyushchij-prezident-vypolnit-desyatiletnie-obeshchaniya-11-25",
-        "en": "https://telegra.ph/The-Gambia-election-Can-the-next-president-deliver-on-a-decade-of-promise-11-25"
+        "ru": "https://telegra.ph/Lider-YAponii-v-otlichie-ot-SSHA-zashchishchaet-Mezhdunarodnyj-ugolovnyj-sud-11-25",
+        "en": "https://telegra.ph/Japans-Leader-in-Break-With-US-Defends-International-Criminal-Court-11-25-2"
       }
     },
     {
-      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
-      "source": "The Block",
+      "link": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+      "source": "New York Times",
       "title": {
-        "ru": "Биткойн и эфир получили одобрение CFTC по требованиям к расходам, Фонд Ethereum удваивает команду безопасности и другое",
-        "en": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more"
+        "ru": "Три человека погибли, многие оказались в ловушке в индонезийской шахте после сильного дождя",
+        "en": "3 Dead and Many More Trapped in Indonesian Mine After Heavy Rainfall"
       },
       "summary": {
-        "ru": "В сегодняшнем выпуске биткойн и эфир получили признание в соответствии с финансовыми требованиями CFTC; Фонд Ethereum удваивает команду безопасности на фоне растущих рисков ИИ.",
-        "en": "In today's newsletter, bitcoin and ether gain recognition under CFTC financial requirements; the Ethereum Foundation doubles its security team as AI risks grow."
+        "ru": "По меньшей мере 23 рабочих, вероятно, оказались заблокированными в незаконной шахте с понедельника после затопления узкого шахтного ствола.",
+        "en": "At least 23 workers are believed to have been stuck inside the illegal mine since Monday, after its narrow shaft flooded."
+      },
+      "category": {
+        "ru": "Катастрофа",
+        "en": "Disaster"
+      },
+      "longBody": {
+        "ru": "В Индонезии по меньшей мере 23 рабочих, вероятно, оказались заблокированными в незаконной шахте после того, как ее узкий шахтный ствол затопило. Ситуация осложняется сильными дождями, которые продолжаются с понедельника.\n\nСпасательные операции продолжаются, однако доступ к шахте затруднен из-за неблагоприятных погодных условий и опасности обрушения.\n\nЭтот инцидент подчеркивает проблемы безопасности в горнодобывающей отрасли, особенно в отношении незаконных операций, которые часто игнорируют стандарты безопасности.",
+        "en": "In Indonesia, at least 23 workers are believed to be trapped inside an illegal mine after its narrow shaft flooded. The situation is complicated by heavy rainfall that has persisted since Monday.\n\nRescue operations are ongoing, but access to the mine is hindered by adverse weather conditions and the risk of collapse.\n\nThis incident highlights safety issues in the mining industry, particularly regarding illegal operations that often disregard safety standards."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Tri-cheloveka-pogibli-mnogie-okazalis-v-lovushke-v-indonezijskoj-shahte-posle-silnogo-dozhdya-11-25",
+        "en": "https://telegra.ph/3-Dead-and-Many-More-Trapped-in-Indonesian-Mine-After-Heavy-Rainfall-11-25"
+      }
+    },
+    {
+      "link": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709",
+      "source": "The Block",
+      "title": {
+        "ru": "Nvidia согласилась на урегулирование в размере 290 миллионов долларов по делу о раскрытии информации о криптодобыче",
+        "en": "Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil"
+      },
+      "summary": {
+        "ru": "Nvidia согласилась на урегулирование в размере 290 миллионов долларов по обвинениям в том, что она ввела в заблуждение инвесторов относительно спроса на криптодобычу, который способствовал продажам игровых графических процессоров в 2017-2018 годах.",
+        "en": "Nvidia agreed to a $290M settlement over claims it misled investors about crypto mining demand driving 2017–18 gaming GPU sales."
       },
       "category": {
         "ru": "Технологии",
         "en": "Technology"
       },
       "longBody": {
-        "ru": "В последнем выпуске новостей биткойн и эфир получили признание в соответствии с финансовыми требованиями CFTC, что может способствовать их легитимизации на рынке. Кроме того, Фонд Ethereum удваивает свою команду безопасности на фоне растущих рисков, связанных с искусственным интеллектом.\n\nЭти шаги подчеркивают растущее внимание к регулированию криптовалют и необходимости обеспечения безопасности в условиях увеличения угроз. Успехи в этой области могут помочь укрепить доверие инвесторов и пользователей к криптовалютам.\n\nТаким образом, развитие событий в криптоиндустрии продолжает привлекать внимание, поскольку она адаптируется к новым вызовам и требованиям рынка.",
-        "en": "In today's newsletter, bitcoin and ether have gained recognition under CFTC financial requirements, which may contribute to their legitimization in the market. Additionally, the Ethereum Foundation is doubling its security team amid growing risks associated with artificial intelligence.\n\nThese steps highlight the increasing focus on cryptocurrency regulation and the need for security in the face of rising threats. Successes in this area may help bolster investor and user confidence in cryptocurrencies.\n\nThus, developments in the crypto industry continue to attract attention as it adapts to new challenges and market demands."
+        "ru": "Компания Nvidia согласилась на урегулирование в размере 290 миллионов долларов по обвинениям в том, что она ввела в заблуждение инвесторов относительно спроса на криптодобычу, который способствовал продажам игровых графических процессоров в 2017-2018 годах.\n\nЭто соглашение стало результатом расследования, которое выявило несоответствия в отчетности компании и ее коммуникациях с инвесторами.\n\nТакое разрешение спора может повлиять на репутацию Nvidia и ее будущие отношения с инвесторами, а также на рынок технологий в целом.",
+        "en": "Nvidia agreed to a $290 million settlement over claims it misled investors about crypto mining demand driving 2017–18 gaming GPU sales.\n\nThis settlement resulted from an investigation that uncovered discrepancies in the company's reporting and communications with investors.\n\nSuch a resolution of the dispute may impact Nvidia's reputation and its future relationships with investors, as well as the technology market as a whole."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Bitkojn-i-ehfir-poluchili-odobrenie-CFTC-po-trebovaniyam-k-rashodam-Fond-Ethereum-udvaivaet-komandu-bezopasnosti-i-drugoe-11-25",
-        "en": "https://telegra.ph/Bitcoin-ether-get-CFTC-staff-nod-for-expense-requirements-Ethereum-Foundation-doubles-security-team-and-more-11-25"
+        "ru": "https://telegra.ph/Nvidia-soglasilas-na-uregulirovanie-v-razmere-290-millionov-dollarov-po-delu-o-raskrytii-informacii-o-kriptodobyche-11-25",
+        "en": "https://telegra.ph/Nvidia-agrees-to-290-million-settlement-over-crypto-mining-disclosures-amid-Jensen-Huang-turmoil-11-25"
       }
     },
     {
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Четыре года после огромного удара астероида космический аппарат вернулся, чтобы оценить ущерб",
-        "en": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage"
-      },
-      "summary": {
-        "ru": "Миссия изучает астероид, который был намеренно сбит с курса столкнувшимся космическим аппаратом.",
-        "en": "The mission is studying an asteroid that was deliberately knocked off course by a colliding spacecraft."
-      },
-      "category": {
-        "ru": "Наука",
-        "en": "Science"
-      },
-      "longBody": {
-        "ru": "Миссия по изучению астероида, который был намеренно сбит с курса столкнувшимся космическим аппаратом, завершила свой первый этап. Это исследование направлено на оценку последствий этого столкновения и его воздействия на астероид.\n\nДанный проект представляет собой важный шаг в изучении астероидов и потенциальных угроз, которые они могут представлять для Земли. Ученые надеются получить новые данные, которые помогут лучше понять динамику таких космических объектов.\n\nТаким образом, успешное завершение этой миссии может открыть новые горизонты в астрономии и планетарной науке, предоставляя важную информацию о возможных будущих угрозах.",
-        "en": "The mission studying an asteroid that was deliberately knocked off course by a colliding spacecraft has completed its first phase. This research aims to assess the consequences of this collision and its impact on the asteroid.\n\nThis project represents an important step in studying asteroids and the potential threats they may pose to Earth. Scientists hope to gain new insights that will help better understand the dynamics of such cosmic objects.\n\nThus, the successful completion of this mission may open new horizons in astronomy and planetary science, providing crucial information about possible future threats."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/CHetyre-goda-posle-ogromnogo-udara-asteroida-kosmicheskij-apparat-vernulsya-chtoby-ocenit-ushcherb-11-25",
-        "en": "https://telegra.ph/Four-years-after-huge-asteroid-crash-a-spacecraft-has-now-returned-to-assess-the-damage-11-25"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Великобритания предупреждает компании о потенциальной угрозе саботажа со стороны России",
-        "en": "UK warns companies of potential Russian sabotage threat"
+        "ru": "Колумбийские силы освободили всех заложников после осады супермаркета",
+        "en": "Colombian forces rescue all hostages after supermarket siege"
       },
       "summary": {
-        "ru": "Министерство обороны Великобритании и служба безопасности предупреждают о угрозе в необычном публичном заявлении.",
-        "en": "Britain's Defence Ministry and security service warn of the threat in an unusual public announcement."
+        "ru": "Все заложники были освобождены колумбийскими силами после 17-часовой осады супермаркета в Картахене.",
+        "en": "All hostages have been rescued by Colombian forces after a 17-hour siege in Cartagena supermarket."
       },
       "category": {
-        "ru": "Право",
-        "en": "Law"
+        "ru": "Общество",
+        "en": "Society"
       },
       "longBody": {
-        "ru": "Министерство обороны Великобритании и служба безопасности выпустили необычное публичное заявление, в котором предупреждают компании о потенциальной угрозе саботажа со стороны России. Это предупреждение подчеркивает растущее беспокойство по поводу безопасности в свете текущих международных конфликтов.\n\nТакое заявление может указывать на необходимость повышенного внимания к безопасности и защите критической инфраструктуры. Британские власти призывают компании быть бдительными и готовыми к возможным угрозам.\n\nТаким образом, предупреждение подчеркивает важность готовности к потенциальным рискам и необходимости сотрудничества между государственными и частными секторами для обеспечения безопасности.",
-        "en": "Britain's Defence Ministry and security service issued an unusual public announcement warning companies of a potential sabotage threat from Russia. This warning underscores growing concerns about security in light of current international conflicts.\n\nSuch a statement may indicate the need for increased attention to security and the protection of critical infrastructure. British authorities urge companies to remain vigilant and prepared for possible threats.\n\nThus, the warning highlights the importance of readiness for potential risks and the necessity for cooperation between public and private sectors to ensure safety."
+        "ru": "Колумбийские силы освободили всех заложников после 17-часовой осады супермаркета в Картахене. Операция прошла успешно, и никто из заложников не пострадал.\n\nСитуация в супермаркете привлекла внимание местных властей и общественности, что привело к быстрому реагированию правоохранительных органов.\n\nЭтот инцидент подчеркивает важность готовности служб безопасности к кризисным ситуациям и необходимость эффективного взаимодействия между различными ведомствами.",
+        "en": "Colombian forces rescued all hostages after a 17-hour siege at a supermarket in Cartagena. The operation was successful, and no hostages were harmed.\n\nThe situation at the supermarket drew the attention of local authorities and the public, leading to a swift response from law enforcement.\n\nThis incident underscores the importance of security services' preparedness for crisis situations and the need for effective collaboration among various agencies."
       },
       "telegraphUrl": {
-        "ru": "https://telegra.ph/Velikobritaniya-preduprezhdaet-kompanii-o-potencialnoj-ugroze-sabotazha-so-storony-Rossii-11-25",
-        "en": "https://telegra.ph/UK-warns-companies-of-potential-Russian-sabotage-threat-11-25"
+        "ru": "https://telegra.ph/Kolumbijskie-sily-osvobodili-vseh-zalozhnikov-posle-osady-supermarketa-11-25",
+        "en": "https://telegra.ph/Colombian-forces-rescue-all-hostages-after-supermarket-siege-11-25"
+      }
+    },
+    {
+      "link": "https://www.dw.com/en/€561-billion-and-still-not-enough-germany-s-2027-budget-exposes-a-coalition-on-the-brink/a-80052664?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "title": {
+        "ru": "€561 миллиард и все еще недостаточно: бюджет Германии на 2027 год показывает кризис в коалиции",
+        "en": "€561 Billion and Still Not Enough: Germany's 2027 Budget Exposes a Coalition on the Brink"
+      },
+      "summary": {
+        "ru": "Бюджет на 2027 год достиг новых высот, а пенсионные фонды, расходы на оборону и слабая экономика увеличивают давление. В то же время напряженность внутри правительства нарастает.",
+        "en": "The budget for 2027 has reached new highs, and pension funds, defense spending and a weak economy are increasing the pressure."
+      },
+      "category": {
+        "ru": "Экономика",
+        "en": "Economy"
+      },
+      "longBody": {
+        "ru": "Бюджет Германии на 2027 год достиг новых высот, что вызывает опасения по поводу пенсионных фондов, расходов на оборону и слабой экономики. Эти факторы увеличивают давление на правительство и его способность справляться с финансовыми вызовами.\n\nВнутри коалиции нарастает напряженность, так как различные партии пытаются найти общий язык по вопросам бюджета и приоритетов расходов.\n\nЭксперты предупреждают, что такие финансовые проблемы могут повлиять на стабильность правительства и его способность реализовывать свои планы.",
+        "en": "Germany's budget for 2027 has reached new highs, raising concerns about pension funds, defense spending, and a weak economy. These factors are increasing pressure on the government and its ability to address financial challenges.\n\nTensions are mounting within the coalition as various parties attempt to find common ground on budgetary issues and spending priorities.\n\nExperts warn that such financial problems could impact the government's stability and its ability to implement its plans."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/561-milliard-i-vse-eshche-nedostatochno-byudzhet-Germanii-na-2027-god-pokazyvaet-krizis-v-koalicii-11-25",
+        "en": "https://telegra.ph/561-Billion-and-Still-Not-Enough-Germanys-2027-Budget-Exposes-a-Coalition-on-the-Brink-11-25"
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/us-army-detonates-nearly-five-tonnes-of-toxic-explosives-in-iowa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Армия США подорвала почти пять тонн токсичных взрывчатых веществ в Айове",
+        "en": "US Army detonates nearly five tonnes of toxic explosives in Iowa"
+      },
+      "summary": {
+        "ru": "Армия США провела контролируемый взрыв почти пяти тонн устаревшего свинцового азида на военном заводе.",
+        "en": "The US Army has carried out a controlled blast of nearly five tonnes of deteriorating lead azide at a military plant."
+      },
+      "category": {
+        "ru": "Катастрофа",
+        "en": "Disaster"
+      },
+      "longBody": {
+        "ru": "Армия США провела контролируемый взрыв почти пяти тонн устаревшего свинцового азида на военном заводе в Айове. Это мероприятие было частью программы по утилизации опасных материалов.\n\nВзрыв был запланирован и осуществлен с целью минимизации рисков, связанных с хранением нестабильных взрывчатых веществ.\n\nТакое действие подчеркивает важность безопасного обращения с опасными материалами и необходимость соблюдения стандартов безопасности на военных объектах.",
+        "en": "The US Army has carried out a controlled blast of nearly five tonnes of deteriorating lead azide at a military plant in Iowa. This event was part of a program for the disposal of hazardous materials.\n\nThe explosion was planned and executed to minimize risks associated with storing unstable explosives.\n\nSuch actions underscore the importance of safe handling of hazardous materials and the need to adhere to safety standards at military facilities."
+      },
+      "telegraphUrl": {
+        "ru": "https://telegra.ph/Armiya-SSHA-podorvala-pochti-pyat-tonn-toksichnyh-vzryvchatyh-veshchestv-v-Ajove-11-25",
+        "en": "https://telegra.ph/US-Army-detonates-nearly-five-tonnes-of-toxic-explosives-in-Iowa-11-25"
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Бернхэм отверг критику Баденох и отказался извиняться за «ужасное видео»",
+        "en": "Burnham dismisses Badenoch’s criticism over influencer and declines to apologise for ‘vile video’"
+      },
+      "summary": {
+        "ru": "На заседании парламента Бернхэм и Баденох обсудили видео, снятое TikToker'ом Максом Бале́где. Исследование показывает, что сторонники Reform UK имеют множество заблуждений о миграции.",
+        "en": "At PMQs, Burnham and Badenoch clashed over a video shot by TikToker Max Balegde. Research shows that Reform UK supporters have many misconceptions about migration."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "На заседании парламента, где обсуждались вопросы миграции, мэр Манчестера Эндрю Бернхэм и министр внутренних дел Кеми Баденох вступили в спор по поводу видео, снятого TikToker'ом Максом Бале́где. Это видео стало предметом обсуждения, так как в нем поднимались вопросы о восприятии миграции в обществе.\n\nНедавние исследования показывают, что сторонники партии Reform UK имеют множество заблуждений о миграции. Например, 57% из них считают, что чистая миграция значительно возросла за последний год, в то время как среди сторонников Лейбористской партии этот показатель составляет всего 11%.\n\nДискуссия между Бернхэмом и Баденохом также затронула вопрос о том, как информация о миграции воспринимается в обществе, и какие мифы существуют вокруг этой темы.",
+        "en": "At a parliamentary session discussing migration issues, Manchester Mayor Andy Burnham and Home Secretary Kemi Badenoch clashed over a video shot by TikToker Max Balegde. The video has become a focal point as it raises questions about public perceptions of migration.\n\nRecent research indicates that supporters of the Reform UK party hold many misconceptions about migration. For instance, 57% of them believe that net migration has significantly increased over the past year, compared to just 11% among Labour supporters.\n\nThe debate between Burnham and Badenoch also touched on how information about migration is perceived in society and the myths that exist surrounding this topic."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/uk-news/2026/nov/25/woman-did-not-believe-husband-drugged-her-for-rape-by-strangers-manchester-trial",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Женщина не верила, что муж подсыпал ей наркотики для изнасилования незнакомцами, суд в Манчестере услышал",
+        "en": "Woman did not believe husband had drugged her for rape by strangers, Manchester trial told"
+      },
+      "summary": {
+        "ru": "Женщина, allegedly raped by men, сказала полиции, что не может поверить, что это произошло. Она утверждала, что не знала о случившемся, когда её муж пригласил этих мужчин.",
+        "en": "The woman, allegedly raped by men, told police she could not believe it happened. She claimed she had no knowledge of what her husband had done when he invited the men."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "На судебном процессе в Манчестере женщина, которая, как утверждается, стала жертвой изнасилования, рассказала полиции, что не может поверить в произошедшее. Она заявила, что не знала о том, что ее муж пригласил мужчин, которые напали на нее.\n\nВ видеоинтервью, представленном суду, женщина сказала детективам, что у нее не было никакого представления о случившемся, и она до сих пор не может поверить в это. Она выразила сомнение в правдивости информации, которую ей предоставили.\n\nДело вызывает серьезные вопросы о том, как жертвы сексуального насилия воспринимают свои переживания и как они реагируют на такие травматические события.",
+        "en": "At a trial in Manchester, a woman who allegedly suffered rape told police she could not believe it happened. She claimed she had no knowledge of her husband's actions when he invited the men who attacked her.\n\nIn a video interview presented to the court, the woman told detectives that she had no idea about what had happened and still could not believe it was true. She expressed doubt about the accuracy of the information provided to her.\n\nThe case raises serious questions about how victims of sexual violence perceive their experiences and how they respond to such traumatic events."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Два мужчины обвинены после взлома в загородный дом принца Уильяма и Кейт",
+        "en": "2 Men Charged After Break-In at Prince William and Kate’s Country Home"
+      },
+      "summary": {
+        "ru": "Прокуроры сообщили, что два мужчины, которые появились в суде в среду, залезли по водосточной трубе, чтобы проникнуть в загородный дом королевской семьи в Норфолке.",
+        "en": "Prosecutors said the two men, who appeared in court on Wednesday, climbed a drainpipe to break into the royals’ country retreat in Norfolk."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Прокуроры сообщили, что два мужчины, которые появились в суде в среду, были обвинены в том, что они залезли по водосточной трубе, чтобы проникнуть в загородный дом принца Уильяма и Кейт Миддлтон в Норфолке. Это происшествие привлекло внимание общественности и вызвало вопросы о безопасности королевской семьи.\n\nДетали инцидента остаются неясными, но прокуроры подчеркивают, что такие действия представляют собой серьезное нарушение закона. Ожидается, что суд будет рассматривать это дело в ближайшие дни.\n\nДанный случай поднимает вопросы о безопасности королевских особ и о том, как они защищены от потенциальных угроз.",
+        "en": "Prosecutors stated that two men, who appeared in court on Wednesday, were charged with breaking into Prince William and Kate Middleton's country home in Norfolk by climbing a drainpipe. This incident has drawn public attention and raised questions about the security of the royal family.\n\nDetails of the incident remain unclear, but prosecutors emphasize that such actions constitute a serious breach of the law. The court is expected to consider this case in the coming days.\n\nThis case raises questions about the safety of royal figures and how they are protected from potential threats."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Трамп открыт для помилования Дженсена Хуана, если это потребуется: «Это всегда вариант»",
+        "en": "Trump open to pardoning Jensen Huang if needed: ‘It’s always an option’"
+      },
+      "summary": {
+        "ru": "Президент заявил, что открыт для помилования Дженсена Хуана, недавно восстановленного CEO Nvidia, но не считает это необходимым.",
+        "en": "The president said he would be open to pardoning Jensen Huang, the recently reinstalled Nvidia CEO, but didn’t think it would be necessary."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Президент США заявил, что открыт к возможности помилования Дженсена Хуана, недавно восстановленного CEO Nvidia, но не считает это необходимым. Его комментарии прозвучали на фоне давления на совет директоров Nvidia для восстановления Хуана на посту, несмотря на опасения законодателей по поводу национальной безопасности.\n\nТема помилования стала актуальной, так как Хуан столкнулся с обвинениями в возможных преступлениях. Президент отметил, что это всегда остается вариантом, но в данный момент он не считает, что это потребуется.\n\nДанная ситуация поднимает вопросы о взаимодействии бизнеса и политики, а также о том, как правительство реагирует на действия крупных компаний.",
+        "en": "The US president stated that he would be open to the possibility of pardoning Jensen Huang, the recently reinstated CEO of Nvidia, but did not think it would be necessary. His comments came amid pressure on Nvidia's board to reinstate Huang despite lawmakers' concerns over national security.\n\nThe topic of pardoning has become relevant as Huang faces accusations of potential crimes. The president noted that it is always an option, but at this moment, he does not believe it will be needed.\n\nThis situation raises questions about the interaction between business and politics, as well as how the government responds to the actions of major companies."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/news/audio/2026/nov/25/does-the-rise-and-fall-of-raheem-sterling-show-football-is-broken-the-latest",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Падение Рахима Стерлинга показывает, что футбол сломан? – Последние новости",
+        "en": "Does the rise and fall of Raheem Sterling show football is broken? – The Latest"
+      },
+      "summary": {
+        "ru": "Рахим Стерлинг получил 12 месяцев тюремного заключения с отсрочкой на 18 месяцев за неосторожное вождение и хранение закиси азота. Это вызывает вопросы о защите молодых игроков.",
+        "en": "Raheem Sterling has been handed a 12-month jail term, suspended for 18 months, for reckless driving and possession of nitrous oxide. This raises questions about protections for younger players."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Рахим Стерлинг, бывший игрок сборной Англии и Манчестер Сити, получил 12 месяцев тюремного заключения с отсрочкой на 18 месяцев за неосторожное вождение и хранение закиси азота. Это решение суда стало шоком для многих, учитывая его статус в мире футбола.\n\nСтерлинг начал свою карьеру в профессиональном футболе в 16 лет, и его падение с высот успеха вызывает вопросы о защите молодых игроков в спорте. Обсуждения вокруг его дела поднимают важные темы о том, как клубы и ассоциации должны заботиться о своих игроках.\n\nСитуация Стерлинга также подчеркивает необходимость более строгих мер по обеспечению безопасности и благополучия молодых спортсменов.",
+        "en": "Raheem Sterling, the former England and Manchester City player, has been handed a 12-month jail term, suspended for 18 months, for reckless driving and possession of nitrous oxide. This court decision has come as a shock to many, given his status in the football world.\n\nSterling began his professional football career at the age of 16, and his fall from grace raises questions about the protections in place for younger players in the sport. Discussions surrounding his case highlight the important issues of how clubs and associations should care for their players.\n\nSterling's situation also underscores the need for stricter measures to ensure the safety and well-being of young athletes."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Мадуро отмечает 64-летие за решеткой, сын ведет празднование в Каракасе",
+        "en": "Maduro turns 64 behind bars, son leads celebrations in Caracas"
+      },
+      "summary": {
+        "ru": "Сын Николаса Мадуро возглавил празднование дня рождения в Каракасе, когда бывший президент Венесуэлы отметил 64 года.",
+        "en": "Nicolas Maduro’s son led birthday celebrations in Caracas as the abducted former Venezuelan president turned 64."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Сын Николаса Мадуро возглавил празднование дня рождения в Каракасе, когда бывший президент Венесуэлы отметил свой 64-й день рождения. Празднование прошло на фоне продолжающихся политических и экономических кризисов в стране.\n\nМадуро, который был похищен, остается фигурой, вызывающей споры, и его день рождения стал поводом для обсуждения его наследия и будущего Венесуэлы. Празднование, организованное его сыном, привлекло внимание как сторонников, так и противников режима.\n\nЭто событие подчеркивает сложную политическую ситуацию в стране и то, как такие личные моменты могут быть использованы в политических целях.",
+        "en": "Nicolas Maduro's son led birthday celebrations in Caracas as the abducted former Venezuelan president turned 64. The celebration took place against the backdrop of ongoing political and economic crises in the country.\n\nMaduro, who has been abducted, remains a controversial figure, and his birthday has prompted discussions about his legacy and the future of Venezuela. The celebration organized by his son attracted attention from both supporters and opponents of the regime.\n\nThis event highlights the complex political situation in the country and how such personal moments can be leveraged for political purposes."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Спортинг Лиссабон против Манчестер Юнайтед В ЖИВО: Лига чемпионов УЕФА",
+        "en": "Sporting Lisbon vs Manchester United LIVE: UEFA Champions League"
+      },
+      "summary": {
+        "ru": "Следите за всеми новостями и составами команд в нашем прямом текстовом комментарии, в центре внимания которого Бруно Фернандеш.",
+        "en": "Follow all the build-up and team news coverage from our live text commentary stream as Bruno Fernandes headlines."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Следите за всеми новостями и составами команд в прямом текстовом комментарии к матчу Лиги чемпионов UEFA между Спортингом и Манчестер Юнайтед. В центре внимания находится Бруно Фернандеш, который является ключевым игроком для своей команды.\n\nМатч обещает быть напряженным, и болельщики ожидают захватывающего зрелища. Прямой текстовый комментарий предоставит актуальную информацию о ходе игры и составах команд, а также важные моменты матча.\n\nТакое освещение событий помогает фанатам оставаться в курсе всех деталей и эмоций, связанных с матчем.",
+        "en": "Follow all the build-up and team news coverage from our live text commentary stream for the UEFA Champions League match between Sporting Lisbon and Manchester United. Bruno Fernandes is in the spotlight as a key player for his team.\n\nThe match promises to be intense, and fans are looking forward to an exciting spectacle. The live text commentary will provide up-to-date information on the game's progress and team line-ups, as well as key moments from the match.\n\nSuch coverage helps fans stay informed about all the details and emotions surrounding the game."
+      }
+    },
+    {
+      "link": "https://www.euronews.com/video/2026/11/25/latest-news-bulletin-november-25th-2026-evening",
+      "source": "Euronews",
+      "title": {
+        "ru": "Последние новости | 25 ноября 2026 – Вечер",
+        "en": "Latest news bulletin | November 25th, 2026 – Evening"
+      },
+      "summary": {
+        "ru": "Подводите итоги самых важных событий из Европы и за ее пределами 25 ноября 2026 года – последние новости, экстренные новости, политика, культура.",
+        "en": "Catch up with the most important stories from around Europe and beyond this November 25th, 2026 - latest news, breaking news, politics, culture."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "25 ноября 2026 года подводите итоги самых важных событий из Европы и за ее пределами. В этот день освещаются последние новости, экстренные события, политика и культура.\n\nОбзор новостей включает в себя ключевые моменты, которые формируют текущую повестку дня, и важные события, которые могут повлиять на будущее стран и народов. Это время для анализа и размышлений о происходящем в мире.\n\nСледите за последними новостями, чтобы быть в курсе всех значимых событий и изменений в политической и культурной сферах.",
+        "en": "Catch up with the most important stories from around Europe and beyond this November 25th, 2026. This day features the latest news, breaking events, politics, and culture.\n\nThe news roundup includes key points that shape the current agenda and significant events that may impact the future of nations and peoples. It is a time for analysis and reflection on what is happening in the world.\n\nStay tuned for the latest updates to be informed about all significant events and changes in the political and cultural spheres."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/25/djibouti-the-man-who-dared?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Джибути: Человек, который осмелился",
+        "en": "Djibouti: The Man Who Dared"
+      },
+      "summary": {
+        "ru": "Герой войны и националист Махмуд Харби бросил вызов колониальному правлению, чтобы бороться за независимость современного Джибути.",
+        "en": "War hero turned nationalist, Mahmoud Harbi defied colonial rule to fight for independence in today’s Djibouti."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Махмуд Харби, герой войны и националист, бросил вызов колониальному правлению, чтобы бороться за независимость современного Джибути. Его действия и убеждения сыграли важную роль в формировании национального самосознания.\n\nХарби стал символом борьбы за свободу и справедливость, вдохновляя многих на активные действия против угнетения. Его история подчеркивает важность личной ответственности и мужества в борьбе за права своего народа.\n\nСобытия, связанные с Харби, остаются актуальными и сегодня, когда Джибути продолжает сталкиваться с вызовами в своей политической и социальной жизни.",
+        "en": "Mahmoud Harbi, a war hero turned nationalist, defied colonial rule to fight for independence in today's Djibouti. His actions and beliefs played a crucial role in shaping national consciousness.\n\nHarbi became a symbol of the struggle for freedom and justice, inspiring many to take active steps against oppression. His story underscores the importance of personal responsibility and courage in the fight for the rights of one's people.\n\nEvents related to Harbi remain relevant today as Djibouti continues to face challenges in its political and social life."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Швейцария вынуждена закрыть офис в Северной Корее из-за конфликта по санкциям",
+        "en": "Switzerland forced to close office in North Korea over sanctions feud"
+      },
+      "summary": {
+        "ru": "Закрытие произошло после того, как Северная Корея осудила Швейцарию за добавление детского лагеря в список санкций.",
+        "en": "The closure came after North Korea condemned Switzerland for adding a children’s camp to its sanctions list."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Швейцария была вынуждена закрыть свое представительство в Северной Корее после того, как страна осудила ее за добавление детского лагеря в список санкций. Это закрытие подчеркивает напряженные отношения между двумя странами и последствия международных санкций.\n\nДанный шаг стал ответом на действия Швейцарии, которые вызвали недовольство в Пхеньяне. Закрытие офиса также ставит под сомнение возможности дипломатического взаимодействия между Швейцарией и Северной Кореей.\n\nСитуация поднимает важные вопросы о том, как страны реагируют на санкции и как это влияет на международные отношения.",
+        "en": "Switzerland has been forced to close its office in North Korea after the country condemned it for adding a children's camp to its sanctions list. This closure underscores the strained relations between the two countries and the repercussions of international sanctions.\n\nThis move was a response to actions taken by Switzerland that provoked discontent in Pyongyang. The closure of the office also raises questions about the possibilities for diplomatic engagement between Switzerland and North Korea.\n\nThe situation highlights important issues regarding how countries respond to sanctions and how this affects international relations."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
+      "source": "New York Times",
+      "title": {
+        "ru": "Норвегия закрыла свою последнюю угольную шахту, завершив образ жизни в Арктике",
+        "en": "Norway Has Closed Its Last Coal Mine, Ending a Way of Life in the Arctic"
+      },
+      "summary": {
+        "ru": "Свалбард имеет историю горного дела, насчитывающую более ста лет. Но этот ледяной архипелаг теперь стал туристическим направлением и геополитической горячей точкой.",
+        "en": "Svalbard has a mining history that goes back over a century. But this icy archipelago is now a cruise ship destination and a geopolitical hot spot."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Свалбард, известный своей историей горного дела, теперь завершил свою последнюю угольную добычу. Этот ледяной архипелаг, расположенный в Арктике, имеет более чем столетнюю традицию добычи угля, которая теперь уходит в прошлое.\n\nС переходом к более устойчивым источникам энергии и изменением экономических условий, Свалбард стал менее зависимым от угольной промышленности. Вместо этого он теперь привлекает туристов, становясь популярным направлением для круизных судов.\n\nКроме того, Свалбард стал геополитической горячей точкой, что добавляет новые слои к его значению на мировой арене.",
+        "en": "Svalbard, known for its mining history, has now closed its last coal mine. This icy archipelago, located in the Arctic, has a mining tradition that spans over a century, which is now coming to an end.\n\nWith the shift towards more sustainable energy sources and changing economic conditions, Svalbard has become less reliant on the coal industry. Instead, it is now attracting tourists, becoming a popular destination for cruise ships.\n\nAdditionally, Svalbard has emerged as a geopolitical hot spot, adding new layers to its significance on the world stage."
+      }
+    },
+    {
+      "link": "https://www.aljazeera.com/news/2026/11/25/kragujevac-school-shooting-what-we-know-so-far?traffic_source=rss",
+      "source": "Al Jazeera",
+      "title": {
+        "ru": "Почему школьные shootings продолжают потрясать Балканы?",
+        "en": "Why are school shootings continuing to shake the Balkans?"
+      },
+      "summary": {
+        "ru": "Стрельба в Сербии возобновила опасения по поводу доступа к огнестрельному оружию и предупреждающим знакам в интернете. Также обсуждаются провалы в предотвращении насилия.",
+        "en": "A shooting in Serbia has renewed concerns over firearm access, online warning signs and failures to prevent violence."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Недавняя стрельба в Сербии вновь подняла вопросы о доступе к огнестрельному оружию и о том, как предупреждающие знаки в интернете могут быть проигнорированы. Обсуждаются недостатки в системах предупреждения и предотвращения насилия.\n\nСитуация в регионе вызывает обеспокоенность, так как подобные инциденты становятся все более частыми. Общество требует более строгих мер контроля за оружием и улучшения механизмов раннего предупреждения.\n\nЭти события подчеркивают необходимость комплексного подхода к проблеме насилия и безопасности в школах и общественных местах.",
+        "en": "A recent shooting in Serbia has renewed concerns over access to firearms and how online warning signs may be overlooked. Discussions are focusing on the failures in warning systems and violence prevention.\n\nThe situation in the region raises alarm as such incidents become increasingly frequent. Society is calling for stricter gun control measures and improvements in early warning mechanisms.\n\nThese events highlight the need for a comprehensive approach to the issues of violence and safety in schools and public spaces."
+      }
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "title": {
+        "ru": "США объявляют новые тарифы на ряд стран, включая Китай",
+        "en": "US announces new tariffs on host of countries including China"
+      },
+      "summary": {
+        "ru": "Новые пошлины затронут многих крупнейших торговых партнеров Америки, включая Китай и ЕС.",
+        "en": "The new levies would hit many of America's biggest trading partners, including China and the EU."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "США объявили о введении новых пошлин на ряд стран, включая Китай и Европейский Союз. Эти меры затронут многих крупных торговых партнеров Америки, что может повлиять на международные торговые отношения.\n\nНовые пошлины вызывают опасения среди бизнес-сообществ, так как они могут привести к увеличению цен на импортируемые товары и усложнить торговые сделки. Экономисты предупреждают о возможных негативных последствиях для глобальной экономики.\n\nАдминистрация США подчеркивает, что эти меры направлены на защиту местных производителей и улучшение условий для американского бизнеса.",
+        "en": "The U.S. has announced new tariffs on a number of countries, including China and the European Union. These measures will affect many of America's major trading partners, potentially impacting international trade relations.\n\nThe new tariffs raise concerns among business communities, as they could lead to increased prices on imported goods and complicate trade deals. Economists warn of possible negative consequences for the global economy.\n\nThe U.S. administration emphasizes that these measures are aimed at protecting domestic producers and improving conditions for American businesses."
       }
     },
     {
@@ -208,444 +516,136 @@
         "en": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101"
       },
       "summary": {
-        "ru": "Госпожа Форд, которая взяла на себя управление командой после смерти мужа в 2014 году, была одной из немногих женщин-владельцев в НФЛ.",
-        "en": "Mrs. Ford, who took over the team after her husband's death in 2014, was one of a handful of female owners in the NFL."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "Марфа Файерстоун Форд, владелица команды Detroit Lions, скончалась в возрасте 101 года. Она взяла на себя управление командой после смерти своего мужа в 2014 году и была одной из немногих женщин-владельцев в НФЛ.\n\nЕё вклад в команду и лигу в целом был значительным, и её уход оставляет заметный след в мире профессионального футбола. Форд была известна своей преданностью команде и стремлением к успеху, что сделало её важной фигурой в НФЛ.\n\nТаким образом, её смерть вызывает сожаление и подчеркивает важность женщин в спорте и управлении спортивными командами.",
-        "en": "Martha Firestone Ford, owner of the Detroit Lions, has passed away at the age of 101. She took over the team after her husband's death in 2014 and was one of a handful of female owners in the NFL.\n\nHer contribution to the team and the league as a whole was significant, and her departure leaves a notable mark on the world of professional football. Ford was known for her dedication to the team and her drive for success, making her an important figure in the NFL.\n\nThus, her death is mourned and underscores the importance of women in sports and the management of sports teams."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Marfa-Fajerstoun-Ford-vladelica-Detroit-Lions-skonchalas-v-vozraste-101-goda-11-25",
-        "en": "https://telegra.ph/Martha-Firestone-Ford-Owner-of-Detroit-Lions-Dies-at-101-11-25-4"
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/uk-news/2026/nov/25/latest-review-of-met-police-culture-finds-little-has-changed-since-last-one",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Последний обзор культуры полиции Метрополитена показывает, что с последнего ничего не изменилось",
-        "en": "Latest review of Met police culture finds little has changed since last one"
-      },
-      "summary": {
-        "ru": "Невозможность внедрить предыдущие отчеты означает, что институциональный расизм, мизогиния и гомофобия все еще присутствуют в полиции.",
-        "en": "Failure to implement previous reports means institutional racism, misogyny, and homophobia are still present in the force."
-      },
-      "category": {
-        "ru": "Общество",
-        "en": "Society"
-      },
-      "longBody": {
-        "ru": "Последний обзор культуры полиции метрополитена показал, что с момента предыдущего отчета мало что изменилось. Невозможность внедрить рекомендации предыдущих отчетов означает, что институциональный расизм, мизогиния и гомофобия по-прежнему присутствуют в рядах полиции.\n\nОтчет подчеркивает необходимость серьезных реформ и изменений в структуре полиции, чтобы устранить эти проблемы. С момента расследования по делу Стивена Лоуренса в 1999 году и до недавнего обзора Луизы Кейси в 2023 году, последовательные отчеты приходят к одному и тому же выводу о системных проблемах в полиции.\n\nТаким образом, ситуация требует внимания и действий со стороны властей для обеспечения справедливости и доверия к правоохранительным органам.",
-        "en": "The latest review of Metropolitan police culture found that little has changed since the last report. The failure to implement recommendations from previous reports means that institutional racism, misogyny, and homophobia are still present within the force.\n\nThe report highlights the need for serious reforms and changes within the police structure to address these issues. From the Stephen Lawrence inquiry in 1999 to Louise Casey's recent review in 2023, successive reports have reached the same conclusion regarding systemic problems in the police.\n\nThus, the situation requires attention and action from authorities to ensure justice and trust in law enforcement."
-      },
-      "telegraphUrl": {
-        "ru": "https://telegra.ph/Poslednij-obzor-kultury-policii-Metropolitena-pokazyvaet-chto-s-poslednego-nichego-ne-izmenilos-11-25",
-        "en": "https://telegra.ph/Latest-review-of-Met-police-culture-finds-little-has-changed-since-last-one-11-25"
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Вооруженные люди захватили десятки заложников в супермаркете Колумбии",
-        "en": "Gunmen hold dozens hostage in Colombia supermarket"
-      },
-      "summary": {
-        "ru": "Группа вооруженных мужчин удерживает около 20 человек в Картахене, Колумбия.",
-        "en": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia."
-      },
-      "category": {
-        "ru": "Конфликт",
-        "en": "Conflict"
-      },
-      "longBody": {
-        "ru": "В Картахене, Колумбия, группа вооруженных мужчин захватила в заложники около 20 человек в супермаркете. На данный момент ситуация остается напряженной, и власти работают над разрешением конфликта. Премьер-министр страны прибыл на место происшествия, чтобы оценить обстановку и поддержать усилия по освобождению заложников.\n\nЭтот инцидент привлек внимание как местных, так и международных СМИ, подчеркивая продолжающиеся проблемы безопасности в стране. Власти призывают к спокойствию и обещают сделать все возможное для обеспечения безопасности граждан и освобождения заложников.",
-        "en": "In Cartagena, Colombia, a group of armed men is holding around 20 people hostage in a supermarket. The situation remains tense, and authorities are working to resolve the conflict. The country's president has arrived at the scene to assess the situation and support efforts to free the hostages.\n\nThis incident has drawn attention from both local and international media, highlighting ongoing security issues in the country. Authorities are urging calm and promising to do everything possible to ensure the safety of citizens and the release of the hostages."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Опрос показывает, что избиратели США хотят, чтобы правительство прекратило войну с Ираном",
-        "en": "Poll finds US voters want government to end Iran war regardless of terms"
-      },
-      "summary": {
-        "ru": "Новый опрос показывает, что 55 процентов избирателей, включая 80 процентов демократов, хотят немедленного окончания войны.",
-        "en": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately."
-      },
-      "category": {
-        "ru": "Политика",
-        "en": "Politics"
-      },
-      "longBody": {
-        "ru": "Новый опрос показывает, что 55 процентов избирателей в США, включая 80 процентов демократов, выступают за немедленное окончание войны с Ираном. Эти результаты отражают растущее недовольство среди населения по поводу продолжающегося конфликта и его последствий для страны. Опрос также подчеркивает, что многие избиратели хотят, чтобы правительство сосредоточилось на внутренних вопросах, а не на военных действиях за границей.\n\nЭти данные могут оказать влияние на политическую повестку и выборы, поскольку кандидаты будут вынуждены учитывать мнение избирателей по этому важному вопросу. В условиях растущего общественного давления, правительство может быть вынуждено пересмотреть свою стратегию в отношении Ирана.",
-        "en": "A new survey finds that 55 percent of voters in the U.S., including 80 percent of Democrats, want the war with Iran to end immediately. These results reflect growing dissatisfaction among the public regarding the ongoing conflict and its implications for the country. The survey also highlights that many voters want the government to focus on domestic issues rather than military actions abroad.\n\nThese findings could influence the political agenda and upcoming elections, as candidates will need to consider voter opinions on this significant issue. With increasing public pressure, the government may be compelled to reassess its strategy regarding Iran."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Эл Гор покупает местную семейную газету в центральном Теннесси",
-        "en": "Al Gore buys local, family-owned newspaper in central Tennessee"
-      },
-      "summary": {
-        "ru": "Бывший вице-президент, который начал свою карьеру как журналист, покупает Carthage Courier в округе Смит.",
-        "en": "Former vice-president, who started his career as a journalist, purchases Carthage Courier in Smith county."
-      },
-      "category": {
-        "ru": "Культура",
-        "en": "Culture"
-      },
-      "longBody": {
-        "ru": "Бывший вице-президент США Аль Гор, который начал свою карьеру как журналист, приобрел местную газету Carthage Courier в округе Смит, штат Теннесси. Это решение стало неожиданным шагом для политика, который возвращается в журналистику после долгого перерыва. Семья Лейк, управлявшая газетой на протяжении пятидесяти лет, подтвердила, что продажа состоится в ближайшие недели.\n\nCarthage Courier обслуживает округ с населением около 20,000 человек и находится примерно в 88 километрах к востоку от Нэшвилла. Это приобретение подчеркивает интерес Гора к местным вопросам и его желание поддерживать независимую журналистику в своем родном городе.",
-        "en": "Former U.S. Vice President Al Gore, who began his career as a journalist, has purchased the local newspaper Carthage Courier in Smith County, Tennessee. This decision marks an unexpected move for the politician, who is returning to journalism after a long hiatus. The Lake family, which has operated the paper for five decades, confirmed that the sale will take place in the coming weeks.\n\nCarthage Courier serves a county with a population of about 20,000 residents and is located approximately 55 miles east of Nashville. This acquisition highlights Gore's interest in local issues and his desire to support independent journalism in his hometown."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Австралийская политика в прямом эфире: «Трагедия в жизни нашей нации»: премьер-министр извиняется перед ветеранами ЛГБТК+",
-        "en": "Australian politics live: ‘A tragedy in the life of our nation’: prime minister apologises to LGBTQ+ veterans"
-      },
-      "summary": {
-        "ru": "Премьер-министр извиняется перед ветеранами ЛГБТК+ за прошлые ошибки.",
-        "en": "Prime minister apologises to LGBTQ+ veterans for past mistakes."
+        "ru": "Госпожа Форд, которая возглавила команду после смерти мужа в 2014 году, была одной из немногих женщин-владельцев в НФЛ.",
+        "en": "Mrs. Ford, who took over the team after the 2014 death of her husband, was one of a handful of female owners in the N.F.L."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Премьер-министр Австралии извинился перед ветеранами ЛГБТК+ за ошибки прошлого, признавая, что государство не всегда поддерживало их права. Это заявление стало важным шагом в признании исторических несправедливостей, с которыми сталкивались ветераны, и стремлением к примирению. Премьер-министр подчеркнул необходимость двигаться вперед и исправлять прошлые ошибки.\n\nИзвинения были восприняты как значимый жест со стороны правительства, который может помочь улучшить отношения с ЛГБТК+ сообществом. Это также подчеркивает важность признания и исправления исторических ошибок в контексте современного общества.",
-        "en": "The Prime Minister of Australia has apologized to LGBTQ+ veterans for past mistakes, acknowledging that the state has not always supported their rights. This statement marks an important step in recognizing historical injustices faced by veterans and the commitment to reconciliation. The Prime Minister emphasized the need to move forward and rectify past errors.\n\nThe apology has been received as a significant gesture from the government, which may help improve relations with the LGBTQ+ community. It also highlights the importance of recognizing and correcting historical wrongs in the context of modern society."
+        "ru": "Марфа Файерстоун Форд, владелица команды Detroit Lions, скончалась в возрасте 101 года. Она возглавила команду после смерти своего мужа в 2014 году и была одной из немногих женщин-владельцев в НФЛ.\n\nЕе руководство было отмечено значительными изменениями и попытками улучшить команду. Форд оставила заметный след в мире профессионального спорта, вдохновляя других женщин на участие в управлении спортивными командами.\n\nСмерть Форд стала большой утратой для команды и ее поклонников, которые помнят ее как преданного члена сообщества.",
+        "en": "Martha Firestone Ford, the owner of the Detroit Lions, has passed away at the age of 101. She took over the team after the death of her husband in 2014 and was one of a handful of female owners in the N.F.L.\n\nHer leadership was marked by significant changes and efforts to improve the team. Ford left a notable legacy in the world of professional sports, inspiring other women to take part in the management of sports teams.\n\nHer passing is a great loss for the team and its fans, who remember her as a dedicated member of the community."
       }
     },
     {
-      "link": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/nov/25/hundreds-complain-ofcom-mariella-frostrup-aj-odudu-im-a-celebrity",
+      "source": "The Guardian",
+      "title": {
+        "ru": "Сотни жалуются после того, как Мариелла Фроструп назвала АД Одуду «агрессивной» в шоу «Я знаменитость»",
+        "en": "Hundreds complain after Mariella Frostrup calls AJ Odudu ‘aggressive’ on I’m a Celebrity"
+      },
+      "summary": {
+        "ru": "Ofcom получила 887 жалоб, в то время как медиафигуры обвиняют Фроструп в использовании «микроагрессии» против Одуду.",
+        "en": "Ofcom receives 887 complaints, while media figures accuse Frostrup of using ‘microaggression’ against Odudu."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "После того как Мариэлла Фроструп назвала АД Одуду «агрессивной» на шоу «Я знаменитость... заберите меня отсюда!», Ofcom получила 887 жалоб. Это вызвало обсуждение о том, как такие комментарии могут восприниматься как «микроагрессия».\n\nМедиафигуры и зрители выразили недовольство по поводу поведения Фроструп, подчеркивая необходимость более внимательного подхода к языку, используемому в телевизионных шоу. Обсуждение затрагивает более широкие темы о расовых стереотипах и восприятии женщин в медиа.\n\nЭти события подчеркивают важность ответственного общения в общественных пространствах и на экране.",
+        "en": "After Mariella Frostrup referred to AJ Odudu as ‘aggressive’ on the show I’m A Celebrity … Get Me Out of Here!, Ofcom received 887 complaints. This has sparked a discussion on how such comments can be perceived as ‘microaggression.’\n\nMedia figures and viewers have expressed dissatisfaction with Frostrup's behavior, highlighting the need for a more mindful approach to language used in television shows. The discussion touches on broader themes of racial stereotypes and the perception of women in media.\n\nThese events underscore the importance of responsible communication in public spaces and on screen."
+      }
+    },
+    {
+      "link": "https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674",
+      "source": "The Block",
+      "title": {
+        "ru": "Aave Labs публично запускает приложение для сбережений, так как балансы превышают 63 миллиона долларов",
+        "en": "Aave Labs publicly launches savings app as balances top $63 million"
+      },
+      "summary": {
+        "ru": "Приложение Aave поддерживает банковские переводы в США, Великобритании и ЕЭЗ, а также депозиты стейблкоинов на восьми сетях.",
+        "en": "Aave App supports bank transfers in the U.S., UK, and EEA, plus stablecoin deposits across eight networks."
+      },
+      "category": {
+        "ru": "Мир",
+        "en": "World"
+      },
+      "longBody": {
+        "ru": "Aave Labs официально запустила приложение для сбережений, которое поддерживает банковские переводы в США, Великобритании и ЕЭЗ. Это приложение также позволяет делать депозиты стейблкоинов на восьми различных сетях.\n\nС запуском приложения Aave стремится расширить свои услуги и привлечь больше пользователей в мир децентрализованных финансов. Это может стать важным шагом для повышения доступности финансовых услуг для широкой аудитории.\n\nПользователи смогут легко управлять своими сбережениями и получать доступ к новым возможностям в сфере криптовалют.",
+        "en": "Aave Labs has officially launched a savings app that supports bank transfers in the U.S., UK, and EEA. The app also allows stablecoin deposits across eight different networks.\n\nWith the launch of the app, Aave aims to expand its services and attract more users into the world of decentralized finance. This could be an important step towards increasing the accessibility of financial services to a broader audience.\n\nUsers will be able to easily manage their savings and access new opportunities in the cryptocurrency space."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2026/11/25/world/asia/friendsgiving-thanksgiving-expats.html",
       "source": "New York Times",
       "title": {
-        "ru": "Венгрия открыла свои секретные полицейские архивы. Начнется ли указание пальцем?",
-        "en": "Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin."
+        "ru": "Как отпраздновать День благодарения, будучи экспатом",
+        "en": "How to Celebrate Thanksgiving as an Expat"
       },
       "summary": {
-        "ru": "Архивы времен коммунизма раскрыли обширную сеть информаторов, поддерживавшую Венгрию в советской орбите.",
-        "en": "The communist-era files have exposed the vast network of informants that kept Hungary in the Soviet orbit."
+        "ru": "От индейок, доставляемых на мотоциклах, до фуа-гра на столе, многие американские экспаты адаптировали традиционное блюдо к своим условиям.",
+        "en": "From turkeys delivered on motorbikes to foie gras on the table, many American expatriates have adapted the traditional meal to their environs."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Венгрия открыла архивы своей секретной полиции, что привело к раскрытию обширной сети информаторов, поддерживавшей страну в советской орбите во время холодной войны. Эти документы предоставляют уникальный взгляд на методы контроля и наблюдения, применяемые в то время. Однако возникает вопрос о надежности этих данных и их интерпретации в современном контексте.\n\nОткрытие архивов стало важным шагом к прозрачности и пониманию исторических событий, однако оно также может вызвать споры и разногласия среди историков и общества в целом. Обсуждение этих материалов может помочь в осмыслении прошлого и его влияния на современную Венгрию.",
-        "en": "Hungary has opened the archives of its secret police, revealing a vast network of informants that kept the country in the Soviet orbit during the Cold War. These documents provide a unique insight into the methods of control and surveillance used at that time. However, questions arise regarding the reliability of this data and its interpretation in the modern context.\n\nThe opening of the archives marks an important step toward transparency and understanding historical events, but it may also spark debates and disagreements among historians and society at large. Discussion of these materials could aid in reflecting on the past and its impact on contemporary Hungary."
+        "ru": "Американские экспаты адаптируют традиционное празднование Дня благодарения к своим условиям, включая доставку индейки на мотоциклах и использование фуа-гра на столе. Эти изменения отражают разнообразие культурных подходов к празднику.\n\nМногие американцы за границей находят способы сохранить дух праздника, несмотря на различия в доступности продуктов и традициях. Это создает уникальные традиции, которые объединяют людей из разных культур.\n\nТаким образом, День благодарения становится не только американским праздником, но и возможностью для обмена культурными традициями.",
+        "en": "American expatriates are adapting the traditional Thanksgiving celebration to their surroundings, including turkey deliveries on motorbikes and using foie gras on the table. These changes reflect the diversity of cultural approaches to the holiday.\n\nMany Americans abroad find ways to preserve the spirit of the holiday despite differences in product availability and traditions. This creates unique customs that bring together people from various cultures.\n\nThus, Thanksgiving becomes not only an American holiday but also an opportunity for cultural exchange."
       }
     },
     {
-      "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Килмар Абрего Гарсия покидает США в Испанию, заканчивая борьбу с депортацией Трампа",
-        "en": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle"
-      },
-      "summary": {
-        "ru": "Его депортация в Сальвадор и возвращение в США стали важным моментом в дебатах о иммиграционной политике Трампа.",
-        "en": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Килмар Абрего Гарсия покидает США и направляется в Испанию, что завершает его борьбу с депортацией, связанной с иммиграционной политикой администрации Трампа. Его случай стал важным моментом в дебатах о миграционной политике и праве на убежище в стране. Депортация в Сальвадор и возвращение в США привлекли внимание к проблемам, с которыми сталкиваются иммигранты в США.\n\nЭтот случай подчеркивает сложные вопросы, связанные с иммиграцией и правами человека, и продолжает вызывать обсуждения о том, как политика влияет на жизни людей. Общество продолжает следить за развитием ситуации и возможными последствиями для других иммигрантов.",
-        "en": "Kilmar Ábrego García is leaving the U.S. for Spain, marking the end of his deportation battle related to the immigration policies of the Trump administration. His case became a pivotal point in the debates over immigration policy and the right to asylum in the country. His deportation to El Salvador and return to the U.S. drew attention to the issues faced by immigrants in the U.S.\n\nThis case highlights the complex questions surrounding immigration and human rights and continues to spark discussions about how policy affects people's lives. The community remains attentive to the developments in this situation and the potential implications for other immigrants."
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Китайский Шэньчжоу-24 отправляет первого астронавта Пакистана в космос",
-        "en": "China's Shenzhou-24 carries Pakistan's first astronaut into space"
-      },
-      "summary": {
-        "ru": "Мухаммад Зишан Али, бывший истребитель, стал первым иностранцем в составе китайской экипажной космической миссии.",
-        "en": "Muhammad Zeeshan Ali, a former fighter pilot, is the first foreigner to join a Chinese crewed space mission."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Мухаммад Зишан Али, бывший истребитель, стал первым иностранцем, который присоединился к китайской экипажной космической миссии на борту Shenzhou-24. Это событие знаменует собой важный шаг в международном сотрудничестве в области космических исследований. Участие Пакистана в этой миссии подчеркивает растущее сотрудничество между Китаем и Пакистаном в научных и технологических областях.\n\nЗапуск Shenzhou-24 стал значимым событием для обеих стран, открывая новые возможности для совместных исследований и обмена опытом. Это также подчеркивает важность многостороннего сотрудничества в космической сфере в условиях глобальных вызовов.",
-        "en": "Muhammad Zeeshan Ali, a former fighter pilot, has become the first foreigner to join a Chinese crewed space mission aboard Shenzhou-24. This event marks an important step in international cooperation in space exploration. Pakistan's participation in this mission highlights the growing collaboration between China and Pakistan in scientific and technological fields.\n\nThe launch of Shenzhou-24 has been a significant event for both countries, opening up new opportunities for joint research and experience sharing. It also underscores the importance of multilateral cooperation in the space sector amid global challenges."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Группа из 110 клубов намеренно пропустила регистрацию в Футбольной Квинсленд",
-        "en": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds"
-      },
-      "summary": {
-        "ru": "Клубы не подписались на следующий сезон из-за недовольства руководством Футбольной Квинсленд.",
-        "en": "Clubs fail to sign up for next season amid disquiet over governing body’s executive."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Группа из 110 футбольных клубов в Австралии намеренно не зарегистрировалась для следующего сезона в знак протеста против руководства Футбольной Квинсленд. Это решение стало результатом недовольства клубов по поводу новых правил, касающихся взимания платы за вход на матчи. Данная ситуация привлекла внимание Футбольной Австралии, которая была вынуждена вмешаться в конфликт.\n\nКлубы представляют сотни тысяч игроков и выражают недовольство действиями руководства, что может привести к созданию альтернативной лиги. Этот протест подчеркивает важность учета мнения клубов и игроков в управлении спортивными организациями.",
-        "en": "A breakaway group of 110 football clubs in Australia has deliberately failed to register for the next season in protest against the governing body Football Queensland. This decision stems from the clubs' dissatisfaction with new rules regarding gate fees for matches. The situation has drawn the attention of Football Australia, which has been compelled to intervene in the conflict.\n\nThe clubs represent hundreds of thousands of players and are expressing discontent with the actions of the governing body, which could lead to the formation of an alternative league. This protest highlights the importance of considering the opinions of clubs and players in the management of sports organizations."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss",
+      "link": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss",
       "source": "Al Jazeera",
       "title": {
-        "ru": "Галатасарай сообщает, что Израиль пожаловался в УЕФА из-за баннеров в поддержку Палестины",
-        "en": "Galatasaray says Israel complained to UEFA over Palestine banners"
+        "ru": "Сенегал отвергает обвинения Марокко в «контакте» с CAS на фоне спора по AFCON",
+        "en": "Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row"
       },
       "summary": {
-        "ru": "Председатель Галатасарая сообщает, что правительство Нетаньяху сообщило в УЕФА о баннерах фанатов в поддержку Палестины.",
-        "en": "Galatasaray’s chairman says Israel’s Netanyahu government has reported the club to UEFA over pro-Palestine fan banners."
+        "ru": "Спортивный арбитражный суд постановил, что Сенегал был законным победителем Кубка Африки 2025 года.",
+        "en": "The Court of Arbitration for Sport ruled that Senegal were the rightful winners of the 2025 African Cup of Nations."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Председатель футбольного клуба Галатасарай сообщил, что правительство Израиля, возглавляемое Нетаньяху, подало жалобу в УЕФА из-за баннеров фанатов, поддерживающих Палестину. Этот инцидент стал предметом обсуждения в спортивных и политических кругах, подчеркивая, как спорт и политика могут пересекаться в современном мире.\n\nГалатасарай, как один из ведущих клубов Турции, оказался в центре международного внимания, что может повлиять на его репутацию и отношения с другими клубами и федерациями. Данная ситуация также поднимает вопросы о свободе выражения мнений в спорте и о том, как клубы реагируют на политические события.",
-        "en": "Galatasaray’s chairman has stated that the Israeli government, led by Netanyahu, has reported the club to UEFA over pro-Palestine fan banners. This incident has become a topic of discussion in both sports and political circles, highlighting how sports and politics can intersect in the modern world.\n\nGalatasaray, as one of Turkey's leading clubs, has found itself in the international spotlight, which may affect its reputation and relationships with other clubs and federations. This situation also raises questions about freedom of expression in sports and how clubs respond to political events."
+        "ru": "Спортивный арбитражный суд подтвердил, что Сенегал был законным победителем Кубка Африки 2025 года. Это решение стало важным моментом в контексте споров между Сенегалом и Марокко.\n\nСитуация вокруг Кубка Африки привлекла внимание к вопросам честности и прозрачности в спортивных соревнованиях. Обе стороны продолжают обсуждать результаты и возможные последствия для будущих турниров.\n\nЭто решение подчеркивает важность соблюдения правил и норм в спорте, а также необходимость уважения к достижениям команд.",
+        "en": "The Court of Arbitration for Sport ruled that Senegal were the rightful winners of the 2025 African Cup of Nations. This decision marks an important moment in the context of disputes between Senegal and Morocco.\n\nThe situation surrounding the African Cup has drawn attention to issues of fairness and transparency in sports competitions. Both sides continue to discuss the outcomes and potential implications for future tournaments.\n\nThis ruling underscores the importance of adhering to rules and standards in sports, as well as the need to respect the achievements of teams."
       }
     },
     {
-      "link": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090",
-      "source": "The Block",
+      "link": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
+      "source": "New York Times",
       "title": {
-        "ru": "Юта движется к прекращению уголовных обвинений против Kalshi после приостановки операций",
-        "en": "Utah moves to drop criminal charges against Kalshi after platform halts operations"
+        "ru": "Дебют акций Anthropic может навредить стартапам в сфере технологий",
+        "en": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups"
       },
       "summary": {
-        "ru": "Офис генерального прокурора подал ходатайство о прекращении обвинений без предвзятости.",
-        "en": "AG Derek Brown's office filed a motion to drop the charges without prejudice."
+        "ru": "Поскольку цена акций падает, это может замедлить инвестиции в Кремниевой долине в более молодые компании.",
+        "en": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Офис генерального прокурора штата Юта подал ходатайство о прекращении уголовных обвинений против платформы Kalshi, которая приостановила свою деятельность. Это решение позволяет избежать судебного разбирательства, однако оставляет возможность повторного возбуждения дел в будущем. Данная ситуация подчеркивает сложные вопросы, связанные с регулированием новых финансовых технологий и платформ.\n\nKalshi, которая занимается торговлей на событиях, оказалась в центре внимания из-за правовых вопросов, и это решение может повлиять на будущее компании. Общество продолжает следить за развитием ситуации и возможными последствиями для других аналогичных платформ.",
-        "en": "The Attorney General's office in Utah has filed a motion to drop criminal charges against the platform Kalshi, which has halted its operations. This decision allows the avoidance of legal proceedings, but leaves open the possibility of refiling charges in the future. This situation underscores the complex issues surrounding the regulation of new financial technologies and platforms.\n\nKalshi, which deals with trading on events, has found itself in the spotlight due to legal questions, and this decision may impact the company's future. The community continues to monitor the developments in this situation and the potential implications for other similar platforms."
+        "ru": "Снижение цены акций Anthropic может оказать негативное влияние на инвестиции в стартапы в Кремниевой долине. Падение акций может замедлить поток капитала в более молодые компании, что вызывает опасения среди инвесторов.\n\nИнвесторы начинают пересматривать свои стратегии, учитывая текущие рыночные условия и неопределенности. Это может привести к более осторожному подходу к финансированию новых технологий и стартапов.\n\nТаким образом, ситуация с акциями Anthropic может стать индикатором более широких тенденций в инвестиционном климате Кремниевой долины.",
+        "en": "The drop in Anthropic's stock price could negatively impact investments in startups in Silicon Valley. The decline in shares may slow the flow of capital into younger companies, raising concerns among investors.\n\nInvestors are beginning to reassess their strategies in light of current market conditions and uncertainties. This could lead to a more cautious approach to funding new technologies and startups.\n\nThus, the situation with Anthropic's stock may serve as an indicator of broader trends in the investment climate of Silicon Valley."
       }
     },
     {
-      "link": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Секретные потери российской армии – подкаст",
-        "en": "The Russian army’s secret death toll – podcast"
-      },
-      "summary": {
-        "ru": "Россия скрывает число погибших солдат в Украине, но утечка документов раскрыла истинные масштабы. В один момент 720 солдат погибали за 24 часа.",
-        "en": "Russia keeps the death toll of its soldiers in Ukraine a secret, but leaked documents have revealed the true scale. At one point, 720 soldiers were dying in 24 hours."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Россия продолжает скрывать число погибших солдат в Украине, однако недавние утечки документов раскрыли истинные масштабы потерь. В один момент, по данным, полученным от хакеров, 720 солдат погибали всего за 24 часа. Это вызывает серьезные вопросы о прозрачности и правдивости информации, которую предоставляет российское правительство.\n\nДокументы, полученные из главной статистической базы данных России, показывают, что количество погибших значительно превышает официальные данные. Это открытие стало возможным благодаря действиям двух групп хакеров, которые получили доступ к секретной информации.\n\nЖурналисты, работающие над этой темой, подчеркивают, что такая информация может иметь серьезные последствия для общественного мнения в России и за ее пределами. Обсуждение этих данных продолжает вызывать широкий резонанс в обществе.",
-        "en": "Russia continues to keep the death toll of its soldiers in Ukraine a secret, but recent leaks of documents have revealed the true scale of losses. At one point, leaked information indicated that 720 soldiers were dying in just 24 hours. This raises serious questions about the transparency and accuracy of the information provided by the Russian government.\n\nDocuments obtained from Russia's main statistics database show that the number of casualties significantly exceeds official figures. This revelation was made possible by the actions of two groups of hackers who accessed classified information.\n\nJournalists working on this topic emphasize that such information could have serious implications for public opinion both within Russia and abroad. The discussion of these data continues to generate significant resonance in society."
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "title": {
-        "ru": "Huawei признан виновным в краже коммерческих секретов, но оправдан по обвинению в рэкете",
-        "en": "Huawei found guilty of stealing trade secrets but acquitted of racketeering"
+        "ru": "Канадский астронавт приветствует девочку из космической станции",
+        "en": "Canadian astronaut welcomes baby girl from space station"
       },
       "summary": {
-        "ru": "Вердикт был вынесен после многомесячного судебного разбирательства в Нью-Йорке.",
-        "en": "The verdict follows a months-long trial in New York."
+        "ru": "Джошуа Кутрик, находящийся на своей первой космической миссии, стал лишь четвертым астронавтом в истории, который пропустил рождение ребенка на борту Международной космической станции.",
+        "en": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station."
       },
       "category": {
         "ru": "Мир",
         "en": "World"
       },
       "longBody": {
-        "ru": "Вердикт по делу против компании Huawei был вынесен после многомесячного судебного разбирательства в Нью-Йорке. Суд признал компанию виновной в краже торговых секретов, однако при этом она была оправдана по обвинению в рэкете.\n\nЭто решение стало важным этапом в долгой юридической борьбе, в которой рассматривались вопросы о защите интеллектуальной собственности и конкурентоспособности на рынке технологий. Судебное разбирательство привлекло внимание к практике ведения бизнеса в высокотехнологичном секторе.\n\nТеперь, когда вердикт вынесен, обе стороны, вероятно, будут рассматривать свои дальнейшие шаги, включая возможные апелляции или другие юридические действия.",
-        "en": "The verdict against Huawei was delivered following a months-long trial in New York. The court found the company guilty of stealing trade secrets, but it was acquitted of racketeering charges.\n\nThis ruling marks an important stage in a long legal battle that examined issues of intellectual property protection and competitiveness in the technology market. The trial drew attention to business practices in the high-tech sector.\n\nNow that the verdict has been issued, both sides are likely to consider their next steps, including potential appeals or other legal actions."
-      }
-    },
-    {
-      "link": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082",
-      "source": "The Block",
-      "title": {
-        "ru": "Сенатор Нью-Йорка предлагает 10% налог на сборы с предсказательных рынков для финансирования универсального дошкольного образования",
-        "en": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K"
-      },
-      "summary": {
-        "ru": "Средства от 10% налога будут направлены в новый фонд для универсального дошкольного образования для детей от 2 до 4 лет.",
-        "en": "Proceeds from the 10% tax would be channeled to a new fund for universal pre-kindergarten for children ages 2 to 4."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Сенатор штата Нью-Йорк предложил ввести 10% налог на сборы с предсказательных рынков, чтобы финансировать универсальное дошкольное образование для детей в возрасте от 2 до 4 лет. Эта инициатива направлена на создание нового фонда, который обеспечит доступ к образованию для детей раннего возраста.\n\nПредложение о налоге на предсказательные рынки стало частью более широкой стратегии по улучшению образовательных возможностей для семей с низким доходом. Сенатор подчеркивает, что это поможет обеспечить равные условия для всех детей.\n\nЕсли законопроект будет принят, он может стать значительным шагом в направлении реформирования системы дошкольного образования в штате.",
-        "en": "A New York senator has proposed a 10% tax on prediction market fees to fund universal pre-kindergarten for children ages 2 to 4. This initiative aims to create a new fund that will provide access to early childhood education for young children.\n\nThe proposal for a tax on prediction markets is part of a broader strategy to improve educational opportunities for low-income families. The senator emphasizes that this will help ensure equal opportunities for all children.\n\nIf the bill is passed, it could represent a significant step toward reforming the pre-kindergarten education system in the state."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Килмар Абрего Гарсия самовольно уехал в Испанию после длительной юридической борьбы в США",
-        "en": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle"
-      },
-      "summary": {
-        "ru": "Сенатор США Крис Ван Холлен приветствовал безопасный отъезд Килмара Абрего Гарсии в Испанию как 'свободного человека'.",
-        "en": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia's safe departure to Spain as a 'free man'."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Килмар Абрего Гарсия, который долгое время находился в юридической борьбе в США, наконец, вернулся в Испанию. Сенатор США Крис Ван Холлен приветствовал его безопасный отъезд, назвав его 'свободным человеком'.\n\nЭтот случай привлек внимание к вопросам иммиграции и прав человека, а также к сложным юридическим процессам, с которыми сталкиваются многие иммигранты. Абрего Гарсия стал символом борьбы за права людей, находящихся в аналогичных ситуациях.\n\nТеперь, когда он вернулся в Испанию, его будущее остается неопределенным, но его история продолжает вдохновлять тех, кто борется за свои права.",
-        "en": "Kilmar Abrego Garcia, who has been embroiled in a lengthy legal battle in the US, has finally returned to Spain. US Senator Chris Van Hollen welcomed his safe departure, calling him a 'free man.'\n\nThis case has drawn attention to issues of immigration and human rights, as well as the complex legal processes faced by many immigrants. Abrego Garcia has become a symbol of the struggle for the rights of people in similar situations.\n\nNow that he has returned to Spain, his future remains uncertain, but his story continues to inspire those fighting for their rights."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Спасательные команды ищут шесть человек после крушения самолета у побережья Миссисипи",
-        "en": "Rescue crews search for six people after plane crash off Mississippi coast"
-      },
-      "summary": {
-        "ru": "Спасатели ищут шесть человек на борту небольшого самолета, который разбился у побережья Миссисипи. Найдены три спасательных жилета и кабина самолета.",
-        "en": "Rescue crews are searching for six people on board a small plane that crashed off the Mississippi coast. Three life jackets and the cabin of the plane have been found."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Спасательные команды продолжают поиски шести человек, находившихся на борту небольшого самолета, который разбился у побережья Миссисипи. На данный момент были найдены три спасательных жилета и кабина самолета.\n\nПо информации береговой охраны США, спасатели обнаружили кабину, которая плавала на поверхности воды, а также спасательный плот. Операции по поиску и спасению продолжаются, и надежды на нахождение выживших остаются.",
-        "en": "Rescue crews are continuing their search for six people on board a small plane that crashed off the Mississippi coast. So far, three life jackets and the cabin of the plane have been found.\n\nAccording to the US Coast Guard, rescuers discovered the cabin floating on the water, along with a life raft. Search and rescue operations are ongoing, and hopes of finding survivors remain."
-      }
-    },
-    {
-      "link": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
-      "source": "The Guardian",
-      "title": {
-        "ru": "Безопасный пакт Австралии с Соломоновыми Островами – удар по влиянию Китая в Тихом океане",
-        "en": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific"
-      },
-      "summary": {
-        "ru": "Премьер-министр Соломоновых Островов подписал новое соглашение с Австралией, ограничив связи с Китаем.",
-        "en": "The Solomon Islands prime minister signed a new treaty with Australia, limiting ties with China."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Премьер-министр Соломоновых Островов подписал новое соглашение с Австралией, которое ограничивает связи с Китаем. Это соглашение стало важным шагом в укреплении безопасности региона и уменьшении влияния Китая в Тихом океане.\n\nПо словам премьер-министра, дни неопределенности для Соломоновых Островов закончились, и теперь страна будет иметь более четкие и надежные отношения с Австралией. Это соглашение подчеркивает растущую роль Австралии как ключевого партнера в области безопасности в регионе.\n\nПодписание этого договора также может повлиять на геополитическую ситуацию в Тихом океане и изменить баланс сил между крупными державами.",
-        "en": "The prime minister of the Solomon Islands has signed a new treaty with Australia that limits ties with China. This agreement marks an important step in strengthening regional security and reducing China's influence in the Pacific.\n\nThe prime minister stated that the days of uncertainty for the Solomon Islands are over, and the country will now have clearer and more reliable relations with Australia. This treaty underscores Australia's growing role as a key security partner in the region.\n\nThe signing of this agreement could also impact the geopolitical situation in the Pacific and alter the balance of power among major powers."
-      }
-    },
-    {
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
-      "source": "Al Jazeera",
-      "title": {
-        "ru": "Фанаты Сенегала празднуют юридическую победу на AFCON против Марокко",
-        "en": "Senegal fans celebrate AFCON legal victory over Morocco"
-      },
-      "summary": {
-        "ru": "Сенегал был восстановлен в качестве чемпионов AFCON 2025 после решения Спортивного арбитражного суда.",
-        "en": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Сенегал был восстановлен в качестве чемпионов Кубка африканских наций 2025 года после того, как Спортивный арбитражный суд удовлетворил их апелляцию. Это решение стало важным моментом для футбольной ассоциации страны и ее болельщиков.\n\nСенегалцы празднуют это восстановление, которое подтверждает их достижения на континентальной арене. Судебное разбирательство привлекло внимание к вопросам честной игры и соблюдения правил в спорте.\n\nТеперь Сенегал снова может гордиться своим статусом чемпиона и продолжать развивать футбол в стране.",
-        "en": "Senegal has been reinstated as the 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal. This ruling marks an important moment for the country's football association and its fans.\n\nSenegalese supporters are celebrating this reinstatement, which reaffirms their achievements on the continental stage. The legal proceedings drew attention to issues of fair play and adherence to rules in sports.\n\nNow Senegal can once again take pride in its champion status and continue to develop football in the country."
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Будет ли в этом году белое Рождество?",
-        "en": "Will there be a White Christmas this year?"
-      },
-      "summary": {
-        "ru": "Остался всего месяц до праздника, но каковы ранние признаки шансов на белое Рождество в Великобритании?",
-        "en": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?"
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "С приближением Рождества всего через месяц, в Великобритании начинают обсуждать шансы на белое Рождество. Ранние признаки погоды могут дать представление о том, насколько вероятно, что снег покроет землю в праздничный день.\n\nМетеорологи анализируют текущие погодные условия и долгосрочные прогнозы, чтобы оценить вероятность снегопадов в декабре. Это обсуждение вызывает интерес у многих, так как белое Рождество является традицией для многих британцев.\n\nХотя прогнозы могут измениться, надежды на снежный праздник остаются, и многие ждут с нетерпением, чтобы увидеть, как погода сложится в этом году.",
-        "en": "With Christmas just a month away, discussions are beginning in the UK about the chances of a white Christmas. Early signs of weather patterns may provide insight into the likelihood of snow covering the ground on the festive day.\n\nMeteorologists are analyzing current weather conditions and long-term forecasts to assess the probability of snowfall in December. This discussion is of great interest to many, as a white Christmas is a cherished tradition for many Britons.\n\nWhile forecasts may change, hopes for a snowy holiday remain, and many are eagerly waiting to see how the weather will unfold this year."
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "С помощью спасения Хуана Трамп рискует связать свои политические судьбы с Nvidia",
-        "en": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia"
-      },
-      "summary": {
-        "ru": "Вмешательство президента США для восстановления CEO Дженсена Хуана неразрывно связало их судьбы.",
-        "en": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "Президент США вмешался в ситуацию с CEO компании Nvidia Дженсеном Хуаном, что неразрывно связало их судьбы. Это вмешательство вызвало обсуждения о влиянии политики на бизнес и о том, как такие действия могут повлиять на будущее компании.\n\nСвязь между президентом и CEO Nvidia поднимает вопросы о том, насколько далеко может зайти правительство в поддержке частного сектора. Это также ставит под сомнение независимость бизнеса и его способность действовать без политического давления.\n\nТеперь, когда судьбы этих двух фигур переплетены, наблюдатели будут внимательно следить за развитием событий и возможными последствиями для Nvidia и ее руководства.",
-        "en": "The US president's intervention in the situation with Nvidia CEO Jensen Huang has inextricably linked their fates. This intervention has sparked discussions about the influence of politics on business and how such actions may impact the future of the company.\n\nThe connection between the president and the Nvidia CEO raises questions about how far the government may go in supporting the private sector. It also calls into question the independence of businesses and their ability to operate without political pressure.\n\nNow that the fates of these two figures are intertwined, observers will closely monitor developments and potential consequences for Nvidia and its leadership."
-      }
-    },
-    {
-      "link": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "title": {
-        "ru": "Раненый в лицо в 15: жизни, разрушенные десятилетием конфликта в Камеруне",
-        "en": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict"
-      },
-      "summary": {
-        "ru": "Более полумиллиона людей покинули свои дома с тех пор, как сепаратистские группы потребовали независимости для англоговорящих регионов Камеруна.",
-        "en": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions."
-      },
-      "category": {
-        "ru": "Мир",
-        "en": "World"
-      },
-      "longBody": {
-        "ru": "В Камеруне более полумиллиона людей покинули свои дома с тех пор, как сепаратистские группы потребовали независимости для англоговорящих регионов. Конфликт, продолжающийся уже более десяти лет, привел к серьезным гуманитарным последствиям и нарушению прав человека.\n\nМногие семьи были вынуждены бежать из-за насилия и нестабильности, что создало кризис внутренне перемещенных лиц. Международные организации призывают к помощи и поддержке для пострадавших от конфликта.\n\nСитуация в Камеруне требует внимания со стороны мирового сообщества, чтобы помочь восстановить мир и стабильность в регионе.",
-        "en": "In Cameroon, more than half a million people have fled their homes since separatist groups demanded independence for the English-speaking regions. The conflict, which has been ongoing for over a decade, has led to serious humanitarian consequences and human rights violations.\n\nMany families have been forced to flee due to violence and instability, creating a crisis of internally displaced persons. International organizations are calling for assistance and support for those affected by the conflict.\n\nThe situation in Cameroon requires attention from the global community to help restore peace and stability in the region."
+        "ru": "Канадский астронавт Джошуа Кутрик, находящийся на своей первой космической миссии, стал лишь четвертым астронавтом в истории, который пропустил рождение ребенка на борту Международной космической станции. Это событие привлекло внимание к уникальным вызовам, с которыми сталкиваются астронавты.\n\nКутрик, находясь в космосе, продолжает выполнять свои обязанности, несмотря на личные обстоятельства. Это подчеркивает преданность и профессионализм астронавтов, которые работают в условиях, отличных от земных.\n\nСитуация также вызывает интерес к тому, как космические миссии влияют на личную жизнь астронавтов и их семьи.",
+        "en": "Canadian astronaut Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station. This event has drawn attention to the unique challenges faced by astronauts.\n\nKutryk continues to carry out his duties in space despite personal circumstances. This underscores the dedication and professionalism of astronauts who work in conditions different from those on Earth.\n\nThe situation also raises interest in how space missions impact the personal lives of astronauts and their families."
       }
     }
   ]
