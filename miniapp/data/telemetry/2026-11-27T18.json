@@ -1,0 +1,1342 @@
+{
+  "model": "gpt-4o-mini",
+  "periodHours": 11.933674444444444,
+  "poolSize": 142,
+  "candidateCount": 80,
+  "maxStories": 30,
+  "telegramTopN": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 2,
+      "title": "Spanish Police Find a Vast Marijuana Bunker Beneath a Backyard Playground",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/27/world/europe/marijuana-farm-spain-playground.html"
+    },
+    {
+      "index": 3,
+      "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss"
+    },
+    {
+      "index": 4,
+      "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss"
+    },
+    {
+      "index": 5,
+      "title": "Why India’s captain wants saliva back in cricket",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-indias-captain-wants-saliva-back-in-cricket?traffic_source=rss"
+    },
+    {
+      "index": 6,
+      "title": "Rosebank-supporting MPs warn PM blocking oilfield would mean ‘lights out for Labour in Scotland’",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland"
+    },
+    {
+      "index": 7,
+      "title": "Canada’s Top Court Lets Quebec Use Controversial Measure for Secularism Law",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html"
+    },
+    {
+      "index": 8,
+      "title": "Man jailed in Newcastle for blackmailing vulnerable girls online",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/27/man-jailed-in-newcastle-for-blackmailing-vulnerable-girls-online"
+    },
+    {
+      "index": 9,
+      "title": "Google told to halt Belgium datacentre construction over lack of planning permit",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits"
+    },
+    {
+      "index": 10,
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 11,
+      "title": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss"
+    },
+    {
+      "index": 12,
+      "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss"
+    },
+    {
+      "index": 13,
+      "title": "Uzbek teacher turns school recycling problem into an award-winning green education project",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/27/uzbek-teacher-turns-school-recycling-problem-into-an-award-winning-green-education-project"
+    },
+    {
+      "index": 14,
+      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 15,
+      "title": "Stocks Rally at End of a Week of Wild Swings",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html"
+    },
+    {
+      "index": 16,
+      "title": "It’s Boom Times for Old TV Shows. New TV, Not So Much.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/27/business/media/old-tv-shows-mad-men.html"
+    },
+    {
+      "index": 17,
+      "title": "Latest news bulletin | November 27th, 2026 – Evening",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/27/latest-news-bulletin-november-27th-2026-evening"
+    },
+    {
+      "index": 18,
+      "title": "Elon Musk gets the greenlight from the US to launch one million satellites",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/elon-musk-gets-the-greenlight-from-the-us-to-launch-one-million-satellites?traffic_source=rss"
+    },
+    {
+      "index": 19,
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 20,
+      "title": "France seeks German man in Channel migrant boat probe",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/france-seeks-german-man-in-channel-migrant-boat-probe/a-80078069?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 21,
+      "title": "Divisions deepen between EU member states after tense budget summit",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 22,
+      "title": "Jared Kushner’s 70-minute interview shows the peril of treating Putin like a corporate rival",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival"
+    },
+    {
+      "index": 23,
+      "title": "Syria debates citizenship rights for children of foreign fighters",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_syria-mulls-citizenship-children-foreign-fighters-271126?traffic_source=rss"
+    },
+    {
+      "index": 24,
+      "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 25,
+      "title": "UK pensions department hit by ‘serious cyber incident’, minister says – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates"
+    },
+    {
+      "index": 26,
+      "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss"
+    },
+    {
+      "index": 27,
+      "title": "Norse Atlantic files for bankruptcy, halts flights and ticket sales",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales?traffic_source=rss"
+    },
+    {
+      "index": 28,
+      "title": "Why Russia Is Erasing Stalin’s Crimes",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/video/world/europe/100000010915175/why-russia-is-erasing-stalins-crimes.html"
+    },
+    {
+      "index": 29,
+      "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates"
+    },
+    {
+      "index": 30,
+      "title": "Eastern US recovers from storms that snarled Thanksgiving travel as flooding continues",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving"
+    },
+    {
+      "index": 31,
+      "title": "Kanal-Centre Pompidou, Brussels' most anticipated new museum, opens its doors",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/kanal-centre-pompidou-brussels-most-anticipated-new-museum-opens-its-doors/a-80001444?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 32,
+      "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols"
+    },
+    {
+      "index": 33,
+      "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss"
+    },
+    {
+      "index": 34,
+      "title": "Serbia's Student List runs chemistry professor Radomir Saicic for president",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/serbia-s-student-list-runs-chemistry-professor-radomir-saicic-for-president/a-80078700?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 35,
+      "title": "Will new energy fixes cost more in January?",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 36,
+      "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss"
+    },
+    {
+      "index": 37,
+      "title": "British Gas owner seeks urgent government talks over future of storage facility",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future"
+    },
+    {
+      "index": 38,
+      "title": "Brazil pushes back on Macron calling its meat 'doped'",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 39,
+      "title": "Parents urged to vaccinate children for flu as hospital cases surge in England",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/27/parents-urged-to-vaccinate-children-for-flu-as-hospital-cases-surge-in-england"
+    },
+    {
+      "index": 40,
+      "title": "Dutch authorities seize 26 critically endangered turtles from luggage of passenger bound for Hong Kong",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/dutch-authorities-seize-26-critically-endangered-turtles-from-luggage-of-passenger-bound-for-hong-kong/a-80077824?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 41,
+      "title": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights"
+    },
+    {
+      "index": 42,
+      "title": "By Putin's logic, Russia should be returned to Mongolia, Belarus' Lukashenka says",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/27/by-putins-logic-russia-should-go-back-to-mongolia-belarus-lukashenka-says"
+    },
+    {
+      "index": 43,
+      "title": "Holiday Deals Are Tempting. Here’s How to Avoid Buyer’s Remorse.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/27/business/holiday-shopping-deals-spending.html"
+    },
+    {
+      "index": 44,
+      "title": "Black Friday Deals and Holiday Sales Are Big Money for Influencers",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html"
+    },
+    {
+      "index": 45,
+      "title": "'Can't control the weather': Sadness as Macy's Thanksgiving parade postponed",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cmx29qd8ew4xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 46,
+      "title": "France’s Bookstores, Beloved Curators of Literature, Are in a Deep Crisis",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html"
+    },
+    {
+      "index": 47,
+      "title": "Serbia’s student-led movement nominates chemistry professor for presidency",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency?traffic_source=rss"
+    },
+    {
+      "index": 48,
+      "title": "Newly released documents suggest CIA did more post-9/11 waterboarding than previously acknowledged",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/27/newly-released-documents-cia-waterboarding-9-11"
+    },
+    {
+      "index": 49,
+      "title": "Climate Talks Imploded, but the ‘Age of Electricity’ Rolls On, Energy Chief Says",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html"
+    },
+    {
+      "index": 50,
+      "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 51,
+      "title": "Russian drone strikes hit Ukraine's energy, rail and civilian infrastructure, causing deaths",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/27/russian-drone-strikes-hit-ukraines-energy-rail-and-civilian-infrastructure-causing-deaths"
+    },
+    {
+      "index": 52,
+      "title": "Canada’s top court largely upholds Quebec’s religious symbols ban",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss"
+    },
+    {
+      "index": 53,
+      "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 54,
+      "title": "‘Playing with fire’: Trump faces GOP backlash over Nvidia CEO’s return",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/playing-with-fire-republicans-incensed-after-trump-gets-huang-reinstated?traffic_source=rss"
+    },
+    {
+      "index": 55,
+      "title": "Too old for soft toys? Tell that to kidults booking up the Harrods Jellycat cafe",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/nov/27/jellycat-soft-toys-kidults-harrods-cafe-galerie-lafayette"
+    },
+    {
+      "index": 56,
+      "title": "Funeral prayers held for 31 victims of Egypt tanker crash",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/funeral-prayers-held-for-31-victims-of-egypt-tanker-crash?traffic_source=rss"
+    },
+    {
+      "index": 57,
+      "title": "Manchester United trigger Bruno Fernandes contract extension to 2028",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-trigger-bruno-fernandes-contract-extension-to-2028?traffic_source=rss"
+    },
+    {
+      "index": 58,
+      "title": "Tether buys $10 million of Bitdeer shares as stock hovers near all-time low",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554"
+    },
+    {
+      "index": 59,
+      "title": "Three studies link glyphosate to cancer, contradicting claims of Trump EPA",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa"
+    },
+    {
+      "index": 60,
+      "title": "Arsenic in the water: Thailand presses Myanmar over mining pollution",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/arsenic-in-the-water-thailand-presses-myanmar-over-mining-pollution/a-80074295?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 61,
+      "title": "Hackers reportedly breach US air force’s flagship cloud computing platform",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing"
+    },
+    {
+      "index": 62,
+      "title": "UK: London's Cake and Bake Show honours David Attenborough's centenary",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/27/uk-londons-cake-and-bake-show-honours-david-attenboroughs-centenary"
+    },
+    {
+      "index": 63,
+      "title": "Erling Haaland ‘happy’ at Man City despite transfer talk, says Maresca",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/27/haaland-happy-at-manchester-city-despite-outburst-that-led-to-transfer-talk?traffic_source=rss"
+    },
+    {
+      "index": 64,
+      "title": "‘Mass-casualty event’ in Europe possible amid rise in Russian sabotage, says thinktank",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/27/mass-casualty-event-europe-possible-russian-sabotage-says-thinktank"
+    },
+    {
+      "index": 65,
+      "title": "Spain’s Far-Right Era Ended in 1975. Will This Man Change That?",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html"
+    },
+    {
+      "index": 66,
+      "title": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549"
+    },
+    {
+      "index": 67,
+      "title": "Georgia: Police clash with Besiktas fans at Israel club game",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/georgia-police-clash-with-besiktas-fans-at-israel-club-game/a-80076111?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 68,
+      "title": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 69,
+      "title": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss"
+    },
+    {
+      "index": 70,
+      "title": "Jess Wilson’s plan for Melbourne sewage plants risks water and wetlands without bringing debt down, experts say",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-melbourne-sewage-plants-privatisation-risks-water-and-wetlands"
+    },
+    {
+      "index": 71,
+      "title": "Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb"
+    },
+    {
+      "index": 72,
+      "title": "NSW Labor is ‘trampling over party principles’ with preselections by captain’s call, members say",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/28/nsw-labor-is-trampling-over-party-principles-with-preselections-by-captains-call-members-say"
+    },
+    {
+      "index": 73,
+      "title": "Watch: Police officer chases wild turkey on New Jersey highway",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/27/watch-police-officer-chases-wild-turkey-on-new-jersey-highway"
+    },
+    {
+      "index": 74,
+      "title": "German lawmakers approve debt-laden 2027 budget",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/german-lawmakers-approve-debt-laden-2027-budget/live-80071074?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+      "index": 75,
+      "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html"
+    },
+    {
+      "index": 76,
+      "title": "Rare turtles found inside baggage at Amsterdam airport",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 77,
+      "title": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html"
+    },
+    {
+      "index": 78,
+      "title": "EU budget summit collapses as row over money exposes clash over Europe's strategic tasks",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/27/eu-budget-summit-collapses-as-row-over-money-exposes-clash-over-europes-strategic-tasks"
+    },
+    {
+      "index": 79,
+      "title": "Why did Georgian police clash with Turkish football fans over Palestine?",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss"
+    },
+    {
+      "index": 80,
+      "title": "As Gambia gears up for election, can Barrow secure a third term?",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/as-gambia-gears-up-for-election-can-barrow-secure-a-third-term/a-80076340?maca=en-rss-en-all-1573-rdf"
+    }
+  ],
+  "clusters": [
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1,
+        12,
+        10
+      ],
+      "score": 90,
+      "category": "conflict",
+      "rationale": "Zelensky's criticism of the Trump-Putin relationship highlights ongoing tensions in the Ukraine conflict, making it a significant geopolitical issue."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4
+      ],
+      "score": 85,
+      "category": "conflict",
+      "rationale": "The condemnation of Houthi attacks on Saudi Arabia by allied nations underscores the regional security concerns and ongoing conflict dynamics."
+    },
+    {
+      "representativeIndex": 7,
+      "memberIndices": [
+        7,
+        19,
+        32
+      ],
+      "score": 80,
+      "category": "law",
+      "rationale": "The Canadian Supreme Court's decision on Quebec's secularism law is a landmark ruling with implications for minority rights and government authority."
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14,
+        30,
+        24
+      ],
+      "score": 75,
+      "category": "disaster",
+      "rationale": "The severe storms affecting the US during Thanksgiving resulted in widespread power outages and travel disruptions, highlighting the impact of climate-related disasters."
+    },
+    {
+      "representativeIndex": 11,
+      "memberIndices": [
+        11,
+        29,
+        26
+      ],
+      "score": 70,
+      "category": "politics",
+      "rationale": "Pedro Sanchez's efforts to rally support ahead of elections reflect the political tensions in Spain, particularly with the rise of right-wing parties."
+    },
+    {
+      "representativeIndex": 18,
+      "memberIndices": [
+        18,
+        66,
+        41
+      ],
+      "score": 65,
+      "category": "technology",
+      "rationale": "Elon Musk's approval to launch a million satellites represents a significant advancement in technology and its implications for data management and AI."
+    },
+    {
+      "representativeIndex": 39,
+      "memberIndices": [
+        39,
+        8
+      ],
+      "score": 60,
+      "category": "health",
+      "rationale": "The urgent call for flu vaccinations amid rising hospital cases in England highlights public health concerns and the need for preventive measures."
+    },
+    {
+      "representativeIndex": 6,
+      "memberIndices": [
+        6,
+        35,
+        37
+      ],
+      "score": 55,
+      "category": "economy",
+      "rationale": "The potential impact of rising energy costs on households in the UK reflects broader economic challenges linked to global energy markets."
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 50,
+      "category": "law",
+      "rationale": "The upheld ban on religious symbols in Quebec raises important discussions about secularism and individual rights in public service.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2,
+        40,
+        76
+      ],
+      "score": 45,
+      "category": "society",
+      "rationale": "The discovery of endangered turtles in luggage highlights ongoing issues related to wildlife trafficking and conservation efforts."
+    },
+    {
+      "representativeIndex": 3,
+      "memberIndices": [
+        3,
+        20,
+        67
+      ],
+      "score": 40,
+      "category": "society",
+      "rationale": "The treatment of migrants arriving in Spain reflects ongoing humanitarian issues and the challenges faced by European nations in managing migration."
+    },
+    {
+      "representativeIndex": 5,
+      "memberIndices": [
+        5,
+        63,
+        57
+      ],
+      "score": 35,
+      "category": "sport",
+      "rationale": "The discussion around cricket's saliva ban reflects broader conversations about sports regulations and player safety."
+    },
+    {
+      "representativeIndex": 56,
+      "memberIndices": [
+        56
+      ],
+      "score": 30,
+      "category": "society",
+      "rationale": "The sentencing of a man for blackmailing vulnerable girls raises awareness about online safety and the exploitation of minors.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 9,
+      "memberIndices": [
+        9,
+        61,
+        25
+      ],
+      "score": 25,
+      "category": "technology",
+      "rationale": "Google's halt in datacentre construction due to planning issues underscores the intersection of technology and regulatory compliance."
+    },
+    {
+      "representativeIndex": 13,
+      "memberIndices": [
+        13,
+        49
+      ],
+      "score": 20,
+      "category": "science",
+      "rationale": "The green education project in Uzbekistan showcases innovative approaches to environmental education and community engagement."
+    },
+    {
+      "representativeIndex": 15,
+      "memberIndices": [
+        15,
+        44,
+        43
+      ],
+      "score": 15,
+      "category": "economy",
+      "rationale": "The volatility in stock markets during the holiday season reflects investor uncertainty and broader economic trends."
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        17,
+        75
+      ],
+      "score": 10,
+      "category": "culture",
+      "rationale": "The historical moments of Macy's Thanksgiving Day Parade highlight cultural traditions and their evolution over time."
+    },
+    {
+      "representativeIndex": 22,
+      "memberIndices": [
+        22,
+        28
+      ],
+      "score": 5,
+      "category": "world",
+      "rationale": "Kushner's interview reflects the complexities of US foreign policy and its implications for international relations."
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38
+      ],
+      "score": 5,
+      "category": "economy",
+      "rationale": "Brazil's pushback against France's comments on its meat industry highlights ongoing trade tensions and economic implications."
+    },
+    {
+      "representativeIndex": 42,
+      "memberIndices": [
+        42,
+        69
+      ],
+      "score": 5,
+      "category": "world",
+      "rationale": "Lukashenka's remarks on historical territorial claims reflect the ongoing geopolitical discourse in Eastern Europe."
+    },
+    {
+      "representativeIndex": 46,
+      "memberIndices": [
+        46,
+        62
+      ],
+      "score": 5,
+      "category": "culture",
+      "rationale": "The crisis facing French bookstores illustrates the challenges of cultural preservation in the face of economic pressures."
+    },
+    {
+      "representativeIndex": 50,
+      "memberIndices": [
+        50,
+        51
+      ],
+      "score": 5,
+      "category": "conflict",
+      "rationale": "The ongoing Russian drone strikes in Ukraine highlight the persistent conflict and its humanitarian impact."
+    },
+    {
+      "representativeIndex": 54,
+      "memberIndices": [
+        54
+      ],
+      "score": 5,
+      "category": "politics",
+      "rationale": "Trump's actions regarding Nvidia's CEO reflect internal GOP dynamics and the challenges of party unity."
+    },
+    {
+      "representativeIndex": 58,
+      "memberIndices": [
+        58
+      ],
+      "score": 5,
+      "category": "economy",
+      "rationale": "Tether's investment in Bitdeer reflects ongoing developments in the cryptocurrency market."
+    },
+    {
+      "representativeIndex": 60,
+      "memberIndices": [
+        60
+      ],
+      "score": 5,
+      "category": "climate",
+      "rationale": "Thailand's efforts to address pollution from Myanmar's mining activities highlight regional environmental challenges."
+    },
+    {
+      "representativeIndex": 64,
+      "memberIndices": [
+        64
+      ],
+      "score": 5,
+      "category": "conflict",
+      "rationale": "The report on Russian sabotage in Europe raises alarms about security and potential mass-casualty events."
+    },
+    {
+      "representativeIndex": 68,
+      "memberIndices": [
+        68
+      ],
+      "score": 5,
+      "category": "economy",
+      "rationale": "Norse Atlantic's bankruptcy due to rising fuel costs illustrates the financial pressures facing the aviation industry."
+    },
+    {
+      "representativeIndex": 70,
+      "memberIndices": [
+        70
+      ],
+      "score": 5,
+      "category": "politics",
+      "rationale": "The Victorian Liberals' sewage treatment plan raises questions about governance and public service management."
+    },
+    {
+      "representativeIndex": 72,
+      "memberIndices": [
+        72
+      ],
+      "score": 5,
+      "category": "politics",
+      "rationale": "The NSW Labor's preselection process highlights internal party dynamics and member dissatisfaction."
+    },
+    {
+      "representativeIndex": 74,
+      "memberIndices": [
+        74
+      ],
+      "score": 5,
+      "category": "economy",
+      "rationale": "Germany's budget approval reflects ongoing economic challenges and fiscal policy debates."
+    },
+    {
+      "representativeIndex": 78,
+      "memberIndices": [
+        78
+      ],
+      "score": 5,
+      "category": "politics",
+      "rationale": "The collapse of the EU budget summit highlights the challenges of consensus in European governance."
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 5,
+      "category": "politics",
+      "rationale": "Gambia's upcoming election is a critical test for the country's democratic progress."
+    },
+    {
+      "representativeIndex": 16,
+      "memberIndices": [
+        16
+      ],
+      "score": 19.8,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 21,
+      "memberIndices": [
+        21
+      ],
+      "score": 19.7375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 23,
+      "memberIndices": [
+        23
+      ],
+      "score": 19.7125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 27,
+      "memberIndices": [
+        27
+      ],
+      "score": 19.6625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 31,
+      "memberIndices": [
+        31
+      ],
+      "score": 19.6125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 33,
+      "memberIndices": [
+        33
+      ],
+      "score": 19.5875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 34,
+      "memberIndices": [
+        34
+      ],
+      "score": 19.575,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 36,
+      "memberIndices": [
+        36
+      ],
+      "score": 19.55,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 19.4375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 47,
+      "memberIndices": [
+        47
+      ],
+      "score": 19.4125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 48,
+      "memberIndices": [
+        48
+      ],
+      "score": 19.4,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 53,
+      "memberIndices": [
+        53
+      ],
+      "score": 19.3375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 19.3125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 59,
+      "memberIndices": [
+        59
+      ],
+      "score": 19.2625,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 65,
+      "memberIndices": [
+        65
+      ],
+      "score": 19.1875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 71,
+      "memberIndices": [
+        71
+      ],
+      "score": 19.1125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 73,
+      "memberIndices": [
+        73
+      ],
+      "score": 19.0875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 77,
+      "memberIndices": [
+        77
+      ],
+      "score": 19.0375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 19.0125,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    }
+  ],
+  "calls": [
+    {
+      "stage": "cluster",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 24314,
+      "usage": {
+        "inputTokens": 7616,
+        "outputTokens": 1536,
+        "totalTokens": 9152
+      },
+      "estimatedCostUsd": 0.002064,
+      "returnedCount": 34,
+      "acceptedCount": 30
+    },
+    {
+      "stage": "localize",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 18719,
+      "usage": {
+        "inputTokens": 1190,
+        "outputTokens": 1188,
+        "totalTokens": 2378
+      },
+      "estimatedCostUsd": 0.0008912999999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 16183,
+      "usage": {
+        "inputTokens": 1006,
+        "outputTokens": 1061,
+        "totalTokens": 2067
+      },
+      "estimatedCostUsd": 0.0007875,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "localize",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 17355,
+      "usage": {
+        "inputTokens": 1067,
+        "outputTokens": 1176,
+        "totalTokens": 2243
+      },
+      "estimatedCostUsd": 0.0008656499999999999,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 1,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 15818,
+      "usage": {
+        "inputTokens": 1860,
+        "outputTokens": 1278,
+        "totalTokens": 3138
+      },
+      "estimatedCostUsd": 0.0010458,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 2,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 32430,
+      "usage": {
+        "inputTokens": 1623,
+        "outputTokens": 2664,
+        "totalTokens": 4287
+      },
+      "estimatedCostUsd": 0.00184185,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    },
+    {
+      "stage": "longCopy",
+      "attempt": 3,
+      "ok": true,
+      "model": "gpt-4o-mini-2024-07-18",
+      "finishReason": "stop",
+      "latencyMs": 35369,
+      "usage": {
+        "inputTokens": 1743,
+        "outputTokens": 2775,
+        "totalTokens": 4518
+      },
+      "estimatedCostUsd": 0.0019264500000000001,
+      "returnedCount": 10,
+      "acceptedCount": 10
+    }
+  ],
+  "generatedAt": "2026-11-27T18:04:37.492Z",
+  "cost": {
+    "currency": "USD",
+    "estimatedTotalUsd": 0.00942255,
+    "complete": true,
+    "inputTokens": 16105,
+    "outputTokens": 11678,
+    "totalTokens": 27783,
+    "inputUsdPerMillion": 0.15,
+    "outputUsdPerMillion": 0.6
+  },
+  "snapshot": {
+    "miniApp": {
+      "storyCount": 30,
+      "stories": [
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+          "source": "New York Times",
+          "title_en": "Canada’s Top Court Lets Quebec Use Controversial Measure for Secularism Law"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Hundreds of thousands still without power after storms hit US on Thanksgiving"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/elon-musk-gets-the-greenlight-from-the-us-to-launch-one-million-satellites?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Elon Musk gets the greenlight from the US to launch one million satellites"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/nov/27/parents-urged-to-vaccinate-children-for-flu-as-hospital-cases-surge-in-england",
+          "source": "The Guardian",
+          "title_en": "Parents urged to vaccinate children for flu as hospital cases surge in England"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
+          "source": "The Guardian",
+          "title_en": "Rosebank-supporting MPs warn PM blocking oilfield would mean ‘lights out for Labour in Scotland’"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Canada’s top court largely upholds Quebec’s religious symbols ban"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/27/world/europe/marijuana-farm-spain-playground.html",
+          "source": "New York Times",
+          "title_en": "Spanish Police Find a Vast Marijuana Bunker Beneath a Backyard Playground"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-indias-captain-wants-saliva-back-in-cricket?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Why India’s captain wants saliva back in cricket"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/funeral-prayers-held-for-31-victims-of-egypt-tanker-crash?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Funeral prayers held for 31 victims of Egypt tanker crash"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+          "source": "The Guardian",
+          "title_en": "Google told to halt Belgium datacentre construction over lack of planning permit"
+        },
+        {
+          "link": "https://www.euronews.com/2026/11/27/uzbek-teacher-turns-school-recycling-problem-into-an-award-winning-green-education-project",
+          "source": "Euronews",
+          "title_en": "Uzbek teacher turns school recycling problem into an award-winning green education project"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/27/business/media/old-tv-shows-mad-men.html",
+          "source": "New York Times",
+          "title_en": "It’s Boom Times for Old TV Shows. New TV, Not So Much."
+        },
+        {
+          "link": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Divisions deepen between EU member states after tense budget summit"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_syria-mulls-citizenship-children-foreign-fighters-271126?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Syria debates citizenship rights for children of foreign fighters"
+        },
+        {
+          "link": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Norse Atlantic files for bankruptcy, halts flights and ticket sales"
+        },
+        {
+          "link": "https://www.dw.com/en/kanal-centre-pompidou-brussels-most-anticipated-new-museum-opens-its-doors/a-80001444?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Kanal-Centre Pompidou, Brussels' most anticipated new museum, opens its doors"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Trump backs Iraqi PM’s oil smuggling crackdown"
+        },
+        {
+          "link": "https://www.dw.com/en/serbia-s-student-list-runs-chemistry-professor-radomir-saicic-for-president/a-80078700?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Serbia's Student List runs chemistry professor Radomir Saicic for president"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/videos/cmx29qd8ew4xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "'Can't control the weather': Sadness as Macy's Thanksgiving parade postponed"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Serbia’s student-led movement nominates chemistry professor for presidency"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/27/newly-released-documents-cia-waterboarding-9-11",
+          "source": "The Guardian",
+          "title_en": "Newly released documents suggest CIA did more post-9/11 waterboarding than previously acknowledged"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Marching bands scramble to cover costs after Thanksgiving parade rearranged"
+        },
+        {
+          "link": "https://www.theguardian.com/lifeandstyle/2026/nov/27/jellycat-soft-toys-kidults-harrods-cafe-galerie-lafayette",
+          "source": "The Guardian",
+          "title_en": "Too old for soft toys? Tell that to kidults booking up the Harrods Jellycat cafe"
+        },
+        {
+          "link": "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa",
+          "source": "The Guardian",
+          "title_en": "Three studies link glyphosate to cancer, contradicting claims of Trump EPA"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html",
+          "source": "New York Times",
+          "title_en": "Spain’s Far-Right Era Ended in 1975. Will This Man Change That?"
+        }
+      ]
+    },
+    "telegram": {
+      "storyCount": 10,
+      "stories": [
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+          "source": "New York Times",
+          "title_en": "Canada’s Top Court Lets Quebec Use Controversial Measure for Secularism Law"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Hundreds of thousands still without power after storms hit US on Thanksgiving"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/elon-musk-gets-the-greenlight-from-the-us-to-launch-one-million-satellites?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Elon Musk gets the greenlight from the US to launch one million satellites"
+        },
+        {
+          "link": "https://www.theguardian.com/society/2026/nov/27/parents-urged-to-vaccinate-children-for-flu-as-hospital-cases-surge-in-england",
+          "source": "The Guardian",
+          "title_en": "Parents urged to vaccinate children for flu as hospital cases surge in England"
+        },
+        {
+          "link": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
+          "source": "The Guardian",
+          "title_en": "Rosebank-supporting MPs warn PM blocking oilfield would mean ‘lights out for Labour in Scotland’"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Canada’s top court largely upholds Quebec’s religious symbols ban"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/27/world/europe/marijuana-farm-spain-playground.html",
+          "source": "New York Times",
+          "title_en": "Spanish Police Find a Vast Marijuana Bunker Beneath a Backyard Playground"
+        }
+      ],
+      "contentHashes": {
+        "ru": "d992974c0933bbb6a0b0b9972f1e7c060ec37e4e8ebf44275304977f51dc4a5d",
+        "en": "c9c5c7629299a8ee5f6bbb113de98e2c0499b24892db8e9ee3c822132b44f7f4"
+      }
+    }
+  }
+}
