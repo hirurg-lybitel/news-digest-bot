@@ -1,704 +1,827 @@
 {
   "model": "gpt-4o-mini",
-  "periodHours": 11.930663055555556,
-  "poolSize": 163,
+  "periodHours": 11.939259166666666,
+  "poolSize": 97,
   "candidateCount": 80,
   "maxStories": 30,
   "telegramTopN": 10,
   "candidates": [
     {
       "index": 1,
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+      "title": "New Zealand election: newcomer centrist party to decide as Luxon scrambles for a majority",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/27/new-zealand-election-newcomer-centrist-party-holds-the-key-as-luxon-scrambles-for-a-majori"
     },
     {
       "index": 2,
-      "title": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
+      "title": "In Praise of My Typewriter",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html"
+      "link": "https://www.nytimes.com/2026/11/26/world/ai-typewriter-russia-brazil-mirumi.html"
     },
     {
       "index": 3,
-      "title": "The N.F.L. Player Who Left Football for Math",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html"
+      "title": "Erin Patterson launches high court appeal bid over mushroom murder convictions",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb"
     },
     {
       "index": 4,
-      "title": "Marlboro maker Altria considering takeover bid for Imperial Brands",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands"
+      "title": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html"
     },
     {
       "index": 5,
-      "title": "Trial of Berlin woman accused of spying for Russia begins after delay",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/trial-of-berlin-woman-accused-of-spying-for-russia-begins-after-delay/a-80057677?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 6,
-      "title": "Man found guilty of attempted murder of 14 people including 10 on LNER train",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/26/anthony-williams-guilty-attempted-murder-lner-train"
-    },
-    {
-      "index": 7,
-      "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates"
-    },
-    {
-      "index": 8,
-      "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html"
-    },
-    {
-      "index": 9,
-      "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "index": 6,
+      "title": "Can Roof Tiles Reduce Indoor Heat? India Is Finding Out.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html"
+    },
+    {
+      "index": 7,
+      "title": "Alan Jones defence opens and closes in space of a few hours as indecent assault trial draws to a close",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb"
+    },
+    {
+      "index": 8,
+      "title": "Race hate exploded in this Spanish town last year. Now its residents are bracing for more",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe"
+    },
+    {
+      "index": 9,
+      "title": "The Threat to a Sanctuary for Children of North Korean Defectors",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html"
+    },
+    {
       "index": 10,
-      "title": "Saudi pop music is thriving — but for the right reasons?",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/saudi-pop-music-is-thriving-but-for-the-right-reasons/a-80036013?maca=en-rss-en-all-1573-rdf"
+      "title": "A Japanese Volleyball Player Breaks a Taboo",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/27/world/asia/a-japanese-volleyball-player-breaks-a-taboo.html"
     },
     {
       "index": 11,
-      "title": "NATO deploys AWACS airborne radar to monitor Polish airspace",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/26/nato-deploys-awacs-airborne-radar-to-monitor-polish-airspace"
+      "title": "New Zealand’s Opportunity Party poised to become election kingmaker",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss"
     },
     {
       "index": 12,
-      "title": "Syrian children continue learning amid the ruins of war in Idlib",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss"
+      "title": "Former RAAF pilot convicted of murder after staging wife’s death as lawnmower accident",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb"
     },
     {
       "index": 13,
-      "title": "Argentina enters technical recession despite Milei's economic reforms",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/26/argentina-enters-technical-recession-despite-mileis-economic-reforms"
+      "title": "Estonia closing land borders with Russia to keep out spies",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/estonia-closing-land-borders-with-russia-to-keep-out-spies?traffic_source=rss"
     },
     {
       "index": 14,
-      "title": "On his last Africa trip, Steinmeier urges German firms to invest and take risks as China pushes ahead",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/on-his-last-africa-trip-steinmeier-urges-german-firms-to-invest-and-take-risks-as-china-pushes-ahead/a-80067717?maca=en-rss-en-all-1573-rdf"
+      "title": "Watch: Truck hangs in the balance after losing control in wet conditions",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cq9vwdjp7kw3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 15,
-      "title": "When will Poundland shops close? Five key questions answered",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss"
+      "title": "Thanksgiving storms leave nearly a million without power across the US",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us?traffic_source=rss"
     },
     {
       "index": 16,
-      "title": "French actor Gerard Depardieu to stand trial for alleged 2018 rape",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss"
+      "title": "China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+      "source": "The Block",
+      "link": "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029"
     },
     {
       "index": 17,
-      "title": "Public service broadcaster services should be top of TV app menus – Ofcom",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom"
+      "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss"
     },
     {
       "index": 18,
-      "title": "US army calls detonation of bomb chemicals in Iowa a success after fears of toxic plume",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/26/iowa-chemical-lead-bomb-detonation-toxic-dust-fears"
+      "title": "Trump downplays Russia, China support for Iran during talks with US troops",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss"
     },
     {
       "index": 19,
-      "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html"
+      "title": "Asian stock markets rise after earlier tech rout",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss"
     },
     {
       "index": 20,
-      "title": "UK bill to implement EU deal will allow ministers to enact closer ties in future",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/politics/2026/nov/26/uk-bill-to-implement-eu-deal-closer-future-ties"
+      "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html"
     },
     {
       "index": 21,
-      "title": "Latest news bulletin | November 26th, 2026 – Evening",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/video/2026/11/26/latest-news-bulletin-november-26th-2026-evening"
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 22,
-      "title": "BBC Inside Science",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct978n?at_medium=RSS&at_campaign=rss"
+      "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia"
     },
     {
       "index": 23,
-      "title": "Andrew Ramage Has Died. He Found Receipts for the ‘World’s First Millionaire.’",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/26/science/andrew-ramage-dead.html"
+      "title": "New Zealand election ends in hung parliament",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-rdf"
     },
     {
       "index": 24,
-      "title": "Trump says he urged Putin to 'pull back' military aggression in Europe",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722?maca=en-rss-en-all-1573-rdf"
+      "title": "Spain and Morocco under-17 stars target World Cup 2030",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss"
     },
     {
       "index": 25,
-      "title": "How a teen’s death raises questions about Colombia’s security crackdown",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss"
+      "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html"
     },
     {
       "index": 26,
-      "title": "Hong Kong mourns victims of deadly Wang Fuk Court fire one year on",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/video/2026/11/26/hong-kong-mourns-victims-of-deadly-wang-fuk-court-fire-one-year-on"
+      "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results"
     },
     {
       "index": 27,
-      "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss"
+      "title": "JPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more",
+      "source": "The Block",
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025"
     },
     {
       "index": 28,
-      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss"
+      "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss"
     },
     {
       "index": 29,
-      "title": "Spanish economist to become new European Central Bank chief",
+      "title": "Trump says the US has ‘close to 50%’ of world’s oil",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss"
     },
     {
       "index": 30,
-      "title": "Fireball steals the show during Thanksgiving drone display in Indiana",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/videos/c6n4e3yypylxo?at_medium=RSS&at_campaign=rss"
+      "title": "Clashes halt match as Turkiye football fans raise Palestinian flags",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss"
     },
     {
       "index": 31,
-      "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
-      "source": "The Block",
-      "link": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007"
+      "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss"
     },
     {
       "index": 32,
-      "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
+      "title": "Threat from China looms large over Taiwan’s local elections",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps"
+      "link": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections"
     },
     {
       "index": 33,
-      "title": "Protests in Iraqi Kurdistan at plans for government in Baghdad to take over oil, border crossings",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-all-1573-rdf"
+      "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 34,
-      "title": "Georgia judge blocks own order to turn over US election ballot copies to state board",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/26/georgia-election-ballots-seized"
+      "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 35,
-      "title": "Trump says he wants Putin to ‘pull back all military aggression’ in Europe – as it happened",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates"
+      "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 36,
-      "title": "Germany: IG Metall union says deal reached with employers",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/germany-ig-metall-union-says-deal-reached-with-employers/a-80066792?maca=en-rss-en-all-1573-rdf"
+      "title": "Inside Ukraine’s power crisis amid its war with Russia",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss"
     },
     {
       "index": 37,
-      "title": "Why is France roiling?",
+      "title": "America’s Thanksgiving holiday seen through different eyes",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/why-is-france-roiling?traffic_source=rss"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss"
     },
     {
       "index": 38,
-      "title": "Diesel tanker capsizes near Ibiza, killing crew member",
+      "title": "Argentina bars Central Bank from printing money to fund government spending",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss"
+      "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss"
     },
     {
       "index": 39,
-      "title": "Two dead after Iranian drone attack on Kuwait",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss"
+      "title": "Qantas and Air New Zealand planes too close at Sydney airport as ‘mental models’ of crews to be investigated",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation"
     },
     {
       "index": 40,
-      "title": "Pep Guardiola calls on world to ‘disobey horror’ over Gaza and praises BDS",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/11/26/pep-guardiola-calls-on-world-to-disobey-horror-over-gaza-and-praises-bds?traffic_source=rss"
+      "title": "Inside the control room feeding your weather app",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/weather/videos/c6y0xq8y757ko?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 41,
-      "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss"
+      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 42,
-      "title": "Politician hosts 400,000 guests at daughter’s wedding in India’s poorest state",
+      "title": "Water firms to identify 250,000 vulnerable households in England eligible for discounts",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/26/india-anant-singh-hosts-400000-guests-wedding-guests-daughter"
+      "link": "https://www.theguardian.com/business/2026/nov/27/water-firms-to-identify-250000-vulnerable-households-in-england-eligible-for-discounts"
     },
     {
       "index": 43,
-      "title": "Storms across US disrupt travel and force Thanksgiving parade cancellations",
+      "title": "Nearly half of ethnic minority people in UK have faced racism at work in last year, survey finds",
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather"
+      "link": "https://www.theguardian.com/world/2026/nov/27/nearly-half-of-ethnic-minority-people-in-uk-have-faced-racism-at-work-in-last-year-survey-finds"
     },
     {
       "index": 44,
-      "title": "US judge blocks Trump’s FCC attempt to target Disney’s ABC stations",
+      "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss"
     },
     {
       "index": 45,
-      "title": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html"
+      "title": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss"
     },
     {
       "index": 46,
-      "title": "Jerusalem Daily: Israeli settlers set fire to a Palestinian vehicle",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss"
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 47,
-      "title": "New UK-EU treaty has 10-year termination clause",
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
       "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 48,
-      "title": "Anthropic chief denies wanting humans to 'surrender' free will to AI",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/26/anthropic-chief-denies-wanting-humans-to-surrender-free-will-to-ai"
+      "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss"
     },
     {
       "index": 49,
-      "title": "Flights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html"
+      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 50,
-      "title": "Is authoritarian Vietnam ready to phase out the death penalty?",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/is-authoritarian-vietnam-ready-to-phase-out-the-death-penalty/a-80064271?maca=en-rss-en-all-1573-rdf"
+      "title": "Chance of snow forecast for northern England and Scotland in next few days",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/26/chance-of-snow-forecast-northern-england-scotland"
     },
     {
       "index": 51,
+      "title": "Floating nature islands installed in parks as Glasgow Games legacy",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 52,
+      "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss"
+    },
+    {
+      "index": 53,
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 54,
+      "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead"
+    },
+    {
+      "index": 55,
+      "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss"
+    },
+    {
+      "index": 56,
+      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "index": 57,
+      "title": "Germany: Christmas markets open across the country amid tight security",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/26/germany-christmas-markets-open-across-the-country-amid-tight-security"
+    },
+    {
+      "index": 58,
       "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "index": 52,
-      "title": "Who Picked This Gift? My A.I. Holiday Shopper.",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/26/business/holiday-shopping-ai-agents.html"
-    },
-    {
-      "index": 53,
-      "title": "Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html"
-    },
-    {
-      "index": 54,
-      "title": "Andalusia offers a glimpse of Spain’s future as the far right gains ground",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss"
-    },
-    {
-      "index": 55,
-      "title": "Iranian drone kills 2 Italian workers in Kuwait, Meloni says",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/iranian-drone-kills-2-italian-workers-in-kuwait-meloni-says/a-80064974?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 56,
-      "title": "Iraq sentences eight French nationals to life for joining Islamic State",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/26/iraq-sentences-eight-french-nationals-to-life-for-joining-islamic-state"
-    },
-    {
-      "index": 57,
-      "title": "Africa's opposition voices face growing pressure",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/africa-s-opposition-voices-face-growing-pressure/a-80063893?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-      "index": 58,
-      "title": "Why is Italy angry with Ukraine for striking Russian ships off Libya?",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya?traffic_source=rss"
-    },
-    {
       "index": 59,
-      "title": "UN ruling disputes Israeli allegations used to dismiss UNRWA Gaza staff",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss"
+      "title": "Thanksgiving storms flood US coasts and disrupt holiday travel",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/26/thanksgiving-storms-flood-us-coasts-and-disrupt-holiday-travel"
     },
     {
       "index": 60,
-      "title": "From volume to value: making tourism work for more of Europe",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/26/from-volume-to-value-making-tourism-work-for-more-of-europe"
+      "title": "Watch: Man and dog narrowly escape powerful king tide in Oregon",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 61,
-      "title": "Father dies while trying to save teen son on icy California mountain hike",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/27/california-father-dies-helping-son-mountain-hike"
+      "title": "At odds over the EU budget, European leaders cut summit short",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short/live-80056415?maca=en-rss-en-all-1573-rdf"
     },
     {
       "index": 62,
-      "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+      "title": "U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html"
     },
     {
       "index": 63,
-      "title": "13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain",
+      "title": "Ontario Premier Says He’d Use a Gun to Protect His Family",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html"
+      "link": "https://www.nytimes.com/2026/11/26/world/canada/doug-ford-gun-home-invasion-toronto.html"
     },
     {
       "index": 64,
-      "title": "Amanda Seyfried needed ‘five-factor authentication’ to read You Can See Everything script but still ‘told everyone’",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/film/2026/nov/26/amanda-seyfried-you-can-see-everything-elizabeth-holmes-the-dropout"
+      "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html"
     },
     {
       "index": 65,
-      "title": "Democrats Confront a Familiar Question: How Are You Going to Pay for That?",
+      "title": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
       "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html"
+      "link": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html"
     },
     {
       "index": 66,
-      "title": "Freigang banned — Germany star to miss 2027 World Cup",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/freigang-banned-germany-star-to-miss-2027-world-cup/a-80063930?maca=en-rss-en-all-1573-rdf"
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 67,
-      "title": "FIFA says a cyberattack against it targeted a 'limited set of personal and business information'",
-      "source": "Deutsche Welle",
-      "link": "https://www.dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-all-1573-rdf"
+      "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss"
     },
     {
       "index": 68,
-      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss"
+      "title": "Bangladesh garment workers clash with police over low wages",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss"
     },
     {
       "index": 69,
-      "title": "Aerial footage shows diesel tanker sinking off Ibiza",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/26/aerial-footage-shows-diesel-tanker-sinking-off-ibiza"
+      "title": "BBC Inside Science",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct978n?at_medium=RSS&at_campaign=rss"
     },
     {
       "index": 70,
-      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss"
+      "title": "Albania's youth are protesting in Flamingo Revolution, not leaving the country anymore",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/albania-s-youth-are-protesting-in-flamingo-revolution-not-leaving-the-country-anymore/a-80068939?maca=en-rss-en-all-1573-rdf"
     },
     {
       "index": 71,
-      "title": "Spanish opposition criticised for AI video of Pedro Sánchez in Morocco shirt",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt"
+      "title": "Gerard Depardieu to stand trial in France for rape and sexual assault",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/gerard-depardieu-to-stand-trial-in-france-for-rape-and-sexual-assault/a-80069424?maca=en-rss-en-all-1573-rdf"
     },
     {
       "index": 72,
-      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss"
+      "title": "Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous.",
+      "source": "New York Times",
+      "link": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html"
     },
     {
       "index": 73,
-      "title": "Beau Lamarre-Condon used his service weapon to murder two men. Did NSW police recruiters miss any red flags?",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/27/beau-lamarre-condon-service-weapon-murder-police-recruiters-ntwnfb"
+      "title": "UK: London's Gingerbread City returns with 50 edible architectural creations",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/26/uk-londons-gingerbread-city-returns-with-50-edible-architectural-creations"
     },
     {
       "index": 74,
-      "title": "Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html"
+      "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss"
     },
     {
       "index": 75,
-      "title": "Can Trump continue with Iran war despite funding restrictions?",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss"
+      "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes"
     },
     {
       "index": 76,
-      "title": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
+      "title": "Indian politician facing murder charges hosts 400,000-guest wedding",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss"
     },
     {
       "index": 77,
-      "title": "Russia launches ballistic missile and drone barrage on Ukraine, killing at least three",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three"
+      "title": "Mexico seeks US talks about suspected SpaceX debris",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss"
     },
     {
       "index": 78,
-      "title": "Inside Liberland, the crypto ‘country’ few have heard of",
+      "title": "Musk pledges two SpaceX shares for every US child",
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss"
+      "link": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss"
     },
     {
       "index": 79,
-      "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
-      "source": "New York Times",
-      "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html"
+      "title": "Belgium: Farmers and tractors descend on Brussels to defend EU subsidies",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/26/belgium-farmers-and-tractors-descend-on-brussels-to-defend-eu-subsidies"
     },
     {
       "index": 80,
-      "title": "Donations to One Nation from two Gina Rinehart associates to be probed by electoral authorities",
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/27/one-nation-pauline-hanson-gina-rinehart-aec-donations-ntwnfb"
+      "title": "Guinea-Bissau junta delays presidential vote for 2 years",
+      "source": "Deutsche Welle",
+      "link": "https://www.dw.com/en/guinea-bissau-junta-delays-presidential-vote-for-2-years/a-80068910?maca=en-rss-en-all-1573-rdf"
     }
   ],
   "clusters": [
     {
-      "representativeIndex": 39,
+      "representativeIndex": 5,
       "memberIndices": [
-        39,
-        27,
-        1,
-        55
-      ],
-      "score": 95,
-      "category": "conflict",
-      "rationale": "The Iranian drone attack that killed two Italian workers in Kuwait highlights escalating tensions in the region."
-    },
-    {
-      "representativeIndex": 77,
-      "memberIndices": [
-        77,
-        24,
-        45
-      ],
-      "score": 90,
-      "category": "conflict",
-      "rationale": "Russia's missile and drone barrage on Ukraine, resulting in casualties, underscores the ongoing and severe conflict in Eastern Europe."
-    },
-    {
-      "representativeIndex": 13,
-      "memberIndices": [
-        13,
-        4,
-        72
+        5,
+        15,
+        59
       ],
       "score": 85,
-      "category": "economy",
-      "rationale": "Argentina's technical recession amid economic reforms poses significant implications for its future stability and growth."
+      "category": "disaster",
+      "rationale": "The severe Thanksgiving storm caused widespread flooding and power outages across the US, impacting millions during a major holiday."
     },
     {
-      "representativeIndex": 11,
+      "representativeIndex": 28,
       "memberIndices": [
-        11,
-        5
+        28,
+        18,
+        36,
+        53
       ],
       "score": 80,
       "category": "conflict",
-      "rationale": "NATO's deployment of AWACS to monitor Polish airspace reflects heightened military tensions in Eastern Europe."
-    },
-    {
-      "representativeIndex": 62,
-      "memberIndices": [
-        62,
-        19
-      ],
-      "score": 75,
-      "category": "politics",
-      "rationale": "The EU's struggle over Ukraine aid amidst political shifts in member states could impact future support for the war-torn nation."
-    },
-    {
-      "representativeIndex": 36,
-      "memberIndices": [
-        36
-      ],
-      "score": 70,
-      "category": "economy",
-      "rationale": "The agreement reached by Germany's largest trade union signals important developments in labor relations amid economic challenges."
-    },
-    {
-      "representativeIndex": 34,
-      "memberIndices": [
-        34
-      ],
-      "score": 65,
-      "category": "law",
-      "rationale": "The trial of a woman accused of spying for Russia raises significant legal and security concerns in Germany.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 43,
-      "memberIndices": [
-        43,
-        9
-      ],
-      "score": 60,
-      "category": "disaster",
-      "rationale": "Severe storms disrupting Thanksgiving travel in the US highlight the impact of climate-related disasters on daily life."
-    },
-    {
-      "representativeIndex": 41,
-      "memberIndices": [
-        41,
-        10
-      ],
-      "score": 55,
-      "category": "society",
-      "rationale": "Discussions between Qatari and Egyptian leaders on Gaza ceasefire reflect ongoing humanitarian concerns in the region."
-    },
-    {
-      "representativeIndex": 50,
-      "memberIndices": [
-        50,
-        74
-      ],
-      "score": 50,
-      "category": "law",
-      "rationale": "Vietnam's move to phase out the death penalty for more crimes indicates a significant shift in its legal landscape."
-    },
-    {
-      "representativeIndex": 12,
-      "memberIndices": [
-        12,
-        26
-      ],
-      "score": 45,
-      "category": "society",
-      "rationale": "The reopening of a school in war-torn Syria symbolizes resilience and the ongoing need for education in conflict zones."
+      "rationale": "Escalating tensions between Russia and Ukraine, highlighted by Trump's comments, reflect significant geopolitical stakes in the ongoing conflict."
     },
     {
       "representativeIndex": 3,
       "memberIndices": [
         3,
-        8
+        12
       ],
-      "score": 40,
-      "category": "culture",
-      "rationale": "The story of an NFL player transitioning to a math career highlights the intersection of sports and education."
+      "score": 75,
+      "category": "law",
+      "rationale": "The high-profile appeal of Erin Patterson's murder conviction raises important questions about justice and legal processes in Australia."
     },
     {
-      "representativeIndex": 80,
+      "representativeIndex": 11,
       "memberIndices": [
-        80
+        11,
+        21,
+        23,
+        26
       ],
-      "score": 30,
+      "score": 70,
+      "category": "politics",
+      "rationale": "New Zealand's election results indicate a hung parliament, creating uncertainty in governance and potential shifts in political alliances."
+    },
+    {
+      "representativeIndex": 17,
+      "memberIndices": [
+        17
+      ],
+      "score": 70,
+      "category": "conflict",
+      "rationale": "The attack on Niger soldiers underscores ongoing security challenges in the region, particularly near the volatile Mali border."
+    },
+    {
+      "representativeIndex": 4,
+      "memberIndices": [
+        4,
+        65
+      ],
+      "score": 65,
+      "category": "law",
+      "rationale": "The legal battle involving Disney's local ABC licenses highlights significant regulatory challenges in the media landscape."
+    },
+    {
+      "representativeIndex": 19,
+      "memberIndices": [
+        19,
+        47
+      ],
+      "score": 60,
       "category": "economy",
-      "rationale": "Norse Atlantic's potential collapse reflects broader challenges facing the airline industry post-pandemic.",
-      "repaired": true
+      "rationale": "The rise in Asian stock markets following a tech rout indicates a volatile economic climate influenced by major corporate developments."
+    },
+    {
+      "representativeIndex": 38,
+      "memberIndices": [
+        38
+      ],
+      "score": 60,
+      "category": "economy",
+      "rationale": "Argentina's decision to bar the Central Bank from printing money reflects serious economic challenges and potential instability ahead of elections."
+    },
+    {
+      "representativeIndex": 68,
+      "memberIndices": [
+        68
+      ],
+      "score": 55,
+      "category": "society",
+      "rationale": "The clash between Bangladeshi garment workers and police over wage disputes highlights ongoing labor rights issues in the garment industry."
     },
     {
       "representativeIndex": 66,
       "memberIndices": [
         66
       ],
-      "score": 25,
-      "category": "sport",
-      "rationale": "The suspension of a German football star due to doping violations raises questions about integrity in sports."
+      "score": 55,
+      "category": "conflict",
+      "rationale": "The killing of two Italians in Kuwait raises concerns about security for foreign workers in conflict-prone regions."
     },
     {
-      "representativeIndex": 18,
+      "representativeIndex": 10,
       "memberIndices": [
-        18,
-        49
+        10
       ],
-      "score": 20,
+      "score": 50,
+      "category": "culture",
+      "rationale": "Rui Takahashi's coming out as gay in Japan marks a significant cultural moment in a country where LGBTQ+ visibility is still limited."
+    },
+    {
+      "representativeIndex": 1,
+      "memberIndices": [
+        1
+      ],
+      "score": 50,
+      "category": "politics",
+      "rationale": "The emergence of a centrist party in New Zealand's election could reshape the political landscape and influence future governance."
+    },
+    {
+      "representativeIndex": 32,
+      "memberIndices": [
+        32
+      ],
+      "score": 50,
+      "category": "politics",
+      "rationale": "Taiwan's local elections are critical in the context of rising tensions with China, impacting the island's political future."
+    },
+    {
+      "representativeIndex": 74,
+      "memberIndices": [
+        74
+      ],
+      "score": 45,
       "category": "disaster",
-      "rationale": "The successful detonation of bomb chemicals in Iowa mitigates potential environmental hazards, showcasing emergency management."
+      "rationale": "The attack on Saudi's Jazan refinery, resulting in casualties, highlights ongoing security threats in the region."
     },
     {
-      "representativeIndex": 22,
+      "representativeIndex": 44,
       "memberIndices": [
-        22,
-        52
+        44
       ],
-      "score": 15,
-      "category": "technology",
-      "rationale": "AI's role in solving historical mathematical problems illustrates its growing impact on various fields."
+      "score": 40,
+      "category": "conflict",
+      "rationale": "Iran's response to the Kuwait attack reflects the complex geopolitical dynamics in the Middle East."
     },
     {
-      "representativeIndex": 28,
+      "representativeIndex": 58,
       "memberIndices": [
-        28,
-        51
+        58
       ],
-      "score": 10,
+      "score": 40,
       "category": "disaster",
-      "rationale": "The explosion at a Bangkok oil refinery highlights ongoing safety concerns in industrial operations."
+      "rationale": "The capsizing of a diesel tanker near Ibiza poses environmental risks and highlights maritime safety concerns."
     },
     {
       "representativeIndex": 70,
       "memberIndices": [
-        70,
-        61
+        70
       ],
-      "score": 5,
+      "score": 40,
       "category": "society",
-      "rationale": "The tragic death of a father while saving his son underscores the risks associated with outdoor activities."
-    },
-    {
-      "representativeIndex": 33,
-      "memberIndices": [
-        33,
-        76
-      ],
-      "score": 2,
-      "category": "conflict",
-      "rationale": "Protests in Iraqi Kurdistan against government control of oil operations reflect ongoing regional tensions."
-    },
-    {
-      "representativeIndex": 2,
-      "memberIndices": [
-        2
-      ],
-      "score": 19.975,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
+      "rationale": "Youth protests in Albania signal a growing demand for political reform and accountability among the younger generation."
     },
     {
       "representativeIndex": 6,
       "memberIndices": [
         6
       ],
-      "score": 19.925,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
+      "score": 35,
+      "category": "science",
+      "rationale": "Research in India on roof tiles to reduce indoor heat addresses climate adaptation strategies for vulnerable populations."
+    },
+    {
+      "representativeIndex": 42,
+      "memberIndices": [
+        42
+      ],
+      "score": 35,
+      "category": "society",
+      "rationale": "The initiative to identify vulnerable households for water discounts reflects ongoing efforts to address social inequalities in England."
+    },
+    {
+      "representativeIndex": 9,
+      "memberIndices": [
+        9
+      ],
+      "score": 30,
+      "category": "society",
+      "rationale": "The plight of North Korean defectors in South Korea highlights ongoing issues of prejudice and integration in society."
+    },
+    {
+      "representativeIndex": 45,
+      "memberIndices": [
+        45
+      ],
+      "score": 30,
+      "category": "conflict",
+      "rationale": "Clashes between police and football fans over political symbols reflect broader societal tensions in the region."
+    },
+    {
+      "representativeIndex": 14,
+      "memberIndices": [
+        14
+      ],
+      "score": 25,
+      "category": "disaster",
+      "rationale": "The precarious situation of a truck during severe weather illustrates the dangers posed by extreme conditions."
+    },
+    {
+      "representativeIndex": 41,
+      "memberIndices": [
+        41
+      ],
+      "score": 25,
+      "category": "society",
+      "rationale": "The shortage of elevator mechanics highlights labor market challenges and the need for skilled trades in the economy."
+    },
+    {
+      "representativeIndex": 75,
+      "memberIndices": [
+        75
+      ],
+      "score": 25,
+      "category": "conflict",
+      "rationale": "The deaths of schoolchildren in Gaza due to airstrikes underscore the tragic human cost of ongoing conflict in the region."
+    },
+    {
+      "representativeIndex": 76,
+      "memberIndices": [
+        76
+      ],
+      "score": 20,
+      "category": "society",
+      "rationale": "The extravagant wedding of a politician facing murder charges raises ethical concerns about wealth and power in politics."
+    },
+    {
+      "representativeIndex": 2,
+      "memberIndices": [
+        2
+      ],
+      "score": 20,
+      "category": "culture",
+      "rationale": "The personal reflections on typewriters versus AI highlight the ongoing cultural conversation about technology and creativity."
+    },
+    {
+      "representativeIndex": 72,
+      "memberIndices": [
+        72
+      ],
+      "score": 20,
+      "category": "culture",
+      "rationale": "The legacy of Pizza Hut's co-founder reflects on the intersection of entrepreneurship and cultural impact in the food industry."
+    },
+    {
+      "representativeIndex": 37,
+      "memberIndices": [
+        37
+      ],
+      "score": 20,
+      "category": "society",
+      "rationale": "The contrasting perspectives on Thanksgiving highlight the complexities of cultural celebrations in the US."
+    },
+    {
+      "representativeIndex": 31,
+      "memberIndices": [
+        31
+      ],
+      "score": 15,
+      "category": "technology",
+      "rationale": "The cyberattack on AFP emphasizes the growing threats to media organizations in the digital age."
+    },
+    {
+      "representativeIndex": 67,
+      "memberIndices": [
+        67
+      ],
+      "score": 15,
+      "category": "disaster",
+      "rationale": "The tragic fuel tanker fire in Cairo highlights ongoing safety issues in urban environments."
+    },
+    {
+      "representativeIndex": 52,
+      "memberIndices": [
+        52
+      ],
+      "score": 15,
+      "category": "law",
+      "rationale": "The Supreme Court's review of Quebec's religious symbols ban raises significant questions about civil rights and religious freedom."
+    },
+    {
+      "representativeIndex": 71,
+      "memberIndices": [
+        71
+      ],
+      "score": 10,
+      "category": "culture",
+      "rationale": "The trial of Gerard Depardieu for serious charges reflects ongoing societal discussions about accountability in the arts."
+    },
+    {
+      "representativeIndex": 39,
+      "memberIndices": [
+        39
+      ],
+      "score": 10,
+      "category": "society",
+      "rationale": "The investigation into flight crew protocols at Sydney airport highlights ongoing concerns about aviation safety."
+    },
+    {
+      "representativeIndex": 48,
+      "memberIndices": [
+        48
+      ],
+      "score": 10,
+      "category": "conflict",
+      "rationale": "The damage to Palestinian homes by Israeli settlers underscores the ongoing tensions and violence in the region."
+    },
+    {
+      "representativeIndex": 79,
+      "memberIndices": [
+        79
+      ],
+      "score": 10,
+      "category": "economy",
+      "rationale": "The protest by farmers in Brussels against EU subsidy cuts reflects broader economic concerns within the agricultural sector."
+    },
+    {
+      "representativeIndex": 80,
+      "memberIndices": [
+        80
+      ],
+      "score": 5,
+      "category": "politics",
+      "rationale": "The junta's decision to delay presidential elections in Guinea-Bissau raises concerns about democratic governance in the region."
     },
     {
       "representativeIndex": 7,
@@ -711,21 +834,21 @@
       "repaired": true
     },
     {
-      "representativeIndex": 14,
+      "representativeIndex": 8,
       "memberIndices": [
-        14
+        8
       ],
-      "score": 19.825,
+      "score": 19.9,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 15,
+      "representativeIndex": 13,
       "memberIndices": [
-        15
+        13
       ],
-      "score": 19.8125,
+      "score": 19.8375,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -741,16 +864,6 @@
       "repaired": true
     },
     {
-      "representativeIndex": 17,
-      "memberIndices": [
-        17
-      ],
-      "score": 19.7875,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
       "representativeIndex": 20,
       "memberIndices": [
         20
@@ -761,21 +874,21 @@
       "repaired": true
     },
     {
-      "representativeIndex": 21,
+      "representativeIndex": 22,
       "memberIndices": [
-        21
+        22
       ],
-      "score": 19.7375,
+      "score": 19.725,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 23,
+      "representativeIndex": 24,
       "memberIndices": [
-        23
+        24
       ],
-      "score": 19.7125,
+      "score": 19.7,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -786,6 +899,16 @@
         25
       ],
       "score": 19.6875,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 27,
+      "memberIndices": [
+        27
+      ],
+      "score": 19.6625,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -811,21 +934,21 @@
       "repaired": true
     },
     {
-      "representativeIndex": 31,
+      "representativeIndex": 33,
       "memberIndices": [
-        31
+        33
       ],
-      "score": 19.6125,
+      "score": 19.5875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 32,
+      "representativeIndex": 34,
       "memberIndices": [
-        32
+        34
       ],
-      "score": 19.6,
+      "score": 19.575,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -841,26 +964,6 @@
       "repaired": true
     },
     {
-      "representativeIndex": 37,
-      "memberIndices": [
-        37
-      ],
-      "score": 19.5375,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 38,
-      "memberIndices": [
-        38
-      ],
-      "score": 19.525,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
       "representativeIndex": 40,
       "memberIndices": [
         40
@@ -871,21 +974,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 42,
+      "representativeIndex": 43,
       "memberIndices": [
-        42
+        43
       ],
-      "score": 19.475,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 44,
-      "memberIndices": [
-        44
-      ],
-      "score": 19.45,
+      "score": 19.4625,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -901,31 +994,31 @@
       "repaired": true
     },
     {
-      "representativeIndex": 47,
+      "representativeIndex": 49,
       "memberIndices": [
-        47
+        49
       ],
-      "score": 19.4125,
+      "score": 19.3875,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 48,
+      "representativeIndex": 50,
       "memberIndices": [
-        48
+        50
       ],
-      "score": 19.4,
+      "score": 19.375,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
     },
     {
-      "representativeIndex": 53,
+      "representativeIndex": 51,
       "memberIndices": [
-        53
+        51
       ],
-      "score": 19.3375,
+      "score": 19.3625,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -936,6 +1029,16 @@
         54
       ],
       "score": 19.325,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 55,
+      "memberIndices": [
+        55
+      ],
+      "score": 19.3125,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -961,31 +1064,31 @@
       "repaired": true
     },
     {
-      "representativeIndex": 58,
-      "memberIndices": [
-        58
-      ],
-      "score": 19.275,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 59,
-      "memberIndices": [
-        59
-      ],
-      "score": 19.2625,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
       "representativeIndex": 60,
       "memberIndices": [
         60
       ],
       "score": 19.25,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 61,
+      "memberIndices": [
+        61
+      ],
+      "score": 19.2375,
+      "category": "world",
+      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
+      "repaired": true
+    },
+    {
+      "representativeIndex": 62,
+      "memberIndices": [
+        62
+      ],
+      "score": 19.225,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -1011,51 +1114,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 65,
-      "memberIndices": [
-        65
-      ],
-      "score": 19.1875,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 67,
-      "memberIndices": [
-        67
-      ],
-      "score": 19.1625,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 68,
-      "memberIndices": [
-        68
-      ],
-      "score": 19.15,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
       "representativeIndex": 69,
       "memberIndices": [
         69
       ],
       "score": 19.1375,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
-    },
-    {
-      "representativeIndex": 71,
-      "memberIndices": [
-        71
-      ],
-      "score": 19.1125,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -1071,11 +1134,11 @@
       "repaired": true
     },
     {
-      "representativeIndex": 75,
+      "representativeIndex": 77,
       "memberIndices": [
-        75
+        77
       ],
-      "score": 19.0625,
+      "score": 19.0375,
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
@@ -1089,16 +1152,6 @@
       "category": "world",
       "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
       "repaired": true
-    },
-    {
-      "representativeIndex": 79,
-      "memberIndices": [
-        79
-      ],
-      "score": 19.0125,
-      "category": "world",
-      "rationale": "Model omitted this catalog item; retained as a low-priority singleton.",
-      "repaired": true
     }
   ],
   "calls": [
@@ -1108,14 +1161,14 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 34798,
+      "latencyMs": 25954,
       "usage": {
-        "inputTokens": 7540,
-        "outputTokens": 869,
-        "totalTokens": 8409
+        "inputTokens": 6976,
+        "outputTokens": 1656,
+        "totalTokens": 8632
       },
-      "estimatedCostUsd": 0.0016524,
-      "returnedCount": 20,
+      "estimatedCostUsd": 0.0020399999999999997,
+      "returnedCount": 39,
       "acceptedCount": 30
     },
     {
@@ -1124,13 +1177,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 16906,
+      "latencyMs": 17964,
       "usage": {
-        "inputTokens": 1238,
-        "outputTokens": 1255,
-        "totalTokens": 2493
+        "inputTokens": 992,
+        "outputTokens": 1114,
+        "totalTokens": 2106
       },
-      "estimatedCostUsd": 0.0009387,
+      "estimatedCostUsd": 0.0008171999999999999,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1140,13 +1193,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 14316,
+      "latencyMs": 18742,
       "usage": {
-        "inputTokens": 1260,
-        "outputTokens": 1071,
-        "totalTokens": 2331
+        "inputTokens": 980,
+        "outputTokens": 1124,
+        "totalTokens": 2104
       },
-      "estimatedCostUsd": 0.0008316,
+      "estimatedCostUsd": 0.0008214,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1156,13 +1209,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 17173,
+      "latencyMs": 19918,
       "usage": {
-        "inputTokens": 1055,
-        "outputTokens": 1100,
-        "totalTokens": 2155
+        "inputTokens": 1087,
+        "outputTokens": 1293,
+        "totalTokens": 2380
       },
-      "estimatedCostUsd": 0.00081825,
+      "estimatedCostUsd": 0.0009388499999999999,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1172,13 +1225,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 36833,
+      "latencyMs": 43042,
       "usage": {
-        "inputTokens": 2051,
-        "outputTokens": 2815,
-        "totalTokens": 4866
+        "inputTokens": 1662,
+        "outputTokens": 2639,
+        "totalTokens": 4301
       },
-      "estimatedCostUsd": 0.00199665,
+      "estimatedCostUsd": 0.0018326999999999998,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1188,13 +1241,13 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 37186,
+      "latencyMs": 48765,
       "usage": {
-        "inputTokens": 1835,
-        "outputTokens": 2986,
-        "totalTokens": 4821
+        "inputTokens": 1600,
+        "outputTokens": 2844,
+        "totalTokens": 4444
       },
-      "estimatedCostUsd": 0.00206685,
+      "estimatedCostUsd": 0.0019463999999999998,
       "returnedCount": 10,
       "acceptedCount": 10
     },
@@ -1204,25 +1257,25 @@
       "ok": true,
       "model": "gpt-4o-mini-2024-07-18",
       "finishReason": "stop",
-      "latencyMs": 33209,
+      "latencyMs": 40443,
       "usage": {
-        "inputTokens": 1662,
-        "outputTokens": 2586,
-        "totalTokens": 4248
+        "inputTokens": 1907,
+        "outputTokens": 2816,
+        "totalTokens": 4723
       },
-      "estimatedCostUsd": 0.0018008999999999998,
+      "estimatedCostUsd": 0.00197565,
       "returnedCount": 10,
       "acceptedCount": 10
     }
   ],
-  "generatedAt": "2026-11-26T18:05:04.270Z",
+  "generatedAt": "2026-11-27T06:05:27.982Z",
   "cost": {
     "currency": "USD",
-    "estimatedTotalUsd": 0.010105349999999999,
+    "estimatedTotalUsd": 0.010372199999999998,
     "complete": true,
-    "inputTokens": 16641,
-    "outputTokens": 12682,
-    "totalTokens": 29323,
+    "inputTokens": 15204,
+    "outputTokens": 13486,
+    "totalTokens": 28690,
     "inputUsdPerMillion": 0.15,
     "outputUsdPerMillion": 0.6
   },
@@ -1231,154 +1284,154 @@
       "storyCount": 30,
       "stories": [
         {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Two dead after Iranian drone attack on Kuwait"
-        },
-        {
-          "link": "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three",
-          "source": "Euronews",
-          "title_en": "Russia launches ballistic missile and drone barrage on Ukraine, killing at least three"
-        },
-        {
-          "link": "https://www.euronews.com/2026/11/26/argentina-enters-technical-recession-despite-mileis-economic-reforms",
-          "source": "Euronews",
-          "title_en": "Argentina enters technical recession despite Milei's economic reforms"
-        },
-        {
-          "link": "https://www.euronews.com/2026/11/26/nato-deploys-awacs-airborne-radar-to-monitor-polish-airspace",
-          "source": "Euronews",
-          "title_en": "NATO deploys AWACS airborne radar to monitor Polish airspace"
-        },
-        {
-          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
-          "source": "The Guardian",
-          "title_en": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear"
-        },
-        {
-          "link": "https://www.dw.com/en/germany-ig-metall-union-says-deal-reached-with-employers/a-80066792?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "title_en": "Germany: IG Metall union says deal reached with employers"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/2026/nov/26/georgia-election-ballots-seized",
-          "source": "The Guardian",
-          "title_en": "Georgia judge blocks own order to turn over US election ballot copies to state board"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather",
-          "source": "The Guardian",
-          "title_en": "Storms across US disrupt travel and force Thanksgiving parade cancellations"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security"
-        },
-        {
-          "link": "https://www.dw.com/en/is-authoritarian-vietnam-ready-to-phase-out-the-death-penalty/a-80064271?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "title_en": "Is authoritarian Vietnam ready to phase out the death penalty?"
-        },
-        {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
-          "source": "Al Jazeera",
-          "title_en": "Syrian children continue learning amid the ruins of war in Idlib"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
-          "source": "New York Times",
-          "title_en": "The N.F.L. Player Who Left Football for Math"
-        },
-        {
-          "link": "https://www.theguardian.com/australia-news/2026/nov/27/one-nation-pauline-hanson-gina-rinehart-aec-donations-ntwnfb",
-          "source": "The Guardian",
-          "title_en": "Donations to One Nation from two Gina Rinehart associates to be probed by electoral authorities"
-        },
-        {
-          "link": "https://www.dw.com/en/freigang-banned-germany-star-to-miss-2027-world-cup/a-80063930?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "title_en": "Freigang banned — Germany star to miss 2027 World Cup"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/2026/nov/26/iowa-chemical-lead-bomb-detonation-toxic-dust-fears",
-          "source": "The Guardian",
-          "title_en": "US army calls detonation of bomb chemicals in Iowa a success after fears of toxic plume"
-        },
-        {
-          "link": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html",
-          "source": "New York Times",
-          "title_en": "European Central Bank Chooses Pablo Hernández de Cos as Next President"
-        },
-        {
-          "link": "https://www.theguardian.com/uk-news/2026/nov/26/anthony-williams-guilty-attempted-murder-lner-train",
-          "source": "The Guardian",
-          "title_en": "Man found guilty of attempted murder of 14 people including 10 on LNER train"
-        },
-        {
-          "link": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-          "source": "The Guardian",
-          "title_en": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal"
-        },
-        {
-          "link": "https://www.dw.com/en/on-his-last-africa-trip-steinmeier-urges-german-firms-to-invest-and-take-risks-as-china-pushes-ahead/a-80067717?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "title_en": "On his last Africa trip, Steinmeier urges German firms to invest and take risks as China pushes ahead"
-        },
-        {
-          "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "title_en": "When will Poundland shops close? Five key questions answered"
+          "title_en": "Major Thanksgiving storm brings flooding, flight delays across US"
         },
         {
-          "link": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "French actor Gerard Depardieu to stand trial for alleged 2018 rape"
+          "title_en": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’"
         },
         {
-          "link": "https://www.theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
           "source": "The Guardian",
-          "title_en": "Public service broadcaster services should be top of TV app menus – Ofcom"
+          "title_en": "Erin Patterson launches high court appeal bid over mushroom murder convictions"
         },
         {
-          "link": "https://www.theguardian.com/politics/2026/nov/26/uk-bill-to-implement-eu-deal-closer-future-ties",
-          "source": "The Guardian",
-          "title_en": "UK bill to implement EU deal will allow ministers to enact closer ties in future"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "New Zealand’s Opportunity Party poised to become election kingmaker"
         },
         {
-          "link": "https://www.euronews.com/video/2026/11/26/latest-news-bulletin-november-26th-2026-evening",
-          "source": "Euronews",
-          "title_en": "Latest news bulletin | November 26th, 2026 – Evening"
+          "link": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "At least 13 Niger soldiers killed in Sanam armed attack"
         },
         {
-          "link": "https://www.nytimes.com/2026/11/26/science/andrew-ramage-dead.html",
+          "link": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
           "source": "New York Times",
-          "title_en": "Andrew Ramage Has Died. He Found Receipts for the ‘World’s First Millionaire.’"
+          "title_en": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses"
         },
         {
-          "link": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
+          "link": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "How a teen’s death raises questions about Colombia’s security crackdown"
+          "title_en": "Asian stock markets rise after earlier tech rout"
         },
         {
-          "link": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Spanish economist to become new European Central Bank chief"
+          "title_en": "Argentina bars Central Bank from printing money to fund government spending"
         },
         {
-          "link": "https://www.bbc.co.uk/news/videos/c6n4e3yypylxo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC",
-          "title_en": "Fireball steals the show during Thanksgiving drone display in Indiana"
+          "title_en": "Two Italians killed in strike in Kuwait, as Iran denies responsibility"
         },
         {
-          "link": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
-          "source": "The Block",
-          "title_en": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Bangladesh garment workers clash with police over low wages"
         },
         {
-          "link": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
+          "link": "https://www.euronews.com/2026/11/27/new-zealand-election-newcomer-centrist-party-holds-the-key-as-luxon-scrambles-for-a-majori",
+          "source": "Euronews",
+          "title_en": "New Zealand election: newcomer centrist party to decide as Luxon scrambles for a majority"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/27/world/asia/a-japanese-volleyball-player-breaks-a-taboo.html",
+          "source": "New York Times",
+          "title_en": "A Japanese Volleyball Player Breaks a Taboo"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
           "source": "The Guardian",
-          "title_en": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs"
+          "title_en": "Threat from China looms large over Taiwan’s local elections"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one"
+        },
+        {
+          "link": "https://www.dw.com/en/albania-s-youth-are-protesting-in-flamingo-revolution-not-leaving-the-country-anymore/a-80068939?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "title_en": "Albania's youth are protesting in Flamingo Revolution, not leaving the country anymore"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html",
+          "source": "New York Times",
+          "title_en": "Can Roof Tiles Reduce Indoor Heat? India Is Finding Out."
+        },
+        {
+          "link": "https://www.theguardian.com/business/2026/nov/27/water-firms-to-identify-250000-vulnerable-households-in-england-eligible-for-discounts",
+          "source": "The Guardian",
+          "title_en": "Water firms to identify 250,000 vulnerable households in England eligible for discounts"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html",
+          "source": "New York Times",
+          "title_en": "The Threat to a Sanctuary for Children of North Korean Defectors"
+        },
+        {
+          "link": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/videos/cq9vwdjp7kw3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Watch: Truck hangs in the balance after losing control in wet conditions"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Why is there a shortage of 'wizard' elevator mechanics?"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+          "source": "The Guardian",
+          "title_en": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/26/world/ai-typewriter-russia-brazil-mirumi.html",
+          "source": "New York Times",
+          "title_en": "In Praise of My Typewriter"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "America’s Thanksgiving holiday seen through different eyes"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html",
+          "source": "New York Times",
+          "title_en": "Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous."
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Indian politician facing murder charges hosts 400,000-guest wedding"
+        },
+        {
+          "link": "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb",
+          "source": "The Guardian",
+          "title_en": "Alan Jones defence opens and closes in space of a few hours as indecent assault trial draws to a close"
+        },
+        {
+          "link": "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe",
+          "source": "The Guardian",
+          "title_en": "Race hate exploded in this Spanish town last year. Now its residents are bracing for more"
         }
       ]
     },
@@ -1386,59 +1439,59 @@
       "storyCount": 10,
       "stories": [
         {
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Major Thanksgiving storm brings flooding, flight delays across US"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Two dead after Iranian drone attack on Kuwait"
+          "title_en": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’"
         },
         {
-          "link": "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three",
-          "source": "Euronews",
-          "title_en": "Russia launches ballistic missile and drone barrage on Ukraine, killing at least three"
-        },
-        {
-          "link": "https://www.euronews.com/2026/11/26/argentina-enters-technical-recession-despite-mileis-economic-reforms",
-          "source": "Euronews",
-          "title_en": "Argentina enters technical recession despite Milei's economic reforms"
-        },
-        {
-          "link": "https://www.euronews.com/2026/11/26/nato-deploys-awacs-airborne-radar-to-monitor-polish-airspace",
-          "source": "Euronews",
-          "title_en": "NATO deploys AWACS airborne radar to monitor Polish airspace"
-        },
-        {
-          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
           "source": "The Guardian",
-          "title_en": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear"
+          "title_en": "Erin Patterson launches high court appeal bid over mushroom murder convictions"
         },
         {
-          "link": "https://www.dw.com/en/germany-ig-metall-union-says-deal-reached-with-employers/a-80066792?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "title_en": "Germany: IG Metall union says deal reached with employers"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/2026/nov/26/georgia-election-ballots-seized",
-          "source": "The Guardian",
-          "title_en": "Georgia judge blocks own order to turn over US election ballot copies to state board"
-        },
-        {
-          "link": "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather",
-          "source": "The Guardian",
-          "title_en": "Storms across US disrupt travel and force Thanksgiving parade cancellations"
-        },
-        {
-          "link": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss",
           "source": "Al Jazeera",
-          "title_en": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security"
+          "title_en": "New Zealand’s Opportunity Party poised to become election kingmaker"
         },
         {
-          "link": "https://www.dw.com/en/is-authoritarian-vietnam-ready-to-phase-out-the-death-penalty/a-80064271?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "title_en": "Is authoritarian Vietnam ready to phase out the death penalty?"
+          "link": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "At least 13 Niger soldiers killed in Sanam armed attack"
+        },
+        {
+          "link": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
+          "source": "New York Times",
+          "title_en": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses"
+        },
+        {
+          "link": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Asian stock markets rise after earlier tech rout"
+        },
+        {
+          "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Argentina bars Central Bank from printing money to fund government spending"
+        },
+        {
+          "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC",
+          "title_en": "Two Italians killed in strike in Kuwait, as Iran denies responsibility"
+        },
+        {
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
+          "source": "Al Jazeera",
+          "title_en": "Bangladesh garment workers clash with police over low wages"
         }
       ],
       "contentHashes": {
-        "ru": "b37c942801915deb01ed5b80382404817bc4199839fca491fcf31ae86e9a99a8",
-        "en": "1cb24fa1c2669cc36503f55d6cfeeb9e71bab4a133d73b6b7e72c340942cc6ef"
+        "ru": "28b256e1a077ce1cc6341c6f183d72e0243b7c555793dcf44c814cc9ae62302d",
+        "en": "ff711916ca80f43c021938a2bd4259ba89e3376e6106196212a5573f44ef1224"
       }
     }
   }
